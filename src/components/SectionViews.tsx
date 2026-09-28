@@ -1,19 +1,18 @@
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import {
+  chartRegions,
   getBiggestProfiles,
-  getEvents,
   getFameChart,
-  getCharts,
   getLiveStreams,
   getPeople,
   getReleasesOfWeek,
-  getTopSongsChart,
+  getSongCharts,
   getTrendingPeople,
   getTrendSignals,
   getViralSounds,
 } from '@/lib/data';
-import type { Chart, EntertainmentEvent, Person } from '@/lib/data/types';
+import type { Chart, Person } from '@/lib/data/types';
 import { compactNumber, cssVars, growth } from '@/lib/format';
 import { getDictionary, localeMeta, personPath, type Locale, type SectionKey } from '@/lib/i18n';
 import { ChartRow, LiveCard, PersonCard, platformName, ReleaseCard, TrendSignalCard } from './cards';
@@ -77,7 +76,72 @@ function periodLabel(chart: Chart, locale: Locale) {
   const end = chart.periodEnd
     ? new Intl.DateTimeFormat(localeMeta[locale].htmlLang, { day: 'numeric', month: 'short', timeZone: 'UTC' }).format(new Date(`${chart.periodEnd}T12:00:00Z`))
     : '';
-  return `${d.pages.charts.weekTo.replace('{d}', end)} · ${d.common.source}: ${chart.provenance.provider}`;
+  const when = (chart.kind === 'daily' ? d.pages.charts.dayOf : d.pages.charts.weekTo).replace('{d}', end);
+  return `${when} · ${d.common.source}: ${chart.provenance.provider}`;
+}
+
+const platformLabel = { spotify: 'Spotify', apple: 'Apple Music' } as const;
+
+/**
+ * Seletor de charts Spotify/Apple Music × país — só HTML + CSS (radios + :has), sem JavaScript.
+ * Regra do site: abre sempre no GLOBAL do Spotify.
+ */
+export async function ChartSwitcher({ locale, limit = 10, uid }: { locale: Locale; limit?: number; uid: string }) {
+  const d = getDictionary(locale);
+  const c = d.pages.charts;
+  const charts = await getSongCharts();
+  if (!charts.length) return null;
+  const platforms = (['spotify', 'apple'] as const).filter((p) => charts.some((ch) => ch.platform === p));
+  const regions = chartRegions.filter((r) => charts.some((ch) => ch.region === r));
+  const regionNames = new Intl.DisplayNames([localeMeta[locale].htmlLang], { type: 'region' });
+  const regionLabel = (r: string) => (r === 'GLOBAL' ? c.global : regionNames.of(r) ?? r);
+  const root = `.cs-${uid}`;
+  const pid = (p: string) => `${uid}-p-${p}`;
+  const rid = (r: string) => `${uid}-r-${r}`;
+  const css = [
+    `${root} .cs-panel{display:none}`,
+    ...platforms.flatMap((p) =>
+      regions.map((r) => `${root}:has(#${pid(p)}:checked):has(#${rid(r)}:checked) .cs-panel[data-k="${p}-${r}"]{display:block}`),
+    ),
+    ...[...platforms.map(pid), ...regions.map(rid)].flatMap((id) => [
+      `${root}:has(#${id}:checked) label[for="${id}"]{background:var(--fame-gradient);border-color:transparent;color:#fff}`,
+      `${root}:has(#${id}:focus-visible) label[for="${id}"]{outline:2px solid var(--color-fame);outline-offset:2px}`,
+    ]),
+  ].join('\n');
+  const pill = 'cursor-pointer select-none whitespace-nowrap rounded-full border border-line px-3.5 py-1.5 text-[11px] font-extrabold uppercase tracking-[0.08em] text-fg/80 transition hover:border-fame';
+  return (
+    <div className={`cs-${uid} space-y-3`}>
+      <style>{css}</style>
+      {platforms.map((p, i) => (
+        <input key={p} type="radio" name={`${uid}-p`} id={pid(p)} defaultChecked={i === 0} className="sr-only" />
+      ))}
+      {regions.map((r, i) => (
+        <input key={r} type="radio" name={`${uid}-r`} id={rid(r)} defaultChecked={i === 0} className="sr-only" />
+      ))}
+      <div className="flex flex-wrap items-center gap-2" role="group" aria-label={c.platform}>
+        {platforms.map((p) => (
+          <label key={p} htmlFor={pid(p)} className={pill}>
+            {platformLabel[p]}
+          </label>
+        ))}
+      </div>
+      <div className="flex gap-2 overflow-x-auto pb-1 no-scrollbar" role="group" aria-label={c.country}>
+        {regions.map((r) => (
+          <label key={r} htmlFor={rid(r)} className={pill}>
+            {regionLabel(r)}
+          </label>
+        ))}
+      </div>
+      {charts.map((ch) => (
+        <div key={ch.id} className="cs-panel" data-k={`${ch.platform}-${ch.region}`}>
+          <p className="mb-2 text-xs font-bold uppercase tracking-[0.12em] text-muted">
+            {platformLabel[ch.platform!]} · {regionLabel(ch.region)}
+          </p>
+          <ChartPanel chart={{ ...ch, entries: ch.entries.slice(0, limit) }} locale={locale} />
+        </div>
+      ))}
+    </div>
+  );
 }
 
 export function ChartPanel({ chart, locale }: { chart: Chart; locale: Locale }) {
@@ -100,19 +164,15 @@ export function ChartPanel({ chart, locale }: { chart: Chart; locale: Locale }) 
 async function ChartsView({ locale }: { locale: Locale }) {
   const d = getDictionary(locale);
   const c = d.pages.charts;
-  const [charts, fame, biggest] = await Promise.all([getCharts(), getFameChart(10), getBiggestProfiles(10)]);
-  const accents = ['var(--color-charts)', 'var(--color-fame)', 'var(--color-streamers)'];
+  const [fame, biggest] = await Promise.all([getFameChart(10), getBiggestProfiles(10)]);
   return (
     <div className="space-y-12">
       <p className="max-w-xl text-lg text-fg/80">{c.intro}</p>
-      <JumpNav locale={locale} items={charts.map((ch) => ({ id: ch.id, label: ch.title[locale] }))} />
       <div className="grid gap-12 lg:grid-cols-2">
-        {charts.map((ch, i) => (
-          <Block key={ch.id} id={ch.id}>
-            <SectionHeader id={`${ch.id}-h`} title={ch.title[locale]} subtitle={c.weekly} accent={accents[i % accents.length]!} />
-            <ChartPanel chart={ch} locale={locale} />
-          </Block>
-        ))}
+        <Block id="songs">
+          <SectionHeader id="songs-h" title={d.home.charts} subtitle={c.songsSub} accent="var(--color-charts)" />
+          <ChartSwitcher locale={locale} limit={20} uid="cp" />
+        </Block>
         {fame.length > 0 && (
           <Block id="fame">
             <SectionHeader id="fame-h" title={c.fame} subtitle={c.fameSub} accent="var(--color-fame)" />
@@ -143,7 +203,7 @@ async function ChartsView({ locale }: { locale: Locale }) {
 async function MusicView({ locale }: { locale: Locale }) {
   const d = getDictionary(locale);
   const m = d.pages.music;
-  const [releases, songs, trending, everyone] = await Promise.all([getReleasesOfWeek(), getTopSongsChart(), getTrendingPeople(30), getPeople()]);
+  const [releases, trending, everyone] = await Promise.all([getReleasesOfWeek(), getTrendingPeople(30), getPeople()]);
   const singers = [...trending, ...everyone].filter((p, i, arr) => p.kinds.includes('singer') && arr.findIndex((x) => x.id === p.id) === i).slice(0, 12);
   return (
     <div className="space-y-14">
@@ -157,8 +217,8 @@ async function MusicView({ locale }: { locale: Locale }) {
       </Block>
       <div className="grid gap-12 lg:grid-cols-[1fr_1.2fr]">
         <Block id="top">
-          <SectionHeader id="top-h" title={`${m.topSongs} · ${songs.title[locale]}`} accent="var(--color-charts)" />
-          <ChartPanel chart={songs} locale={locale} />
+          <SectionHeader id="top-h" title={m.topSongs} accent="var(--color-charts)" />
+          <ChartSwitcher locale={locale} limit={10} uid="mu" />
         </Block>
         <Block id="artists">
           <SectionHeader id="artists-h" title={m.artists} accent="var(--color-fame)" />
@@ -269,80 +329,10 @@ async function StreamersView({ locale }: { locale: Locale }) {
   );
 }
 
-/* ─── Eventos / agenda ────────────────────────────────────── */
-
-function EventRow({ event, locale }: { event: EntertainmentEvent; locale: Locale }) {
-  const d = getDictionary(locale);
-  const lang = localeMeta[locale].htmlLang;
-  const date = new Date(event.startsAt);
-  const t = event.t[locale];
-  return (
-    <li className="flex gap-4 rounded-3xl border border-line bg-surface p-4">
-      <div className="grid w-16 shrink-0 place-items-center rounded-2xl py-2 text-center" style={cssVars({ background: `hsl(${event.hue} 80% 50% / 0.18)` })}>
-        <span className="text-[11px] font-extrabold uppercase tracking-wider text-fg/70">
-          {new Intl.DateTimeFormat(lang, { weekday: 'short' }).format(date)}
-        </span>
-        <span className="font-display text-3xl font-black italic leading-none">{date.getDate()}</span>
-        <span className="text-[11px] font-bold uppercase text-fg/70">{new Intl.DateTimeFormat(lang, { month: 'short' }).format(date)}</span>
-      </div>
-      <div className="min-w-0 flex-1">
-        <span className="pill bg-white/10 text-fg/80">{d.pages.events.kinds[event.kind]}</span>
-        <p className="mt-1.5 font-display text-lg font-black uppercase italic leading-tight tracking-tight">{t.title}</p>
-        <p className="text-sm text-muted">{t.place}</p>
-        {event.sourceUrl && (
-          <a href={event.sourceUrl} target="_blank" rel="noopener noreferrer" className="text-[11px] text-muted underline-offset-2 hover:underline">
-            {d.common.source} ↗
-          </a>
-        )}
-      </div>
-    </li>
-  );
-}
-
-async function EventsView({ locale }: { locale: Locale }) {
-  const d = getDictionary(locale);
-  const e = d.pages.events;
-  const all = await getEvents({ toDays: 120 });
-  const dayMs = 86_400_000;
-  const now = Date.now();
-  const endOfToday = new Date();
-  endOfToday.setHours(23, 59, 59, 999);
-  const groups = [
-    { id: 'today', label: e.today, items: all.filter((x) => new Date(x.startsAt) <= endOfToday) },
-    { id: 'week', label: e.week, items: all.filter((x) => new Date(x.startsAt) > endOfToday && new Date(x.startsAt).getTime() <= now + 7 * dayMs) },
-    { id: 'month', label: e.month, items: all.filter((x) => new Date(x.startsAt).getTime() > now + 7 * dayMs) },
-  ];
-  return (
-    <div className="space-y-12">
-      <p className="max-w-xl text-lg text-fg/80">{e.intro}</p>
-      <JumpNav locale={locale} items={groups.map((g) => ({ id: g.id, label: g.label }))} />
-      <div className="grid gap-12 lg:grid-cols-3">
-        {groups.map((g) => (
-          <Block key={g.id} id={g.id}>
-            <SectionHeader id={`${g.id}-h`} title={g.label} accent="var(--color-events)" />
-            {g.items.length ? (
-              <ul className="grid gap-3">
-                {g.items.map((ev) => (
-                  <EventRow key={ev.id} event={ev} locale={locale} />
-                ))}
-              </ul>
-            ) : (
-              <p className="flex items-center gap-2 text-sm text-muted">
-                <Sparkle className="h-3 w-3 fill-muted" /> {e.nothing}
-              </p>
-            )}
-          </Block>
-        ))}
-      </div>
-    </div>
-  );
-}
-
 /** Verticais com página própria. As demais usam o feed padrão de matérias. */
 export const sectionViews: Partial<Record<SectionKey, (p: { locale: Locale }) => Promise<ReactNode>>> = {
   charts: ChartsView,
   music: MusicView,
   creators: CreatorsView,
   streamers: StreamersView,
-  events: EventsView,
 };

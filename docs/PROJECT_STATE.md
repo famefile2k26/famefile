@@ -22,6 +22,14 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 - Variáveis já configuradas: BRAND_NAME, SITE_URL, SUPABASE_URL, SUPABASE_ANON_KEY (publishable), ADMIN_SECRET. Faltam (dono cola na Vercel): SUPABASE_SERVICE_ROLE_KEY, ADMIN_PASSWORD.
 - Proteção de deploy só nos previews; produção é pública.
 
+## Atualização 28/09 (noite)
+- Abas Estilo e Eventos removidas; shows ficam na aba "Shows" de cada perfil.
+- Perfis com abas (Visão geral · Premiações · Shows · Notícias). Prêmios em `lib/data/awards.ts` (Wikipedia/grammy.com + resultados do VMA 2026).
+- Cobertura VMA 2026: `lib/data/content-vma.ts` (13 matérias com fontes).
+- Charts: `lib/data/charts-live.ts` — Spotify (semanal) e Apple Music (diário), Global/Brasil/EUA. Padrão sempre Global; seletor de plataforma e país (CSS, sem JS).
+- Store: conteúdo do código é a base; o Supabase sobrepõe o que o admin publica (mesmo id) e esconde o que foi despublicado.
+- Home: hero só com o celular (feed estilo TikTok com matérias reais) e plateia erguendo iPhones com flashes. Sem slogan, sem chips. Estrela do A centralizada na barra.
+
 ## Decisões importantes
 - i18n caseiro em vez de next-intl: ~100 linhas, zero dependência, controle total dos slugs localizados. Reavaliar se precisarmos de plurais/ICU.
 - Hero v2: celular rolando um feed vertical (5 cenas desenhadas em CSS: show, tapete vermelho, creator, live, chart) + fotógrafos em silhueta com flashes ao fundo. CSS puro; `HeroMotion` só pausa fora da tela. Logo aparece em ~1,2s (LCP); flashes ~1,2/s (WCAG 2.3.1); reduced-motion = estático sem flashes.

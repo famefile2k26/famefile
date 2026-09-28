@@ -9,8 +9,6 @@ export const sectionKeys = [
   'creators',
   'streamers',
   'movies-tv',
-  'events',
-  'style',
 ] as const;
 export type SectionKey = (typeof sectionKeys)[number];
 
@@ -23,8 +21,6 @@ export const sectionSlugs: Record<SectionKey, Record<Locale, string>> = {
   creators: { pt: 'creators', en: 'creators', es: 'creators' },
   streamers: { pt: 'streamers', en: 'streamers', es: 'streamers' },
   'movies-tv': { pt: 'filmes-e-series', en: 'movies-tv', es: 'cine-y-series' },
-  events: { pt: 'eventos', en: 'events', es: 'eventos' },
-  style: { pt: 'estilo', en: 'style', es: 'estilo' },
 };
 
 /** Cor de acento de cada vertical (tokens em globals.css). */
@@ -36,8 +32,6 @@ export const sectionAccent: Record<SectionKey, string> = {
   creators: 'var(--color-creators)',
   streamers: 'var(--color-streamers)',
   'movies-tv': 'var(--color-movies)',
-  events: 'var(--color-events)',
-  style: 'var(--color-style)',
 };
 
 export function sectionFromSlug(locale: Locale, slug: string): SectionKey | undefined {

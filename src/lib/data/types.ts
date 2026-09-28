@@ -57,7 +57,31 @@ export interface Person {
   hue: number; // placeholder visual quando não há foto
   image?: ImageRef;
   socials: Partial<Record<Platform, { handle: string; followers?: number }>>;
+  /** Prêmios e indicações (com fontes). */
+  awards?: Awards;
   t: Localized<{ role: string; bio: string; now?: string; highlights?: string[] }>;
+}
+
+/* ─── Premiações ───────────────────────────────────────────── */
+
+export interface AwardTotal {
+  award: string;
+  wins: number | null;
+  nominations: number | null;
+}
+
+export interface AwardItem {
+  award: string;
+  year: number | null;
+  category: string;
+  work?: string | null;
+  result: 'won' | 'nominated';
+}
+
+export interface Awards {
+  totals: AwardTotal[];
+  items: AwardItem[];
+  sources: string[];
 }
 
 export interface ArticleTranslation {
@@ -110,6 +134,8 @@ export interface ChartEntry {
 
 export interface Chart {
   id: string;
+  platform?: 'spotify' | 'apple';
+  kind?: 'weekly' | 'daily';
   title: Localized<string>;
   region: string;
   periodEnd?: string;

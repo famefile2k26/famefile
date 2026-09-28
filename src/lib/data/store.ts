@@ -1,11 +1,17 @@
 /**
  * Fonte de dados do site.
- * - Supabase configurado → lê a tabela `content` (só publicados, cache de 60s + tag "content").
- * - Sem Supabase (dev/preview) → usa o conteúdo local versionado (content.ts + perfis).
+ *
+ * Base = conteúdo versionado no código (matérias, perfis, charts, agenda).
+ * Supabase = camada por cima: o que o admin (ou o robô) publica substitui o item de mesmo id;
+ * itens despublicados no admin (rascunho/revisão/rejeitado) somem do site mesmo que existam no código.
+ * Assim, conteúdo novo que chega pelo código aparece no ar sem precisar reimportar o banco.
  */
 import { sbSelect, supabaseEnabled, supabaseWritable } from '@/lib/supabase';
+import { awardsBySlug } from './awards';
+import { liveCharts } from './charts-live';
 import * as local from './content';
 import { archive } from './content-archive';
+import { vmaArticles } from './content-vma';
 import { realPeople } from './people';
 import { morePeople } from './people-more';
 import type { Article, Chart, EntertainmentEvent, Person, Release } from './types';
@@ -21,12 +27,16 @@ export interface Store {
   releases: Release[];
 }
 
+const byNewest = (a: Article, b: Article) => b.publishedAt.localeCompare(a.publishedAt);
+const withAwards = (p: Person): Person => (p.awards || !awardsBySlug[p.slug] ? p : { ...p, awards: awardsBySlug[p.slug] });
+
 export function localStore(): Store {
   return {
-    articles: [...local.articles, ...archive].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)),
-    people: [...realPeople, ...morePeople],
+    articles: [...vmaArticles, ...local.articles, ...archive].sort(byNewest),
+    people: [...realPeople, ...morePeople].map(withAwards),
     events: local.events,
-    charts: local.charts,
+    // Charts vêm sempre do código/robô (não são editados no admin).
+    charts: liveCharts,
     releases: local.releases,
   };
 }
@@ -39,25 +49,35 @@ interface Row {
   updated_at?: string;
 }
 
-function fromRows(rows: Row[]): Store {
-  const pick = <T,>(k: ContentKind) => rows.filter((r) => r.kind === k).map((r) => r.data as T);
-  return {
-    articles: pick<Article>('article'),
-    people: pick<Person>('person'),
-    events: pick<EntertainmentEvent>('event'),
-    charts: pick<Chart>('chart'),
-    releases: pick<Release>('release'),
-  };
+/** Publicados do banco substituem os locais de mesmo id; ids ocultos no admin saem do site. */
+function merge<T extends { id: string }>(localItems: T[], published: T[], hidden: Set<string>): T[] {
+  const pub = new Set(published.map((p) => p.id));
+  return [...published, ...localItems.filter((l) => !pub.has(l.id) && !hidden.has(l.id))];
 }
 
 export async function getStore(): Promise<Store> {
-  if (!supabaseEnabled()) return localStore();
+  const base = localStore();
+  if (!supabaseEnabled()) return base;
   try {
-    const rows = await sbSelect<Row>('content?select=kind,id,status,data&status=eq.published');
-    return rows.length ? fromRows(rows) : localStore();
+    const [rows, statuses] = await Promise.all([
+      sbSelect<Row>('content?select=kind,id,status,data&status=eq.published'),
+      // Com a chave de serviço dá para saber o que foi despublicado (a chave pública só enxerga publicados).
+      supabaseWritable()
+        ? sbSelect<Pick<Row, 'kind' | 'id' | 'status'>>('content?select=kind,id,status&status=neq.published', { admin: true, revalidate: 60 })
+        : Promise.resolve([]),
+    ]);
+    const hidden = (k: ContentKind) => new Set(statuses.filter((r) => r.kind === k).map((r) => r.id));
+    const pick = <T,>(k: ContentKind) => rows.filter((r) => r.kind === k).map((r) => r.data as T);
+    return {
+      articles: merge(base.articles, pick<Article>('article'), hidden('article')).sort(byNewest),
+      people: merge(base.people, pick<Person>('person'), hidden('person')).map(withAwards),
+      events: merge(base.events, pick<EntertainmentEvent>('event'), hidden('event')),
+      charts: base.charts,
+      releases: merge(base.releases, pick<Release>('release'), hidden('release')),
+    };
   } catch (err) {
     console.error('[store] Supabase indisponível, usando conteúdo local:', err);
-    return localStore();
+    return base;
   }
 }
 
@@ -77,19 +97,25 @@ export interface AdminStore {
 }
 
 export async function getAdminStore(): Promise<AdminStore> {
+  const s = localStore();
+  const wrap = <T extends { id: string }>(items: T[]): AdminItem<T>[] => items.map((d) => ({ id: d.id, status: 'published' as const, data: d }));
+  let rows: Row[] = [];
   if (supabaseWritable()) {
     try {
-      const rows = await sbSelect<Row>('content?select=kind,id,status,data,updated_at&kind=in.(article,person,event)', { admin: true });
-      if (rows.length) {
-        const pick = <T,>(k: ContentKind) =>
-          rows.filter((r) => r.kind === k).map((r) => ({ id: r.id, status: r.status, updatedAt: r.updated_at, data: r.data as T }));
-        return { writable: true, articles: pick<Article>('article'), people: pick<Person>('person'), events: pick<EntertainmentEvent>('event') };
-      }
+      rows = await sbSelect<Row>('content?select=kind,id,status,data,updated_at&kind=in.(article,person,event)', { admin: true });
     } catch (err) {
       console.error('[admin] erro lendo Supabase:', err);
     }
   }
-  const s = localStore();
-  const wrap = <T extends { id: string }>(items: T[]) => items.map((d) => ({ id: d.id, status: 'published' as const, data: d }));
-  return { writable: supabaseWritable(), articles: wrap(s.articles), people: wrap(s.people), events: wrap(s.events) };
+  const combine = <T extends { id: string }>(k: ContentKind, localItems: T[]): AdminItem<T>[] => {
+    const db = rows.filter((r) => r.kind === k).map((r) => ({ id: r.id, status: r.status, updatedAt: r.updated_at, data: r.data as T }));
+    const ids = new Set(db.map((r) => r.id));
+    return [...db, ...wrap(localItems.filter((l) => !ids.has(l.id)))];
+  };
+  return {
+    writable: supabaseWritable(),
+    articles: combine('article', s.articles).sort((a, b) => b.data.publishedAt.localeCompare(a.data.publishedAt)),
+    people: combine('person', s.people),
+    events: combine('event', s.events),
+  };
 }

@@ -1,49 +1,66 @@
 import Link from 'next/link';
 import { brand } from '@/lib/brand';
-import { getArticles, getChart, getPeople } from '@/lib/data';
+import { getArticles } from '@/lib/data';
 import type { Article } from '@/lib/data/types';
 import { cssVars } from '@/lib/format';
-import { articlePath, getDictionary, sectionAccent, sectionPath, type Locale, type SectionKey } from '@/lib/i18n';
+import { articlePath, getDictionary, sectionAccent, type Locale } from '@/lib/i18n';
 import { HeroMotion } from './HeroMotion';
 import { Logo, Sparkle } from './Logo';
 import { Poster } from './ui';
 
 /**
- * Hero: um celular rolando o feed de vídeos do FAMEFILE — cada "post" é uma matéria real do portal —
- * enquanto os flashes dos paparazzi disparam ao fundo. CSS puro; HeroMotion só pausa fora da tela.
+ * Hero: só o celular rolando o feed do FAMEFILE (cada post é uma matéria real)
+ * e, ao fundo, uma plateia erguendo iPhones para fotografar — com o flash disparando.
+ * CSS puro; HeroMotion só pausa as animações quando o hero sai da tela.
  */
 
-const icons = {
-  heart: 'M12 21s-7.5-4.6-10-9.2C.3 8.4 2.2 4 6.3 4c2.3 0 4 1.3 5.7 3.4C13.7 5.3 15.4 4 17.7 4 21.8 4 23.7 8.4 22 11.8 19.5 16.4 12 21 12 21z',
-  comment: 'M12 3C6.5 3 2 6.9 2 11.7c0 2.6 1.3 4.9 3.4 6.5L4.5 22l4.3-2.2c1 .3 2.1.4 3.2.4 5.5 0 10-3.9 10-8.7S17.5 3 12 3z',
-  share: 'M14 4l8 7.5-8 7.5v-4.6C8 14.4 4.5 16.3 2 20c.8-6.3 4.3-11 12-12V4z',
+/* ─── Ícones do app (traço 2px, estilo iOS) ──────────────────── */
+const I = {
+  heart: <path d="M12 20.5s-7.8-4.7-9.6-9.6C1.2 7.6 3.4 4.5 6.8 4.5c2.1 0 3.8 1.2 5.2 3 1.4-1.8 3.1-3 5.2-3 3.4 0 5.6 3.1 4.4 6.4-1.8 4.9-9.6 9.6-9.6 9.6z" />,
+  comment: <path d="M12 3.8c-4.9 0-8.8 3.4-8.8 7.6 0 2.2 1.1 4.2 2.9 5.6l-.6 3.4 3.6-1.8c.9.3 1.9.4 2.9.4 4.9 0 8.8-3.4 8.8-7.6S16.9 3.8 12 3.8z" />,
+  bookmark: <path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4.2-6.5 4.2v-16a1 1 0 0 1 1-1z" />,
+  share: <path d="M13.5 4.5 21 11.6l-7.5 7v-4.1c-5.6 0-8.9 1.6-11 5 .6-5.7 3.9-9.8 11-10.6z" />,
+  home: <path d="M3.5 10.6 12 3.8l8.5 6.8v9.1a.8.8 0 0 1-.8.8h-5.2v-5.8h-5v5.8H4.3a.8.8 0 0 1-.8-.8z" />,
+  friends: (
+    <>
+      <circle cx="9" cy="8.5" r="3.4" />
+      <path d="M2.8 19.5c.6-3.4 3.1-5.4 6.2-5.4s5.6 2 6.2 5.4" />
+      <path d="M15.6 5.4a3.3 3.3 0 0 1 0 6.3M17.4 14.4c2 .6 3.4 2.4 3.8 5.1" />
+    </>
+  ),
+  inbox: (
+    <>
+      <path d="M3.5 6.5h17v11h-17z" />
+      <path d="m3.8 6.8 8.2 6.4 8.2-6.4" />
+    </>
+  ),
+  profile: (
+    <>
+      <circle cx="12" cy="8.3" r="4" />
+      <path d="M4.2 20.2c.8-4 3.9-6.3 7.8-6.3s7 2.3 7.8 6.3" />
+    </>
+  ),
+  search: (
+    <>
+      <circle cx="10.8" cy="10.8" r="6.3" />
+      <path d="m15.5 15.5 4.5 4.5" />
+    </>
+  ),
 };
-const Icon = ({ d }: { d: string }) => (
-  <svg viewBox="0 0 24 24">
-    <path d={d} />
+const Ico = ({ name, filled = false }: { name: keyof typeof I; filled?: boolean }) => (
+  <svg viewBox="0 0 24 24" className={filled ? 'ico ico-fill' : 'ico'} aria-hidden>
+    {I[name]}
   </svg>
 );
-
-/** Números de engajamento só decorativos da UI do app (determinísticos por matéria). */
-const short = (n: number) => (n >= 1_000_000 ? `${(n / 1_000_000).toFixed(1)}M` : `${Math.round(n / 1000)}K`);
-
-function fakeStats(id: string) {
-  const n = Number(id) || 1;
-  return { likes: 120_000 + ((n * 7919) % 880_000), comments: 2_000 + ((n * 104_729) % 38_000), shares: 1_000 + ((n * 1_299_709) % 60_000) };
-}
 
 function Post({ article, locale }: { article: Article; locale: Locale }) {
   const d = getDictionary(locale);
   const t = article.t[locale];
-  const s = fakeStats(article.id);
   const label = article.breaking ? d.home.breaking : d.nav[article.section];
   return (
     <div className="clip">
       <Poster hue={article.hue} image={article.image} className="clip-bg" />
       <div className="clip-shade" />
-      <div className="clip-brand">
-        <Logo size="0.95rem" />
-      </div>
       <div className="clip-story">
         <span className="slant-label px-2! py-0.5! text-[9px]!" style={article.breaking ? undefined : { background: sectionAccent[article.section] }}>
           {label} <Sparkle className="h-2 w-2 fill-white" />
@@ -51,177 +68,208 @@ function Post({ article, locale }: { article: Article; locale: Locale }) {
         <p className="clip-headline">{t.headline}</p>
       </div>
       <div className="clip-rail">
-        <span className="clip-avatar">F</span>
-        <span className="liked grid justify-items-center">
-          <Icon d={icons.heart} />
-          {short(s.likes)}
+        <span className="clip-avatar">
+          <span>F</span>
         </span>
-        <span className="grid justify-items-center">
-          <Icon d={icons.comment} />
-          {short(s.comments)}
+        <span className="liked">
+          <Ico name="heart" filled />
         </span>
-        <span className="grid justify-items-center">
-          <Icon d={icons.share} />
-          {short(s.shares)}
-        </span>
+        <Ico name="comment" filled />
+        <Ico name="bookmark" filled />
+        <Ico name="share" filled />
         <span className="clip-disc" />
       </div>
-      <div className="clip-ui">
-        <div className="clip-meta">
-          <p className="clip-user">@famefile ✓</p>
-          <p className="clip-caption">{t.summary}</p>
-          <p className="clip-sound">
-            ♫ <span>som original — {brand.name} · som original — {brand.name}</span>
-          </p>
-        </div>
+      <div className="clip-meta">
+        <p className="clip-user">
+          {brand.name.toLowerCase()} <span className="clip-verified">✓</span>
+        </p>
+        <p className="clip-caption">{t.summary}</p>
+        <p className="clip-sound">
+          <span>♫ som original — {brand.name} · som original — {brand.name}</span>
+        </p>
       </div>
       <div className="clip-progress" />
     </div>
   );
 }
 
-/** Fotógrafos em silhueta; os flashes saem das câmeras. */
-const photographers = [
-  { x: 70, cam: -18, up: 0 },
-  { x: 215, cam: 14, up: 1 },
-  { x: 370, cam: -10, up: 0 },
-  { x: 520, cam: 16, up: 1 },
-  { x: 690, cam: -14, up: 0 },
-  { x: 840, cam: 10, up: 1 },
-  { x: 990, cam: -16, up: 0 },
-  { x: 1135, cam: 12, up: 1 },
-];
-const flashTiming = ['0.4s/6.4s', '2.1s/7.2s', '1.3s/5.8s', '3.6s/6.9s', '0.9s/7.7s', '4.4s/6.1s', '2.8s/7.4s', '5.2s/6.6s'];
+/* ─── Plateia com iPhones erguidos ───────────────────────────── */
 
-function PaparazziPit() {
+type Fan = { x: number; y: number; s: number; hand: -1 | 1; tilt: number; flash?: string };
+
+/** Fileira de trás (menor, mais clara) e da frente (maior, quase preta). `flash` = "delay/duração". */
+const back: Fan[] = [
+  { x: 60, y: 0, s: 0.62, hand: 1, tilt: -6 },
+  { x: 180, y: 10, s: 0.6, hand: -1, tilt: 8, flash: '2.6s/7.1s' },
+  { x: 305, y: -4, s: 0.64, hand: 1, tilt: -3 },
+  { x: 430, y: 8, s: 0.6, hand: 1, tilt: 5, flash: '5.1s/6.6s' },
+  { x: 560, y: 2, s: 0.62, hand: -1, tilt: -4 },
+  { x: 665, y: 10, s: 0.58, hand: 1, tilt: 6, flash: '6.3s/7.9s' },
+  { x: 780, y: 0, s: 0.62, hand: -1, tilt: -7 },
+  { x: 890, y: 8, s: 0.6, hand: 1, tilt: 3, flash: '1.9s/8.2s' },
+  { x: 1020, y: 6, s: 0.6, hand: -1, tilt: -7, flash: '0.8s/7.4s' },
+  { x: 1140, y: -2, s: 0.64, hand: 1, tilt: 4 },
+  { x: 1265, y: 8, s: 0.6, hand: -1, tilt: -5, flash: '3.9s/6.9s' },
+  { x: 1385, y: 2, s: 0.62, hand: 1, tilt: 6 },
+];
+const front: Fan[] = [
+  { x: 40, y: 0, s: 1, hand: 1, tilt: 7, flash: '1.4s/6.2s' },
+  { x: 230, y: 18, s: 0.94, hand: -1, tilt: -9 },
+  { x: 410, y: 4, s: 1.02, hand: 1, tilt: 4, flash: '4.2s/7.3s' },
+  { x: 600, y: 16, s: 0.92, hand: -1, tilt: -5, flash: '5.6s/8.1s' },
+  { x: 840, y: 12, s: 0.95, hand: 1, tilt: 6 },
+  { x: 1040, y: 10, s: 1, hand: -1, tilt: -5, flash: '0.3s/6.8s' },
+  { x: 1220, y: 0, s: 0.96, hand: 1, tilt: 8 },
+  { x: 1400, y: 14, s: 1.02, hand: -1, tilt: -6, flash: '3.1s/7.6s' },
+];
+
+/** Uma pessoa de costas erguendo o iPhone (vemos o verso: módulo de 3 câmeras + flash). */
+function FanShape({ f, base, row }: { f: Fan; base: number; row: 'back' | 'front' }) {
+  const s = f.s;
+  const headY = base + f.y - 118 * s;
+  const shoulderY = headY + 62 * s;
+  const handX = f.x + f.hand * 50 * s;
+  const handY = headY - 96 * s;
+  const w = 42 * s;
+  const h = 86 * s;
+  const px = handX - w / 2;
+  const py = handY - h * 0.72;
+  const cam = 19 * s;
+  const lens = 3.8 * s;
+  const cx = px + w - cam - 3.5 * s; // módulo no canto (visto por trás)
+  const cy = py + 3.5 * s;
+  const fx = cx + cam - 4 * s;
+  const fy = cy + cam - 4 * s;
+  const [delay, dur] = (f.flash ?? '').split('/');
   return (
-    <>
-      <div className="pap-pit" aria-hidden>
-        <svg viewBox="0 0 1200 170" preserveAspectRatio="xMidYMax slice">
-          {photographers.map((p) => {
-            const camY = p.up ? 20 : 48;
-            return (
-              <g key={p.x}>
-                <path d={`M${p.x - 62} 170c4-44 22-64 62-64s58 20 62 64z`} />
-                <circle cx={p.x} cy={92} r={24} />
-                <rect x={p.x + p.cam - 32} y={camY} width={64} height={40} rx={7} />
-                <circle cx={p.x + p.cam} cy={camY + 20} r={15} fill="#16121c" />
-                <rect x={p.x + p.cam - 22} y={camY - 10} width={22} height={12} rx={3} />
-              </g>
-            );
-          })}
-        </svg>
-      </div>
-      {photographers.map((p, i) => {
-        const [delay, dur] = (flashTiming[i] ?? '0s/6s').split('/');
-        const camY = p.up ? 40 : 68;
-        return (
-          <span
-            key={p.x}
-            className="pap-flash"
-            aria-hidden
-            style={cssVars({
-              left: `${((p.x + p.cam - 11) / 1200) * 100}%`,
-              bottom: `calc(clamp(90px, 16vw, 170px) * ${((170 - camY + 30) / 170).toFixed(2)})`,
-              translate: '-50% 50%',
-              '--d': delay ?? '0s',
-              '--dur': dur ?? '6s',
-            })}
-          />
-        );
-      })}
-    </>
+    <g className={`fan fan-${row}`}>
+      {/* braço erguido (atrás do corpo) */}
+      <path
+        d={`M${f.x + f.hand * 36 * s} ${shoulderY} Q${f.x + f.hand * 66 * s} ${headY - 10 * s} ${handX} ${handY + 10 * s}`}
+        className="fan-arm"
+        style={{ strokeWidth: 19 * s }}
+      />
+      {/* corpo + cabeça */}
+      <path
+        className="fan-body"
+        d={`M${f.x - 80 * s} ${base + 60}C${f.x - 78 * s} ${shoulderY + 30 * s} ${f.x - 60 * s} ${shoulderY} ${f.x} ${shoulderY}S${f.x + 78 * s} ${shoulderY + 30 * s} ${f.x + 80 * s} ${base + 60}z`}
+      />
+      <ellipse className="fan-body" cx={f.x} cy={headY} rx={30 * s} ry={35 * s} />
+      {/* iPhone na mão */}
+      <g transform={`rotate(${f.tilt} ${handX} ${handY})`}>
+        <ellipse cx={handX} cy={py + h - 4 * s} rx={17 * s} ry={13 * s} className="fan-hand" />
+        <rect x={px} y={py} width={w} height={h} rx={8 * s} className="fan-phone" />
+        <rect x={cx} y={cy} width={cam} height={cam} rx={5.5 * s} className="fan-cam" />
+        <circle cx={cx + 5.4 * s} cy={cy + 5.4 * s} r={lens} className="fan-lens" />
+        <circle cx={cx + 5.4 * s} cy={cy + cam - 5.4 * s} r={lens} className="fan-lens" />
+        <circle cx={cx + cam - 5.4 * s} cy={cy + cam / 2} r={lens} className="fan-lens" />
+        <circle cx={fx} cy={fy} r={1.5 * s} className="fan-led" />
+        <rect x={px - 3 * s} y={py + h * 0.55} width={7 * s} height={h * 0.3} rx={3.5 * s} className="fan-hand" />
+        <rect x={px + w - 4 * s} y={py + h * 0.6} width={7 * s} height={h * 0.26} rx={3.5 * s} className="fan-hand" />
+      </g>
+      {f.flash && (
+        <circle cx={fx} cy={fy} r={150 * s} className="fan-flash" style={cssVars({ '--d': delay ?? '0s', '--dur': dur ?? '7s' })} />
+      )}
+    </g>
+  );
+}
+
+function Crowd() {
+  return (
+    <div className="crowd" aria-hidden>
+      <svg viewBox="0 0 1440 520" preserveAspectRatio="xMidYMax slice">
+        <defs>
+          <radialGradient id="ff-flash">
+            <stop offset="0" stopColor="#fff" />
+            <stop offset="0.06" stopColor="#fff" stopOpacity="0.95" />
+            <stop offset="0.2" stopColor="#ffe3ef" stopOpacity="0.35" />
+            <stop offset="1" stopColor="#ffe3ef" stopOpacity="0" />
+          </radialGradient>
+        </defs>
+        {back.map((f) => (
+          <FanShape key={`b${f.x}`} f={f} base={430} row="back" />
+        ))}
+        {front.map((f) => (
+          <FanShape key={`f${f.x}`} f={f} base={560} row="front" />
+        ))}
+      </svg>
+    </div>
   );
 }
 
 export async function Hero({ locale }: { locale: Locale }) {
   const d = getDictionary(locale);
-  const [posts, global, people] = await Promise.all([getArticles({ limit: 5 }), getChart('spotify-global-weekly'), getPeople()]);
-  const top = global?.entries[0];
+  const posts = await getArticles({ limit: 5 });
   const lead = posts[0];
-  const quick: SectionKey[] = ['gossip', 'music', 'creators'];
 
   return (
     <HeroMotion labelledBy="hero-title">
+      <h1 id="hero-title" className="sr-only">
+        {brand.name}
+      </h1>
       <div className="hero-bg" aria-hidden />
-      <PaparazziPit />
-
-      <div className="hero-copy">
-        <p className="rise text-[11px] font-extrabold uppercase tracking-[0.3em] text-fame" style={cssVars({ '--d': '0.1s' })}>
-          {d.hero.kicker}
-        </p>
-        <h1 id="hero-title" aria-label={brand.name}>
-          <Logo className="hero-logo" tagline />
-        </h1>
-        <p className="rise ff-head text-3xl sm:text-5xl" style={cssVars({ '--d': '0.35s' })}>
-          {d.hero.headline[0]} <span className="text-fame-gradient pr-1">{d.hero.headline[1]}</span>
-        </p>
-        <p className="rise max-w-md text-base text-fg/75 sm:text-lg" style={cssVars({ '--d': '0.5s' })}>
-          {d.hero.tagline}
-        </p>
-        <div className="rise flex flex-wrap items-center justify-center gap-2 lg:justify-start" style={cssVars({ '--d': '0.65s' })}>
-          <a
-            href="#feed"
-            className="bg-fame-gradient inline-flex items-center gap-2 rounded-full px-5 py-3 text-xs font-extrabold uppercase tracking-[0.1em] text-white shadow-lg shadow-fame/30 transition hover:scale-[1.03]"
-          >
-            {d.hero.cta} <span aria-hidden>→</span>
-          </a>
-          {quick.map((k) => (
-            <Link
-              key={k}
-              href={sectionPath(locale, k)}
-              style={cssVars({ '--v': sectionAccent[k] })}
-              className="rounded-full border border-line bg-black/30 px-4 py-2.5 text-[11px] font-extrabold uppercase tracking-[0.1em] transition hover:border-(--v)"
-            >
-              {d.nav[k]}
-            </Link>
-          ))}
-        </div>
-      </div>
+      <Crowd />
 
       <div className="hero-stage">
-        <div className="phone-hand" aria-hidden>
+        <div className="phone-hand">
           <div className="phone">
+            <span className="phone-btn phone-btn-l" aria-hidden />
+            <span className="phone-btn phone-btn-r" aria-hidden />
             <div className="phone-screen">
-              <span className="phone-notch" />
-              <div className="feed-top">
+              <div className="status" aria-hidden>
+                <span className="status-time">9:41</span>
+                <span className="island" />
+                <span className="status-icons">
+                  <i className="sig" />
+                  <i className="wifi" />
+                  <i className="bat" />
+                </span>
+              </div>
+              <div className="feed-top" aria-hidden>
+                <span className="feed-live">LIVE</span>
                 <span>{d.hero.following}</span>
                 <b>{d.hero.forYou}</b>
+                <Ico name="search" />
               </div>
-              <div className="reel-track">
+              <div className="clip-logo" aria-hidden>
+                <Logo size="0.9rem" />
+              </div>
+              <div className="reel-track" aria-hidden>
                 {[...posts, posts[0]!].map((a, i) => (
                   <Post key={`${a.id}-${i}`} article={a} locale={locale} />
                 ))}
               </div>
-              <span className="touch" />
-              <div className="feed-nav">
-                <i />
-                <i />
-                <i className="plus" />
-                <i />
-                <i />
-              </div>
+              <span className="touch" aria-hidden />
+              <nav className="feed-nav" aria-hidden>
+                <span className="on">
+                  <Ico name="home" filled />
+                  <small>Home</small>
+                </span>
+                <span>
+                  <Ico name="friends" />
+                  <small>{d.hero.following}</small>
+                </span>
+                <span className="create">
+                  <b />
+                </span>
+                <span>
+                  <Ico name="inbox" />
+                  <small>Inbox</small>
+                </span>
+                <span>
+                  <Ico name="profile" />
+                  <small>{d.hero.me}</small>
+                </span>
+              </nav>
+              <span className="home-bar" aria-hidden />
             </div>
           </div>
         </div>
-
         {lead && (
-          <Link
-            href={articlePath(locale, lead.section, lead.t[locale].slug, lead.id)}
-            className="hero-chip left-0 top-[6%] sm:left-[2%]"
-            style={cssVars({ '--d': '0.7s' })}
-          >
-            <span className="live-dot" /> {d.home.breaking}: {lead.t[locale].headline}
+          <Link href={articlePath(locale, lead.section, lead.t[locale].slug, lead.id)} className="sr-only">
+            {lead.t[locale].headline}
           </Link>
         )}
-        {top && (
-          <Link href={sectionPath(locale, 'charts')} className="hero-chip right-0 top-[28%] sm:right-[2%]" style={cssVars({ '--d': '0.95s' })}>
-            <span className="text-charts">#1</span> {top.title}
-          </Link>
-        )}
-        <Link href={`/${locale}/p`} className="hero-chip bottom-[26%] left-0 sm:left-[4%]" style={cssVars({ '--d': '1.2s' })}>
-          <Sparkle className="h-3 w-3 fill-fame" /> {people.length} {d.nav.people}
-        </Link>
       </div>
     </HeroMotion>
   );

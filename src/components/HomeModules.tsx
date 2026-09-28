@@ -5,7 +5,6 @@ import {
   getLiveStreams,
   getPeople,
   getReleasesOfWeek,
-  getTopSongsChart,
   getTrendingPeople,
   getTrendSignals,
 } from '@/lib/data';
@@ -22,7 +21,7 @@ import {
   TrendSignalCard,
 } from './cards';
 import { Sparkle } from './Logo';
-import { ChartPanel } from './SectionViews';
+import { ChartSwitcher } from './SectionViews';
 import { SectionHeader } from './ui';
 
 /**
@@ -196,7 +195,7 @@ const modules: Record<HomeModule, Loader> = {
 
   async musicAndCharts(locale) {
     const d = getDictionary(locale);
-    const [releases, chart] = await Promise.all([getReleasesOfWeek(), getTopSongsChart()]);
+    const releases = await getReleasesOfWeek();
     return (
       <div className="container-x grid gap-12 lg:grid-cols-2">
         <section aria-labelledby="h-releases" className="min-w-0">
@@ -218,12 +217,12 @@ const modules: Record<HomeModule, Loader> = {
           <SectionHeader
             id="h-charts"
             title={d.home.charts}
-            subtitle={`${chart.title[locale]} · ${d.pages.charts.weekly}`}
+            subtitle={d.pages.charts.songsSub}
             accent="var(--color-charts)"
             href={sectionPath(locale, 'charts')}
             linkLabel={d.common.seeAll}
           />
-          <ChartPanel chart={chart} locale={locale} />
+          <ChartSwitcher locale={locale} limit={10} uid="hm" />
         </section>
       </div>
     );

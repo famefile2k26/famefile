@@ -22,7 +22,9 @@ function headers(admin: boolean, extra: Record<string, string> = {}) {
 export async function sbSelect<T>(path: string, opts: { admin?: boolean; revalidate?: number } = {}): Promise<T[]> {
   const res = await fetch(`${url}/rest/v1/${path}`, {
     headers: headers(!!opts.admin),
-    ...(opts.admin ? { cache: 'no-store' as const } : { next: { revalidate: opts.revalidate ?? 60, tags: ['content'] } }),
+    ...(opts.admin && opts.revalidate === undefined
+      ? { cache: 'no-store' as const }
+      : { next: { revalidate: opts.revalidate ?? 60, tags: ['content'] } }),
   });
   if (!res.ok) throw new Error(`Supabase ${res.status}: ${await res.text()}`);
   return (await res.json()) as T[];

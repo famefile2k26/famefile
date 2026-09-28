@@ -264,7 +264,7 @@ export const articles: Article[] = [
     },
   },
   {
-    id: '2007', section: 'events', confidence: 'confirmed', risk: 'green',
+    id: '2007', section: 'music', confidence: 'confirmed', risk: 'green',
     publishedAt: '2026-09-26T12:00:00Z', hue: 270,
     personIds: ['bts'],
     sources: [
@@ -305,7 +305,7 @@ export const articles: Article[] = [
     },
   },
   {
-    id: '2008', section: 'events', confidence: 'confirmed', risk: 'green',
+    id: '2008', section: 'music', confidence: 'confirmed', risk: 'green',
     publishedAt: '2026-09-27T12:00:00Z', hue: 200,
     personIds: ['zayn', 'robbie-williams', 'bts', 'hayley-williams', 'ca7riel-paco-amoroso', 'ed-sheeran', 'anitta'],
     sources: [{ name: 'Exame', url: 'https://exame.com/pop/veja-o-calendario-de-shows-internacionais-no-brasil-ate-o-final-de-2026/' }],
@@ -343,7 +343,7 @@ export const articles: Article[] = [
     },
   },
   {
-    id: '2009', section: 'events', confidence: 'confirmed', risk: 'green',
+    id: '2009', section: 'music', confidence: 'confirmed', risk: 'green',
     publishedAt: '2026-09-24T12:00:00Z', hue: 165,
     personIds: [],
     sources: [{ name: 'Showmetech', url: 'https://www.showmetech.com.br/confira-lineup-do-primavera-sound-sao-paulo-2026/' }],

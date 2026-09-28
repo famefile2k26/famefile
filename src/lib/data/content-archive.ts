@@ -23,7 +23,7 @@ function art(
 export const archive: Article[] = [
   /* ─── Rock in Rio 2026 ─────────────────────────────────── */
   art(
-    '2013', 'events', '2026-09-14T13:00:00Z', 30,
+    '2013', 'music', '2026-09-14T13:00:00Z', 30,
     ['elton-john', 'stray-kids', 'ivete-sangalo', 'gilberto-gil'],
     [
       { name: 'GMC Online', url: 'https://gmconline.com.br/entretenimento/rock-in-rio-2026-reune-700-mil-pessoas-em-sete-dias-edicao-2028-esta-confirmada/' },
@@ -148,7 +148,7 @@ export const archive: Article[] = [
     },
   ),
   art(
-    '2016', 'events', '2026-09-14T18:00:00Z', 10,
+    '2016', 'music', '2026-09-14T18:00:00Z', 10,
     ['elton-john', 'demi-lovato', 'ivete-sangalo', 'stray-kids', 'luisa-sonza', 'alok'],
     [{ name: 'Terra', url: 'https://www.terra.com.br/diversao/musica/rock-in-rio/balanco-rock-in-rio-2026-os-melhores-e-os-piores-shows-do-festival,4a4d1ffbba949179bfcf2650bd416966v690jlth.html' }],
     {
@@ -295,7 +295,7 @@ export const archive: Article[] = [
 
   /* ─── Coachella 2026 ───────────────────────────────────── */
   art(
-    '2020', 'events', '2026-04-13T12:00:00Z', 150,
+    '2020', 'music', '2026-04-13T12:00:00Z', 150,
     ['karol-g', 'j-balvin', 'peso-pluma', 'becky-g'],
     [
       { name: 'Foothill Dragon Press', url: 'https://foothilldragonpress.org/291354/a-latest/coachella-2026-a-overview-of-the-headlining-performances/' },
@@ -405,7 +405,7 @@ export const archive: Article[] = [
 
   /* ─── Lollapalooza Brasil ──────────────────────────────── */
   art(
-    '2023', 'events', '2026-03-23T12:00:00Z', 120,
+    '2023', 'music', '2026-03-23T12:00:00Z', 120,
     ['sabrina-carpenter', 'luisa-sonza', 'chappell-roan', 'addison-rae'],
     [{ name: 'Terra', url: 'https://www.terra.com.br/diversao/musica/lollapalooza/quais-foram-os-melhores-e-piores-shows-do-lollapalooza-2026-veja-balanco-do-festival,5d4917ccbef8e702b8d9429e521caab5dp594c6z.html' }],
     {

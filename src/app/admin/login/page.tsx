@@ -11,7 +11,7 @@ export default async function LoginPage({ searchParams }: { searchParams: Search
     <main className="grid min-h-screen place-items-center px-4">
       <form action={login} className="ff-card w-full max-w-sm space-y-5 p-6">
         <div className="text-center">
-          <Logo size="2rem" tagline />
+          <Logo size="2rem" />
           <p className="mt-4 text-sm text-muted">Painel administrativo</p>
         </div>
         {param(sp, 'erro') && <p className="rounded-xl bg-movies/15 px-3 py-2 text-sm font-semibold text-movies">Senha incorreta.</p>}

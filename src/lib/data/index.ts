@@ -110,10 +110,21 @@ export async function getChart(id: string): Promise<Chart | undefined> {
   return (await getStore()).charts.find((c) => c.id === id);
 }
 
-/** Chart principal da home/música: o do mercado brasileiro. */
+/** Regra do site: o chart padrão é sempre o GLOBAL (Spotify); o leitor troca plataforma e país. */
 export async function getTopSongsChart(): Promise<Chart> {
   const { charts } = await getStore();
-  return charts.find((c) => c.region === 'BR') ?? charts[0]!;
+  return charts.find((c) => c.platform === 'spotify' && c.region === 'GLOBAL') ?? charts[0]!;
+}
+
+/** Ordem de países oferecida no seletor (Global sempre primeiro). */
+export const chartRegions = ['GLOBAL', 'BR', 'US', 'MX', 'AR', 'CO', 'ES', 'PT', 'GB'] as const;
+
+/** Todos os charts de músicas agrupados para o seletor Spotify/Apple × país. */
+export async function getSongCharts(): Promise<Chart[]> {
+  const { charts } = await getStore();
+  return charts
+    .filter((c) => c.platform)
+    .sort((a, b) => chartRegions.indexOf(a.region as (typeof chartRegions)[number]) - chartRegions.indexOf(b.region as (typeof chartRegions)[number]));
 }
 
 /* ─── Creators / streamers (aguardando providers) ──────────── */

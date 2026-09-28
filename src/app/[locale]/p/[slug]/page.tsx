@@ -2,6 +2,8 @@ import type { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { ArticleCard, PersonCard, platformName } from '@/components/cards';
 import { KeepExploring } from '@/components/KeepExploring';
+import { ProfileAwards } from '@/components/ProfileAwards';
+import { Tabs } from '@/components/Tabs';
 import { Sparkle } from '@/components/Logo';
 import { initialsOf, Poster, SectionHeader } from '@/components/ui';
 import { brand } from '@/lib/brand';
@@ -185,7 +187,16 @@ export default async function PersonPage({ params }: Props) {
       </header>
 
       <div className="container-x mt-10 grid gap-10 lg:grid-cols-[1fr_22rem]">
-        <div className="min-w-0 space-y-12">
+        <div className="min-w-0">
+          <Tabs
+            uid="pf"
+            label={f.tabs.label}
+            tabs={[
+              {
+                id: 'overview',
+                label: f.tabs.overview,
+                content: (
+                  <div className="space-y-12">
           {t.now && (
             <section aria-labelledby="now" className="rounded-3xl border border-fame/30 bg-fame/[0.07] p-5">
               <h2 id="now" className="text-xs font-extrabold uppercase tracking-wider text-fame">
@@ -231,10 +242,32 @@ export default async function PersonPage({ params }: Props) {
             </section>
           )}
 
-          {shows.length > 0 && (
-            <section aria-labelledby="shows">
-              <SectionHeader id="shows" title={f.shows} accent="var(--color-events)" />
-              <ul className="divide-y divide-line rounded-3xl border border-line bg-surface">
+          {chartHits.length > 0 && (
+            <section aria-labelledby="in-charts">
+              <SectionHeader id="in-charts" title={f.inCharts} accent="var(--color-charts)" />
+              <ul className="grid gap-3 sm:grid-cols-2">
+                {chartHits.map(({ chart, entry }) => (
+                  <li key={`${chart.id}-${entry.position}`} className="flex items-center gap-3 rounded-2xl border border-line bg-surface p-3">
+                    <span className="text-fame-gradient w-10 pr-1 text-center font-display text-3xl font-black italic">#{entry.position}</span>
+                    <span className="min-w-0">
+                      <span className="block truncate font-bold">{entry.title}</span>
+                      <span className="block text-xs text-muted">{chart.title[locale]} · {chart.region === 'GLOBAL' ? d.pages.charts.global : chart.region}</span>
+                    </span>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+                  </div>
+                ),
+              },
+              { id: 'awards', label: f.tabs.awards, content: <ProfileAwards awards={person.awards} locale={locale} /> },
+              {
+                id: 'shows',
+                label: `${f.tabs.shows}${shows.length ? ` (${shows.length})` : ''}`,
+                content: shows.length ? (
+                  <ul className="divide-y divide-line rounded-3xl border border-line bg-surface">
                 {shows.map((ev) => {
                   const date = new Date(ev.startsAt);
                   return (
@@ -258,36 +291,25 @@ export default async function PersonPage({ params }: Props) {
                   );
                 })}
               </ul>
-            </section>
-          )}
-
-          {chartHits.length > 0 && (
-            <section aria-labelledby="in-charts">
-              <SectionHeader id="in-charts" title={f.inCharts} accent="var(--color-charts)" />
-              <ul className="grid gap-3 sm:grid-cols-2">
-                {chartHits.map(({ chart, entry }) => (
-                  <li key={`${chart.id}-${entry.position}`} className="flex items-center gap-3 rounded-2xl border border-line bg-surface p-3">
-                    <span className="text-fame-gradient w-10 pr-1 text-center font-display text-3xl font-black italic">#{entry.position}</span>
-                    <span className="min-w-0">
-                      <span className="block truncate font-bold">{entry.title}</span>
-                      <span className="block text-xs text-muted">{chart.title[locale]} · {d.pages.charts.weekly}</span>
-                    </span>
-                  </li>
-                ))}
-              </ul>
-            </section>
-          )}
-
-          {news.length > 0 && (
-            <section aria-labelledby="latest">
-              <SectionHeader id="latest" title={d.person.latest} accent="var(--color-news)" />
-              <div className="space-y-5">
+                ) : (
+                  <p className="text-sm text-muted">{f.noShows}</p>
+                ),
+              },
+              {
+                id: 'news',
+                label: f.tabs.news,
+                content: news.length ? (
+                  <div className="space-y-5">
                 {news.map((a) => (
                   <ArticleCard key={a.id} article={a} locale={locale} variant="compact" />
                 ))}
               </div>
-            </section>
-          )}
+                ) : (
+                  <p className="text-sm text-muted">{f.noNews}</p>
+                ),
+              },
+            ]}
+          />
         </div>
 
         <aside className="space-y-8">
