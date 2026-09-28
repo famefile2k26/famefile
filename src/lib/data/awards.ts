@@ -4628,6 +4628,13 @@ export const awardsBySlug: Record<string, Awards> = {
    },
    {
     "award": "MTV Video Music Awards",
+    "year": 2023,
+    "category": "Best Latin",
+    "work": "Funk Rave",
+    "result": "won"
+   },
+   {
+    "award": "MTV Video Music Awards",
     "year": 2022,
     "category": "Best Latin",
     "work": "Envolver",
