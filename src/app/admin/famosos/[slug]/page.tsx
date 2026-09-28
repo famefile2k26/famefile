@@ -62,7 +62,7 @@ export default async function PersonEditor({ params, searchParams }: { params: P
           <section className="ff-card space-y-4">
             <h2 className="ff-head text-lg">Foto</h2>
             <Poster hue={p.hue} image={p.image} initials={initialsOf(p.publicName || '?')} className="aspect-[4/5] rounded-2xl" />
-            <Field label="Enviar arquivo" hint="JPG ou PNG, vertical de preferência.">
+            <Field label="Enviar arquivo" hint="JPG, PNG ou WebP até 4 MB — vertical de preferência.">
               <input id="imageFile" name="imageFile" type="file" accept="image/*" className="ff-input text-xs" />
             </Field>
             <Field label="…ou URL da imagem">
