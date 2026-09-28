@@ -1,0 +1,28 @@
+name: build-check
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm install --no-audit --no-fund > install.log 2>&1 || true
+      - run: (npx next build > build.log 2>&1; echo "exit=$?" >> build.log) || true
+      - run: (npx tsc --noEmit -p . > tsc.log 2>&1; echo "exit=$?" >> tsc.log) || true
+      - name: Publish logs to ci-logs branch
+        run: |
+          mkdir -p /tmp/logs && cp install.log build.log tsc.log /tmp/logs/ 2>/dev/null || true
+          git config user.name ci && git config user.email ci@users.noreply.github.com
+          git checkout --orphan ci-logs
+          git rm -rfq . > /dev/null
+          cp /tmp/logs/* .
+          git add -f *.log
+          git commit -qm "logs ${GITHUB_SHA}"
+          git push -f origin ci-logs
