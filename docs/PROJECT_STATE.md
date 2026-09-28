@@ -16,6 +16,12 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 - **Deploy:** passo a passo em `docs/DEPLOY.md` (GitHub → Supabase → Vercel → domínio).
 - **Design system:** tokens em `src/app/globals.css` (`@theme`), acento por vertical (`sectionAccent`). Componentes: `ui.tsx` (Poster, badges, SectionHeader), `cards.tsx`, `Header`, `LanguageSelector`, `Hero`, `HomeModules`, `KeepExploring`, `EntityText`.
 
+## Produção (no ar desde 28/09/2026)
+- Site: https://famefile-two.vercel.app · Vercel: time "Famefile", projeto `famefile` (prj_x4Aa1ZDgrHu81uYboWfCPy5xriSw).
+- Código: GitHub `famefile2k26/famefile` (branch main). Supabase: projeto `vqthzxcvtsevaltsdvsz` (São Paulo).
+- Variáveis já configuradas: BRAND_NAME, SITE_URL, SUPABASE_URL, SUPABASE_ANON_KEY (publishable), ADMIN_SECRET. Faltam (dono cola na Vercel): SUPABASE_SERVICE_ROLE_KEY, ADMIN_PASSWORD.
+- Proteção de deploy só nos previews; produção é pública.
+
 ## Decisões importantes
 - i18n caseiro em vez de next-intl: ~100 linhas, zero dependência, controle total dos slugs localizados. Reavaliar se precisarmos de plurais/ICU.
 - Hero v2: celular rolando um feed vertical (5 cenas desenhadas em CSS: show, tapete vermelho, creator, live, chart) + fotógrafos em silhueta com flashes ao fundo. CSS puro; `HeroMotion` só pausa fora da tela. Logo aparece em ~1,2s (LCP); flashes ~1,2/s (WCAG 2.3.1); reduced-motion = estático sem flashes.
