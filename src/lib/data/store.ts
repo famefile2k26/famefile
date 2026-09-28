@@ -5,7 +5,9 @@
  * Supabase = camada por cima: o que o admin (ou o robô) publica substitui o item de mesmo id;
  * itens despublicados no admin (rascunho/revisão/rejeitado) somem do site mesmo que existam no código.
  * Assim, conteúdo novo que chega pelo código aparece no ar sem precisar reimportar o banco.
+ * Só contam linhas com `updated_by` (gravadas pelo admin/robô); as do seed inicial são ignoradas.
  */
+import { sectionKeys } from '@/lib/i18n/routes';
 import { sbSelect, supabaseEnabled, supabaseWritable } from '@/lib/supabase';
 import { awardsBySlug } from './awards';
 import { liveCharts } from './charts-live';
@@ -60,16 +62,18 @@ export async function getStore(): Promise<Store> {
   if (!supabaseEnabled()) return base;
   try {
     const [rows, statuses] = await Promise.all([
-      sbSelect<Row>('content?select=kind,id,status,data&status=eq.published'),
+      sbSelect<Row>('content?select=kind,id,status,data&status=eq.published&updated_by=not.is.null'),
       // Com a chave de serviço dá para saber o que foi despublicado (a chave pública só enxerga publicados).
       supabaseWritable()
-        ? sbSelect<Pick<Row, 'kind' | 'id' | 'status'>>('content?select=kind,id,status&status=neq.published', { admin: true, revalidate: 60 })
+        ? sbSelect<Pick<Row, 'kind' | 'id' | 'status'>>('content?select=kind,id,status&status=neq.published&updated_by=not.is.null', { admin: true, revalidate: 60 })
         : Promise.resolve([]),
     ]);
     const hidden = (k: ContentKind) => new Set(statuses.filter((r) => r.kind === k).map((r) => r.id));
     const pick = <T,>(k: ContentKind) => rows.filter((r) => r.kind === k).map((r) => r.data as T);
+    // Segurança: matéria com seção que não existe mais (ex.: abas removidas) não entra no site.
+    const validSection = (a: Article) => (sectionKeys as readonly string[]).includes(a.section);
     return {
-      articles: merge(base.articles, pick<Article>('article'), hidden('article')).sort(byNewest),
+      articles: merge(base.articles, pick<Article>('article').filter(validSection), hidden('article')).sort(byNewest),
       people: merge(base.people, pick<Person>('person'), hidden('person')).map(withAwards),
       events: merge(base.events, pick<EntertainmentEvent>('event'), hidden('event')),
       charts: base.charts,
@@ -102,7 +106,7 @@ export async function getAdminStore(): Promise<AdminStore> {
   let rows: Row[] = [];
   if (supabaseWritable()) {
     try {
-      rows = await sbSelect<Row>('content?select=kind,id,status,data,updated_at&kind=in.(article,person,event)', { admin: true });
+      rows = await sbSelect<Row>('content?select=kind,id,status,data,updated_at&kind=in.(article,person,event)&updated_by=not.is.null', { admin: true });
     } catch (err) {
       console.error('[admin] erro lendo Supabase:', err);
     }
