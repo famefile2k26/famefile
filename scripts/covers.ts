@@ -143,15 +143,31 @@ const hint: Record<string, Record<string, string>> = {
 };
 type WikiPages = { query?: { pages?: Record<string, { title: string; index?: number; thumbnail?: { source: string }; pageimage?: string }> } };
 
+const BAD_PAGE = /discograph|videograph|filmograph|tour|album|controvers|rivalry|band$|list of|awards|song|\(disambiguation\)/i;
+
+async function wikiExact(lang: string, title: string) {
+  const url =
+    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&redirects=1&titles=${encodeURIComponent(title)}` +
+    `&prop=pageimages|pageprops&piprop=thumbnail|name&pithumbsize=800&pilicense=free`;
+  const res = await getJson<{ query?: { pages?: Record<string, { title: string; missing?: string; thumbnail?: { source: string }; pageprops?: Record<string, string> }> } }>(url, 300);
+  const page = Object.values(res?.query?.pages ?? {})[0];
+  if (!page || page.missing !== undefined || page.pageprops?.disambiguation !== undefined || !page.thumbnail || BAD_PAGE.test(page.title)) return undefined;
+  return { url: page.thumbnail.source, credit: 'Foto: Wikimedia Commons', source: `${lang}.wikipedia.org/wiki/${page.title.replace(/ /g, '_')}` };
+}
+
 async function wikiPhoto(lang: string, name: string, legal: string | undefined, kind: string) {
+  for (const t of [name, legal].filter(Boolean) as string[]) {
+    const exact = await wikiExact(lang, t);
+    if (exact) return exact;
+  }
   const term = `${name} ${hint[lang]?.[kind] ?? ''}`.trim();
   const url =
-    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&generator=search&gsrlimit=3&gsrsearch=${encodeURIComponent(term)}` +
+    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&generator=search&gsrlimit=5&gsrsearch=${encodeURIComponent(term)}` +
     `&prop=pageimages&piprop=thumbnail|name&pithumbsize=800&pilicense=free`;
   const res = await getJson<WikiPages>(url, 300);
   const pages = Object.values(res?.query?.pages ?? {}).sort((a, b) => (a.index ?? 9) - (b.index ?? 9));
-  const tokens = [name, legal ?? ''].flatMap((n) => norm(n).split(' ')).filter((t) => t.length > 2);
-  const page = pages.find((p) => p.thumbnail && tokens.some((t) => norm(p.title).includes(t)));
+  const first = norm(name).split(' ')[0] ?? '';
+  const page = pages.find((p) => p.thumbnail && !BAD_PAGE.test(p.title) && norm(p.title).startsWith(first));
   if (!page?.thumbnail) return undefined;
   return { url: page.thumbnail.source, credit: 'Foto: Wikimedia Commons', source: `${lang}.wikipedia.org/wiki/${page.title.replace(/ /g, '_')}` };
 }
