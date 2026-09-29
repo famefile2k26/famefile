@@ -168,8 +168,9 @@ async function wikiPhoto(lang: string, name: string, legal: string | undefined, 
     `&prop=pageimages&piprop=thumbnail|name&pithumbsize=800&pilicense=free`;
   const res = await getJson<WikiPages>(url, 300);
   const pages = Object.values(res?.query?.pages ?? {}).sort((a, b) => (a.index ?? 9) - (b.index ?? 9));
-  const first = norm(name).split(' ')[0] ?? '';
-  const page = pages.find((p) => p.thumbnail && !BAD_PAGE.test(p.title) && norm(p.title).startsWith(first));
+  // Todas as palavras do nome precisam estar no título (evita "Jon Vlogs" → "Jon Olsson").
+  const words = norm(name).split(' ').filter((w) => w.length > 1);
+  const page = pages.find((p) => p.thumbnail && !BAD_PAGE.test(p.title) && words.every((w) => norm(p.title).includes(w)));
   if (!page?.thumbnail) return undefined;
   return { url: page.thumbnail.source, credit: 'Foto: Wikimedia Commons', source: `${lang}.wikipedia.org/wiki/${page.title.replace(/ /g, '_')}` };
 }
