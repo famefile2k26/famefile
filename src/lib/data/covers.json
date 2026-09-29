@@ -63,7 +63,17 @@
   "bailando|enrique iglesias": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/c7/18/3e/c7183ef7-49f1-8941-03cf-ad17ca8b97ea/00602537854097.rgb.jpg/600x600bb.jpg",
   "despacito|luis fonsi": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/e2/ef/f0/e2eff0bc-c51d-7de5-9280-6891ddcee71b/18UMGIM85289.rgb.jpg/600x600bb.jpg",
   "hear me now|alok": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/14/b5/fe/14b5fedf-a650-853a-35d5-209e3437ac2c/8712944526554.jpg/600x600bb.jpg",
-  "galopa|pedro sampaio": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/d8/e5/25d8e5e0-ba84-c2cd-a640-6cece1206345/190296503351.jpg/600x600bb.jpg"
+  "galopa|pedro sampaio": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/25/d8/e5/25d8e5e0-ba84-c2cd-a640-6cece1206345/190296503351.jpg/600x600bb.jpg",
+  "cuida do pet|oldilla": "https://cdn-images.dzcdn.net/images/cover/0fd527a4f0a366fb3f1db9e6ca6539c2/1000x1000-000000-80-0-0.jpg",
+  "ta pedindo toma|mc leozinho zs": "https://cdn-images.dzcdn.net/images/cover/9afb8f27ca0daebf95ea2bd4d048a69e/1000x1000-000000-80-0-0.jpg",
+  "pau pra toda obra|mc jacare": "https://cdn-images.dzcdn.net/images/cover/78179e8420bb79081b47f4da1bd84007/1000x1000-000000-80-0-0.jpg",
+  "exagerado|mc jvila": "https://cdn-images.dzcdn.net/images/cover/dbe314e321469d40c0fbc9976bbc8e27/1000x1000-000000-80-0-0.jpg",
+  "puxa o lanca|mc jvila": "https://cdn-images.dzcdn.net/images/cover/ae4b1b96126a99355622bf6571479fa1/1000x1000-000000-80-0-0.jpg",
+  "todo de ti|rauw alejandro": "https://cdn-images.dzcdn.net/images/cover/7167a61f54a62c453f4d99ee59c151a4/1000x1000-000000-80-0-0.jpg",
+  "session 52|bizarrap": "https://cdn-images.dzcdn.net/images/artist/e121c1ef9b1135e6a5b71c1e65ab10b4/1000x1000-000000-80-0-0.jpg",
+  "session 53|bizarrap": "https://cdn-images.dzcdn.net/images/artist/e121c1ef9b1135e6a5b71c1e65ab10b4/1000x1000-000000-80-0-0.jpg",
+  "rhyno|travis scott": "https://cdn-images.dzcdn.net/images/cover/dc492b8d028525c713a52713b9bb005d/1000x1000-000000-80-0-0.jpg",
+  "danceteria|charli xcx": "https://cdn-images.dzcdn.net/images/artist/5a4f593c65c71292b4389e871f76c023/1000x1000-000000-80-0-0.jpg"
  },
  "albums": {
   "the life of a showgirl the encore|taylor swift": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
@@ -228,9 +238,48 @@
   "confident|demi lovato": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ea/08/9e/ea089eb7-9e3c-a442-8656-7cac2da0309f/00050087335120.rgb.jpg/600x600bb.jpg",
   "it s not that deep|demi lovato": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/c2/2a/92/c22a9239-c3d7-2337-4bc2-58eb70b5b7e5/25UM1IM42010.rgb.jpg/600x600bb.jpg",
   "messy|olivia dean": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/26/8d/bb/268dbb59-4df1-36c3-525e-8d24c921ee25/23UMGIM04594.rgb.jpg/600x600bb.jpg",
-  "the art of loving|olivia dean": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg"
+  "the art of loving|olivia dean": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/08/e2/21/08e22164-7c0b-1522-818f-e0e74f62dc49/25UMGIM69703.rgb.jpg/600x600bb.jpg",
+  "poster|tinashe": "https://cdn-images.dzcdn.net/images/artist/5cc2f7af5cd1c0990de7d2240f0848ec/1000x1000-000000-80-0-0.jpg",
+  "unshatter|linkin park": "https://cdn-images.dzcdn.net/images/cover/1ff52cdda5b426baaed9f0cb40d38e45/1000x1000-000000-80-0-0.jpg",
+  "swim|taylor swift": "https://cdn-images.dzcdn.net/images/artist/cc2495870fe1a792ad0cdb05501ad5ec/1000x1000-000000-80-0-0.jpg",
+  "grand theft auto vi the album|travis scott": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/1000x1000-000000-80-0-0.jpg",
+  "pais lindo e povo maravilhoso|elton john": "https://cdn-images.dzcdn.net/images/artist/38ac9f6685f8d07d9528d41503bf450f/1000x1000-000000-80-0-0.jpg",
+  "brutal paraiso|luisa sonza": "https://cdn-images.dzcdn.net/images/cover/ae91a6bacf72ed1ad57d30e6bf280928/1000x1000-000000-80-0-0.jpg",
+  "bieberchella|justin bieber": "https://cdn-images.dzcdn.net/images/artist/fe097f693cebf1f882e3da79e99e3bf9/1000x1000-000000-80-0-0.jpg",
+  "debi tirar mas fotos|bad bunny": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+  "uma batalha apos a outra|wagner moura": "https://cdn-images.dzcdn.net/images/artist/0d1089872a6eb123c44119173313b29f/1000x1000-000000-80-0-0.jpg",
+  "loud|rihanna": "https://cdn-images.dzcdn.net/images/cover/3a12c64bb52a167944783878ffe41f02/1000x1000-000000-80-0-0.jpg",
+  "yhlqmdlg|bad bunny": "https://cdn-images.dzcdn.net/images/cover/0a6f32569d4785c5ef82f581086f4302/1000x1000-000000-80-0-0.jpg",
+  "nadie sabe lo que va a pasar manana|bad bunny": "https://cdn-images.dzcdn.net/images/cover/f840891b70f6e240b8ecaec49346bd6a/1000x1000-000000-80-0-0.jpg",
+  "kg0516|karol g": "https://cdn-images.dzcdn.net/images/cover/a452975ef997cdd4837888e8eb5a3125/1000x1000-000000-80-0-0.jpg",
+  "genesis|peso pluma": "https://cdn-images.dzcdn.net/images/cover/dcf1796783e798bb34462017156d57c3/1000x1000-000000-80-0-0.jpg",
+  "exodo|peso pluma": "https://cdn-images.dzcdn.net/images/cover/e235027c2769e54586f6509f2dca2a2c/1000x1000-000000-80-0-0.jpg",
+  "lux|rosalia": "https://cdn-images.dzcdn.net/images/cover/0dd6cd0e783f1505cd57778953ab77a1/1000x1000-000000-80-0-0.jpg",
+  "f a m e|maluma": "https://cdn-images.dzcdn.net/images/cover/8f7f531b2bcebeffef064d973dedb24a/1000x1000-000000-80-0-0.jpg",
+  "papi juancho|maluma": "https://cdn-images.dzcdn.net/images/cover/63079ed6608d331f80a9d572d60e4a45/1000x1000-000000-80-0-0.jpg",
+  "vice versa|rauw alejandro": "https://cdn-images.dzcdn.net/images/cover/a37d5de6838312531d93af97e3e31463/1000x1000-000000-80-0-0.jpg",
+  "cosa nuestra|rauw alejandro": "https://cdn-images.dzcdn.net/images/cover/73ee2e7a43dbeaa119a62d9a15d28670/1000x1000-000000-80-0-0.jpg",
+  "mor no le temes a la oscuridad|feid": "https://cdn-images.dzcdn.net/images/artist/e629c93e03b3c225d8d52a42bae71537/1000x1000-000000-80-0-0.jpg",
+  "ferxxo vol x sagrado|feid": "https://cdn-images.dzcdn.net/images/cover/de3cda85226b6b60bf5eece6d7465bd3/1000x1000-000000-80-0-0.jpg",
+  "doce 22|luisa sonza": "https://cdn-images.dzcdn.net/images/cover/3e466897f11efdf7facfea51a60232ec/1000x1000-000000-80-0-0.jpg",
+  "mtv ao vivo|ivete sangalo": "https://cdn-images.dzcdn.net/images/artist/af610aac3598378442e59f1f422478bb/1000x1000-000000-80-0-0.jpg",
+  "mayhem|lady gaga": "https://cdn-images.dzcdn.net/images/cover/5f70ffc30c43410fc2a88ae10baa91c7/1000x1000-000000-80-0-0.jpg",
+  "|ed sheeran": "https://cdn-images.dzcdn.net/images/artist/d6bb84390641d8ae9118228d9544e53d/1000x1000-000000-80-0-0.jpg",
+  "lana|sza": "https://cdn-images.dzcdn.net/images/artist/8ced041da2bed70d5715f0860956169b/1000x1000-000000-80-0-0.jpg",
+  "riot|hayley williams": "https://cdn-images.dzcdn.net/images/artist/5db2e7f4e82e0ceb93b1f475a29569ab/1000x1000-000000-80-0-0.jpg",
+  "after laughter|hayley williams": "https://cdn-images.dzcdn.net/images/artist/5db2e7f4e82e0ceb93b1f475a29569ab/1000x1000-000000-80-0-0.jpg",
+  "brat|charli xcx": "https://cdn-images.dzcdn.net/images/cover/de9e79511cda59914de9add50946e43c/1000x1000-000000-80-0-0.jpg",
+  "addison|addison rae": "https://cdn-images.dzcdn.net/images/cover/6925f0e9f34b95ce5781480b249fd86d/1000x1000-000000-80-0-0.jpg",
+  "easy money baby|myke towers": "https://cdn-images.dzcdn.net/images/cover/d9813d681dc888bc53c70349ca9315ba/1000x1000-000000-80-0-0.jpg",
+  "lady leste|gloria groove": "https://cdn-images.dzcdn.net/images/cover/63126ae63e02fc266c2156642bdecbb8/1000x1000-000000-80-0-0.jpg",
+  "|stray kids": "https://cdn-images.dzcdn.net/images/artist/5cba9e96cd7a44955d47ff3d7eb16ef3/1000x1000-000000-80-0-0.jpg",
+  "tropicalia ou panis et circencis|gilberto gil": "https://cdn-images.dzcdn.net/images/artist/1155049990857b7e5260f2f99a2d48dd/1000x1000-000000-80-0-0.jpg"
  },
  "articles": {
+  "2001": {
+   "url": "https://cdn-images.dzcdn.net/images/artist/cc2495870fe1a792ad0cdb05501ad5ec/1000x1000-000000-80-0-0.jpg",
+   "title": "Swim"
+  },
   "2002": {
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f8/a2/28/f8a228ad-011a-295e-3924-bf29c34420d9/26UMGIM41894.rgb.jpg/600x600bb.jpg",
    "title": "Choka Choka"
@@ -247,13 +296,41 @@
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/7c/b8/07/7cb8073f-c5c5-edaf-d202-957f55866f04/26UM1IM20315.rgb.jpg/600x600bb.jpg",
    "title": "Patient Zero"
   },
+  "2006": {
+   "url": "https://cdn-images.dzcdn.net/images/artist/8d8316146026d7e6ce377e314536df62/1000x1000-000000-80-0-0.jpg",
+   "title": "Grand Theft Auto VI: The Album"
+  },
   "2007": {
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/0a/7b/690a7bb3-4483-2418-158c-9276d7d98f81/823375049500_Cover.jpg/600x600bb.jpg",
    "title": "Arirang"
   },
+  "2014": {
+   "url": "https://cdn-images.dzcdn.net/images/artist/38ac9f6685f8d07d9528d41503bf450f/1000x1000-000000-80-0-0.jpg",
+   "title": "país lindo e povo maravilhoso"
+  },
+  "2017": {
+   "url": "https://cdn-images.dzcdn.net/images/cover/ae91a6bacf72ed1ad57d30e6bf280928/1000x1000-000000-80-0-0.jpg",
+   "title": "Brutal Paraíso"
+  },
+  "2018": {
+   "url": "https://cdn-images.dzcdn.net/images/cover/ae91a6bacf72ed1ad57d30e6bf280928/1000x1000-000000-80-0-0.jpg",
+   "title": "Brutal Paraíso"
+  },
   "2019": {
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/58/3c/23/583c235e-6ed5-9965-8342-5ad16414d466/196874057636.jpg/600x600bb.jpg",
    "title": "Bossa Sempre Nova"
+  },
+  "2021": {
+   "url": "https://cdn-images.dzcdn.net/images/artist/fe097f693cebf1f882e3da79e99e3bf9/1000x1000-000000-80-0-0.jpg",
+   "title": "Bieberchella"
+  },
+  "2024": {
+   "url": "https://cdn-images.dzcdn.net/images/cover/d98eaccfbb945bdf68241d6de7fe6a49/1000x1000-000000-80-0-0.jpg",
+   "title": "Debí Tirar Más Fotos"
+  },
+  "2026": {
+   "url": "https://cdn-images.dzcdn.net/images/artist/0d1089872a6eb123c44119173313b29f/1000x1000-000000-80-0-0.jpg",
+   "title": "Uma Batalha Após a Outra"
   },
   "2029": {
    "url": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/0a/7b/690a7bb3-4483-2418-158c-9276d7d98f81/823375049500_Cover.jpg/600x600bb.jpg",
@@ -277,5 +354,536 @@
   }
  },
  "misses": {},
- "people": {}
+ "people": {
+  "taylor-swift": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png/960px-Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_%283%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Taylor_Swift"
+  },
+  "beyonce": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_%2810_of_118%29_%2852946364598%29_%28best_crop%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Beyoncé"
+  },
+  "rihanna": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Rihanna"
+  },
+  "justin-bieber": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Justin_Bieber"
+  },
+  "ariana-grande": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Ariana_Grande_promoting_Wicked_%282024%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Ariana_Grande"
+  },
+  "billie-eilish": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/BillieEilishO2140725-39_-_54665577407_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Billie_Eilish"
+  },
+  "the-weeknd": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/The_Weeknd_Portrait_by_Brian_Ziff.jpg/960px-The_Weeknd_Portrait_by_Brian_Ziff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/The_Weeknd"
+  },
+  "drake": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Drake_at_The_Carter_Effect_2017_%2836818935200%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Drake_(musician)"
+  },
+  "dua-lipa": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Dua_Lipa_%E2%80%93_Dua_Lipa_cover_art.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Dua_Lipa_(album)"
+  },
+  "sabrina-carpenter": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Sabrina_Carpenter_-_O2_Arena_2025_-_086_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Sabrina_Carpenter"
+  },
+  "bad-bunny": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/960px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Bad_Bunny"
+  },
+  "shakira": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg/960px-2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Shakira"
+  },
+  "karol-g": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg/960px-2023-11-16_Gala_de_los_Latin_Grammy%2C_15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Karol_G"
+  },
+  "j-balvin": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/J_Balvin%2C_Noisey_Meets%3B_Oct_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/J_Balvin"
+  },
+  "peso-pluma": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peso_Pluma%2C_performing_in_Monterrey_%282024-09-24%29_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Peso_Pluma"
+  },
+  "rosalia": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg/960px-2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Rosalía"
+  },
+  "maluma": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/2023-11-16_Gala_de_los_Latin_Grammy%2C_20_%28Maluma%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Maluma"
+  },
+  "rauw-alejandro": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/07/2023-11-16_Gala_de_los_Latin_Grammy%2C_13_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Rauw_Alejandro"
+  },
+  "feid": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Feid_2022_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Feid"
+  },
+  "bizarrap": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/2023-11-16_Gala_de_los_Latin_Grammy%2C_04_%28cropped%29_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Bizarrap"
+  },
+  "anitta": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Anitta_for_Attractive_Mindset_podcast_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Anitta"
+  },
+  "luisa-sonza": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/2025-03-03_Carnaval_de_Olinda%2C_-i---i-_%2854363366417%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Luísa_Sonza"
+  },
+  "ludmilla": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Ludmilla_-_TVZ_2024_%281%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Ludmilla"
+  },
+  "ivete-sangalo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg/960px-Ivete_Sangalo_SAM_0058_%2854481946217%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Ivete_Sangalo"
+  },
+  "gusttavo-lima": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Gustavo_Lima_2021.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Gusttavo_Lima"
+  },
+  "ana-castela": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ana_Castela_-_Ver%C3%A3o_Maior_Paran%C3%A1_2026_%28cropped%29_2.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Ana_Castela"
+  },
+  "jao": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/J%C3%A3o_at_the_Lady_Night_in_2022_%2803%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Jão"
+  },
+  "neymar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/960px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Neymar"
+  },
+  "virginia-fonseca": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg/960px-Virginia_Fonseca_na_CPI_das_BETS_02_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Virginia_Fonseca"
+  },
+  "casimiro": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Casimiro.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Casimiro_(streamer)"
+  },
+  "bruno-mars": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg/960px-BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Bruno_Mars"
+  },
+  "lady-gaga": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/960px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Lady_Gaga"
+  },
+  "ed-sheeran": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/P2N2022Macklemore_1.jpg/960px-P2N2022Macklemore_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Macklemore–Ed_Sheeran_tour_controversy"
+  },
+  "harry-styles": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg/960px-HarryStylesWembley170623_%2865_of_93%29_%2852982678051%29_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Harry_Styles"
+  },
+  "olivia-rodrigo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Glasto2025-546_%28cropped%29_2.jpg/960px-Glasto2025-546_%28cropped%29_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Olivia_Rodrigo"
+  },
+  "katy-perry": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Katy_Perry_2026_Tribeca_Film_Festival_%28cropped_1%29.jpg/960px-Katy_Perry_2026_Tribeca_Film_Festival_%28cropped_1%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Katy_Perry"
+  },
+  "selena-gomez": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Selena_Gomez_for_Pantene_3.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Selena_Gomez_videography"
+  },
+  "miley-cyrus": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Miley_Cyrus_Primavera19_-222_%2848986108931%29_%28cropped%29.jpg/960px-Miley_Cyrus_Primavera19_-222_%2848986108931%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Miley_Cyrus"
+  },
+  "doja-cat": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Doja_Cat_x_Amazon1.1_%28cropped%29.jpg/960px-Doja_Cat_x_Amazon1.1_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Doja_Cat"
+  },
+  "sza": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/KendrickSZASPurs230725-19_-_54683179509_%28cropped%29_%28cropped%29.jpg/960px-KendrickSZASPurs230725-19_-_54683179509_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/SZA"
+  },
+  "kendrick-lamar": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg/960px-KendrickSZASPurs230725-144_%28cropped%29_desaturated.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Kendrick_Lamar"
+  },
+  "travis-scott": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Travis_Scott_sig.svg/960px-Travis_Scott_sig.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Travis_Scott"
+  },
+  "post-malone": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Post_Malone_July_2021_%28cropped%29.jpg/960px-Post_Malone_July_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Post_Malone"
+  },
+  "chappell-roan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/ChappellRoanRockES200825-198_%28cropped%29.jpg/960px-ChappellRoanRockES200825-198_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Chappell_Roan"
+  },
+  "madonna": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/960px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Madonna"
+  },
+  "lisa": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/20240314_Lisa_Manoban_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Lisa_(rapper)"
+  },
+  "rose": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Blackpink_Ros%C3%A9_Rimowa_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Rosé_(singer)"
+  },
+  "bts": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg/960px-BTS_during_a_White_House_press_conference_May_31%2C_2022_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/BTS"
+  },
+  "zayn": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Zayn_Wiki_%28cropped%29.jpg/960px-Zayn_Wiki_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Zayn_Malik"
+  },
+  "robbie-williams": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/Robbie_Williams_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/960px-Robbie_Williams_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Robbie_Williams"
+  },
+  "hayley-williams": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Hayley_Williams_Show_in_Raleigh_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Hayley_Williams"
+  },
+  "morgan-wallen": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Morgan_Wallen_performing_at_Bank_of_America_Stadium.png/960px-Morgan_Wallen_performing_at_Bank_of_America_Stadium.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Morgan_Wallen"
+  },
+  "ella-langley": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Ella_Langley_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Ella_Langley"
+  },
+  "charli-xcx": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Aidan_Zamiri_and_Charlie_XCX_at_Berlin_Film_Festival_2026%2C_%28P1230624%29_%28cropped%29.jpg/960px-Aidan_Zamiri_and_Charlie_XCX_at_Berlin_Film_Festival_2026%2C_%28P1230624%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Charli_XCX_discography"
+  },
+  "kylie-jenner": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kylie_Jenner2_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Kylie_Jenner"
+  },
+  "kendall-jenner": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Kendall_Jenner_Venice_Film_Festival_2_%28cropped%29.jpg/960px-Kendall_Jenner_Venice_Film_Festival_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Kendall_Jenner"
+  },
+  "kim-kardashian": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Kim_Kardashian_West_2014.jpg/960px-Kim_Kardashian_West_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Kim_Kardashian"
+  },
+  "hailey-bieber": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_%28cropped_2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Justin_Bieber"
+  },
+  "zendaya": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Zendaya-byPhilipRomano.jpg/960px-Zendaya-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Zendaya"
+  },
+  "mrbeast": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MrBeast_in_2026_%28cropped_4%29.png/960px-MrBeast_in_2026_%28cropped_4%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/MrBeast"
+  },
+  "khaby-lame": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Khaby_Lame%2C_Nov_2025_%28cropped1%29.jpg/960px-Khaby_Lame%2C_Nov_2025_%28cropped1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Khaby_Lame"
+  },
+  "charli-damelio": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Charli_D%27Amelio_at_KCA_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Charli_D'Amelio"
+  },
+  "addison-rae": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/LanaWembley030725-3_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Addison_Rae"
+  },
+  "cristiano-ronaldo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/960px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Cristiano_Ronaldo"
+  },
+  "lionel-messi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg/960px-Cristiano_Ronaldo_and_Lionel_Messi_-_Portugal_vs_Argentina%2C_9th_February_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Messi–Ronaldo_rivalry"
+  },
+  "daddy-yankee": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daddy_Yankee_-_The_Kingdom_%28Official_Q_%26_A%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Daddy_Yankee"
+  },
+  "ozuna": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Ozuna-2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Ozuna"
+  },
+  "becky-g": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Becky_G_2023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Becky_G"
+  },
+  "myke-towers": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Myke_Towers_in_interview_-_Tony_Dandrades_-_2021.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Myke_Towers"
+  },
+  "nicky-jam": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Nicky_Jam_2024_%28cropped%29.jpg/960px-Nicky_Jam_2024_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Nicky_Jam"
+  },
+  "tini": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Tini_%282021%29_02.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Tini_(singer)"
+  },
+  "camilo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Camilo_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Camilo_(singer)"
+  },
+  "ricky-martin": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ricky_Martin-4262.jpg/960px-Ricky_Martin-4262.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Ricky_Martin"
+  },
+  "marc-anthony": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Interview_with_Marc_Anthony_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Marc_Anthony"
+  },
+  "enrique-iglesias": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Enrique_Iglesias_2011%2C_2_%28cropped%29.jpg/960px-Enrique_Iglesias_2011%2C_2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Enrique_Iglesias"
+  },
+  "luis-fonsi": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Luis_Fonsi_2015_%28cropped%29.JPG/960px-Luis_Fonsi_2015_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Luis_Fonsi"
+  },
+  "ca7riel-paco-amoroso": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CA7RIEL_%26_Paco_Amoroso%2C_Baloise_Session_2025_DSC07335_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "es.wikipedia.org/wiki/Ca7riel"
+  },
+  "marilia-mendonca": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Marilia_Mendonca_Pecuaria_de_Goiania_2018_2.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Marília_Mendonça"
+  },
+  "henrique-e-juliano": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Henrique_%26_Juliano_-_Citibank_Hall_%2838306450541%29.jpg/960px-Henrique_%26_Juliano_-_Citibank_Hall_%2838306450541%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Henrique_&_Juliano"
+  },
+  "jorge-e-mateus": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Show_da_dupla_Jorge_e_Matheus.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Jorge_(cantor)"
+  },
+  "ze-neto-e-cristiano": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ze_Neto_e_Cristiano_2026.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Zé_Neto_&_Cristiano"
+  },
+  "simone-mendes": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/31.01.2026_%E2%80%93_Governador_Eduardo_Leite_participa_da_segunda_noite_do_Planeta_Atl%C3%A2ntida_-_55072122491_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Simone_Mendes"
+  },
+  "wesley-safadao": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Wesley_Safad%C3%A3o_Citibank_Hall_2017_%2836674588052%29_%28cropped%29.jpg/960px-Wesley_Safad%C3%A3o_Citibank_Hall_2017_%2836674588052%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Wesley_Safadão"
+  },
+  "pabllo-vittar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Pabllo_Vittar_-_TVZ_2024_%281%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Pabllo_Vittar"
+  },
+  "iza": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/IZA_is_a_Brazilian_singer%2C_songwriter_and_dancer.jpg/960px-IZA_is_a_Brazilian_singer%2C_songwriter_and_dancer.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Iza_(cantora)"
+  },
+  "luan-santana": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2Z9A7852.jpg/960px-2Z9A7852.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Luan_Santana"
+  },
+  "alok": {
+   "url": "https://cdn-images.dzcdn.net/images/artist/b16b1f65eb1189e00e6e496712d34778/1000x1000-000000-80-0-0.jpg",
+   "credit": "Foto: Deezer",
+   "source": "deezer.com"
+  },
+  "pedro-sampaio": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Pedro_Sampaio_-_Lady_Night_2024.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Pedro_Sampaio"
+  },
+  "gloria-groove": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/35_230624_-_Giselle_Dietze_-_SENSA_-_165_%2853011436168%29_%28cropped%29.jpg/960px-35_230624_-_Giselle_Dietze_-_SENSA_-_165_%2853011436168%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Gloria_Groove"
+  },
+  "thiaguinho": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Thiaguinho_Pr%C3%AAmio_Multishow_2022.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Thiaguinho"
+  },
+  "filipe-ret": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Filipe_Ret_Alerj_%28cropped%29.webp?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Filipe_Ret"
+  },
+  "felipe-neto": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Felipe_Neto_at_the_Lady_Night_in_2022_%2801%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Felipe_Neto"
+  },
+  "whindersson-nunes": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/14/Whindersson_2021.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Whindersson_Nunes"
+  },
+  "carlinhos-maia": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Carlinhos_Maia_-_Stories_da_Mansao_2026.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Carlinhos_Maia"
+  },
+  "juliette": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Juliette_at_Web_Summit_Rio_2026_%28cropped%29.jpg/960px-Juliette_at_Web_Summit_Rio_2026_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Juliette"
+  },
+  "bruna-marquezine": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bruna_Marquezine_2025.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Bruna_Marquezine"
+  },
+  "vini-jr": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/960px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Vinícius_Júnior"
+  },
+  "elton-john": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Elton_JohnAnd_His_Band_During_His_Farewell_Yellow_Brick_Road_World_Tour_%2843974924660%29.jpg/960px-Elton_JohnAnd_His_Band_During_His_Farewell_Yellow_Brick_Road_World_Tour_%2843974924660%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Elton_John_Band"
+  },
+  "stray-kids": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Stray_Kids_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%281%29.png/960px-Stray_Kids_at_the_40th_Golden_Disc_Awards%2C_January_10%2C_2026_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Stray_Kids"
+  },
+  "gilberto-gil": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Gilberto_Gil%2C_May_2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Gilberto_Gil"
+  },
+  "demi-lovato": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/DemiLovatoApr09.jpg/960px-DemiLovatoApr09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Demi_Lovato_videography"
+  },
+  "wagner-moura": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Wagner_Moura-6546_%283x4%29.jpg/960px-Wagner_Moura-6546_%283x4%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Wagner_Moura"
+  },
+  "michael-b-jordan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Michael_B_Jordan_-_Sinners_%28cropped%29.jpg/960px-Michael_B_Jordan_-_Sinners_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Michael_B._Jordan"
+  },
+  "olivia-dean": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Olivia_Dean_-_Sabrina_Carpenter_at_BST_Hyde_Park_-_20250706_-_115_%28cropped%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Olivia_Dean"
+  },
+  "travis-kelce": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Travis_Kelce_in_the_Oval_Office_of_the_White_House_on_June_5%2C_2023_-_P20230605AS-0902_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Travis_Kelce"
+  },
+  "ana-paula-renault": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/Ana_Paula_Renault_em_janeiro_de_2026.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Ana_Paula_Renault"
+  }
+ }
 }
