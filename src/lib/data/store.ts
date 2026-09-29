@@ -7,7 +7,7 @@
  * Assim, conteúdo novo que chega pelo código aparece no ar sem precisar reimportar o banco.
  * Só contam linhas com `updated_by` (gravadas pelo admin/robô); as do seed inicial são ignoradas.
  */
-import { sectionKeys } from '@/lib/i18n/routes';
+import { normalizeSection } from '@/lib/i18n/routes';
 import { sbSelect, supabaseEnabled, supabaseWritable } from '@/lib/supabase';
 import { awardsBySlug } from './awards';
 import { liveCharts } from './charts-live';
@@ -18,6 +18,7 @@ import { brArticles, brEvents } from './content-br';
 import { vmaArticles } from './content-vma';
 import { realPeople } from './people';
 import { morePeople } from './people-more';
+import { extraPeople } from './people-extra';
 import type { Article, Chart, EntertainmentEvent, Person, Release } from './types';
 
 export type ContentKind = 'article' | 'person' | 'event' | 'chart' | 'release';
@@ -35,9 +36,11 @@ const byNewest = (a: Article, b: Article) => b.publishedAt.localeCompare(a.publi
 const withAwards = (p: Person): Person => (p.awards || !awardsBySlug[p.slug] ? p : { ...p, awards: awardsBySlug[p.slug] });
 
 /* Capas automáticas (covers.json): só entram onde não há imagem definida pelo admin. */
-const nameById = new Map([...realPeople, ...morePeople].map((p) => [p.id, p.publicName]));
+const nameById = new Map([...realPeople, ...morePeople, ...extraPeople].map((p) => [p.id, p.publicName]));
 /** Sem foto própria: capa do álbum/música citado → foto do artista principal da matéria. */
-const withArticleCover = (a: Article): Article => {
+const withArticleCover = (raw: Article): Article => {
+  const section = normalizeSection(raw.section);
+  const a = section === raw.section ? raw : { ...raw, section };
   if (a.image) return a;
   const image =
     articleCover(a.id, a.t.pt.headline) ??
@@ -74,7 +77,7 @@ const withReleaseCover = (r: Release): Release =>
 export function localStore(): Store {
   return {
     articles: [...brArticles, ...vmaArticles, ...local.articles, ...archive].map(withArticleCover).sort(byNewest),
-    people: [...realPeople, ...morePeople].map(withAwards).map(withWorkCovers).map(withPhoto),
+    people: [...realPeople, ...morePeople, ...extraPeople].map(withAwards).map(withWorkCovers).map(withPhoto),
     events: dedupeEvents([...local.events, ...brEvents]).sort((a, b) => a.startsAt.localeCompare(b.startsAt)),
     // Charts vêm sempre do código/robô (não são editados no admin).
     charts: chartsWithCovers,
@@ -110,9 +113,8 @@ export async function getStore(): Promise<Store> {
     const hidden = (k: ContentKind) => new Set(statuses.filter((r) => r.kind === k).map((r) => r.id));
     const pick = <T,>(k: ContentKind) => rows.filter((r) => r.kind === k).map((r) => r.data as T);
     // Segurança: matéria com seção que não existe mais (ex.: abas removidas) não entra no site.
-    const validSection = (a: Article) => (sectionKeys as readonly string[]).includes(a.section);
     return {
-      articles: merge(base.articles, pick<Article>('article').filter(validSection).map(withArticleCover), hidden('article')).sort(byNewest),
+      articles: merge(base.articles, pick<Article>('article').map(withArticleCover), hidden('article')).sort(byNewest),
       people: merge(base.people, pick<Person>('person').map(withWorkCovers).map(withPhoto), hidden('person')).map(withAwards),
       events: merge(base.events, pick<EntertainmentEvent>('event'), hidden('event')),
       charts: base.charts,

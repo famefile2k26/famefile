@@ -597,7 +597,7 @@ export const archive: Article[] = [
 
   /* ─── Fofoca e música pop ──────────────────────────────── */
   art(
-    '2028', 'gossip', '2026-07-04T18:00:00Z', 320,
+    '2028', 'news', '2026-07-04T18:00:00Z', 320,
     ['taylor-swift', 'travis-kelce'],
     [
       { name: 'Good Morning America', url: 'https://www.goodmorningamerica.com/culture/story/taylor-swift-travis-kelces-2nd-wedding-event-expected-134426168' },

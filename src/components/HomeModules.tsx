@@ -34,7 +34,7 @@ export const homeModules = [
   'brazil',
   'trendingPeople',
   'celebs',
-  'gossip',
+  'latest',
   'yearTop',
   'musicAndCharts',
   'creatorRadar',
@@ -186,21 +186,18 @@ const modules: Record<HomeModule, Loader> = {
     );
   },
 
-  async gossip(locale) {
+  async latest(locale) {
     const d = getDictionary(locale);
-    const [gossip, fallback] = await Promise.all([
-      getArticles({ section: 'gossip', limit: 8 }),
-      getArticles({ limit: 8 }),
-    ]);
-    const items = gossip.length >= 4 ? gossip : [...gossip, ...fallback.filter((a) => a.section !== 'gossip')].slice(0, 6);
+    const items = (await getArticles({ limit: 14 })).slice(5, 14);
+    if (!items.length) return null;
     return (
-      <Section id="h-gossip">
+      <Section id="h-latest">
         <SectionHeader
-          id="h-gossip"
-          title={d.home.gossip}
-          subtitle={d.home.gossipSub}
-          accent="var(--color-gossip)"
-          href={sectionPath(locale, 'gossip')}
+          id="h-latest"
+          title={d.home.latest}
+          subtitle={d.home.latestSub}
+          accent="var(--color-news)"
+          href={sectionPath(locale, 'news')}
           linkLabel={d.common.seeAll}
         />
         <div className="rail">

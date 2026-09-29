@@ -342,7 +342,7 @@ export const vmaArticles: Article[] = [
 
   /* ─── Perdedores ─────────────────────────────────────────── */
   art(
-    '2036', 'gossip', '2026-09-28T10:30:00Z', 15,
+    '2036', 'news', '2026-09-28T10:30:00Z', 15,
     ['sabrina-carpenter', 'ariana-grande', 'bruno-mars', 'harry-styles', 'charli-xcx', 'anitta'],
     [SRC.rsca, SRC.hl, SRC.haute],
     {
@@ -419,7 +419,7 @@ export const vmaArticles: Article[] = [
 
   /* ─── Polêmicas ──────────────────────────────────────────── */
   art(
-    '2038', 'gossip', '2026-09-28T12:40:00Z', 5, ['madonna', 'bruno-mars', 'bts'],
+    '2038', 'news', '2026-09-28T12:40:00Z', 5, ['madonna', 'bruno-mars', 'bts'],
     [SRC.tbs, SRC.jj, SRC.mt],
     {
       pt: {
@@ -534,7 +534,7 @@ export const vmaArticles: Article[] = [
 
   /* ─── Ausências ──────────────────────────────────────────── */
   art(
-    '2041', 'gossip', '2026-09-28T15:10:00Z', 55,
+    '2041', 'news', '2026-09-28T15:10:00Z', 55,
     ['ariana-grande', 'harry-styles', 'shakira', 'bts', 'travis-kelce', 'taylor-swift'],
     [SRC.skip, SRC.mt],
     {
@@ -573,7 +573,7 @@ export const vmaArticles: Article[] = [
 
   /* ─── Tapete vermelho ────────────────────────────────────── */
   art(
-    '2042', 'gossip', '2026-09-28T16:00:00Z', 340, ['taylor-swift', 'charli-xcx', 'lisa'],
+    '2042', 'news', '2026-09-28T16:00:00Z', 340, ['taylor-swift', 'charli-xcx', 'lisa'],
     [SRC.jjRed, SRC.wmag],
     {
       pt: {
@@ -611,7 +611,7 @@ export const vmaArticles: Article[] = [
 
   /* ─── Snoop Dogg ─────────────────────────────────────────── */
   art(
-    '2043', 'gossip', '2026-09-28T17:00:00Z', 120, ['madonna'],
+    '2043', 'news', '2026-09-28T17:00:00Z', 120, ['madonna'],
     [SRC.snoop, SRC.forbes],
     {
       pt: {

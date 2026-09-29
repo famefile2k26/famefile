@@ -58,7 +58,7 @@
  },
  {
   "id": "3002",
-  "section": "gossip",
+  "section": "news",
   "publishedAt": "2026-09-27T15:24:00Z",
   "personIds": [
    "simone-mendes"
@@ -623,7 +623,7 @@
  },
  {
   "id": "3012",
-  "section": "gossip",
+  "section": "news",
   "publishedAt": "2026-09-07T15:00:00Z",
   "personIds": [],
   "confidence": "reported",
@@ -678,7 +678,7 @@
  },
  {
   "id": "3013",
-  "section": "gossip",
+  "section": "news",
   "publishedAt": "2026-09-04T15:00:00Z",
   "personIds": [
    "ana-castela"
@@ -739,7 +739,7 @@
  },
  {
   "id": "3014",
-  "section": "gossip",
+  "section": "news",
   "publishedAt": "2026-09-03T15:00:00Z",
   "personIds": [
    "gusttavo-lima"
@@ -1414,7 +1414,7 @@
  },
  {
   "id": "3108",
-  "section": "gossip",
+  "section": "news",
   "publishedAt": "2026-09-23T19:32:00Z",
   "personIds": [
    "virginia-fonseca"
@@ -1516,7 +1516,7 @@
  },
  {
   "id": "3110",
-  "section": "gossip",
+  "section": "news",
   "publishedAt": "2026-09-18T18:07:00Z",
   "personIds": [
    "ludmilla"

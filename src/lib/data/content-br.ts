@@ -5,6 +5,7 @@
 import type { Article, EntertainmentEvent } from './types';
 import agenda from './br-agenda.json';
 import news from './br-news.json';
+import latest from './news-0929.json';
 
-export const brArticles = news as unknown as Article[];
+export const brArticles = [...(latest as unknown as Article[]), ...(news as unknown as Article[])];
 export const brEvents = agenda as unknown as EntertainmentEvent[];

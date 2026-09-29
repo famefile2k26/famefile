@@ -82,6 +82,8 @@ export const es: Dictionary = {
     liveNowSub: 'Streamers conectados en este momento',
     brazil: 'Tendencias en Brasil',
     brazilSub: 'Sertanejo, funk, pop y los creators de los que todo Brasil habla',
+    latest: 'Más noticias',
+    latestSub: 'Todo lo que pasa con los famosos, en la música, el cine e internet',
     yearTop: 'Los temas que marcaron 2026',
     yearTopSub: 'Selección de la redacción con las historias más comentadas del año hasta ahora',
   },

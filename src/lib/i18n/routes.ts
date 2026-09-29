@@ -3,7 +3,6 @@ import { isLocale, locales, type Locale } from './config';
 /** Chaves internas das verticais — estáveis, independentes de idioma. */
 export const sectionKeys = [
   'news',
-  'gossip',
   'music',
   'charts',
   'creators',
@@ -15,7 +14,6 @@ export type SectionKey = (typeof sectionKeys)[number];
 /** Slug público de cada vertical, por idioma. */
 export const sectionSlugs: Record<SectionKey, Record<Locale, string>> = {
   news: { pt: 'noticias', en: 'news', es: 'noticias' },
-  gossip: { pt: 'fofocas', en: 'gossip', es: 'chismes' },
   music: { pt: 'musica', en: 'music', es: 'musica' },
   charts: { pt: 'charts', en: 'charts', es: 'charts' },
   creators: { pt: 'creators', en: 'creators', es: 'creators' },
@@ -26,7 +24,6 @@ export const sectionSlugs: Record<SectionKey, Record<Locale, string>> = {
 /** Cor de acento de cada vertical (tokens em globals.css). */
 export const sectionAccent: Record<SectionKey, string> = {
   news: 'var(--color-news)',
-  gossip: 'var(--color-gossip)',
   music: 'var(--color-music)',
   charts: 'var(--color-charts)',
   creators: 'var(--color-creators)',
@@ -34,8 +31,16 @@ export const sectionAccent: Record<SectionKey, string> = {
   'movies-tv': 'var(--color-movies)',
 };
 
+/** Abas antigas que foram unidas a Notícias — links velhos continuam funcionando (redirecionam). */
+const legacySlugs = new Set(['fofocas', 'gossip', 'chismes', 'eventos', 'events', 'estilo', 'style']);
+
 export function sectionFromSlug(locale: Locale, slug: string): SectionKey | undefined {
-  return sectionKeys.find((k) => sectionSlugs[k][locale] === slug);
+  return sectionKeys.find((k) => sectionSlugs[k][locale] === slug) ?? (legacySlugs.has(slug) ? 'news' : undefined);
+}
+
+/** Qualquer seção que não existe mais vira Notícias. */
+export function normalizeSection(section: string): SectionKey {
+  return (sectionKeys as readonly string[]).includes(section) ? (section as SectionKey) : 'news';
 }
 
 export const homePath = (locale: Locale) => `/${locale}`;

@@ -80,6 +80,8 @@ export const pt = {
     liveNowSub: 'Streamers online neste momento',
     brazil: 'Brasil em alta',
     brazilSub: 'Sertanejo, funk, pop e os creators que o Brasil inteiro está comentando',
+    latest: 'Mais notícias',
+    latestSub: 'Tudo o que está rolando com os famosos, na música, no cinema e na internet',
     yearTop: 'Os assuntos que marcaram 2026',
     yearTopSub: 'Seleção da redação com as histórias mais comentadas do ano até aqui',
   },

@@ -39,6 +39,11 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 - Brasil: `lib/data/br-news.json` (37 matérias com foto das fontes) e `br-agenda.json` (100 shows/festivais out/2026–jan/2027), carregados por `content-br.ts`. Módulo "Brasil em alta" na home. Shows aparecem na aba Shows de cada perfil.
 - Fotos de perfil automáticas (Wikipedia/Commons → Deezer) em covers.json; matéria sem foto usa capa citada ou foto do artista.
 
+## Atualização 29/09 (tarde)
+- Fofocas unida a Notícias (seção `gossip` removida; links antigos /fofocas redirecionam). Home: módulo "Mais notícias".
+- 92 matérias dos últimos 3 dias (`news-0929.json`): internacionais, latinos (Lali, Tini, Arjona...), Brasil, streamers/bets, filmes e séries. 21 perfis novos em `people-extra.json` (fotos pelo workflow).
+- Regra: todo conteúdo novo entra com foto (da fonte; senão capa/foto do artista).
+
 ## Decisões importantes
 - i18n caseiro em vez de next-intl: ~100 linhas, zero dependência, controle total dos slugs localizados. Reavaliar se precisarmos de plurais/ICU.
 - Hero v2: celular rolando um feed vertical (5 cenas desenhadas em CSS: show, tapete vermelho, creator, live, chart) + fotógrafos em silhueta com flashes ao fundo. CSS puro; `HeroMotion` só pausa fora da tela. Logo aparece em ~1,2s (LCP); flashes ~1,2/s (WCAG 2.3.1); reduced-motion = estático sem flashes.

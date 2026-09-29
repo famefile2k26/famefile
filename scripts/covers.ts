@@ -13,6 +13,7 @@ import { vmaArticles } from '../src/lib/data/content-vma';
 import { mainArtist, norm, songKey } from '../src/lib/data/covers';
 import { morePeople } from '../src/lib/data/people-more';
 import { realPeople } from '../src/lib/data/people';
+import { extraPeople } from '../src/lib/data/people-extra';
 
 const FILE = 'src/lib/data/covers.json';
 const db = JSON.parse(readFileSync(FILE, 'utf8')) as {
@@ -135,7 +136,7 @@ async function resolve(bucket: 'songs' | 'albums', title: string, artist: string
   console.log(url ? '✓' : '·', bucket, title, '—', artist);
 }
 
-const people = [...realPeople, ...morePeople];
+const people = [...realPeople, ...morePeople, ...extraPeople];
 
 const hint: Record<string, Record<string, string>> = {
   en: { singer: 'singer', actor: 'actor', creator: 'influencer', streamer: 'streamer', athlete: 'footballer' },

@@ -82,6 +82,8 @@ export const en: Dictionary = {
     liveNowSub: 'Streamers online right now',
     brazil: 'Trending in Brazil',
     brazilSub: 'Sertanejo, funk, pop and the creators all of Brazil is talking about',
+    latest: 'More news',
+    latestSub: 'Everything happening with celebs, music, movies and the internet',
     yearTop: 'The stories that defined 2026',
     yearTopSub: 'Our editors’ pick of the year’s most talked-about stories so far',
   },
