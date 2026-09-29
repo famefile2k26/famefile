@@ -18,8 +18,50 @@ const db = JSON.parse(readFileSync(FILE, 'utf8')) as {
   songs: Record<string, string>;
   albums: Record<string, string>;
   articles: Record<string, { url: string; title: string }>;
+  people: Record<string, { url: string; credit: string; source: string }>;
   misses: Record<string, string>;
 };
+db.people ??= {};
+const UA = { 'User-Agent': 'FAMEFILE-bot/1.0 (https://famefile-two.vercel.app)' };
+
+async function getJson<T>(url: string, wait = 400): Promise<T | undefined> {
+  await sleep(wait);
+  for (let i = 0; i < 3; i++) {
+    try {
+      const r = await fetch(url, { headers: UA });
+      if (r.status === 429 || r.status >= 500) {
+        await sleep(5000);
+        continue;
+      }
+      if (!r.ok) return undefined;
+      return (await r.json()) as T;
+    } catch {
+      await sleep(3000);
+    }
+  }
+  return undefined;
+}
+
+/* ─── Deezer (plano B para capas; foto de artista como último recurso) ─── */
+type DzTrack = { title: string; artist: { name: string; picture_xl?: string }; album: { title: string; cover_xl?: string } };
+type DzArtist = { name: string; picture_xl?: string; nb_fan?: number };
+const validDz = (u?: string) => (u && !/\/(artist|cover)\/\/|\/images\/(artist|cover)\/\//.test(u) ? u : undefined);
+
+async function deezerCover(title: string, artist: string, kind: 'track' | 'album') {
+  const q = kind === 'track' ? `artist:"${mainArtist(artist)}" track:"${title}"` : `artist:"${mainArtist(artist)}" album:"${title}"`;
+  const res = await getJson<{ data?: DzTrack[] }>(`https://api.deezer.com/search?q=${encodeURIComponent(q)}`);
+  const hit = res?.data?.find((t) => artistOk(t.artist.name, artist));
+  if (hit) return validDz(hit.album.cover_xl);
+  const loose = await getJson<{ data?: DzTrack[] }>(`https://api.deezer.com/search?q=${encodeURIComponent(`${title} ${mainArtist(artist)}`)}`);
+  const h2 = loose?.data?.find((t) => artistOk(t.artist.name, artist) && (titleOk(t.title, title) || titleOk(t.album.title, title)));
+  return validDz(h2?.album.cover_xl);
+}
+
+async function deezerArtistPhoto(name: string) {
+  const res = await getJson<{ data?: DzArtist[] }>(`https://api.deezer.com/search/artist?q=${encodeURIComponent(name)}`);
+  const hit = res?.data?.find((a) => norm(a.name) === norm(name)) ?? res?.data?.find((a) => artistOk(a.name, name));
+  return validDz(hit?.picture_xl);
+}
 const MAX = Number(process.env.COVERS_MAX ?? 900);
 const WEEK = 7 * 864e5;
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
@@ -79,16 +121,54 @@ function recentMiss(key: string) {
 
 async function resolve(bucket: 'songs' | 'albums', title: string, artist: string, entity: 'song' | 'album', countries?: string[]) {
   const key = songKey(title, artist);
-  if (db[bucket][key] || recentMiss(`${bucket}:${key}`) || calls >= MAX) return;
+  if (db[bucket][key] || recentMiss(`${bucket}:${key}`)) return;
   let url = await find(title, artist, entity, countries);
   if (!url && entity === 'album') url = await find(title, artist, 'song', countries);
   if (!url && entity === 'song') url = await find(title, artist, 'album', countries);
+  if (!url) url = await deezerCover(title, artist, entity === 'song' ? 'track' : 'album');
+  if (!url) url = await deezerCover(title, artist, entity === 'song' ? 'album' : 'track');
+  // Último recurso (charts/obras): foto do artista, para nenhum item ficar sem imagem.
+  if (!url) url = await deezerArtistPhoto(mainArtist(artist));
   if (url) db[bucket][key] = url;
   else db.misses[`${bucket}:${key}`] = new Date().toISOString();
   console.log(url ? '✓' : '·', bucket, title, '—', artist);
 }
 
 const people = [...realPeople, ...morePeople];
+
+const hint: Record<string, Record<string, string>> = {
+  en: { singer: 'singer', actor: 'actor', creator: 'influencer', streamer: 'streamer', athlete: 'footballer' },
+  pt: { singer: 'cantor', actor: 'ator', creator: 'influenciador', streamer: 'streamer', athlete: 'futebolista' },
+  es: { singer: 'cantante', actor: 'actor', creator: 'influencer', streamer: 'streamer', athlete: 'futbolista' },
+};
+type WikiPages = { query?: { pages?: Record<string, { title: string; index?: number; thumbnail?: { source: string }; pageimage?: string }> } };
+
+async function wikiPhoto(lang: string, name: string, legal: string | undefined, kind: string) {
+  const term = `${name} ${hint[lang]?.[kind] ?? ''}`.trim();
+  const url =
+    `https://${lang}.wikipedia.org/w/api.php?action=query&format=json&generator=search&gsrlimit=3&gsrsearch=${encodeURIComponent(term)}` +
+    `&prop=pageimages&piprop=thumbnail|name&pithumbsize=800&pilicense=free`;
+  const res = await getJson<WikiPages>(url, 300);
+  const pages = Object.values(res?.query?.pages ?? {}).sort((a, b) => (a.index ?? 9) - (b.index ?? 9));
+  const tokens = [name, legal ?? ''].flatMap((n) => norm(n).split(' ')).filter((t) => t.length > 2);
+  const page = pages.find((p) => p.thumbnail && tokens.some((t) => norm(p.title).includes(t)));
+  if (!page?.thumbnail) return undefined;
+  return { url: page.thumbnail.source, credit: 'Foto: Wikimedia Commons', source: `${lang}.wikipedia.org/wiki/${page.title.replace(/ /g, '_')}` };
+}
+
+async function personPhoto(name: string, legal: string | undefined, kinds: string[], market?: string) {
+  const kind = kinds[0] ?? 'singer';
+  const langs = market === 'brazil' ? ['pt', 'en'] : market === 'latin' ? ['en', 'es'] : ['en', 'pt'];
+  for (const l of langs) {
+    const w = await wikiPhoto(l, name, legal, kind);
+    if (w) return w;
+  }
+  if (kinds.includes('singer')) {
+    const dz = await deezerArtistPhoto(name);
+    if (dz) return { url: dz, credit: 'Foto: Deezer', source: 'deezer.com' };
+  }
+  return undefined;
+}
 const nameOf = new Map(people.map((p) => [p.id, p.publicName]));
 
 async function main() {
@@ -122,6 +202,14 @@ async function main() {
       const title = w.title.replace(/\s*\((com|with|con) [^)]*\)/i, '');
       await resolve(w.kind === 'single' ? 'songs' : 'albums', title, p.publicName, w.kind === 'single' ? 'song' : 'album', p.market === 'brazil' ? ['BR', 'US'] : ['US', 'BR']);
     }
+  }
+
+  // 4) Fotos de perfil: Wikipedia/Wikimedia Commons (pt primeiro para o Brasil) → Deezer (artistas)
+  for (const p of people) {
+    if (p.image || db.people[p.id]) continue;
+    const photo = await personPhoto(p.publicName, p.legalName, p.kinds, p.market);
+    if (photo) db.people[p.id] = photo;
+    console.log(photo ? '✓' : '·', 'foto', p.publicName, photo?.source ?? '');
   }
 
   writeFileSync(FILE, JSON.stringify(db, null, 1) + '\n');

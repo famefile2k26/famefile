@@ -10,6 +10,7 @@ type CoverDb = {
   songs?: Record<string, string>;
   albums?: Record<string, string>;
   articles?: Record<string, { url: string; title: string }>;
+  people?: Record<string, { url: string; credit: string; source: string }>;
   misses?: Record<string, string>;
 };
 const db = data as CoverDb;
@@ -39,3 +40,7 @@ export function articleCover(id: string, alt: string): ImageRef | undefined {
   return c ? { url: c.url, alt: `${alt} — capa de “${c.title}”`, credit: 'Capa: Apple Music' } : undefined;
 }
 export const coverImage = (url: string | undefined, alt: string): ImageRef | undefined => (url ? { url, alt } : undefined);
+export function personPhoto(id: string, name: string): ImageRef | undefined {
+  const p = db.people?.[id];
+  return p ? { url: p.url, alt: name, credit: p.credit } : undefined;
+}

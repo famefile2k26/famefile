@@ -11,7 +11,7 @@ import { sectionKeys } from '@/lib/i18n/routes';
 import { sbSelect, supabaseEnabled, supabaseWritable } from '@/lib/supabase';
 import { awardsBySlug } from './awards';
 import { liveCharts } from './charts-live';
-import { albumCover, articleCover, coverImage, songCover } from './covers';
+import { albumCover, articleCover, coverImage, personPhoto, songCover } from './covers';
 import * as local from './content';
 import { archive } from './content-archive';
 import { vmaArticles } from './content-vma';
@@ -35,6 +35,7 @@ const withAwards = (p: Person): Person => (p.awards || !awardsBySlug[p.slug] ? p
 
 /* Capas automáticas (covers.json): só entram onde não há imagem definida pelo admin. */
 const withArticleCover = (a: Article): Article => (a.image ? a : { ...a, image: articleCover(a.id, a.t.pt.headline) });
+const withPhoto = (p: Person): Person => (p.image ? p : { ...p, image: personPhoto(p.id, p.publicName) });
 const withWorkCovers = (p: Person): Person =>
   p.works?.length
     ? {
@@ -54,7 +55,7 @@ const withReleaseCover = (r: Release): Release =>
 export function localStore(): Store {
   return {
     articles: [...vmaArticles, ...local.articles, ...archive].map(withArticleCover).sort(byNewest),
-    people: [...realPeople, ...morePeople].map(withAwards).map(withWorkCovers),
+    people: [...realPeople, ...morePeople].map(withAwards).map(withWorkCovers).map(withPhoto),
     events: local.events,
     // Charts vêm sempre do código/robô (não são editados no admin).
     charts: chartsWithCovers,
@@ -93,7 +94,7 @@ export async function getStore(): Promise<Store> {
     const validSection = (a: Article) => (sectionKeys as readonly string[]).includes(a.section);
     return {
       articles: merge(base.articles, pick<Article>('article').filter(validSection).map(withArticleCover), hidden('article')).sort(byNewest),
-      people: merge(base.people, pick<Person>('person').map(withWorkCovers), hidden('person')).map(withAwards),
+      people: merge(base.people, pick<Person>('person').map(withWorkCovers).map(withPhoto), hidden('person')).map(withAwards),
       events: merge(base.events, pick<EntertainmentEvent>('event'), hidden('event')),
       charts: base.charts,
       releases: merge(base.releases, pick<Release>('release'), hidden('release')),
