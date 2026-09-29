@@ -145,7 +145,7 @@ export function ChartRow({ entry, locale }: { entry: ChartEntry; locale: Locale 
       <span className="text-fame-gradient w-10 pr-1 text-center font-display text-3xl font-black italic tabular-nums">
         {String(entry.position).padStart(2, '0')}
       </span>
-      <Poster hue={entry.hue} className="h-12 w-12 shrink-0 rounded-xl" />
+      <Poster hue={entry.hue} image={entry.cover ? { url: entry.cover, alt: `${entry.title} — ${entry.artistName}` } : undefined} className="h-12 w-12 shrink-0 rounded-xl" />
       <div className="min-w-0 flex-1">
         <p className="truncate font-bold">{entry.title}</p>
         <p className="truncate text-xs text-muted">{entry.artistName}</p>

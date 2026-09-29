@@ -2,7 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { AdminShell, Field, StatusPill, param, type SearchParams } from '@/components/admin/AdminShell';
 import { Poster } from '@/components/ui';
-import { saveArticle } from '@/lib/admin/actions';
+import { saveArticle, setArticleVisibility } from '@/lib/admin/actions';
 import { getAdminStore, type ContentStatus } from '@/lib/data/store';
 import type { Article } from '@/lib/data/types';
 import { articlePath, getDictionary, localeMeta, locales, sectionKeys } from '@/lib/i18n';
@@ -210,6 +210,24 @@ export default async function ArticleEditor({ params, searchParams }: { params: 
               </button>
             )}
           </div>
+          {!isNew && (
+            <div className="ff-card grid gap-2">
+              <p className="ff-label">Visibilidade</p>
+              <input type="hidden" name="back" value={`/admin/materias/${a.id}`} />
+              <button type="submit" formAction={setArticleVisibility} name="mode" value="hide" className="ff-btn">
+                Ocultar do site
+              </button>
+              <details>
+                <summary className="ff-btn cursor-pointer list-none text-center text-movies">Excluir matéria</summary>
+                <div className="mt-2 grid gap-2 rounded-2xl border border-movies/40 p-3 text-xs">
+                  <p className="text-fg/80">A matéria sai do site e vai para a lixeira (dá para restaurar).</p>
+                  <button type="submit" formAction={setArticleVisibility} name="mode" value="delete" className="ff-btn bg-movies! text-white!">
+                    Confirmar exclusão
+                  </button>
+                </div>
+              </details>
+            </div>
+          )}
         </aside>
       </form>
     </AdminShell>

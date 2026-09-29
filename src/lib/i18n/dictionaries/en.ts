@@ -44,6 +44,12 @@ export const en: Dictionary = {
     forYou: 'For You',
     following: 'Following',
     me: 'Profile',
+    search: 'Search',
+    channelSub: 'Official channel · pop culture 24/7',
+    subscribe: 'Subscribe',
+    like: 'Like',
+    share: 'Share',
+    upNext: 'Up next',
     rank: '#1 Global',
     rising: 'trending',
     clips: {

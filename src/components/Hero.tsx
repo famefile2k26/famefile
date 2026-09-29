@@ -1,7 +1,8 @@
 import Link from 'next/link';
+import type { ReactNode } from 'react';
 import { brand } from '@/lib/brand';
-import { getArticles } from '@/lib/data';
-import type { Article } from '@/lib/data/types';
+import { getArticles, getTopSongsChart } from '@/lib/data';
+import type { Article, ChartEntry } from '@/lib/data/types';
 import { cssVars } from '@/lib/format';
 import { articlePath, getDictionary, sectionAccent, type Locale } from '@/lib/i18n';
 import { HeroMotion } from './HeroMotion';
@@ -9,8 +10,9 @@ import { Logo, Sparkle } from './Logo';
 import { Poster } from './ui';
 
 /**
- * Hero: só o celular rolando o feed do FAMEFILE (cada post é uma matéria real)
- * e, ao fundo, uma plateia erguendo iPhones para fotografar — com o flash disparando.
+ * Hero: uma mesa de "telas" do FAMEFILE — MacBook com o canal de vídeo, celular principal
+ * rolando o feed vertical, um celular com o feed de posts e outro com o Top Global —
+ * tudo com matérias e charts reais. Ao fundo, só os flashes dos paparazzi.
  * CSS puro; HeroMotion só pausa as animações quando o hero sai da tela.
  */
 
@@ -93,114 +95,289 @@ function Post({ article, locale }: { article: Article; locale: Locale }) {
   );
 }
 
-/* ─── Plateia com iPhones erguidos ───────────────────────────── */
-
-type Fan = { x: number; y: number; s: number; hand: -1 | 1; tilt: number; flash?: string };
-
-/** Fileira de trás (menor, mais clara) e da frente (maior, quase preta). `flash` = "delay/duração". */
-const back: Fan[] = [
-  { x: 60, y: 0, s: 0.62, hand: 1, tilt: -6 },
-  { x: 180, y: 10, s: 0.6, hand: -1, tilt: 8, flash: '2.6s/7.1s' },
-  { x: 305, y: -4, s: 0.64, hand: 1, tilt: -3 },
-  { x: 430, y: 8, s: 0.6, hand: 1, tilt: 5, flash: '5.1s/6.6s' },
-  { x: 560, y: 2, s: 0.62, hand: -1, tilt: -4 },
-  { x: 665, y: 10, s: 0.58, hand: 1, tilt: 6, flash: '6.3s/7.9s' },
-  { x: 780, y: 0, s: 0.62, hand: -1, tilt: -7 },
-  { x: 890, y: 8, s: 0.6, hand: 1, tilt: 3, flash: '1.9s/8.2s' },
-  { x: 1020, y: 6, s: 0.6, hand: -1, tilt: -7, flash: '0.8s/7.4s' },
-  { x: 1140, y: -2, s: 0.64, hand: 1, tilt: 4 },
-  { x: 1265, y: 8, s: 0.6, hand: -1, tilt: -5, flash: '3.9s/6.9s' },
-  { x: 1385, y: 2, s: 0.62, hand: 1, tilt: 6 },
-];
-const front: Fan[] = [
-  { x: 40, y: 0, s: 1, hand: 1, tilt: 7, flash: '1.4s/6.2s' },
-  { x: 230, y: 18, s: 0.94, hand: -1, tilt: -9 },
-  { x: 410, y: 4, s: 1.02, hand: 1, tilt: 4, flash: '4.2s/7.3s' },
-  { x: 600, y: 16, s: 0.92, hand: -1, tilt: -5, flash: '5.6s/8.1s' },
-  { x: 840, y: 12, s: 0.95, hand: 1, tilt: 6 },
-  { x: 1040, y: 10, s: 1, hand: -1, tilt: -5, flash: '0.3s/6.8s' },
-  { x: 1220, y: 0, s: 0.96, hand: 1, tilt: 8 },
-  { x: 1400, y: 14, s: 1.02, hand: -1, tilt: -6, flash: '3.1s/7.6s' },
-];
-
-/** Uma pessoa de costas erguendo o iPhone (vemos o verso: módulo de 3 câmeras + flash). */
-function FanShape({ f, base, row }: { f: Fan; base: number; row: 'back' | 'front' }) {
-  const s = f.s;
-  const headY = base + f.y - 118 * s;
-  const shoulderY = headY + 62 * s;
-  const handX = f.x + f.hand * 50 * s;
-  const handY = headY - 96 * s;
-  const w = 42 * s;
-  const h = 86 * s;
-  const px = handX - w / 2;
-  const py = handY - h * 0.72;
-  const cam = 19 * s;
-  const lens = 3.8 * s;
-  const cx = px + w - cam - 3.5 * s; // módulo no canto (visto por trás)
-  const cy = py + 3.5 * s;
-  const fx = cx + cam - 4 * s;
-  const fy = cy + cam - 4 * s;
-  const [delay, dur] = (f.flash ?? '').split('/');
+/* ─── Moldura de iPhone reaproveitada pelos três celulares ───── */
+function PhoneFrame({ className, children }: { className: string; children: ReactNode }) {
   return (
-    <g className={`fan fan-${row}`}>
-      {/* braço erguido (atrás do corpo) */}
-      <path
-        d={`M${f.x + f.hand * 36 * s} ${shoulderY} Q${f.x + f.hand * 66 * s} ${headY - 10 * s} ${handX} ${handY + 10 * s}`}
-        className="fan-arm"
-        style={{ strokeWidth: 19 * s }}
-      />
-      {/* corpo + cabeça */}
-      <path
-        className="fan-body"
-        d={`M${f.x - 80 * s} ${base + 60}C${f.x - 78 * s} ${shoulderY + 30 * s} ${f.x - 60 * s} ${shoulderY} ${f.x} ${shoulderY}S${f.x + 78 * s} ${shoulderY + 30 * s} ${f.x + 80 * s} ${base + 60}z`}
-      />
-      <ellipse className="fan-body" cx={f.x} cy={headY} rx={30 * s} ry={35 * s} />
-      {/* iPhone na mão */}
-      <g transform={`rotate(${f.tilt} ${handX} ${handY})`}>
-        <ellipse cx={handX} cy={py + h - 4 * s} rx={17 * s} ry={13 * s} className="fan-hand" />
-        <rect x={px} y={py} width={w} height={h} rx={8 * s} className="fan-phone" />
-        <rect x={cx} y={cy} width={cam} height={cam} rx={5.5 * s} className="fan-cam" />
-        <circle cx={cx + 5.4 * s} cy={cy + 5.4 * s} r={lens} className="fan-lens" />
-        <circle cx={cx + 5.4 * s} cy={cy + cam - 5.4 * s} r={lens} className="fan-lens" />
-        <circle cx={cx + cam - 5.4 * s} cy={cy + cam / 2} r={lens} className="fan-lens" />
-        <circle cx={fx} cy={fy} r={1.5 * s} className="fan-led" />
-        <rect x={px - 3 * s} y={py + h * 0.55} width={7 * s} height={h * 0.3} rx={3.5 * s} className="fan-hand" />
-        <rect x={px + w - 4 * s} y={py + h * 0.6} width={7 * s} height={h * 0.26} rx={3.5 * s} className="fan-hand" />
-      </g>
-      {f.flash && (
-        <circle cx={fx} cy={fy} r={150 * s} className="fan-flash" style={cssVars({ '--d': delay ?? '0s', '--dur': dur ?? '7s' })} />
-      )}
-    </g>
-  );
-}
-
-function Crowd() {
-  return (
-    <div className="crowd" aria-hidden>
-      <svg viewBox="0 0 1440 520" preserveAspectRatio="xMidYMax slice">
-        <defs>
-          <radialGradient id="ff-flash">
-            <stop offset="0" stopColor="#fff" />
-            <stop offset="0.06" stopColor="#fff" stopOpacity="0.95" />
-            <stop offset="0.2" stopColor="#ffe3ef" stopOpacity="0.35" />
-            <stop offset="1" stopColor="#ffe3ef" stopOpacity="0" />
-          </radialGradient>
-        </defs>
-        {back.map((f) => (
-          <FanShape key={`b${f.x}`} f={f} base={430} row="back" />
-        ))}
-        {front.map((f) => (
-          <FanShape key={`f${f.x}`} f={f} base={560} row="front" />
-        ))}
-      </svg>
+    <div className={`phone ${className}`} aria-hidden>
+      <span className="phone-btn phone-btn-l" />
+      <span className="phone-btn phone-btn-r" />
+      <div className="phone-screen">
+        <div className="status">
+          <span className="status-time">9:41</span>
+          <span className="island" />
+          <span className="status-icons">
+            <i className="sig" />
+            <i className="wifi" />
+            <i className="bat" />
+          </span>
+        </div>
+        {children}
+        <span className="home-bar" />
+      </div>
     </div>
   );
 }
 
-export async function Hero({ locale }: { locale: Locale }) {
+/** Celular principal: feed vertical estilo TikTok. */
+function ReelPhone({ posts, locale }: { posts: Article[]; locale: Locale }) {
   const d = getDictionary(locale);
-  const posts = await getArticles({ limit: 5 });
+  return (
+    <PhoneFrame className="dev-reel">
+      <div className="feed-top">
+        <span className="feed-live">LIVE</span>
+        <span>{d.hero.following}</span>
+        <b>{d.hero.forYou}</b>
+        <Ico name="search" />
+      </div>
+      <div className="clip-logo">
+        <Logo size="0.9rem" />
+      </div>
+      <div className="reel-track">
+        {[...posts, posts[0]!].map((a, i) => (
+          <Post key={`${a.id}-${i}`} article={a} locale={locale} />
+        ))}
+      </div>
+      <span className="touch" />
+      <nav className="feed-nav">
+        <span className="on">
+          <Ico name="home" filled />
+          <small>Home</small>
+        </span>
+        <span>
+          <Ico name="friends" />
+          <small>{d.hero.following}</small>
+        </span>
+        <span className="create">
+          <b />
+        </span>
+        <span>
+          <Ico name="inbox" />
+          <small>Inbox</small>
+        </span>
+        <span>
+          <Ico name="profile" />
+          <small>{d.hero.me}</small>
+        </span>
+      </nav>
+    </PhoneFrame>
+  );
+}
+
+/** Celular da esquerda: feed de posts (quadrados) rolando sem parar. */
+function PostsPhone({ posts, locale }: { posts: Article[]; locale: Locale }) {
+  const d = getDictionary(locale);
+  const list = posts.map((a) => (
+    <div key={a.id} className="ig-post">
+      <div className="ig-head">
+        <span className="ig-av">F</span>
+        <b>{brand.name.toLowerCase()}</b>
+        <span className="clip-verified">✓</span>
+        <i className="ig-more">•••</i>
+      </div>
+      <div className="ig-img">
+        <Poster hue={a.hue} image={a.image} className="fill-abs" />
+        <div className="ig-img-shade" />
+        <span className="ig-tag" style={{ background: sectionAccent[a.section] }}>
+          {d.nav[a.section]}
+        </span>
+        <p className="ig-title">{a.t[locale].headline}</p>
+      </div>
+      <div className="ig-actions">
+        <Ico name="heart" />
+        <Ico name="comment" />
+        <Ico name="share" />
+        <span className="ig-save">
+          <Ico name="bookmark" />
+        </span>
+      </div>
+      <p className="ig-cap">
+        <b>{brand.name.toLowerCase()}</b> {a.t[locale].summary}
+      </p>
+    </div>
+  ));
+  return (
+    <PhoneFrame className="dev-posts">
+      <div className="ig-bar">
+        <Logo size="0.8rem" />
+        <span className="ig-bar-icons">
+          <Ico name="heart" />
+          <Ico name="inbox" />
+        </span>
+      </div>
+      <div className="ig-scroll">
+        <div className="ig-track">
+          {list}
+          {list}
+        </div>
+      </div>
+    </PhoneFrame>
+  );
+}
+
+/** Celular da direita: Top Global de música, rolando. */
+function ChartPhone({ entries, title, locale }: { entries: ChartEntry[]; title: string; locale: Locale }) {
+  const d = getDictionary(locale);
+  const rows = entries.map((e) => (
+    <li key={e.position} className="tc-row">
+      <span className="tc-pos">{e.position}</span>
+      <span
+        className="tc-art"
+        style={cssVars({
+          background: e.cover
+            ? `center / cover url(${e.cover})`
+            : `linear-gradient(135deg, hsl(${e.hue} 85% 55%), hsl(${(e.hue + 50) % 360} 85% 40%))`,
+        })}
+      />
+      <span className="tc-txt">
+        <b>{e.title}</b>
+        <small>{e.artistName}</small>
+      </span>
+      <span className={`tc-mv ${e.lastPosition === null ? 'new' : e.lastPosition > e.position ? 'up' : e.lastPosition < e.position ? 'down' : ''}`}>
+        {e.lastPosition === null ? 'NEW' : e.lastPosition > e.position ? '▲' : e.lastPosition < e.position ? '▼' : '–'}
+      </span>
+    </li>
+  ));
+  return (
+    <PhoneFrame className="dev-chart">
+      <div className="tc-head">
+        <small>{d.home.charts}</small>
+        <b>{title}</b>
+        <span className="tc-play">▶</span>
+      </div>
+      <div className="tc-scroll">
+        <ol className="tc-track">
+          {rows}
+          {rows}
+        </ol>
+      </div>
+      <div className="tc-now">
+        <span className="tc-art" style={cssVars({ background: entries[0]?.cover ? `center / cover url(${entries[0].cover})` : 'var(--fame-gradient)' })} />
+        <span className="tc-txt">
+          <b>{entries[0]?.title}</b>
+          <small>{entries[0]?.artistName}</small>
+        </span>
+        <span className="tc-bars">
+          <i />
+          <i />
+          <i />
+        </span>
+      </div>
+    </PhoneFrame>
+  );
+}
+
+/** MacBook com o canal de vídeo do FAMEFILE. */
+function Laptop({ posts, locale }: { posts: Article[]; locale: Locale }) {
+  const d = getDictionary(locale);
+  const [main, ...next] = posts;
+  if (!main) return null;
+  return (
+    <div className="dev-laptop" aria-hidden>
+      <div className="mb-lid">
+        <span className="mb-notch" />
+        <div className="mb-screen">
+          <div className="yt-top">
+            <span className="yt-menu">
+              <i />
+              <i />
+              <i />
+            </span>
+            <span className="yt-brand">
+              <span className="yt-play">▶</span>
+              <Logo size="0.62rem" />
+              <small>TV</small>
+            </span>
+            <span className="yt-search">
+              {d.hero.search}
+              <Ico name="search" />
+            </span>
+            <span className="yt-av">F</span>
+          </div>
+          <div className="yt-body">
+            <div className="yt-main">
+              <div className="yt-player">
+                <Poster hue={main.hue} image={main.image} className="yt-poster" />
+                <div className="yt-shade" />
+                <span className="slant-label yt-label" style={{ background: sectionAccent[main.section] }}>
+                  {d.nav[main.section]} <Sparkle className="h-2 w-2 fill-white" />
+                </span>
+                <p className="yt-over">{main.t[locale].headline}</p>
+                <div className="yt-ctrl">
+                  <span className="yt-prog">
+                    <i />
+                  </span>
+                  <span className="yt-btns">
+                    <b>❚❚</b>
+                    <b>⏭</b>
+                    <b>🔊</b>
+                    <em>4:12 / 9:58</em>
+                    <span className="yt-right">
+                      <b>CC</b>
+                      <b>⚙</b>
+                      <b>⛶</b>
+                    </span>
+                  </span>
+                </div>
+              </div>
+              <p className="yt-title">{main.t[locale].headline}</p>
+              <div className="yt-chan">
+                <span className="yt-av">F</span>
+                <span className="yt-chan-name">
+                  <b>
+                    {brand.name} <span className="clip-verified">✓</span>
+                  </b>
+                  <small>{d.hero.channelSub}</small>
+                </span>
+                <span className="yt-sub">{d.hero.subscribe}</span>
+                <span className="yt-pill">👍 {d.hero.like}</span>
+                <span className="yt-pill">↗ {d.hero.share}</span>
+              </div>
+            </div>
+            <div className="yt-side">
+              <p className="yt-next">{d.hero.upNext}</p>
+              {next.slice(0, 5).map((a, i) => (
+                <div key={a.id} className="yt-item">
+                  <span className="yt-thumb">
+                    <Poster hue={a.hue} image={a.image} className="fill-abs" />
+                    <em>{['8:41', '12:03', '6:27', '15:10', '4:55'][i]}</em>
+                  </span>
+                  <span className="yt-item-txt">
+                    <b>{a.t[locale].headline}</b>
+                    <small>
+                      {brand.name} · {d.nav[a.section]}
+                    </small>
+                  </span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div className="mb-base">
+        <span />
+      </div>
+    </div>
+  );
+}
+
+/** Flashes de paparazzi espalhados pelo fundo (≈1/s no total; WCAG 2.3.1). Sem câmeras visíveis. */
+const flashes = [
+  { x: 6, y: 18, d: '0.4s', t: '6.8s' },
+  { x: 18, y: 62, d: '2.2s', t: '7.4s' },
+  { x: 29, y: 8, d: '4.9s', t: '6.3s' },
+  { x: 41, y: 80, d: '1.3s', t: '8.1s' },
+  { x: 57, y: 12, d: '3.6s', t: '7.0s' },
+  { x: 69, y: 70, d: '5.8s', t: '6.6s' },
+  { x: 81, y: 22, d: '0.9s', t: '7.7s' },
+  { x: 93, y: 58, d: '3.1s', t: '6.9s' },
+  { x: 12, y: 88, d: '6.4s', t: '8.4s' },
+  { x: 88, y: 90, d: '2.7s', t: '7.9s' },
+];
+
+export async function Hero({ locale }: { locale: Locale }) {
+  const [posts, chart] = await Promise.all([getArticles({ limit: 12 }), getTopSongsChart()]);
   const lead = posts[0];
+  const regionLabel = chart.region === 'GLOBAL' ? 'Top Global' : `Top ${chart.region}`;
 
   return (
     <HeroMotion labelledBy="hero-title">
@@ -208,69 +385,27 @@ export async function Hero({ locale }: { locale: Locale }) {
         {brand.name}
       </h1>
       <div className="hero-bg" aria-hidden />
-      <Crowd />
+      {flashes.map((f, i) => (
+        <span
+          key={i}
+          className="pap-flash"
+          aria-hidden
+          style={cssVars({ left: `${f.x}%`, top: `${f.y}%`, '--d': f.d, '--dur': f.t })}
+        />
+      ))}
 
-      <div className="hero-stage">
-        <div className="phone-hand">
-          <div className="phone">
-            <span className="phone-btn phone-btn-l" aria-hidden />
-            <span className="phone-btn phone-btn-r" aria-hidden />
-            <div className="phone-screen">
-              <div className="status" aria-hidden>
-                <span className="status-time">9:41</span>
-                <span className="island" />
-                <span className="status-icons">
-                  <i className="sig" />
-                  <i className="wifi" />
-                  <i className="bat" />
-                </span>
-              </div>
-              <div className="feed-top" aria-hidden>
-                <span className="feed-live">LIVE</span>
-                <span>{d.hero.following}</span>
-                <b>{d.hero.forYou}</b>
-                <Ico name="search" />
-              </div>
-              <div className="clip-logo" aria-hidden>
-                <Logo size="0.9rem" />
-              </div>
-              <div className="reel-track" aria-hidden>
-                {[...posts, posts[0]!].map((a, i) => (
-                  <Post key={`${a.id}-${i}`} article={a} locale={locale} />
-                ))}
-              </div>
-              <span className="touch" aria-hidden />
-              <nav className="feed-nav" aria-hidden>
-                <span className="on">
-                  <Ico name="home" filled />
-                  <small>Home</small>
-                </span>
-                <span>
-                  <Ico name="friends" />
-                  <small>{d.hero.following}</small>
-                </span>
-                <span className="create">
-                  <b />
-                </span>
-                <span>
-                  <Ico name="inbox" />
-                  <small>Inbox</small>
-                </span>
-                <span>
-                  <Ico name="profile" />
-                  <small>{d.hero.me}</small>
-                </span>
-              </nav>
-              <span className="home-bar" aria-hidden />
-            </div>
-          </div>
-        </div>
-        {lead && (
-          <Link href={articlePath(locale, lead.section, lead.t[locale].slug, lead.id)} className="sr-only">
-            {lead.t[locale].headline}
-          </Link>
-        )}
+      <div className="dev-stage">
+        <Laptop posts={posts.slice(1, 7)} locale={locale} />
+        <PostsPhone posts={posts.slice(5, 11)} locale={locale} />
+        <ChartPhone entries={chart.entries.slice(0, 10)} title={`${regionLabel} · ${chart.title[locale]}`} locale={locale} />
+        <ReelPhone posts={posts.slice(0, 5)} locale={locale} />
       </div>
+
+      {lead && (
+        <Link href={articlePath(locale, lead.section, lead.t[locale].slug, lead.id)} className="sr-only">
+          {lead.t[locale].headline}
+        </Link>
+      )}
     </HeroMotion>
   );
 }

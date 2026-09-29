@@ -231,7 +231,11 @@ export default async function PersonPage({ params }: Props) {
               <ol className="grid grid-cols-2 gap-4 sm:grid-cols-3">
                 {person.works.map((w, i) => (
                   <li key={`${w.title}-${w.year}`}>
-                    <Poster hue={(person.hue + i * 38) % 360} className="grid aspect-square place-items-center rounded-2xl" />
+                    <Poster
+                      hue={(person.hue + i * 38) % 360}
+                      image={w.cover ? { url: w.cover, alt: `${w.title} — ${person.publicName}` } : undefined}
+                      className="grid aspect-square place-items-center rounded-2xl"
+                    />
                     <p className="mt-2 line-clamp-2 font-display font-black uppercase italic leading-tight tracking-tight">{w.title}</p>
                     <p className="text-xs text-muted">
                       {f.workKinds[w.kind]} · {w.year}

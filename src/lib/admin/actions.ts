@@ -6,6 +6,7 @@ import { redirect } from 'next/navigation';
 import type { Article, ImageRef, Market, Person, PersonKind, Platform, Work, WorkKind } from '@/lib/data/types';
 import { locales } from '@/lib/i18n/config';
 import type { SectionKey } from '@/lib/i18n/routes';
+import { getAdminStore } from '@/lib/data/store';
 import { sbUpload, sbUpsert, supabaseWritable } from '@/lib/supabase';
 import { ADMIN_COOKIE, adminOpenInDev, adminToken } from './auth';
 
@@ -143,6 +144,31 @@ export async function saveArticle(formData: FormData) {
     t,
   };
   await persist('article', id, statusFrom(formData), article, back);
+}
+
+/**
+ * Ocultar / mostrar / excluir / restaurar uma matéria (inclusive as que vieram do código).
+ * Ocultar = rascunho (sai do site). Excluir = vai para a lixeira (sai do site e da lista; dá para restaurar).
+ */
+export async function setArticleVisibility(formData: FormData) {
+  await assertAdmin();
+  const id = str(formData, 'id');
+  const mode = str(formData, 'mode');
+  const back = str(formData, 'back') || '/admin/materias';
+  if (!supabaseWritable()) redirect(`${back}?erro=banco`);
+  const item = (await getAdminStore()).articles.find((a) => a.id === id);
+  if (!item) redirect(`${back}?erro=${encodeURIComponent('Matéria não encontrada')}`);
+  const data: Article = { ...item.data, deleted: mode === 'delete' ? true : undefined };
+  const status = mode === 'show' || mode === 'restore' ? 'published' : mode === 'delete' ? 'rejected' : 'draft';
+  const done = { hide: 'oculta', show: 'published', delete: 'excluida', restore: 'restaurada' }[mode] ?? status;
+  try {
+    await sbUpsert('content', [{ kind: 'article', id, status, data, updated_at: new Date().toISOString(), updated_by: 'admin' }]);
+  } catch (err) {
+    redirect(`${back}?erro=${encodeURIComponent(String(err).slice(0, 160))}`);
+  }
+  revalidateTag('content');
+  revalidatePath('/', 'layout');
+  redirect(`${back}${back.includes('?') ? '&' : '?'}ok=${done}`);
 }
 
 /* ─── Famosos ───────────────────────────────────────────────── */

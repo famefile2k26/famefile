@@ -11,6 +11,7 @@ import { sectionKeys } from '@/lib/i18n/routes';
 import { sbSelect, supabaseEnabled, supabaseWritable } from '@/lib/supabase';
 import { awardsBySlug } from './awards';
 import { liveCharts } from './charts-live';
+import { albumCover, articleCover, coverImage, songCover } from './covers';
 import * as local from './content';
 import { archive } from './content-archive';
 import { vmaArticles } from './content-vma';
@@ -32,14 +33,32 @@ export interface Store {
 const byNewest = (a: Article, b: Article) => b.publishedAt.localeCompare(a.publishedAt);
 const withAwards = (p: Person): Person => (p.awards || !awardsBySlug[p.slug] ? p : { ...p, awards: awardsBySlug[p.slug] });
 
+/* Capas automáticas (covers.json): só entram onde não há imagem definida pelo admin. */
+const withArticleCover = (a: Article): Article => (a.image ? a : { ...a, image: articleCover(a.id, a.t.pt.headline) });
+const withWorkCovers = (p: Person): Person =>
+  p.works?.length
+    ? {
+        ...p,
+        works: p.works.map((w) =>
+          w.cover ? w : { ...w, cover: w.kind === 'single' ? songCover(w.title, p.publicName) : w.kind === 'album' || w.kind === 'ep' ? albumCover(w.title, p.publicName) : undefined },
+        ),
+      }
+    : p;
+const chartsWithCovers = liveCharts.map((c) => ({
+  ...c,
+  entries: c.entries.map((e) => (e.cover ? e : { ...e, cover: songCover(e.title, e.artistName) })),
+}));
+const withReleaseCover = (r: Release): Release =>
+  r.image ? r : { ...r, image: coverImage(r.type === 'single' ? songCover(r.title, r.artistName) : albumCover(r.title, r.artistName) ?? songCover(r.title, r.artistName), `${r.title} — ${r.artistName}`) };
+
 export function localStore(): Store {
   return {
-    articles: [...vmaArticles, ...local.articles, ...archive].sort(byNewest),
-    people: [...realPeople, ...morePeople].map(withAwards),
+    articles: [...vmaArticles, ...local.articles, ...archive].map(withArticleCover).sort(byNewest),
+    people: [...realPeople, ...morePeople].map(withAwards).map(withWorkCovers),
     events: local.events,
     // Charts vêm sempre do código/robô (não são editados no admin).
-    charts: liveCharts,
-    releases: local.releases,
+    charts: chartsWithCovers,
+    releases: local.releases.map(withReleaseCover),
   };
 }
 
@@ -73,8 +92,8 @@ export async function getStore(): Promise<Store> {
     // Segurança: matéria com seção que não existe mais (ex.: abas removidas) não entra no site.
     const validSection = (a: Article) => (sectionKeys as readonly string[]).includes(a.section);
     return {
-      articles: merge(base.articles, pick<Article>('article').filter(validSection), hidden('article')).sort(byNewest),
-      people: merge(base.people, pick<Person>('person'), hidden('person')).map(withAwards),
+      articles: merge(base.articles, pick<Article>('article').filter(validSection).map(withArticleCover), hidden('article')).sort(byNewest),
+      people: merge(base.people, pick<Person>('person').map(withWorkCovers), hidden('person')).map(withAwards),
       events: merge(base.events, pick<EntertainmentEvent>('event'), hidden('event')),
       charts: base.charts,
       releases: merge(base.releases, pick<Release>('release'), hidden('release')),

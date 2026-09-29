@@ -1,0 +1,37 @@
+name: covers
+# Busca capas de álbuns/singles (iTunes Search API) para charts, lançamentos, perfis e matérias,
+# grava em src/lib/data/covers.json e faz commit — a Vercel publica sozinha.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'src/lib/data/**'
+      - '!src/lib/data/covers.json'
+      - 'scripts/covers.ts'
+  schedule:
+    - cron: '17 9 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: covers
+  cancel-in-progress: false
+jobs:
+  covers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npx --yes tsx scripts/covers.ts
+      - name: Commit covers.json
+        run: |
+          if git diff --quiet src/lib/data/covers.json; then echo "sem mudanças"; exit 0; fi
+          git config user.name "famefile-bot"
+          git config user.email "famefile-bot@users.noreply.github.com"
+          git add src/lib/data/covers.json
+          git commit -m "Capas automáticas (Apple Music)"
+          git pull --rebase origin main
+          git push origin HEAD:main

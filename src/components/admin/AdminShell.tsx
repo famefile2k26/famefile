@@ -70,7 +70,7 @@ export function AdminShell({
         )}
         {notice?.ok && (
           <div className="border-b border-charts/30 bg-charts/10 px-4 py-2.5 text-sm font-semibold text-charts lg:px-8">
-            Salvo. Status: {statusLabel[notice.ok as ContentStatus] ?? notice.ok}.
+            {okMessages[notice.ok] ?? `Salvo. Status: ${statusLabel[notice.ok as ContentStatus] ?? notice.ok}.`}
           </div>
         )}
         {notice?.erro && (
@@ -89,6 +89,12 @@ export function AdminShell({
     </div>
   );
 }
+
+const okMessages: Record<string, string> = {
+  oculta: 'Matéria ocultada — saiu do site. Dá para mostrar de novo quando quiser.',
+  excluida: 'Matéria excluída — foi para a lixeira. Dá para restaurar em Matérias → Lixeira.',
+  restaurada: 'Matéria restaurada e publicada de novo.',
+};
 
 export const statusLabel: Record<ContentStatus, string> = {
   draft: 'Rascunho',

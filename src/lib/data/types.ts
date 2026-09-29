@@ -33,6 +33,8 @@ export interface Work {
   title: string;
   year: number;
   kind: WorkKind;
+  /** Capa (álbum/single), preenchida automaticamente. */
+  cover?: string;
 }
 
 export interface Person {
@@ -104,6 +106,8 @@ export interface Article {
   image?: ImageRef;
   /** "O que sabemos / o que ainda não sabemos" — histórias em evolução */
   factBox?: Localized<{ known: string[]; unknown: string[] }>;
+  /** Excluída pelo admin (lixeira). */
+  deleted?: boolean;
   /** Linha do tempo "Receipts" */
   receipts?: { at: string; t: Localized<string> }[];
   /** Fontes consultadas (a matéria é texto próprio; as fontes ficam creditadas). */
@@ -130,6 +134,8 @@ export interface ChartEntry {
   artistName: string;
   artistId?: string;
   hue: number;
+  /** Capa da música, preenchida automaticamente. */
+  cover?: string;
 }
 
 export interface Chart {

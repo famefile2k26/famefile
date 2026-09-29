@@ -30,6 +30,11 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 - Store: conteúdo do código é a base; o Supabase sobrepõe o que o admin publica (mesmo id) e esconde o que foi despublicado.
 - Home: hero só com o celular (feed estilo TikTok com matérias reais) e plateia erguendo iPhones com flashes. Sem slogan, sem chips. Estrela do A centralizada na barra.
 
+## Atualização 28/09 (madrugada)
+- Home: MacBook com o canal de vídeo do FAMEFILE + 3 celulares (feed vertical, feed de posts, Top Global) e flashes ao fundo. Canvas fixo escalado por breakpoint (zoom).
+- Capas automáticas: workflow `covers.yml` (GitHub Actions) roda `scripts/covers.ts` (iTunes Search API) a cada mudança de dados e diariamente; grava `src/lib/data/covers.json`, usado em charts, lançamentos, obras dos perfis e matérias sem foto.
+- Admin › Matérias: Ocultar/Mostrar e Excluir (lixeira com Restaurar), inclusive para matérias que vieram do código.
+
 ## Decisões importantes
 - i18n caseiro em vez de next-intl: ~100 linhas, zero dependência, controle total dos slugs localizados. Reavaliar se precisarmos de plurais/ICU.
 - Hero v2: celular rolando um feed vertical (5 cenas desenhadas em CSS: show, tapete vermelho, creator, live, chart) + fotógrafos em silhueta com flashes ao fundo. CSS puro; `HeroMotion` só pausa fora da tela. Logo aparece em ~1,2s (LCP); flashes ~1,2/s (WCAG 2.3.1); reduced-motion = estático sem flashes.

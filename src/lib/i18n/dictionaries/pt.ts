@@ -42,6 +42,12 @@ export const pt = {
     forYou: 'Para você',
     following: 'Seguindo',
     me: 'Perfil',
+    search: 'Pesquisar',
+    channelSub: 'Canal oficial · cultura pop 24h',
+    subscribe: 'Inscrever-se',
+    like: 'Curtir',
+    share: 'Compartilhar',
+    upNext: 'A seguir',
     rank: '#1 no mundo',
     rising: 'em alta',
     clips: {
