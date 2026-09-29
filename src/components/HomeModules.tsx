@@ -31,6 +31,7 @@ import { SectionHeader } from './ui';
 export const homeModules = [
   'breaking',
   'topStories',
+  'brazil',
   'trendingPeople',
   'celebs',
   'gossip',
@@ -98,6 +99,24 @@ const modules: Record<HomeModule, Loader> = {
               <ArticleCard key={a.id} article={a} locale={locale} variant="compact" />
             ))}
           </div>
+        </div>
+      </Section>
+    );
+  },
+
+  async brazil(locale) {
+    const d = getDictionary(locale);
+    const [all, br] = await Promise.all([getArticles({ limit: 80 }), getPeople({ market: 'brazil' })]);
+    const ids = new Set(br.map((p) => p.id));
+    const items = all.filter((a) => a.personIds.some((id) => ids.has(id))).slice(0, 8);
+    if (!items.length) return null;
+    return (
+      <Section id="h-brazil">
+        <SectionHeader id="h-brazil" title={d.home.brazil} subtitle={d.home.brazilSub} accent="var(--color-charts)" />
+        <div className="grid grid-cols-2 gap-x-4 gap-y-8 md:grid-cols-4">
+          {items.map((a) => (
+            <ArticleCard key={a.id} article={a} locale={locale} />
+          ))}
         </div>
       </Section>
     );

@@ -80,6 +80,8 @@ export const es: Dictionary = {
       'Patrones frecuentes en contenidos que están creciendo. No garantiza que algo se vuelva viral.',
     liveNow: 'En vivo ahora',
     liveNowSub: 'Streamers conectados en este momento',
+    brazil: 'Tendencias en Brasil',
+    brazilSub: 'Sertanejo, funk, pop y los creators de los que todo Brasil habla',
     yearTop: 'Los temas que marcaron 2026',
     yearTopSub: 'Selección de la redacción con las historias más comentadas del año hasta ahora',
   },

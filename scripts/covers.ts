@@ -8,6 +8,7 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { liveCharts } from '../src/lib/data/charts-live';
 import { articles, releases } from '../src/lib/data/content';
 import { archive } from '../src/lib/data/content-archive';
+import { brArticles } from '../src/lib/data/content-br';
 import { vmaArticles } from '../src/lib/data/content-vma';
 import { mainArtist, norm, songKey } from '../src/lib/data/covers';
 import { morePeople } from '../src/lib/data/people-more';
@@ -195,7 +196,7 @@ async function main() {
   for (const r of releases) await resolve(r.type === 'single' ? 'songs' : 'albums', r.title, r.artistName, r.type === 'single' ? 'song' : 'album');
 
   // 2) Matérias: título entre aspas + artista principal
-  for (const a of [...vmaArticles, ...articles, ...archive]) {
+  for (const a of [...brArticles, ...vmaArticles, ...articles, ...archive]) {
     if (db.articles[a.id] || a.image) continue;
     const quoted = [...a.t.pt.headline.matchAll(/[“"]([^”"]{2,60})[”"]/g), ...a.t.pt.summary.matchAll(/[“"]([^”"]{2,60})[”"]/g)].map((m) => m[1]!);
     const artist = a.personIds.map((id) => nameOf.get(id)).find(Boolean);

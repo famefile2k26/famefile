@@ -78,6 +78,8 @@ export const pt = {
       'Padrões frequentes entre conteúdos em crescimento. Não é garantia de viralização.',
     liveNow: 'Ao vivo agora',
     liveNowSub: 'Streamers online neste momento',
+    brazil: 'Brasil em alta',
+    brazilSub: 'Sertanejo, funk, pop e os creators que o Brasil inteiro está comentando',
     yearTop: 'Os assuntos que marcaram 2026',
     yearTopSub: 'Seleção da redação com as histórias mais comentadas do ano até aqui',
   },

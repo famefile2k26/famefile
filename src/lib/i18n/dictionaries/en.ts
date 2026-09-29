@@ -80,6 +80,8 @@ export const en: Dictionary = {
       'Patterns that show up often in growing content. Not a guarantee of going viral.',
     liveNow: 'Live now',
     liveNowSub: 'Streamers online right now',
+    brazil: 'Trending in Brazil',
+    brazilSub: 'Sertanejo, funk, pop and the creators all of Brazil is talking about',
     yearTop: 'The stories that defined 2026',
     yearTopSub: 'Our editors’ pick of the year’s most talked-about stories so far',
   },

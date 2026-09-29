@@ -14,6 +14,7 @@ import { liveCharts } from './charts-live';
 import { albumCover, articleCover, coverImage, personPhoto, songCover } from './covers';
 import * as local from './content';
 import { archive } from './content-archive';
+import { brArticles, brEvents } from './content-br';
 import { vmaArticles } from './content-vma';
 import { realPeople } from './people';
 import { morePeople } from './people-more';
@@ -34,7 +35,25 @@ const byNewest = (a: Article, b: Article) => b.publishedAt.localeCompare(a.publi
 const withAwards = (p: Person): Person => (p.awards || !awardsBySlug[p.slug] ? p : { ...p, awards: awardsBySlug[p.slug] });
 
 /* Capas automáticas (covers.json): só entram onde não há imagem definida pelo admin. */
-const withArticleCover = (a: Article): Article => (a.image ? a : { ...a, image: articleCover(a.id, a.t.pt.headline) });
+const nameById = new Map([...realPeople, ...morePeople].map((p) => [p.id, p.publicName]));
+/** Sem foto própria: capa do álbum/música citado → foto do artista principal da matéria. */
+const withArticleCover = (a: Article): Article => {
+  if (a.image) return a;
+  const image =
+    articleCover(a.id, a.t.pt.headline) ??
+    a.personIds.map((id) => personPhoto(id, nameById.get(id) ?? id)).find(Boolean);
+  return image ? { ...a, image } : a;
+};
+/** Evita shows duplicados (mesmo artista no mesmo dia). */
+const dedupeEvents = (list: EntertainmentEvent[]) => {
+  const seen = new Set<string>();
+  return list.filter((e) => {
+    const k = `${e.personIds.slice().sort().join(',')}|${e.startsAt.slice(0, 10)}`;
+    if (e.personIds.length && seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
+};
 const withPhoto = (p: Person): Person => (p.image ? p : { ...p, image: personPhoto(p.id, p.publicName) });
 const withWorkCovers = (p: Person): Person =>
   p.works?.length
@@ -54,9 +73,9 @@ const withReleaseCover = (r: Release): Release =>
 
 export function localStore(): Store {
   return {
-    articles: [...vmaArticles, ...local.articles, ...archive].map(withArticleCover).sort(byNewest),
+    articles: [...brArticles, ...vmaArticles, ...local.articles, ...archive].map(withArticleCover).sort(byNewest),
     people: [...realPeople, ...morePeople].map(withAwards).map(withWorkCovers).map(withPhoto),
-    events: local.events,
+    events: dedupeEvents([...local.events, ...brEvents]).sort((a, b) => a.startsAt.localeCompare(b.startsAt)),
     // Charts vêm sempre do código/robô (não são editados no admin).
     charts: chartsWithCovers,
     releases: local.releases.map(withReleaseCover),
