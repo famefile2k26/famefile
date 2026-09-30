@@ -561,42 +561,6 @@ export const archive: Article[] = [
     },
   ),
   art(
-    '2027', 'movies-tv', '2026-04-22T03:00:00Z', 60,
-    ['ana-paula-renault'],
-    [{ name: 'CNN Brasil', url: 'https://www.cnnbrasil.com.br/pop/bbb/ana-paula-milena-e-juliano-quanto-cada-finalista-ganhou-no-bbb-26/' }],
-    {
-      pt: {
-        slug: 'bbb-26-ana-paula-renault-campea-75-por-cento',
-        headline: 'Ana Paula Renault vence o BBB 26 com 75,94% dos votos e leva o maior prêmio da história',
-        summary: 'A campeã ganhou R$ 5,7 milhões; Milena Moreira e Juliano Floss completaram o pódio.',
-        body: [
-          'Ana Paula Renault é a campeã do BBB 26. Na final de 21 de abril, ela recebeu 75,94% dos votos e levou R$ 5,7 milhões, o maior prêmio já pago pelo reality.',
-          'Milena Moreira ficou em segundo lugar e Juliano Floss em terceiro. Os três finalistas ganharam apartamentos, e a vencedora ainda levou um carro e R$ 50 mil de uma dinâmica do programa.',
-        ],
-      },
-      en: {
-        slug: 'bbb-26-ana-paula-renault-wins-75-percent',
-        headline: 'Ana Paula Renault wins Big Brother Brasil 26 with 75.94% of the vote and a record prize',
-        summary: 'She took home R$5.7 million; Milena Moreira and Juliano Floss rounded out the top three.',
-        body: [
-          'Ana Paula Renault won Big Brother Brasil 26. In the April 21 finale she received 75.94% of the vote and R$5.7 million, the largest prize in the show’s history.',
-          'Milena Moreira finished second and Juliano Floss third. All three finalists won apartments, and the winner also took a car and R$50,000 from an in-game challenge.',
-        ],
-      },
-      es: {
-        slug: 'bbb-26-ana-paula-renault-campeona-75-por-ciento',
-        headline: 'Ana Paula Renault gana el BBB 26 con el 75,94% de los votos y el mayor premio de la historia',
-        summary: 'La ganadora se llevó R$ 5,7 millones; Milena Moreira y Juliano Floss completaron el podio.',
-        body: [
-          'Ana Paula Renault es la campeona de Big Brother Brasil 26. En la final del 21 de abril obtuvo el 75,94% de los votos y R$ 5,7 millones, el mayor premio del reality.',
-          'Milena Moreira quedó segunda y Juliano Floss tercero. Los tres finalistas ganaron apartamentos, y la campeona además se llevó un auto y R$ 50 mil de una dinámica del programa.',
-        ],
-      },
-    },
-  ),
-
-  /* ─── Fofoca e música pop ──────────────────────────────── */
-  art(
     '2028', 'news', '2026-07-04T18:00:00Z', 320,
     ['taylor-swift', 'travis-kelce'],
     [
@@ -713,4 +677,4 @@ export const archive: Article[] = [
 ];
 
 /** Curadoria editorial: os assuntos que marcaram 2026 (usado no módulo da home). */
-export const yearTopIds = ['2024', '2025', '2029', '2028', '2020', '2013', '2014', '2026', '2017', '2027'];
+export const yearTopIds = ['2024', '2025', '2029', '2028', '2020', '2013', '2014', '2026', '2017', '2030'];

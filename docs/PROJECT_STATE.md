@@ -44,6 +44,10 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 - 92 matérias dos últimos 3 dias (`news-0929.json`): internacionais, latinos (Lali, Tini, Arjona...), Brasil, streamers/bets, filmes e séries. 21 perfis novos em `people-extra.json` (fotos pelo workflow).
 - Regra: todo conteúdo novo entra com foto (da fonte; senão capa/foto do artista).
 
+## Regras editoriais permanentes
+- **Felipe Neto e Ana Paula Renault não fazem parte do site:** nunca publicar notícias sobre eles nem manter perfil. Bloqueio em `src/lib/editorial.ts` (filtra matérias que os citem em qualquer idioma e perfis, inclusive do admin/robô).
+- Todo conteúdo novo entra com foto.
+
 ## Decisões importantes
 - i18n caseiro em vez de next-intl: ~100 linhas, zero dependência, controle total dos slugs localizados. Reavaliar se precisarmos de plurais/ICU.
 - Hero v2: celular rolando um feed vertical (5 cenas desenhadas em CSS: show, tapete vermelho, creator, live, chart) + fotógrafos em silhueta com flashes ao fundo. CSS puro; `HeroMotion` só pausa fora da tela. Logo aparece em ~1,2s (LCP); flashes ~1,2/s (WCAG 2.3.1); reduced-motion = estático sem flashes.

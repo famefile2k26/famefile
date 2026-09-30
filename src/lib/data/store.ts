@@ -7,6 +7,7 @@
  * Assim, conteúdo novo que chega pelo código aparece no ar sem precisar reimportar o banco.
  * Só contam linhas com `updated_by` (gravadas pelo admin/robô); as do seed inicial são ignoradas.
  */
+import { isBlockedArticle, isBlockedPerson } from '@/lib/editorial';
 import { normalizeSection } from '@/lib/i18n/routes';
 import { sbSelect, supabaseEnabled, supabaseWritable } from '@/lib/supabase';
 import { awardsBySlug } from './awards';
@@ -76,8 +77,8 @@ const withReleaseCover = (r: Release): Release =>
 
 export function localStore(): Store {
   return {
-    articles: [...brArticles, ...vmaArticles, ...local.articles, ...archive].map(withArticleCover).sort(byNewest),
-    people: [...realPeople, ...morePeople, ...extraPeople].map(withAwards).map(withWorkCovers).map(withPhoto),
+    articles: [...brArticles, ...vmaArticles, ...local.articles, ...archive].filter((a) => !isBlockedArticle(a)).map(withArticleCover).sort(byNewest),
+    people: [...realPeople, ...morePeople, ...extraPeople].filter((p) => !isBlockedPerson(p)).map(withAwards).map(withWorkCovers).map(withPhoto),
     events: dedupeEvents([...local.events, ...brEvents]).sort((a, b) => a.startsAt.localeCompare(b.startsAt)),
     // Charts vêm sempre do código/robô (não são editados no admin).
     charts: chartsWithCovers,
@@ -114,8 +115,8 @@ export async function getStore(): Promise<Store> {
     const pick = <T,>(k: ContentKind) => rows.filter((r) => r.kind === k).map((r) => r.data as T);
     // Segurança: matéria com seção que não existe mais (ex.: abas removidas) não entra no site.
     return {
-      articles: merge(base.articles, pick<Article>('article').map(withArticleCover), hidden('article')).sort(byNewest),
-      people: merge(base.people, pick<Person>('person').map(withWorkCovers).map(withPhoto), hidden('person')).map(withAwards),
+      articles: merge(base.articles, pick<Article>('article').filter((a) => !isBlockedArticle(a)).map(withArticleCover), hidden('article')).sort(byNewest),
+      people: merge(base.people, pick<Person>('person').filter((p) => !isBlockedPerson(p)).map(withWorkCovers).map(withPhoto), hidden('person')).map(withAwards),
       events: merge(base.events, pick<EntertainmentEvent>('event'), hidden('event')),
       charts: base.charts,
       releases: merge(base.releases, pick<Release>('release'), hidden('release')),

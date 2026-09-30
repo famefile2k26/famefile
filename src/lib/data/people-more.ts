@@ -517,13 +517,6 @@ const seeds: Seed[] = [
     es: ['Rapero', 'Rapero de Río de Janeiro, uno de los nombres más influyentes del rap brasileño de las últimas dos décadas.'],
   },
   {
-    slug: 'felipe-neto', name: 'Felipe Neto', market: 'brazil', kinds: ['creator'], country: 'BR', ig: 'felipeneto',
-    birthDate: '1988-01-21', birthPlace: 'Rio de Janeiro, RJ', activeSince: 2010, genres: ['YouTube', 'Entretenimento'],
-    pt: ['YouTuber e empresário', 'Um dos maiores youtubers do Brasil, pioneiro da criação de conteúdo no país.'],
-    en: ['YouTuber and entrepreneur', 'One of Brazil’s biggest YouTubers and a pioneer of content creation in the country.'],
-    es: ['YouTuber y empresario', 'Uno de los mayores youtubers de Brasil y pionero de la creación de contenido en el país.'],
-  },
-  {
     slug: 'whindersson-nunes', name: 'Whindersson Nunes', market: 'brazil', kinds: ['creator'], country: 'BR', ig: 'whinderssonnunes',
     birthDate: '1995-01-05', birthPlace: 'Palmeira do Piauí, PI', activeSince: 2013, genres: ['Humor', 'Stand-up'],
     pt: ['Humorista e youtuber', 'Humorista piauiense que se tornou um dos maiores canais de comédia do YouTube no mundo.'],
@@ -627,13 +620,6 @@ const seeds: Seed[] = [
     pt: ['Jogador de futebol americano', 'Tight end do Kansas City Chiefs, tricampeão do Super Bowl e apresentador do podcast “New Heights” com o irmão Jason.', ['Casou-se com Taylor Swift em julho de 2026.']],
     en: ['American football player', 'Kansas City Chiefs tight end, three-time Super Bowl champion and co-host of the “New Heights” podcast with his brother Jason.', ['He married Taylor Swift in July 2026.']],
     es: ['Jugador de fútbol americano', 'Tight end de los Kansas City Chiefs, tricampeón del Super Bowl y copresentador del pódcast “New Heights” con su hermano Jason.', ['Se casó con Taylor Swift en julio de 2026.']],
-  },
-  {
-    slug: 'ana-paula-renault', name: 'Ana Paula Renault', market: 'brazil', kinds: ['creator'], country: 'BR',
-    aliases: ['Ana Paula'],
-    pt: ['Jornalista e apresentadora', 'Jornalista mineira que ficou conhecida no BBB 16 e voltou ao reality dez anos depois para vencer.', ['Venceu o BBB 26 com 75,94% dos votos na final.']],
-    en: ['Journalist and TV host', 'Brazilian journalist who became known on Big Brother Brasil 16 and returned to the show ten years later to win it.', ['She won BBB 26 with 75.94% of the final vote.']],
-    es: ['Periodista y presentadora', 'Periodista brasileña que se hizo conocida en el BBB 16 y volvió al reality diez años después para ganarlo.', ['Ganó el BBB 26 con el 75,94 % de los votos en la final.']],
   },
 ];
 

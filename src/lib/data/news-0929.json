@@ -1,68 +1,5 @@
 [
  {
-  "id": "3401",
-  "section": "news",
-  "publishedAt": "2026-09-28T14:14:00Z",
-  "breaking": true,
-  "personIds": [
-   "anitta",
-   "ana-paula-renault"
-  ],
-  "confidence": "confirmed",
-  "risk": "green",
-  "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/25/anitta-qxntaf3df8f7.jpg",
-   "credit": "Foto: Divulgação/TV Globo"
-  },
-  "sources": [
-   {
-    "name": "O Tempo",
-    "url": "https://www.otempo.com.br/entretenimento/2026/9/28/saiba-quem-sao-os-influenciadores-que-se-posicionaram-contra-o-veto-as-bets-no-brasil"
-   },
-   {
-    "name": "Poder360",
-    "url": "https://www.poder360.com.br/poder-gente/influenciadores-postam-manifesto-em-defesa-das-bets/"
-   },
-   {
-    "name": "Terra",
-    "url": "https://www.terra.com.br/diversao/gente/anitta-e-mais-famosos-reagem-a-proibicao-das-bets-no-brasil,9ef2fbd56ed2b84d490d1c7afd8871aas3r6hygk.html"
-   }
-  ],
-  "t": {
-   "pt": {
-    "slug": "fim-das-bets-divide-famosos-anitta-apoia-jojo-todynho-critica",
-    "headline": "Fim das bets racha os famosos: Anitta e Ana Paula Renault apoiam, JoJo e Davi Brito reagem",
-    "summary": "A medida provisória que proíbe as apostas online no Brasil colocou celebridades em lados opostos nas redes.",
-    "body": [
-     "A medida provisória assinada pelo presidente Lula em 25 de setembro, que proíbe a oferta e a publicidade de apostas de quota fixa no país, virou assunto entre os famosos. Pelo cronograma divulgado, novos depósitos ficam bloqueados de imediato, os usuários têm até 5 de outubro para sacar saldos e os sites devem sair do ar a partir de 6 de outubro.",
-     "Anitta reagiu à notícia com emojis de aplausos, e Luisa Mell e Dora Figueiredo também comemoraram. Ana Paula Renault, campeã do BBB 26, publicou vídeo defendendo a medida como forma de proteger as famílias, mas ponderou que a fiscalização contra plataformas ilegais e o apoio a quem sofre com apostas são indispensáveis.",
-     "Do outro lado, JoJo Todynho, Jon Vlogs, Davi Brito, Mari Menezes, MC Loma e Dayanne Bezerra, irmã de Deolane, publicaram um manifesto com a hashtag #NósApostamosNoBrasil, apoiado por nove associações do setor. O texto defende que regular é mais eficaz do que proibir e que o veto empurraria apostadores para sites clandestinos. A MP ainda precisa ser aprovada pelo Congresso para virar lei."
-    ]
-   },
-   "en": {
-    "slug": "betting-ban-splits-brazilian-celebrities-anitta-jojo-todynho",
-    "headline": "Brazil's betting ban splits celebrities: Anitta and Ana Paula Renault cheer, JoJo Todynho and Davi Brito push back",
-    "summary": "The provisional measure banning online betting in Brazil has put stars on opposite sides of the debate.",
-    "body": [
-     "The provisional measure signed by President Lula on September 25, banning fixed-odds betting services and advertising in Brazil, has become a hot topic among celebrities. Under the announced timeline, new deposits are blocked immediately, users have until October 5 to withdraw balances, and sites go offline from October 6.",
-     "Anitta reacted to the news with clapping emojis, while Luisa Mell and Dora Figueiredo also celebrated. BBB 26 champion Ana Paula Renault posted a video backing the measure as a way to protect families, while stressing that cracking down on illegal platforms and supporting people hurt by gambling are essential.",
-     "On the other side, JoJo Todynho, Jon Vlogs, Davi Brito, Mari Menezes, MC Loma and Dayanne Bezerra, Deolane's sister, posted a manifesto under the hashtag #NósApostamosNoBrasil, backed by nine industry associations. It argues that regulation works better than prohibition and that a ban would push bettors toward illegal sites. The measure still needs congressional approval to become permanent law."
-    ]
-   },
-   "es": {
-    "slug": "fin-de-las-apuestas-divide-famosos-brasil-anitta-jojo-todynho",
-    "headline": "El fin de las apuestas divide a los famosos de Brasil: Anitta y Ana Paula Renault aplauden, JoJo Todynho y Davi Brito protestan",
-    "summary": "La medida provisional que prohíbe las apuestas en línea en Brasil dejó a las celebridades en bandos opuestos.",
-    "body": [
-     "La medida provisional firmada por el presidente Lula el 25 de septiembre, que prohíbe la oferta y publicidad de apuestas de cuota fija en el país, se volvió tema entre los famosos. Según el calendario anunciado, los nuevos depósitos quedan bloqueados de inmediato, los usuarios tienen hasta el 5 de octubre para retirar saldos y los sitios salen del aire desde el 6 de octubre.",
-     "Anitta reaccionó a la noticia con emojis de aplausos, y Luisa Mell y Dora Figueiredo también celebraron. Ana Paula Renault, campeona de BBB 26, publicó un video defendiendo la medida como protección a las familias, aunque advirtió que combatir las plataformas ilegales y apoyar a quienes sufren por las apuestas es indispensable.",
-     "Del otro lado, JoJo Todynho, Jon Vlogs, Davi Brito, Mari Menezes, MC Loma y Dayanne Bezerra, hermana de Deolane, publicaron un manifiesto con la etiqueta #NósApostamosNoBrasil, respaldado por nueve asociaciones del sector. El texto sostiene que regular es más eficaz que prohibir y que el veto llevaría a los apostadores a sitios clandestinos. La medida aún debe ser aprobada por el Congreso."
-    ]
-   }
-  },
-  "hue": 7
- },
- {
   "id": "3402",
   "section": "news",
   "publishedAt": "2026-09-28T15:00:00Z",
@@ -347,68 +284,6 @@
    }
   },
   "hue": 242
- },
- {
-  "id": "3407",
-  "section": "movies-tv",
-  "publishedAt": "2026-09-29T10:58:00Z",
-  "breaking": true,
-  "personIds": [
-   "ana-paula-renault"
-  ],
-  "confidence": "confirmed",
-  "risk": "green",
-  "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/09/29/991280301-ana-paula-renault-e-tia-milena.jpg",
-   "credit": "Foto: Reprodução/Multishow/Instagram"
-  },
-  "sources": [
-   {
-    "name": "Terra",
-    "url": "https://www.terra.com.br/diversao/tv/ana-paula-renault-fala-pela-primeira-vez-sobre-fim-de-amizade-com-tia-milena-quebram-padrao-de-lealdade,299c11fd538d61b6192ec5d7b5affc32ceyvo6g9.html"
-   },
-   {
-    "name": "O Tempo",
-    "url": "https://www.otempo.com.br/entretenimento/2026/9/29/tia-milena-ironiza-declaracoes-de-ana-paula-renault-no-blogueirinha-entrevista-milena-day"
-   },
-   {
-    "name": "O Tempo",
-    "url": "https://www.otempo.com.br/entretenimento/2026/9/28/ana-paula-renault-fala-sobre-afastamento-de-tia-milena-e-explica-o-que-aconteceu"
-   }
-  ],
-  "t": {
-   "pt": {
-    "slug": "ana-paula-renault-tia-milena-blogueirinha-entrevista-lealdade",
-    "headline": "Ana Paula Renault fala do fim da amizade com Tia Milena na estreia de 'Blogueirinha Entrevista', e ex-sister ironiza",
-    "summary": "A campeã do BBB 26 disse que houve quebra de lealdade; Milena respondeu nas redes: 'É Milena day?'",
-    "body": [
-     "Ana Paula Renault foi a primeira convidada do 'Blogueirinha Entrevista', que estreou ao vivo no Multishow na segunda-feira (28), e falou pela primeira vez sobre o afastamento de Tia Milena, sua parceira no BBB 26. Ao ouvir o nome da ex-colega, brincou: 'Quem? Você conhece?'.",
-     "Depois, reconheceu que a conexão das duas dentro da casa foi verdadeira, mas disse que fica triste quando 'um padrão de lealdade e fidelidade' é quebrado e que cada uma deve seguir em paz. Ela classificou como 'pesado e desnecessário' um comentário de Milena sobre as duas estarem em 'níveis diferentes' de carreira, mas desejou sucesso à mineira.",
-     "Na manhã seguinte, Tia Milena reagiu no X com ironia: 'É Milena day? Esqueceram de me avisar???'. As duas são de Minas Gerais e disputaram juntas a reta final do reality."
-    ]
-   },
-   "en": {
-    "slug": "ana-paula-renault-tia-milena-blogueirinha-interview-loyalty",
-    "headline": "Ana Paula Renault addresses end of friendship with Tia Milena on 'Blogueirinha Entrevista' debut, and her former housemate fires back",
-    "summary": "The BBB 26 champion spoke of broken loyalty; Milena replied online: 'Is it Milena day?'",
-    "body": [
-     "Ana Paula Renault was the first guest on 'Blogueirinha Entrevista', which premiered live on Multishow on Monday (28), and spoke for the first time about her falling-out with Tia Milena, her ally on Big Brother Brasil 26. When her former housemate's name came up, she joked: 'Who? Do you know her?'",
-     "She later acknowledged that their bond in the house was genuine, but said she gets sad when 'a pattern of loyalty and fidelity' is broken and that each should go her own way in peace. She called a remark by Milena about them being at 'different career levels' 'heavy and unnecessary', but wished her success.",
-     "The next morning, Tia Milena responded on X with irony: 'Is it Milena day? Did they forget to tell me???' Both are from Minas Gerais and fought together through the show's final stretch."
-    ]
-   },
-   "es": {
-    "slug": "ana-paula-renault-tia-milena-blogueirinha-entrevista-lealtad",
-    "headline": "Ana Paula Renault habla del fin de su amistad con Tia Milena en el estreno de 'Blogueirinha Entrevista', y la exparticipante ironiza",
-    "summary": "La campeona de BBB 26 habló de lealtad rota; Milena respondió en redes: '¿Es el día de Milena?'",
-    "body": [
-     "Ana Paula Renault fue la primera invitada de 'Blogueirinha Entrevista', que se estrenó en vivo en Multishow el lunes (28), y habló por primera vez del distanciamiento con Tia Milena, su aliada en Big Brother Brasil 26. Al escuchar el nombre de su excompañera, bromeó: '¿Quién? ¿La conoces?'.",
-     "Luego reconoció que la conexión entre ambas en la casa fue real, pero dijo que se entristece cuando se rompe 'un patrón de lealtad y fidelidad' y que cada una debe seguir en paz. Calificó de 'pesado e innecesario' un comentario de Milena sobre estar en 'niveles distintos' de carrera, aunque le deseó éxito.",
-     "A la mañana siguiente, Tia Milena reaccionó en X con ironía: '¿Es el día de Milena? ¿Se olvidaron de avisarme???'. Ambas son de Minas Gerais y disputaron juntas la recta final del reality."
-    ]
-   }
-  },
-  "hue": 289
  },
  {
   "id": "3408",
@@ -2127,60 +2002,6 @@
    }
   },
   "hue": 168
- },
- {
-  "id": "3505",
-  "section": "creators",
-  "publishedAt": "2026-09-26T13:07:00Z",
-  "breaking": false,
-  "personIds": [
-   "felipe-neto"
-  ],
-  "confidence": "confirmed",
-  "risk": "green",
-  "image": {
-   "url": "https://i.metroimg.com/jEU7h5gF3sM4rRyQ_HSZRkS_-4JguXK7s3NK4dsEOFU/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/08/felipe-neto-preco-flores-casamento.jpg",
-   "credit": "Foto: Reprodução/Redes sociais (via Metrópoles)"
-  },
-  "sources": [
-   {
-    "name": "Metrópoles",
-    "url": "https://www.metropoles.com/celebridades/felipe-neto-lamenta-ter-divulgado-bets-burro-e-ganancioso"
-   }
-  ],
-  "t": {
-   "pt": {
-    "slug": "felipe-neto-arrependimento-bets-burro-ganancioso",
-    "headline": "Felipe Neto apoia fim das bets e admite: divulgar apostas foi “a pior coisa” que fez",
-    "summary": "O youtuber disse que foi “burro e ganancioso” ao fazer publicidade de casa de apostas no passado.",
-    "body": [
-     "Felipe Neto usou o X para comentar a MP que proibiu as bets no Brasil e fez um mea-culpa público. O youtuber disse que ter feito propaganda de casa de apostas foi a pior coisa que já fez na vida e resumiu: ninguém mandou ser “burro e ganancioso”.",
-     "Ele afirmou que não ficou com o dinheiro da publicidade, mas que carrega a fama de ter ficado, e considerou essa cobrança merecida. Felipe declarou apoio à proibição anunciada pelo governo federal.",
-     "O influenciador também alertou que alguns criadores de conteúdo podem tentar se mudar para o exterior para seguir divulgando sites de apostas ilegais, um tema que o próprio presidente Lula comentou dias depois."
-    ]
-   },
-   "en": {
-    "slug": "felipe-neto-regrets-betting-ads-backs-ban",
-    "headline": "Felipe Neto backs betting ban and admits promoting bets was “the worst thing” he ever did",
-    "summary": "The Brazilian YouTuber said he was “stupid and greedy” for advertising a betting site in the past.",
-    "body": [
-     "Felipe Neto took to X to react to the provisional measure banning online betting in Brazil and offered a public mea culpa. The YouTuber said advertising a betting company was the worst thing he has ever done, adding that nobody forced him to be “stupid and greedy.”",
-     "He said he did not keep the money from that ad deal but still carries the reputation of having done so, and called that criticism deserved. Felipe voiced support for the federal government's ban.",
-     "He also warned that some content creators might move abroad to keep promoting illegal betting sites, a concern President Lula himself addressed days later."
-    ]
-   },
-   "es": {
-    "slug": "felipe-neto-se-arrepiente-publicidad-apuestas",
-    "headline": "Felipe Neto apoya el fin de las apuestas y admite que promocionarlas fue “lo peor” que hizo",
-    "summary": "El youtuber brasileño dijo que fue “burro y codicioso” al hacer publicidad de una casa de apuestas en el pasado.",
-    "body": [
-     "Felipe Neto usó X para comentar la medida que prohibió las apuestas en Brasil e hizo un mea culpa público. El youtuber dijo que haber hecho publicidad de una casa de apuestas fue lo peor que ha hecho en su vida y resumió que nadie lo obligó a ser “burro y codicioso”.",
-     "Afirmó que no se quedó con el dinero de esa publicidad, pero que carga con la fama de haberlo hecho, y consideró merecida esa crítica. Felipe expresó su apoyo a la prohibición anunciada por el gobierno federal.",
-     "También advirtió que algunos creadores podrían mudarse al exterior para seguir promocionando sitios de apuestas ilegales, un tema que el propio presidente Lula comentó días después."
-    ]
-   }
-  },
-  "hue": 215
  },
  {
   "id": "3506",
