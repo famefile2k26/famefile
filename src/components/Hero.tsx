@@ -374,8 +374,8 @@ const flashes = [
   { x: 88, y: 90, d: '2.7s', t: '7.9s' },
 ];
 
-export async function Hero({ locale }: { locale: Locale }) {
-  const [posts, chart] = await Promise.all([getArticles({ limit: 12 }), getTopSongsChart()]);
+export async function Hero({ locale, country }: { locale: Locale; country: string }) {
+  const [posts, chart] = await Promise.all([getArticles({ limit: 12, country }), getTopSongsChart()]);
   const lead = posts[0];
   const regionLabel = chart.region === 'GLOBAL' ? 'Top Global' : `Top ${chart.region}`;
 

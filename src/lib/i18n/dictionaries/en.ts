@@ -80,6 +80,8 @@ export const en: Dictionary = {
       'Patterns that show up often in growing content. Not a guarantee of going viral.',
     liveNow: 'Live now',
     liveNowSub: 'Streamers online right now',
+    localTitle: 'Trending · {c}',
+    localSub: 'What’s buzzing where you are — news picked for your country',
     brazil: 'Trending in Brazil',
     brazilSub: 'Sertanejo, funk, pop and the creators all of Brazil is talking about',
     latest: 'More news',

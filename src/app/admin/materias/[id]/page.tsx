@@ -210,26 +210,34 @@ export default async function ArticleEditor({ params, searchParams }: { params: 
               </button>
             )}
           </div>
-          {!isNew && (
-            <div className="ff-card grid gap-2">
-              <p className="ff-label">Visibilidade</p>
-              <input type="hidden" name="back" value={`/admin/materias/${a.id}`} />
-              <button type="submit" formAction={setArticleVisibility} name="mode" value="hide" className="ff-btn">
-                Ocultar do site
-              </button>
-              <details>
-                <summary className="ff-btn cursor-pointer list-none text-center text-movies">Excluir matéria</summary>
-                <div className="mt-2 grid gap-2 rounded-2xl border border-movies/40 p-3 text-xs">
-                  <p className="text-fg/80">A matéria sai do site e vai para a lixeira (dá para restaurar).</p>
-                  <button type="submit" formAction={setArticleVisibility} name="mode" value="delete" className="ff-btn bg-movies! text-white!">
-                    Confirmar exclusão
-                  </button>
-                </div>
-              </details>
-            </div>
-          )}
+
         </aside>
       </form>
+      {!isNew && (
+        <section className="ff-card mt-6 grid max-w-md gap-2">
+          <p className="ff-label">Visibilidade</p>
+          <form action={setArticleVisibility}>
+            <input type="hidden" name="id" value={a.id} />
+            <input type="hidden" name="back" value={`/admin/materias/${a.id}`} />
+            <input type="hidden" name="mode" value="hide" />
+            <button type="submit" className="ff-btn w-full">
+              Ocultar do site
+            </button>
+          </form>
+          <details>
+            <summary className="ff-btn cursor-pointer list-none text-center text-movies">Excluir matéria</summary>
+            <form action={setArticleVisibility} className="mt-2 grid gap-2 rounded-2xl border border-movies/40 p-3 text-xs">
+              <input type="hidden" name="id" value={a.id} />
+              <input type="hidden" name="back" value="/admin/materias" />
+              <input type="hidden" name="mode" value="delete" />
+              <p className="text-fg/80">A matéria sai do site e vai para a lixeira (dá para restaurar).</p>
+              <button type="submit" className="ff-btn bg-movies! text-white!">
+                Confirmar exclusão
+              </button>
+            </form>
+          </details>
+        </section>
+      )}
     </AdminShell>
   );
 }

@@ -44,6 +44,10 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 - 92 matérias dos últimos 3 dias (`news-0929.json`): internacionais, latinos (Lali, Tini, Arjona...), Brasil, streamers/bets, filmes e séries. 21 perfis novos em `people-extra.json` (fotos pelo workflow).
 - Regra: todo conteúdo novo entra com foto (da fonte; senão capa/foto do artista).
 
+## Personalização por país (29/09)
+- `middleware.ts`: 1ª visita escolhe o idioma pelo país do IP (`x-vercel-ip-country`): BR/PT/AO/MZ → pt; AR/MX/CO/CL/ES… → es; EUA e demais → en. Escolha manual (cookie NEXT_LOCALE) sempre vence. `?cc=AR` força um país (teste) e fica salvo em cookie.
+- `lib/data/relevance.ts`: ordena matérias por recência + proximidade (país dos famosos, mercado, domínio das fontes). Home, hero e listas de seção são dinâmicas por país. Módulo "Em alta · {país}".
+
 ## Regras editoriais permanentes
 - **Felipe Neto e Ana Paula Renault não fazem parte do site:** nunca publicar notícias sobre eles nem manter perfil. Bloqueio em `src/lib/editorial.ts` (filtra matérias que os citem em qualquer idioma e perfis, inclusive do admin/robô).
 - Todo conteúdo novo entra com foto.

@@ -5,6 +5,7 @@ import { KeepExploring } from '@/components/KeepExploring';
 import { sectionViews } from '@/components/SectionViews';
 import { SectionHeader } from '@/components/ui';
 import { getArticles } from '@/lib/data';
+import { viewerCountry } from '@/lib/viewer';
 import { cssVars } from '@/lib/format';
 import {
   getDictionary,
@@ -19,7 +20,8 @@ import {
 } from '@/lib/i18n';
 import { localizedAlternates } from '@/lib/seo';
 
-export const revalidate = 300;
+// Ordem das matérias personalizada por país do leitor.
+export const dynamic = 'force-dynamic';
 export const dynamicParams = false;
 
 type Props = { params: Promise<{ locale: string; section: string }> };
@@ -51,7 +53,7 @@ export default async function SectionPage({ params }: Props) {
   if (!r) notFound();
   const { locale, key } = r;
   const d = getDictionary(locale);
-  const articles = await getArticles({ section: key, limit: 24 });
+  const articles = await getArticles({ section: key, limit: 24, country: await viewerCountry(locale) });
   const accent = sectionAccent[key];
   const View = sectionViews[key];
   const [lead, ...rest] = articles;

@@ -10,7 +10,7 @@ import {
 } from '@/lib/data';
 import { cssVars, timeAgo } from '@/lib/format';
 import { yearTopIds } from '@/lib/data/content-archive';
-import { articlePath, getDictionary, sectionPath, type Locale } from '@/lib/i18n';
+import { articlePath, getDictionary, localeMeta, sectionPath, type Locale } from '@/lib/i18n';
 import Link from 'next/link';
 import {
   ArticleCard,
@@ -42,7 +42,7 @@ export const homeModules = [
 ] as const;
 export type HomeModule = (typeof homeModules)[number];
 
-type Loader = (locale: Locale) => Promise<ReactNode>;
+type Loader = (locale: Locale, cc: string) => Promise<ReactNode>;
 
 const Section = ({ children, id }: { children: ReactNode; id: string }) => (
   <section aria-labelledby={id} className="container-x">
@@ -51,9 +51,9 @@ const Section = ({ children, id }: { children: ReactNode; id: string }) => (
 );
 
 const modules: Record<HomeModule, Loader> = {
-  async breaking(locale) {
+  async breaking(locale, cc) {
     const d = getDictionary(locale);
-    const items = await getArticles({ limit: 6 });
+    const items = await getArticles({ limit: 6, country: cc });
     const list = items.map((a) => (
       <Link
         key={a.id}
@@ -83,9 +83,9 @@ const modules: Record<HomeModule, Loader> = {
     );
   },
 
-  async topStories(locale) {
+  async topStories(locale, cc) {
     const d = getDictionary(locale);
-    const [lead, ...rest] = await getArticles({ limit: 5 });
+    const [lead, ...rest] = await getArticles({ limit: 5, country: cc });
     if (!lead) return null;
     return (
       <Section id="h-top">
@@ -104,15 +104,19 @@ const modules: Record<HomeModule, Loader> = {
     );
   },
 
-  async brazil(locale) {
+  /** "Em alta no seu país": famosos do país do leitor (Brasil, Argentina, EUA...). */
+  async brazil(locale, cc) {
     const d = getDictionary(locale);
-    const [all, br] = await Promise.all([getArticles({ limit: 80 }), getPeople({ market: 'brazil' })]);
-    const ids = new Set(br.map((p) => p.id));
-    const items = all.filter((a) => a.personIds.some((id) => ids.has(id))).slice(0, 8);
+    const [all, people] = await Promise.all([getArticles({ limit: 120, country: cc }), getPeople()]);
+    const local = new Set(people.filter((p) => p.country?.toUpperCase() === cc).map((p) => p.id));
+    let items = all.filter((a) => a.personIds.some((id) => local.has(id)));
+    if (items.length < 4) items = all.slice(5); // país sem famosos na base: segue a ordem de relevância
+    items = items.slice(0, 8);
     if (!items.length) return null;
+    const country = new Intl.DisplayNames([localeMeta[locale].htmlLang], { type: 'region' }).of(cc) ?? cc;
     return (
       <Section id="h-brazil">
-        <SectionHeader id="h-brazil" title={d.home.brazil} subtitle={d.home.brazilSub} accent="var(--color-charts)" />
+        <SectionHeader id="h-brazil" title={d.home.localTitle.replace('{c}', country)} subtitle={d.home.localSub} accent="var(--color-charts)" />
         <div className="grid grid-cols-2 gap-x-4 gap-y-8 md:grid-cols-4">
           {items.map((a) => (
             <ArticleCard key={a.id} article={a} locale={locale} />
@@ -186,9 +190,9 @@ const modules: Record<HomeModule, Loader> = {
     );
   },
 
-  async latest(locale) {
+  async latest(locale, cc) {
     const d = getDictionary(locale);
-    const items = (await getArticles({ limit: 14 })).slice(5, 14);
+    const items = (await getArticles({ limit: 14, country: cc })).slice(5, 14);
     if (!items.length) return null;
     return (
       <Section id="h-latest">
@@ -310,8 +314,16 @@ const modules: Record<HomeModule, Loader> = {
   },
 };
 
-export async function HomeModules({ locale, order = homeModules }: { locale: Locale; order?: readonly HomeModule[] }) {
-  const rendered = await Promise.all(order.map((m) => modules[m](locale)));
+export async function HomeModules({
+  locale,
+  country,
+  order = homeModules,
+}: {
+  locale: Locale;
+  country: string;
+  order?: readonly HomeModule[];
+}) {
+  const rendered = await Promise.all(order.map((m) => modules[m](locale, country)));
   return (
     <div id="feed" className="scroll-mt-28 space-y-14 pb-10 sm:space-y-20">
       {rendered.map((node, i) => (

@@ -5,6 +5,7 @@
  * Providers ainda sem fonte real (trends de creators, lives, clips, Fame Score) devolvem listas vazias
  * e os módulos correspondentes ficam ocultos, em vez de exibir dados inventados.
  */
+import { rankForCountry } from './relevance';
 import type { SectionKey } from '@/lib/i18n/routes';
 import { getStore } from './store';
 import type { Article, Chart, LiveStream, Market, Person, TrendSignal, ViralClip } from './types';
@@ -14,15 +15,16 @@ const byNewest = (a: Article, b: Article) => b.publishedAt.localeCompare(a.publi
 /* ─── Matérias ──────────────────────────────────────────────── */
 
 export async function getArticles(
-  opts: { section?: SectionKey; personId?: string; excludeId?: string; limit?: number } = {},
+  opts: { section?: SectionKey; personId?: string; excludeId?: string; limit?: number; country?: string } = {},
 ): Promise<Article[]> {
-  const { articles } = await getStore();
-  return articles
+  const { articles, people } = await getStore();
+  const list = articles
     .filter((a) => !opts.section || a.section === opts.section)
     .filter((a) => !opts.personId || a.personIds.includes(opts.personId))
     .filter((a) => a.id !== opts.excludeId)
-    .sort(byNewest)
-    .slice(0, opts.limit ?? 50);
+    .sort(byNewest);
+  const ranked = opts.country ? rankForCountry(list, opts.country, new Map(people.map((p) => [p.id, p]))) : list;
+  return ranked.slice(0, opts.limit ?? 50);
 }
 
 /** Matérias na ordem dos ids pedidos (curadoria editorial). */
