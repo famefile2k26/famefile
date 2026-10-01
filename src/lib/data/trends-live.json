@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,7 +72,7 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -85,50 +85,22 @@
   "t": {
    "pt": {
     "name": "portugal fc",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Gil Vicente."
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via Gil Vicente."
    },
    "en": {
     "name": "portugal fc",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via Gil Vicente."
+    "note": "Trending Google search (Brazil) — 5000+ searches · via Gil Vicente."
    },
    "es": {
     "name": "portugal fc",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Gil Vicente."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Gil Vicente."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://www.estadao.com.br/cultura/cinema/tudo-que-sabemos-sobre-vingadores-doutor-destino-nprec/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiWn1GjFVyIASZPw1dSoyLJdd5JvvEt_qLZP7ZJbZgdKkrijSGjBu_7_WlUVo",
-   "credit": "Estadão"
-  },
-  "t": {
-   "pt": {
-    "name": "doutor destino",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Estadão."
-   },
-   "en": {
-    "name": "doutor destino",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via Estadão."
-   },
-   "es": {
-    "name": "doutor destino",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Estadão."
-   }
-  },
-  "id": "tr5",
-  "hue": 88
- },
- {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -152,11 +124,11 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr6",
-  "hue": 125
+  "id": "tr5",
+  "hue": 88
  },
  {
-  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
@@ -180,7 +152,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Gil Vicente."
    }
   },
-  "id": "tr7",
-  "hue": 162
+  "id": "tr6",
+  "hue": 125
  }
 ]
