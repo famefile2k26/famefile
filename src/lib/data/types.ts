@@ -155,8 +155,17 @@ export interface TrendSignal {
   id: string;
   kind: 'sound' | 'format' | 'topic' | 'video';
   platform: Platform;
-  growthPct: number;
+  /** Variação informada pela fonte (nunca estimada). */
+  growthPct?: number;
+  /** Posição no ranking da fonte (ex.: TikTok Creative Center). */
+  rank?: number;
   videos?: number;
+  /** País do ranking (ISO2) ou GLOBAL. */
+  region?: string;
+  sourceUrl?: string;
+  image?: ImageRef;
+  /** Data da coleta (ISO). */
+  collectedAt?: string;
   hue: number;
   t: Localized<{ name: string; note: string }>;
 }

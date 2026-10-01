@@ -6,6 +6,7 @@
  * e os módulos correspondentes ficam ocultos, em vez de exibir dados inventados.
  */
 import { rankForCountry } from './relevance';
+import trends from './trends-live.json';
 import type { SectionKey } from '@/lib/i18n/routes';
 import { getStore } from './store';
 import type { Article, Chart, LiveStream, Market, Person, TrendSignal, ViralClip } from './types';
@@ -131,11 +132,15 @@ export async function getSongCharts(): Promise<Chart[]> {
 
 /* ─── Creators / streamers (aguardando providers) ──────────── */
 
+/**
+ * Trends e sons virais: coletados pelo robô editor (TikTok Creative Center, YouTube em alta, Google Trends…)
+ * em trends-live.json — sempre com fonte; nada estimado.
+ */
 export async function getTrendSignals(): Promise<TrendSignal[]> {
-  return [];
+  return (trends as unknown as TrendSignal[]).filter((t) => t.kind !== 'sound');
 }
 export async function getViralSounds(): Promise<TrendSignal[]> {
-  return [];
+  return (trends as unknown as TrendSignal[]).filter((t) => t.kind === 'sound');
 }
 export async function getLiveStreams(): Promise<LiveStream[]> {
   return [];

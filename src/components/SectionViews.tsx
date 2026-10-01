@@ -283,7 +283,9 @@ async function CreatorsView({ locale }: { locale: Locale }) {
                     <p className="truncate font-bold">♫ {s.t[locale].name}</p>
                     <p className="truncate text-xs text-muted">{platformName[s.platform]} · {s.t[locale].note}</p>
                   </div>
-                  <span className="shrink-0 text-sm font-extrabold text-fame">{growth(s.growthPct)}</span>
+                  <span className="shrink-0 text-sm font-extrabold text-fame">
+                    {s.growthPct !== undefined ? growth(s.growthPct) : s.rank !== undefined ? `#${s.rank}` : ''}
+                  </span>
                 </li>
               ))}
             </Panel>

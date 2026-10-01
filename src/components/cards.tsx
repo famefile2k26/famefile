@@ -173,22 +173,35 @@ const platformName: Record<string, string> = {
 export function TrendSignalCard({ signal, locale }: { signal: TrendSignal; locale: Locale }) {
   const d = getDictionary(locale);
   const t = signal.t[locale];
-  return (
-    <div className="rounded-3xl border border-line bg-surface p-4">
+  const body = (
+    <>
+      {signal.image && <Poster hue={signal.hue} image={signal.image} className="mb-3 aspect-video rounded-2xl" />}
       <div className="flex items-center justify-between text-[11px] font-bold uppercase tracking-wider text-muted">
         <span>
           {d.trendKinds[signal.kind]} · {platformName[signal.platform]}
+          {signal.region ? ` · ${signal.region === 'GLOBAL' ? 'Global' : signal.region}` : ''}
         </span>
-        <span className="text-creators">{growth(signal.growthPct)}</span>
+        {signal.growthPct !== undefined ? (
+          <span className="text-creators">{growth(signal.growthPct)}</span>
+        ) : signal.rank !== undefined ? (
+          <span className="text-creators">#{signal.rank}</span>
+        ) : null}
       </div>
       <p className="mt-3 font-display text-lg font-bold leading-tight">{t.name}</p>
       <p className="mt-1 text-sm text-muted">{t.note}</p>
-      {signal.videos && (
+      {signal.videos ? (
         <p className="mt-3 text-xs font-semibold text-fg/70">
           {compactNumber(signal.videos, locale)} {d.common.videos}
         </p>
-      )}
-    </div>
+      ) : null}
+    </>
+  );
+  return signal.sourceUrl ? (
+    <a href={signal.sourceUrl} target="_blank" rel="noopener noreferrer" className="block rounded-3xl border border-line bg-surface p-4 transition hover:border-white/25">
+      {body}
+    </a>
+  ) : (
+    <div className="rounded-3xl border border-line bg-surface p-4">{body}</div>
   );
 }
 

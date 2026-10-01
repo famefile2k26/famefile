@@ -31,6 +31,17 @@ Boato/não confirmado: `confidence: "reported"`, `risk: "yellow"` e dizer no tex
 - **Toda matéria com foto**: a foto principal da matéria original (og:image / imagem de destaque), URL https direta. Sem foto = a matéria é descartada pelo script.
 - Não existe mais a seção "fofocas": tudo de celebridade é `news`.
 
+### Perfis (obrigatório — vamos construir um grande banco de famosos)
+- **Todo famoso citado como protagonista de uma matéria precisa ter perfil no site.** Antes de publicar, confira os slugs existentes (`people.ts`, `people-more.ts`, `people-extra.json`); para quem não tiver, crie o perfil no lote de perfis (formato de `people-extra.json`: nome, mercado, tipo, país, Instagram oficial só se tiver certeza, nascimento, cidade, desde, estilos, trabalhos e bio/destaques em pt/en/es — só fatos verificáveis) e coloque o slug em `personIds`.
+- A foto do perfil sai sozinha (workflow de capas: Wikipedia/Commons → Deezer). O script avisa matérias sem perfil vinculado.
+- **Mutirão de perfis**: a cada rodada, crie também até 10 perfis de famosos que já aparecem em matérias publicadas sem perfil (procure nomes nas manchetes de `news-live.json`/`news-0929.json`).
+
+### Trends e virais (toda rodada) — aba Internet & Creators
+- Fontes públicas, nesta ordem: TikTok Creative Center (https://ads.tiktok.com/business/creativecenter/ — hashtags, músicas, criadores e vídeos em alta por país: BR, US, AR, MX), YouTube em alta (Brasil), Google Trends (Brasil), e matérias sobre trends do Instagram/Reels.
+- Monte 12–20 itens: sons/músicas (`"kind":"sound"`), hashtags e desafios (`"topic"`), formatos de vídeo (`"format"`) e vídeos virais (`"video"`), sempre com `sourceUrl`, ranking (`rank`) e, se a fonte mostrar, número de posts/vídeos ou variação. Nunca estimar números.
+- Publicar: `python3 scripts/set_trends.py /caminho/trends.json` (substitui o radar anterior).
+- Os virais mais fortes também viram matéria (seção `creators`, formato `explainer` ou `list`).
+
 ## 2. Escrever o lote
 Arquivo JSON (lista) — formato de cada item:
 ```json

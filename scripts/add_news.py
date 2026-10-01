@@ -121,6 +121,8 @@ def main():
         }
         if x.get('breaking'): item['breaking'] = True
         if fmt: item['format'] = fmt
+        if not item['personIds'] and item['section'] in ('news', 'music', 'creators', 'streamers'):
+            print('  aviso: matéria sem perfil vinculado — crie o perfil do famoso:', head)
         live.insert(0, item); used_ids.add(nid); seen_heads.append(norm(head)); seen_urls |= {s['url'] for s in srcs}
         added.append(head)
     live.sort(key=lambda a: a['publishedAt'], reverse=True)
