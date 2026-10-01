@@ -28,6 +28,9 @@ export function ArticleCard({
   const meta = (
     <div className="flex flex-wrap items-center gap-2">
       <SectionLabel accent={accent}>{d.nav[article.section]}</SectionLabel>
+      {article.format && (
+        <span className="pill bg-white text-[10px] font-extrabold uppercase tracking-wider text-black">{d.formats[article.format]}</span>
+      )}
       <ConfidenceBadge value={article.confidence} d={d} />
       <time dateTime={article.publishedAt} className="text-[11px] text-muted">
         {timeAgo(article.publishedAt, locale)}

@@ -158,6 +158,7 @@ export const en: Dictionary = {
     noShows: 'No shows announced right now.',
     noNews: 'No news about this profile yet.',
   },
+  formats: { review: 'Review', feature: 'Feature', list: 'List', explainer: 'Explainer' },
   trendKinds: { sound: 'Sound', format: 'Format', topic: 'Topic', video: 'Video' },
   releaseTypes: { single: 'Single', album: 'Album', ep: 'EP' },
   confidence: {

@@ -108,6 +108,8 @@ export interface Article {
   factBox?: Localized<{ known: string[]; unknown: string[] }>;
   /** Excluída pelo admin (lixeira). */
   deleted?: boolean;
+  /** Formato editorial: análise, especial (ex.: "conheça a mansão…"), lista, explicador. */
+  format?: 'review' | 'feature' | 'list' | 'explainer';
   /** Linha do tempo "Receipts" */
   receipts?: { at: string; t: Localized<string> }[];
   /** Fontes consultadas (a matéria é texto próprio; as fontes ficam creditadas). */

@@ -15,8 +15,15 @@ const pattern = new RegExp(blockedPeople.flatMap((p) => p.names).map((n) => n.re
 
 export const isBlockedPerson = (p: Pick<Person, 'id'>) => ids.has(p.id);
 
-/** Bloqueia a matéria se citar a pessoa em qualquer idioma (título, resumo ou texto) ou marcá-la. */
+/**
+ * Temas fora da linha editorial (decisão do dono, 01/10/2026): apostas/bets.
+ * Checado no título/resumo em pt e es (em inglês "bets on" é verbo comum e daria falso positivo).
+ */
+export const blockedTopics = /\b(bets?|betting|apostas|casas? de apostas?|blaze|tigrinho|cassino online|casino online|apuestas)\b/i;
+
+/** Bloqueia a matéria se citar pessoa bloqueada (em qualquer parte) ou tratar de tema bloqueado (título/resumo). */
 export function isBlockedArticle(a: Article): boolean {
   if (a.personIds.some((id) => ids.has(id))) return true;
-  return Object.values(a.t).some((t) => pattern.test(`${t.headline} ${t.summary} ${t.body.join(' ')}`));
+  if (Object.values(a.t).some((t) => pattern.test(`${t.headline} ${t.summary} ${t.body.join(' ')}`))) return true;
+  return [a.t.pt, a.t.es].some((t) => t && blockedTopics.test(`${t.headline} ${t.summary}`));
 }

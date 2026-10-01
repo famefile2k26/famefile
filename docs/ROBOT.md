@@ -9,24 +9,32 @@ Este é o roteiro que a tarefa agendada segue (3x por dia). Também serve para q
 
 ## 1. Pesquisar (últimas ~12 horas, desde a rodada anterior)
 Use WebSearch + WebFetch em veículos confiáveis (g1, gshow, UOL/Splash, CNN Brasil, Metrópoles, Quem, Terra, Billboard / Billboard Brasil, Variety, Deadline, THR, People, Rolling Stone, E! News, Infobae, Clarín, La Nación, El País, Omelete, IGN, Dexerto, ge…).
-Pautas, em proporção parecida com a audiência:
-- **Brasil** (famosos queridinhos, sertanejo, funk, pop, realities como A Fazenda/BBB, novelas, creators, bets e o que influenciadores falaram);
-- **Latinos** (Tini, Lali, Ricardo Arjona, Karol G, Shakira, Bad Bunny, Emilia, María Becerra, Duki, Bizarrap, Peso Pluma…);
-- **Internacional** (celebridades, música pop, K-pop);
-- **Filmes e séries** (estreias, trailers, bilheteria, renovações, elenco, rumores);
-- **Streamers e games** (LOUD/Coringa, Casimiro/CazéTV, Gaules, Alanzoka, Cellbit, esports).
-Meta por rodada: **15–30 matérias**. Nunca inventar nada; cada matéria com 1–3 fontes realmente abertas. Texto **próprio** (nunca copiar frases).
+Pautas (linha editorial definida pelo dono em 01/10/2026 — o site tem que ser **irresistível**):
+- **Artistas e música**: Brasil (queridinhos, sertanejo, funk, pop, rap), latinos (Tini, Lali, Arjona, Karol G, Shakira, Bad Bunny, Emilia, María Becerra, Duki…), internacionais e K-pop. Lançamentos, shows, tretas, romances, bastidores.
+- **Games e gamers**: lançamentos, trailers, esports com times brasileiros, streamers (LOUD/Coringa, Casimiro, Gaules, Alanzoka, Cellbit…).
+- **YouTubers, TikTokers e trends**: o que viralizou, desafios, polêmicas, números, memes do dia.
+- **Cinema, séries e TV**: estreias, trailers, bilheteria, renovações, elenco e rumores; programas de TV, realities (A Fazenda, BBB), novelas e **apresentadores**.
+- **Política**: só quando cruza com cultura pop/famosos/internet (celebridade que entrou na política, lei que afeta artistas e creators, eleição comentada por famosos). Tom neutro, fatos dos dois lados.
+- **Engajamento**: priorizar o que gera conversa e clique — viradas, revelações, números impressionantes, "antes e depois", curiosidades.
+
+Formatos que cada rodada deve trazer, além das notícias quentes (campo `"format"` no lote):
+- **Especiais** (`"format":"feature"`), 2–4 por rodada: "Conheça a mansão onde fulano mora", "Quanto custa o carro de…", "Por dentro da festa de…", "A história de…", "Os bastidores de…". Sempre com fatos de fontes (imobiliárias, reportagens, posts oficiais) e foto.
+- **Análises** (`"format":"review"`), 1–3 por rodada: crítica de filme/série/álbum/clipe que estreou — opinião própria, fundamentada, com nota de 0 a 10 no fim do texto. Deixe claro que é análise.
+- **Listas** (`"format":"list"`): "10 looks mais comentados…", "As 5 maiores tretas da semana…".
+- **Explicadores** (`"format":"explainer"`): "Entenda a polêmica entre…".
+Meta por rodada: **15–30 matérias**, sendo 2–4 especiais e 1–3 análises. Nunca inventar nada; cada matéria com 1–3 fontes realmente abertas. Texto **próprio** (nunca copiar frases).
 Boato/não confirmado: `confidence: "reported"`, `risk: "yellow"` e dizer no texto que é rumor.
 
 ### Regras permanentes
 - **Bloqueados (nunca publicar notícia nem perfil):** Felipe Neto, Ana Paula Renault. Lista oficial em `src/lib/editorial.ts`.
+- **Tema proibido: apostas/bets** (casas de apostas, "fim das bets", Blaze, tigrinho etc.). Não cobrir, nem como pauta secundária.
 - **Toda matéria com foto**: a foto principal da matéria original (og:image / imagem de destaque), URL https direta. Sem foto = a matéria é descartada pelo script.
 - Não existe mais a seção "fofocas": tudo de celebridade é `news`.
 
 ## 2. Escrever o lote
 Arquivo JSON (lista) — formato de cada item:
 ```json
-{"section":"news|music|creators|streamers|movies-tv|charts",
+{"section":"news|music|creators|streamers|movies-tv|charts", "format":"feature|review|list|explainer (opcional)",
  "publishedAt":"ISO UTC", "breaking": false,
  "personIds":["slugs existentes ou novos"],
  "confidence":"confirmed|reported", "risk":"green|yellow",

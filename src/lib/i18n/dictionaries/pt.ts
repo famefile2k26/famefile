@@ -156,6 +156,7 @@ export const pt = {
     noShows: 'Nenhum show anunciado no momento.',
     noNews: 'Ainda não há notícias sobre este perfil.',
   },
+  formats: { review: 'Análise', feature: 'Especial', list: 'Lista', explainer: 'Entenda' },
   trendKinds: { sound: 'Som', format: 'Formato', topic: 'Assunto', video: 'Vídeo' },
   releaseTypes: { single: 'Single', album: 'Álbum', ep: 'EP' },
   confidence: {

@@ -17,6 +17,8 @@ DATA = ROOT / 'src/lib/data'
 LIVE = DATA / 'news-live.json'
 EXTRA = DATA / 'people-extra.json'
 SECTIONS = {'news', 'music', 'charts', 'creators', 'streamers', 'movies-tv'}
+FORMATS = {'review', 'feature', 'list', 'explainer'}
+TOPICS = re.compile(r'\b(bets?|betting|apostas|casas? de apostas?|blaze|tigrinho|cassino online|casino online|apuestas)\b', re.I)
 SECTION_ALIAS = {'gossip': 'news', 'fofocas': 'news', 'events': 'music', 'style': 'news', 'movies': 'movies-tv', 'tv': 'movies-tv'}
 
 def norm(s):
@@ -89,6 +91,9 @@ def main():
         text = json.dumps(t, ensure_ascii=False)
         if (bl_re and bl_re.search(text)) or set(x.get('personIds', [])) & bl_ids:
             skipped.append(('bloqueada', head)); continue
+        if any(TOPICS.search(f"{t[l]['headline']} {t[l]['summary']}") for l in ('pt', 'es')):
+            skipped.append(('tema fora da linha (bets)', head)); continue
+        fmt = x.get('format') if x.get('format') in FORMATS else None
         img = x.get('image') or {}
         if not (isinstance(img.get('url'), str) and img['url'].startswith('https://')):
             skipped.append(('sem foto', head)); continue
@@ -115,6 +120,7 @@ def main():
             't': t,
         }
         if x.get('breaking'): item['breaking'] = True
+        if fmt: item['format'] = fmt
         live.insert(0, item); used_ids.add(nid); seen_heads.append(norm(head)); seen_urls |= {s['url'] for s in srcs}
         added.append(head)
     live.sort(key=lambda a: a['publishedAt'], reverse=True)
