@@ -1,1 +1,898 @@
-[]
+[
+ {
+  "id": "tr1",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 300,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 1,
+  "sourceUrl": "https://clutchpoints.com/gaming/all-brawl-stars-brawl-pass-rewards-for-season-55",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_r8N2vW6iW4cbN71Q-W0IbeZjyZTA7B8hKLnVQuDmzZt1Pgimle5rSaRWuGg",
+   "credit": "ClutchPoints"
+  },
+  "t": {
+   "pt": {
+    "name": "brawl stars",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ClutchPoints."
+   },
+   "en": {
+    "name": "brawl stars",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via ClutchPoints."
+   },
+   "es": {
+    "name": "brawl stars",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ClutchPoints."
+   }
+  }
+ },
+ {
+  "id": "tr2",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 337,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 2,
+  "sourceUrl": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/01/corinthians-suspende-pagamento-de-divida-pela-arena-enquanto-negocia-quitacao-com-a-caixa.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd-z1kI10qei2bQUnCCYMC6I4ShnPLrHSEwnqHc7vBK8g3THcshn4IXqg9ACY",
+   "credit": "ge"
+  },
+  "t": {
+   "pt": {
+    "name": "caixa",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ge."
+   },
+   "en": {
+    "name": "caixa",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via ge."
+   },
+   "es": {
+    "name": "caixa",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ge."
+   }
+  }
+ },
+ {
+  "id": "tr3",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 14,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 3,
+  "sourceUrl": "https://ge.globo.com/futebol/selecoes/portugal/noticia/2026/10/01/cristiano-ronaldo-ignorou-apelo-de-jorge-jesus-em-aeroporto-antes-de-deixar-concentracao.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFMIC6jO0ReeujsFPVoL7skqLL0Sk9-Aq4HL_peXx_v6HIRtkkD_KggkQCXPw",
+   "credit": "ge"
+  },
+  "t": {
+   "pt": {
+    "name": "jornalista",
+    "note": "Busca em alta no Google (Brasil) — 50000+ buscas · via ge."
+   },
+   "en": {
+    "name": "jornalista",
+    "note": "Trending Google search (Brazil) — 50000+ searches · via ge."
+   },
+   "es": {
+    "name": "jornalista",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 50000+ búsquedas · vía ge."
+   }
+  }
+ },
+ {
+  "id": "tr4",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 51,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 4,
+  "sourceUrl": "https://g1.globo.com/to/tocantins/noticia/2026/10/01/caminhonete-capota-e-empresario-morre-na-br-153.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYsouEU0ucltG__AZ6HQQo10bs7qTeWFl3wNBXSgx_gefiALGfk2ym2Wprl3o",
+   "credit": "G1"
+  },
+  "t": {
+   "pt": {
+    "name": "br-153",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via G1."
+   },
+   "en": {
+    "name": "br-153",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via G1."
+   },
+   "es": {
+    "name": "br-153",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía G1."
+   }
+  }
+ },
+ {
+  "id": "tr5",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 88,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 5,
+  "sourceUrl": "https://valor.globo.com/legislacao/noticia/2026/10/01/stj-autoriza-penhora-de-salario-para-pagamento-de-divida-civil.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiZh-bdI2NkRkazKuBEfO3IZjtBhQ7abK2Qo1CqlsIOq8V9bMX2esFi08hepg",
+   "credit": "Valor Econômico"
+  },
+  "t": {
+   "pt": {
+    "name": "penhora",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Valor Econômico."
+   },
+   "en": {
+    "name": "penhora",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via Valor Econômico."
+   },
+   "es": {
+    "name": "penhora",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Valor Econômico."
+   }
+  }
+ },
+ {
+  "id": "tr6",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 125,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 6,
+  "sourceUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/01/bombeiro-que-matou-estudante-e-solto-tj-pede-suspensao-do-porte-de-arma.ghtm",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ5fUJDh8XRibbhsYlQmnI7jgXvP-xs9VRCWLvmvcsMLfZps4xEXFnKqiGzVY",
+   "credit": "UOL Notícias"
+  },
+  "t": {
+   "pt": {
+    "name": "estudante de medicina",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via UOL Notícias."
+   },
+   "en": {
+    "name": "estudante de medicina",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via UOL Notícias."
+   },
+   "es": {
+    "name": "estudante de medicina",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía UOL Notícias."
+   }
+  }
+ },
+ {
+  "id": "tr7",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 162,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 7,
+  "sourceUrl": "https://www.bbc.com/mundo/articles/c6vgygpp3eqlo",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2HG4yt72WWww9GA6MF2-loH_vGytbvnx-17gWJe69GurVHE1iYQtSg0lHkM",
+   "credit": "BBC"
+  },
+  "t": {
+   "pt": {
+    "name": "estados unidos",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via BBC."
+   },
+   "en": {
+    "name": "estados unidos",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via BBC."
+   },
+   "es": {
+    "name": "estados unidos",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía BBC."
+   }
+  }
+ },
+ {
+  "id": "tr8",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 199,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 8,
+  "sourceUrl": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/01/governo-trump-financia-com-us-1-milhao-projeto-no-brasil-que-acusa-stf-de-censura-diz-jornal.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5k-VX3NPltv-MI1DHQj7z0zSHxbbuza1KhDZWgboWchUET79-MGG-rqE58Jw",
+   "credit": "CBN"
+  },
+  "t": {
+   "pt": {
+    "name": "stf",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via CBN."
+   },
+   "en": {
+    "name": "stf",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via CBN."
+   },
+   "es": {
+    "name": "stf",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía CBN."
+   }
+  }
+ },
+ {
+  "id": "tr9",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 236,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/olympics/story/_/id/50077403/reflecting-pool-vandalism-case-vs-ex-olympian-dismissed",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq_Zq4l2EbcyjsF_FOhOj1j6n-Eypt_Ch0NwHa21ykUJaxc_ycxXSCS7piOLg",
+   "credit": "ESPN"
+  },
+  "t": {
+   "pt": {
+    "name": "david hearn reflecting pool case dismissed",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via ESPN."
+   },
+   "en": {
+    "name": "david hearn reflecting pool case dismissed",
+    "note": "Trending Google search (US) — 1000+ searches · via ESPN."
+   },
+   "es": {
+    "name": "david hearn reflecting pool case dismissed",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía ESPN."
+   }
+  }
+ },
+ {
+  "id": "tr10",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 273,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.usatoday.com/story/money/consumer-protection/2026/10/01/amazon-payments-2-5-billion-settlement/92035542007/",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvTs8mQbKD3ADYDYF8oV9iYMjSFKvWv1sQAzA5w1Q7kPS20uU6v4rGThSGtw",
+   "credit": "USA Today"
+  },
+  "t": {
+   "pt": {
+    "name": "amazon ftc settlement payouts",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via USA Today."
+   },
+   "en": {
+    "name": "amazon ftc settlement payouts",
+    "note": "Trending Google search (US) — 2000+ searches · via USA Today."
+   },
+   "es": {
+    "name": "amazon ftc settlement payouts",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía USA Today."
+   }
+  }
+ },
+ {
+  "id": "tr11",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 310,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://www.politico.com/live-updates/2026/09/30/congress/republican-on-ice-maybe-were-doing-something-wrong-here-01098256",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSaSfY5vFsc3hBfxCNFndQTSnCHV8xM7ksfHC_SBNkRmUlsMSSGCcqJ3255CM",
+   "credit": "Politico"
+  },
+  "t": {
+   "pt": {
+    "name": "jim justice",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Politico."
+   },
+   "en": {
+    "name": "jim justice",
+    "note": "Trending Google search (US) — 1000+ searches · via Politico."
+   },
+   "es": {
+    "name": "jim justice",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Politico."
+   }
+  }
+ },
+ {
+  "id": "tr12",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 347,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 4,
+  "sourceUrl": "https://airlive.net/emergency/2026/10/01/emirates-a380-flight-ek31-to-london-is-declaring-an-emergency-and-diverting/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-4wswr2rlNMr2VLjphosSvHnIhqBb7lo8lLrNdwG-bQti5bgLu8EXJ2qVSLU",
+   "credit": "airlive"
+  },
+  "t": {
+   "pt": {
+    "name": "emirates",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via airlive."
+   },
+   "en": {
+    "name": "emirates",
+    "note": "Trending Google search (US) — 2000+ searches · via airlive."
+   },
+   "es": {
+    "name": "emirates",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía airlive."
+   }
+  }
+ },
+ {
+  "id": "tr13",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 24,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 5,
+  "sourceUrl": "https://www.nytimes.com/athletic/7649479/2026/10/01/braves-ray-kerr-opener-wild-card-game-3/",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0L3U4ePba9d2Vr_rjEHiI_Dlw-9RWXjBtHpphJWYdYSjZOqfM-T82cyLhX8k",
+   "credit": "The New York Times"
+  },
+  "t": {
+   "pt": {
+    "name": "ray kerr",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via The New York Times."
+   },
+   "en": {
+    "name": "ray kerr",
+    "note": "Trending Google search (US) — 2000+ searches · via The New York Times."
+   },
+   "es": {
+    "name": "ray kerr",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The New York Times."
+   }
+  }
+ },
+ {
+  "id": "tr14",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 61,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 6,
+  "sourceUrl": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0j9jcwMJlskGWLcpMR4DYiQiQcidLdw8gFKUNXZ4P6bXJgkzGPf-jA3isAkw",
+   "credit": "The New York Times"
+  },
+  "t": {
+   "pt": {
+    "name": "detention",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via The New York Times."
+   },
+   "en": {
+    "name": "detention",
+    "note": "Trending Google search (US) — 2000+ searches · via The New York Times."
+   },
+   "es": {
+    "name": "detention",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The New York Times."
+   }
+  }
+ },
+ {
+  "id": "tr15",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 98,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 7,
+  "sourceUrl": "https://people.com/kylie-kelce-apologizes-kate-middleton-how-she-addressed-her-podcast-invite-12151143",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRubb33w34bvHmzMTSDEzK7SvKMMo2dH6zuxaynJeF9CiWSuhLF_05UAXUxLwk",
+   "credit": "People.com"
+  },
+  "t": {
+   "pt": {
+    "name": "kylie kelce",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via People.com."
+   },
+   "en": {
+    "name": "kylie kelce",
+    "note": "Trending Google search (US) — 2000+ searches · via People.com."
+   },
+   "es": {
+    "name": "kylie kelce",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía People.com."
+   }
+  }
+ },
+ {
+  "id": "tr16",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 135,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 8,
+  "sourceUrl": "https://www.loudersound.com/news/venom-frontman-cronos-dead-aged-64-2026",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylcCOiHSTtC7wEIsVovYFdPD4QmvtI4bNO17PnYlBL6YCob4-7pWq5ICS55Y",
+   "credit": "Louder"
+  },
+  "t": {
+   "pt": {
+    "name": "cronos venom",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Louder."
+   },
+   "en": {
+    "name": "cronos venom",
+    "note": "Trending Google search (US) — 2000+ searches · via Louder."
+   },
+   "es": {
+    "name": "cronos venom",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Louder."
+   }
+  }
+ },
+ {
+  "id": "tr17",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 172,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.lanacion.com.ar/economia/ponen-fecha-a-la-firma-del-megaproyecto-de-us51000-millones-que-busca-convertir-a-la-argentina-en-nid01102026/",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2ncPi8P7ut9Ej2MYFXKCTWpxZ-4ZXVQchcY7cnyYHHsu96bvPCGsJisp3cD4",
+   "credit": "La Nación"
+  },
+  "t": {
+   "pt": {
+    "name": "megaproyecto",
+    "note": "Busca em alta no Google (Argentina) — 20000+ buscas · via La Nación."
+   },
+   "en": {
+    "name": "megaproyecto",
+    "note": "Trending Google search (Argentina) — 20000+ searches · via La Nación."
+   },
+   "es": {
+    "name": "megaproyecto",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 20000+ búsquedas · vía La Nación."
+   }
+  }
+ },
+ {
+  "id": "tr18",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 209,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.riverplate.com/noticias/entradas/venta-de-entradas-river-vs-estudiantes-de-rio-cuarto-clausura-2026",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS58POLhJR7QQby75nSkjk_mJub2VcGtUE0ifbfrLb_QpMJBQkEcByrf48Hz5c",
+   "credit": "www.riverplate.com"
+  },
+  "t": {
+   "pt": {
+    "name": "river id",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via www.riverplate.com."
+   },
+   "en": {
+    "name": "river id",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via www.riverplate.com."
+   },
+   "es": {
+    "name": "river id",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía www.riverplate.com."
+   }
+  }
+ },
+ {
+  "id": "tr19",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 246,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://apnews.com/article/tennessee-execution-christa-pike-woman-38c20d49bea09bed1488c2b41c309f2c",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEKrPrFAcXhXyFvbhTfva5R1dOMUcjtn6t0MGzQYcFkKtvmIuPczuGp0OsmA",
+   "credit": "AP News"
+  },
+  "t": {
+   "pt": {
+    "name": "christa pike",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via AP News."
+   },
+   "en": {
+    "name": "christa pike",
+    "note": "Trending Google search (Argentina) — 500+ searches · via AP News."
+   },
+   "es": {
+    "name": "christa pike",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía AP News."
+   }
+  }
+ },
+ {
+  "id": "tr20",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 283,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 4,
+  "sourceUrl": "https://www.puntodebreak.com/en/2026/09/30/alcaraz-weighs-in-on-whether-to-change-the-format-of-grand-slams",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqeN6XsFXguG4-Xji9gbnyITlbeNFEXfKfrqpHQx9W4lzbpylA14NIX3FFO-s",
+   "credit": "Punto de Break"
+  },
+  "t": {
+   "pt": {
+    "name": "alexander zverev",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Punto de Break."
+   },
+   "en": {
+    "name": "alexander zverev",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Punto de Break."
+   },
+   "es": {
+    "name": "alexander zverev",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Punto de Break."
+   }
+  }
+ },
+ {
+  "id": "tr21",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 320,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 5,
+  "sourceUrl": "https://www.lavoz.com.ar/servicios/quini-6-resultados-numeros-ganadores-sorteo-3413-miercoles-30-septiembre_0_9wtESAv0zU.html",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTJdaIlQIQhVz5fzBXONnYc-SdxqPMZIh11SvTI2hB4g_SmdXwimpOn9Vr-k8",
+   "credit": "La Voz del Interior"
+  },
+  "t": {
+   "pt": {
+    "name": "quini6",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via La Voz del Interior."
+   },
+   "en": {
+    "name": "quini6",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via La Voz del Interior."
+   },
+   "es": {
+    "name": "quini6",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía La Voz del Interior."
+   }
+  }
+ },
+ {
+  "id": "tr22",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 357,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 6,
+  "sourceUrl": "https://www.espn.com.ar/tenis/nota/_/id/17317621/era-un-riesgo-para-ellos-david-ferrer-explico-las-razones-de-la-baja-de-carlos-alcaraz-de-la-copa-davis-2026-espana-declaraciones",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY4iHgiNnfBgFq8lmw_7-LiMk-LvIB_H0vOg5yeLJH7mYXub72dgfETOsf1Y0",
+   "credit": "ESPN Argentina"
+  },
+  "t": {
+   "pt": {
+    "name": "carlos alcaraz",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via ESPN Argentina."
+   },
+   "en": {
+    "name": "carlos alcaraz",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via ESPN Argentina."
+   },
+   "es": {
+    "name": "carlos alcaraz",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía ESPN Argentina."
+   }
+  }
+ },
+ {
+  "id": "tr23",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 34,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 7,
+  "sourceUrl": "https://www.eltrecetv.com.ar/otro-dia-perdido/capitulos/temporada-2026/programa-completo-del-300926-los-esports-llegaron-a-otro-dia-perdido-con-el-streamer-frankkaster-junto-a-mario-pergolini/",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSch4iPu5a1_nANIRuH3zfVW08aaOhM19HOTlJSxYp91JnXYznx1lqejdMSxrg",
+   "credit": "eltrecetv"
+  },
+  "t": {
+   "pt": {
+    "name": "frankkaster",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via eltrecetv."
+   },
+   "en": {
+    "name": "frankkaster",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via eltrecetv."
+   },
+   "es": {
+    "name": "frankkaster",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía eltrecetv."
+   }
+  }
+ },
+ {
+  "id": "tr24",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 71,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 8,
+  "sourceUrl": "https://www.ole.com.ar/boca-juniors/ezequiel-fernandez-equi-debut-seleccion-argentina-emocion-familia-boca_0_De4uY7uk93.html",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0S5JJ5NzRqpd82f92jBsjE0BQqoqLWva3iaUpbHiiPGX2AZUqmGueJOPn-4s",
+   "credit": "Olé"
+  },
+  "t": {
+   "pt": {
+    "name": "equi fernandez",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Olé."
+   },
+   "en": {
+    "name": "equi fernandez",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Olé."
+   },
+   "es": {
+    "name": "equi fernandez",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Olé."
+   }
+  }
+ },
+ {
+  "id": "tr25",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 108,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.ejecentral.com.mx/nuestro-eje/ticketmaster-2x1-hoy-jueves-1-de-octubre-todos-los-conciertos-y-eventos-con-promocion",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTH8eYV5dh4NVhS0k7MOM39I8UjLbTwe-GeDcDWJT20aur4txpBl8_Q_bdc8c4",
+   "credit": "Eje Central"
+  },
+  "t": {
+   "pt": {
+    "name": "ticketmaster",
+    "note": "Busca em alta no Google (México) — 5000+ buscas · via Eje Central."
+   },
+   "en": {
+    "name": "ticketmaster",
+    "note": "Trending Google search (Mexico) — 5000+ searches · via Eje Central."
+   },
+   "es": {
+    "name": "ticketmaster",
+    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía Eje Central."
+   }
+  }
+ },
+ {
+  "id": "tr26",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 145,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.milenio.com/consejos/promociones-cafe-gratis-2x1-hoy-1-de-octubre-dia-internacional-cafe",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEvqj4y-HYeMA1O55YqyZxdBDtR00VkOeVlPA4lK2rmCWX0QNaXE8lpOSU_Ps",
+   "credit": "Milenio"
+  },
+  "t": {
+   "pt": {
+    "name": "dia del cafe",
+    "note": "Busca em alta no Google (México) — 5000+ buscas · via Milenio."
+   },
+   "en": {
+    "name": "dia del cafe",
+    "note": "Trending Google search (Mexico) — 5000+ searches · via Milenio."
+   },
+   "es": {
+    "name": "dia del cafe",
+    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía Milenio."
+   }
+  }
+ },
+ {
+  "id": "tr27",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 182,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/01/estados/rachel-ya-es-huracan-categoria-2-causara-lluvias-muy-fuertes-en-sinaloa-jalisco-nayarit-y-bcs",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0VpkzFLRn4JClKywbGjIg6zQs-JIECW2M_2ZU5gDutzJFxG0_YkOuJH-IPc",
+   "credit": "La Jornada"
+  },
+  "t": {
+   "pt": {
+    "name": "octubre",
+    "note": "Busca em alta no Google (México) — 10000+ buscas · via La Jornada."
+   },
+   "en": {
+    "name": "octubre",
+    "note": "Trending Google search (Mexico) — 10000+ searches · via La Jornada."
+   },
+   "es": {
+    "name": "octubre",
+    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía La Jornada."
+   }
+  }
+ },
+ {
+  "id": "tr28",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 219,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 4,
+  "sourceUrl": "https://citytv.eltiempo.com/noticias/medio-ambiente/hoy-va-llover-en-bogota-conozca-el-pronostico-del-clima_95837",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI-QW-liCFW8sUUIYQ1NHfuhvrva5-MpwACFk4I4SzRBTT48CvAWsU2xgXbPc",
+   "credit": "City Tv"
+  },
+  "t": {
+   "pt": {
+    "name": "estado del tiempo",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via City Tv."
+   },
+   "en": {
+    "name": "estado del tiempo",
+    "note": "Trending Google search (Mexico) — 500+ searches · via City Tv."
+   },
+   "es": {
+    "name": "estado del tiempo",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía City Tv."
+   }
+  }
+ },
+ {
+  "id": "tr29",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 256,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 5,
+  "sourceUrl": "https://www.milenio.com/estados/clima-tamaulipas-1-8-octubre-2026",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-NOPQIzDjjm7H7c7bkZxmLhRgwJKcGNOOvzW6mjzx37e_rHfC09e1Ph_ddCM",
+   "credit": "Milenio"
+  },
+  "t": {
+   "pt": {
+    "name": "clima de hoy",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via Milenio."
+   },
+   "en": {
+    "name": "clima de hoy",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via Milenio."
+   },
+   "es": {
+    "name": "clima de hoy",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Milenio."
+   }
+  }
+ },
+ {
+  "id": "tr30",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 293,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 6,
+  "sourceUrl": "https://www.milenio.com/el-clima/clima-hoy-monterrey-jueves-1-octubre-2026",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSxQLz0skuuc_jmq8GNk-EUxWasCHjaMG9R3BB3mgbDA3zPXlniH-kBT5J9kMM",
+   "credit": "Milenio"
+  },
+  "t": {
+   "pt": {
+    "name": "clima monterrey",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Milenio."
+   },
+   "en": {
+    "name": "clima monterrey",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Milenio."
+   },
+   "es": {
+    "name": "clima monterrey",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Milenio."
+   }
+  }
+ },
+ {
+  "id": "tr31",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 330,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 7,
+  "sourceUrl": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17324315/en-que-mejoro-ecuador-en-su-segundo-partido-del-nuevo-ciclo-de-marcelo-gallardo",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQExUNS9ZN7XFkxZLSt1_T2vaCGmc7lhfsPoUqA-vBdg7eFyCgWGhDo22Scflc",
+   "credit": "ESPN México"
+  },
+  "t": {
+   "pt": {
+    "name": "japon vs ecuador",
+    "note": "Busca em alta no Google (México) — 5000+ buscas · via ESPN México."
+   },
+   "en": {
+    "name": "japon vs ecuador",
+    "note": "Trending Google search (Mexico) — 5000+ searches · via ESPN México."
+   },
+   "es": {
+    "name": "japon vs ecuador",
+    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía ESPN México."
+   }
+  }
+ },
+ {
+  "id": "tr32",
+  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "hue": 7,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 8,
+  "sourceUrl": "https://elmanana.com.mx/laredo-texas/2026/10/1/dps-de-texas-lanza-alerta-lluvia-pondra-en-riesgo-a-conductores-181635.html",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn1WOGB0I-54g8eDPNnQv-Nhffd7cv856WxAlnF1QBKgIeZ8kyb4Zb5U9Voqc",
+   "credit": "El Mañana de Nuevo Laredo"
+  },
+  "t": {
+   "pt": {
+    "name": "clima nuevo laredo",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via El Mañana de Nuevo Laredo."
+   },
+   "en": {
+    "name": "clima nuevo laredo",
+    "note": "Trending Google search (Mexico) — 500+ searches · via El Mañana de Nuevo Laredo."
+   },
+   "es": {
+    "name": "clima nuevo laredo",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía El Mañana de Nuevo Laredo."
+   }
+  }
+ }
+]
