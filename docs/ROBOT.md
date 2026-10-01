@@ -37,9 +37,9 @@ Boato/não confirmado: `confidence: "reported"`, `risk: "yellow"` e dizer no tex
 - **Mutirão de perfis**: a cada rodada, crie também até 10 perfis de famosos que já aparecem em matérias publicadas sem perfil (procure nomes nas manchetes de `news-live.json`/`news-0929.json`).
 
 ### Trends e virais
-- O **radar de trends** da aba Internet & Creators é automático: o workflow `.github/workflows/trends.yml` coleta a cada 3 horas o TikTok Creative Center (hashtags, sons e criadores em alta no BR/EUA/AR/MX) e o Google Trends, e grava `src/lib/data/trends-live.json`. O robô não precisa mexer nele (diagnóstico em `trends-meta.json`).
+- O **radar de trends** da aba Internet & Creators é automático: o workflow `.github/workflows/trends.yml` coleta a cada 3 horas o TikTok Creative Center (hashtags, sons e criadores em alta no BR/EUA/AR/MX) e o Google Trends, e grava `src/lib/data/trends-live.json`. Diagnóstico em `trends-meta.json`.
 - O robô usa esse radar como **pauta**: os virais mais fortes do momento viram matéria (seção `creators`, formato `explainer` ou `list`), com foto e fontes.
-- Se o radar estiver vazio ou com erro no `trends-meta.json`, monte um manualmente com `python3 scripts/set_trends.py /caminho/trends.json` (formato no cabeçalho do script).
+- **Curadoria obrigatória a cada rodada (8–15 itens)**: o TikTok sem login só mostra hashtags globais e o Google Trends mistura assuntos fora da nossa linha. Por isso, toda rodada o robô monta a lista de **virais do momento** (memes, desafios, sons, vídeos e polêmicas de TikTok, Instagram, YouTube e X que estão sendo noticiados — BR, EUA, AR/MX e global) e publica com `python3 scripts/set_trends.py /caminho/trends.json` (formato no cabeçalho do script). Cada item com fonte real, nota curta nos 3 idiomas e foto quando houver. Esses itens ficam no topo por 36h; a coleta automática continua abaixo.
 
 ## 2. Escrever o lote
 Arquivo JSON (lista) — formato de cada item:

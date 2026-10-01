@@ -8,7 +8,8 @@ Cada item: {"kind":"sound|format|topic|video", "platform":"tiktok|instagram|yout
  "growthPct": 35 (opcional, só se a fonte mostrar), "sourceUrl":"https://...",
  "image":{"url":"https://...","credit":"..."} (opcional),
  "t":{"pt":{"name":"...","note":"1 frase: o que é / por que está em alta"},"en":{...},"es":{...}}}
-Itens sem fonte ou sem os 3 idiomas são descartados. Substitui a lista anterior (radar = foto do momento).
+Itens sem fonte ou sem os 3 idiomas são descartados. Os itens entram como "curated" no topo do radar
+(ficam 36h; substituem a curadoria anterior) e a coleta automática continua abaixo.
 """
 import json, sys, pathlib, datetime, re
 
@@ -38,6 +39,7 @@ for i, x in enumerate(items):
         'sourceUrl': x['sourceUrl'],
         'collectedAt': now,
         'hue': (len(out) * 37 + 300) % 360,
+        'curated': True,
         't': t,
     }
     for k in ('rank', 'videos', 'growthPct'):
@@ -45,5 +47,14 @@ for i, x in enumerate(items):
     img = x.get('image') or {}
     if str(img.get('url', '')).startswith('https://'): item['image'] = {'url': img['url'], 'credit': img.get('credit') or ''}
     out.append(item)
-OUT.write_text(json.dumps(out, ensure_ascii=False, indent=1) + '\n')
-print(f'{len(out)} trends no radar')
+# Mantém a coleta automática (TikTok/Google) abaixo dos virais com curadoria
+try:
+    auto = [x for x in json.loads(OUT.read_text()) if not x.get('curated')]
+except Exception:
+    auto = []
+merged = out + auto
+for i, x in enumerate(merged):
+    x['id'] = f'tr{i+1}'
+    x['hue'] = (i * 37 + 300) % 360
+OUT.write_text(json.dumps(merged, ensure_ascii=False, indent=1) + '\n')
+print(f'{len(out)} virais com curadoria + {len(auto)} automáticos no radar')

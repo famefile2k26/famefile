@@ -5,7 +5,7 @@
  *  - Google Trends (RSS "em alta agora") por país, com a notícia relacionada e a foto.
  * Saída: src/lib/data/trends-live.json (+ trends-meta.json com o diagnóstico da coleta).
  */
-import { writeFileSync } from 'node:fs';
+import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 
 const OUT = 'src/lib/data/trends-live.json';
 const META = 'src/lib/data/trends-meta.json';
@@ -13,6 +13,25 @@ const COUNTRIES = ['BR', 'US', 'AR', 'MX'];
 const BLOCK = /\b(bets?|apostas|apuestas|blaze|tigrinho|cassino|casino|felipe neto|ana paula renault)\b/i;
 const meta = { collectedAt: new Date().toISOString(), sources: {} };
 const out = [];
+// Filtro de cultura pop para o Google Trends (que mistura clima, processos, futebol de várzea…)
+const POP = /\b(show|turn[eê]|álbum|album|disco|single|clipe|music|música|canci[oó]n|cantor|cantora|cantante|rapper|singer|filme|film|movie|pel[ií]cula|s[ée]rie|series|temporada|season|trailer|netflix|disney|hbo|hbo max|prime video|globoplay|novela|reality|bbb|fazenda|masterchef|youtube|youtuber|tiktok|instagram|influencer|streamer|twitch|kick|game|jogo|juego|playstation|xbox|nintendo|gta|fortnite|minecraft|esports|cs2|valorant|free fire|lol|oscar|grammy|emmy|vma|globo de ouro|golden globe|festival|rock in rio|lollapalooza|coachella|ator|atriz|actor|actress|celebridade|famos[oa]|met gala|k-?pop|bts|blackpink|taylor swift|anitta|beyonc[eé]|shakira|bad bunny|karol g|marvel|pixar|anime|meme|viral|trend)\b/i;
+const names = (() => {
+  const set = new Set();
+  for (const f of ['src/lib/data/people.ts', 'src/lib/data/people-more.ts']) {
+    if (!existsSync(f)) continue;
+    for (const m of readFileSync(f, 'utf8').matchAll(/\bname:\s*['"]([^'"]{4,60})['"]/g)) set.add(m[1].toLowerCase());
+  }
+  try {
+    for (const p of JSON.parse(readFileSync('src/lib/data/people-extra.json', 'utf8'))) if (p?.name) set.add(String(p.name).toLowerCase());
+  } catch {}
+  return [...set];
+})();
+const isPop = (...txt) => {
+  const s = txt.filter(Boolean).join(' ');
+  if (POP.test(s)) return true;
+  const low = s.toLowerCase();
+  return names.some((n) => low.includes(n));
+};
 const nf = (n, l) => new Intl.NumberFormat(l, { notation: 'compact', maximumFractionDigits: 1 }).format(n);
 const cname = { BR: ['Brasil', 'Brazil', 'Brasil'], US: ['EUA', 'US', 'EE. UU.'], AR: ['Argentina', 'Argentina', 'Argentina'], MX: ['México', 'Mexico', 'México'] };
 
@@ -121,16 +140,19 @@ async function google() {
   for (const cc of COUNTRIES) {
     try {
       const xml = await (await fetch(`https://trends.google.com/trending/rss?geo=${cc}`, { headers: { 'User-Agent': 'Mozilla/5.0 FAMEFILE' } })).text();
-      const items = xml.split('<item>').slice(1, 9);
+      const items = xml.split('<item>').slice(1, 31);
       let n = 0;
       for (const it of items) {
+        if (n >= 8) break;
         const title = tag(it, 'title');
         const traffic = tag(it, 'ht:approx_traffic');
         const news = it.split('<ht:news_item>')[1] ?? '';
         const url = tag(news, 'ht:news_item_url');
         const pic = tag(it, 'ht:picture') || tag(news, 'ht:news_item_picture');
         const src = tag(news, 'ht:news_item_source') || tag(it, 'ht:picture_source');
-        if (!title || !url || BLOCK.test(title)) continue;
+        const newsTitle = tag(news, 'ht:news_item_title');
+        if (!title || !url || BLOCK.test(`${title} ${newsTitle ?? ''}`)) continue;
+        if (!isPop(title, newsTitle)) continue;
         n++;
         out.push({
           kind: 'topic', platform: 'youtube', region: cc, rank: n,
@@ -152,7 +174,33 @@ async function google() {
 
 await tiktok();
 await google();
-const items = out.map((x, i) => ({ id: `tr${i + 1}`, collectedAt: meta.collectedAt, hue: (i * 37 + 300) % 360, ...x }));
+// TikTok: sem login a página devolve o mesmo ranking global para todos os países → deduplicar como GLOBAL
+const seenTT = new Set();
+const deduped = [];
+for (const x of out) {
+  if (x.platform === 'tiktok') {
+    const key = `${x.kind}|${x.t.pt.name}`;
+    if (seenTT.has(key)) continue;
+    seenTT.add(key);
+    if (!x.videos) {
+      x.region = 'GLOBAL';
+      x.t.pt.note = x.t.pt.note.replace(/\(([^)]+)\)/, '(global)');
+      x.t.en.note = x.t.en.note.replace(/\(([^)]+)\)/, '(global)');
+      x.t.es.note = x.t.es.note.replace(/\(([^)]+)\)/, '(global)');
+    }
+  }
+  deduped.push(x);
+}
+// Virais com curadoria do robô (set_trends.py) ficam no topo por até 36h
+let curated = [];
+try {
+  const prev = JSON.parse(readFileSync(OUT, 'utf8'));
+  const cut = Date.now() - 36 * 3600e3;
+  curated = prev.filter((x) => x.curated && Date.parse(x.collectedAt) > cut);
+} catch {}
+meta.curated = curated.length;
+const fresh = deduped.map((x) => ({ collectedAt: meta.collectedAt, ...x }));
+const items = [...curated, ...fresh].map((x, i) => ({ ...x, id: `tr${i + 1}`, hue: (i * 37 + 300) % 360 }));
 meta.total = items.length;
 if (items.length) writeFileSync(OUT, JSON.stringify(items, null, 1) + '\n');
 writeFileSync(META, JSON.stringify(meta, null, 1) + '\n');
