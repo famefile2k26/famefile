@@ -181,11 +181,11 @@ export const en: Dictionary = {
     last7d: 'in 7 days',
   },
   section: {
-    empty: "Full coverage of this section is coming soon. Meanwhile, here's what's happening:",
+    empty: 'Check out what’s happening right now:',
   },
   footer: {
     tagline: 'The home of pop culture and the internet.',
-    demoNotice: 'Development build: every person, story and number shown here is fictional.',
+    demoNotice: 'News, music, film, TV and internet culture — every story cites its sources.',
     rights: 'All rights reserved.',
   },
 };

@@ -181,12 +181,12 @@ export const es: Dictionary = {
     last7d: 'en 7 días',
   },
   section: {
-    empty: 'La cobertura completa de esta sección llega pronto. Mientras tanto, lo que está pasando:',
+    empty: 'Mira lo que está pasando ahora:',
   },
   footer: {
     tagline: 'El centro de la cultura pop y de internet.',
     demoNotice:
-      'Versión de desarrollo: todas las personas, notas y cifras que aparecen aquí son ficticias.',
+      'Noticias, música, cine, series e internet — cada nota cita sus fuentes.',
     rights: 'Todos los derechos reservados.',
   },
 };

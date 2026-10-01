@@ -179,12 +179,12 @@ export const pt = {
     last7d: 'em 7 dias',
   },
   section: {
-    empty: 'A cobertura completa desta seção chega em breve. Enquanto isso, o que está rolando:',
+    empty: 'Confira o que está rolando agora:',
   },
   footer: {
     tagline: 'A central da cultura pop e da internet.',
     demoNotice:
-      'Versão de desenvolvimento: todas as pessoas, matérias e números exibidos são fictícios.',
+      'Notícias, música, cinema, séries e internet — com as fontes citadas em cada matéria.',
     rights: 'Todos os direitos reservados.',
   },
 };

@@ -268,9 +268,7 @@ async function CreatorsView({ locale }: { locale: Locale }) {
                 <TrendSignalCard key={s.id} signal={s} locale={locale} />
               ))}
             </div>
-          ) : (
-            <ComingSoon text={c.radarSoon} />
-          )}
+          ) : null}
         </Block>
         <Block id="sounds">
           <SectionHeader id="sounds-h" title={c.sounds} subtitle={c.soundsSub} accent="var(--color-fame)" />
@@ -289,9 +287,7 @@ async function CreatorsView({ locale }: { locale: Locale }) {
                 </li>
               ))}
             </Panel>
-          ) : (
-            <ComingSoon text={c.radarSoon} />
-          )}
+          ) : null}
         </Block>
       </div>
     </div>
@@ -315,9 +311,7 @@ async function StreamersView({ locale }: { locale: Locale }) {
               <LiveCard key={st.id} stream={st} locale={locale} />
             ))}
           </div>
-        ) : (
-          <ComingSoon text={s.liveSoon} />
-        )}
+        ) : null}
       </Block>
       <Block id="streamers">
         <SectionHeader id="streamers-h" title={d.pages.creators.profiles} accent="var(--color-streamers)" />

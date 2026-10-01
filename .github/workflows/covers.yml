@@ -7,6 +7,8 @@ on:
     paths:
       - 'src/lib/data/**'
       - '!src/lib/data/covers.json'
+      - '!src/lib/data/trends-live.json'
+      - '!src/lib/data/trends-meta.json'
       - 'scripts/covers.ts'
   schedule:
     - cron: '17 9 * * *'

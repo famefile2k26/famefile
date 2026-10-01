@@ -156,11 +156,6 @@ export default async function PersonPage({ params }: Props) {
               initials={initialsOf(person.publicName)}
               className="aspect-[4/5] w-40 rounded-[2rem] shadow-2xl shadow-black/60 ring-1 ring-white/15 sm:w-56"
             />
-            {!person.image && (
-              <span className="absolute inset-x-3 bottom-3 z-20 rounded-full bg-black/55 py-1 text-center text-[10px] font-bold uppercase tracking-wider text-white/80 backdrop-blur">
-                {f.noPhoto}
-              </span>
-            )}
           </div>
           <div className="min-w-0">
             <div className="flex flex-wrap items-center gap-2">
