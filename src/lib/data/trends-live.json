@@ -1,1186 +1,186 @@
 [
  {
+  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "rank": 1,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
+  "t": {
+   "pt": {
+    "name": "#citytastetest",
+    "note": "Hashtag em alta no TikTok (global) — #1 na semana."
+   },
+   "en": {
+    "name": "#citytastetest",
+    "note": "Trending TikTok hashtag (global) — #1 this week."
+   },
+   "es": {
+    "name": "#citytastetest",
+    "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
+   }
+  },
   "id": "tr1",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 300,
+  "hue": 300
+ },
+ {
+  "collectedAt": "2026-10-01T21:11:45.195Z",
   "kind": "topic",
   "platform": "tiktok",
-  "region": "BR",
-  "rank": 1,
+  "region": "GLOBAL",
+  "rank": 2,
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#citytastetest",
-    "note": "Hashtag em alta no TikTok (Brasil) — #1 na semana."
+    "name": "#mylivejourney",
+    "note": "Hashtag em alta no TikTok (global) — #2 na semana."
    },
    "en": {
-    "name": "#citytastetest",
-    "note": "Trending TikTok hashtag (Brazil) — #1 this week."
+    "name": "#mylivejourney",
+    "note": "Trending TikTok hashtag (global) — #2 this week."
    },
    "es": {
-    "name": "#citytastetest",
-    "note": "Hashtag en tendencia en TikTok (Brasil) — #1 de la semana."
+    "name": "#mylivejourney",
+    "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
-  }
- },
- {
+  },
   "id": "tr2",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 337,
+  "hue": 337
+ },
+ {
+  "collectedAt": "2026-10-01T21:11:45.195Z",
   "kind": "topic",
   "platform": "tiktok",
-  "region": "BR",
-  "rank": 2,
+  "region": "GLOBAL",
+  "rank": 3,
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#mylivejourney",
-    "note": "Hashtag em alta no TikTok (Brasil) — #2 na semana."
+    "name": "#noreaster",
+    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
    },
    "en": {
-    "name": "#mylivejourney",
-    "note": "Trending TikTok hashtag (Brazil) — #2 this week."
+    "name": "#noreaster",
+    "note": "Trending TikTok hashtag (global) — #3 this week."
    },
    "es": {
-    "name": "#mylivejourney",
-    "note": "Hashtag en tendencia en TikTok (Brasil) — #2 de la semana."
+    "name": "#noreaster",
+    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
-  }
- },
- {
+  },
   "id": "tr3",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 14,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
-  "t": {
-   "pt": {
-    "name": "#noreaster",
-    "note": "Hashtag em alta no TikTok (Brasil) — #3 na semana."
-   },
-   "en": {
-    "name": "#noreaster",
-    "note": "Trending TikTok hashtag (Brazil) — #3 this week."
-   },
-   "es": {
-    "name": "#noreaster",
-    "note": "Hashtag en tendencia en TikTok (Brasil) — #3 de la semana."
-   }
-  }
+  "hue": 14
  },
  {
+  "collectedAt": "2026-10-01T21:11:45.195Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 1,
+  "sourceUrl": "https://gilvicentefc.pt/horario-do-jogo-da-taca-de-portugal-definido/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3QfqIU-PiRPe7zanh_0q-sZHVBJj-_YjQmCUiYlvL-aNUM-9d4jxjNktFSA",
+   "credit": "Gil Vicente"
+  },
+  "t": {
+   "pt": {
+    "name": "portugal fc",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Gil Vicente."
+   },
+   "en": {
+    "name": "portugal fc",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via Gil Vicente."
+   },
+   "es": {
+    "name": "portugal fc",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Gil Vicente."
+   }
+  },
   "id": "tr4",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 51,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7",
-  "t": {
-   "pt": {
-    "name": "#citytastetest",
-    "note": "Hashtag em alta no TikTok (EUA) — #1 na semana."
-   },
-   "en": {
-    "name": "#citytastetest",
-    "note": "Trending TikTok hashtag (US) — #1 this week."
-   },
-   "es": {
-    "name": "#citytastetest",
-    "note": "Hashtag en tendencia en TikTok (EE. UU.) — #1 de la semana."
-   }
-  }
+  "hue": 51
  },
  {
-  "id": "tr5",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 88,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7",
-  "t": {
-   "pt": {
-    "name": "#mylivejourney",
-    "note": "Hashtag em alta no TikTok (EUA) — #2 na semana."
-   },
-   "en": {
-    "name": "#mylivejourney",
-    "note": "Trending TikTok hashtag (US) — #2 this week."
-   },
-   "es": {
-    "name": "#mylivejourney",
-    "note": "Hashtag en tendencia en TikTok (EE. UU.) — #2 de la semana."
-   }
-  }
- },
- {
-  "id": "tr6",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 125,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7",
-  "t": {
-   "pt": {
-    "name": "#noreaster",
-    "note": "Hashtag em alta no TikTok (EUA) — #3 na semana."
-   },
-   "en": {
-    "name": "#noreaster",
-    "note": "Trending TikTok hashtag (US) — #3 this week."
-   },
-   "es": {
-    "name": "#noreaster",
-    "note": "Hashtag en tendencia en TikTok (EE. UU.) — #3 de la semana."
-   }
-  }
- },
- {
-  "id": "tr7",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 162,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
-  "t": {
-   "pt": {
-    "name": "#citytastetest",
-    "note": "Hashtag em alta no TikTok (Argentina) — #1 na semana."
-   },
-   "en": {
-    "name": "#citytastetest",
-    "note": "Trending TikTok hashtag (Argentina) — #1 this week."
-   },
-   "es": {
-    "name": "#citytastetest",
-    "note": "Hashtag en tendencia en TikTok (Argentina) — #1 de la semana."
-   }
-  }
- },
- {
-  "id": "tr8",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 199,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
-  "t": {
-   "pt": {
-    "name": "#mylivejourney",
-    "note": "Hashtag em alta no TikTok (Argentina) — #2 na semana."
-   },
-   "en": {
-    "name": "#mylivejourney",
-    "note": "Trending TikTok hashtag (Argentina) — #2 this week."
-   },
-   "es": {
-    "name": "#mylivejourney",
-    "note": "Hashtag en tendencia en TikTok (Argentina) — #2 de la semana."
-   }
-  }
- },
- {
-  "id": "tr9",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 236,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
-  "t": {
-   "pt": {
-    "name": "#noreaster",
-    "note": "Hashtag em alta no TikTok (Argentina) — #3 na semana."
-   },
-   "en": {
-    "name": "#noreaster",
-    "note": "Trending TikTok hashtag (Argentina) — #3 this week."
-   },
-   "es": {
-    "name": "#noreaster",
-    "note": "Hashtag en tendencia en TikTok (Argentina) — #3 de la semana."
-   }
-  }
- },
- {
-  "id": "tr10",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 273,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
-  "t": {
-   "pt": {
-    "name": "#citytastetest",
-    "note": "Hashtag em alta no TikTok (México) — #1 na semana."
-   },
-   "en": {
-    "name": "#citytastetest",
-    "note": "Trending TikTok hashtag (Mexico) — #1 this week."
-   },
-   "es": {
-    "name": "#citytastetest",
-    "note": "Hashtag en tendencia en TikTok (México) — #1 de la semana."
-   }
-  }
- },
- {
-  "id": "tr11",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 310,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
-  "t": {
-   "pt": {
-    "name": "#mylivejourney",
-    "note": "Hashtag em alta no TikTok (México) — #2 na semana."
-   },
-   "en": {
-    "name": "#mylivejourney",
-    "note": "Trending TikTok hashtag (Mexico) — #2 this week."
-   },
-   "es": {
-    "name": "#mylivejourney",
-    "note": "Hashtag en tendencia en TikTok (México) — #2 de la semana."
-   }
-  }
- },
- {
-  "id": "tr12",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 347,
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
-  "t": {
-   "pt": {
-    "name": "#noreaster",
-    "note": "Hashtag em alta no TikTok (México) — #3 na semana."
-   },
-   "en": {
-    "name": "#noreaster",
-    "note": "Trending TikTok hashtag (Mexico) — #3 this week."
-   },
-   "es": {
-    "name": "#noreaster",
-    "note": "Hashtag en tendencia en TikTok (México) — #3 de la semana."
-   }
-  }
- },
- {
-  "id": "tr13",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 24,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 1,
-  "sourceUrl": "https://www.jornalcruzeiro.com.br/tendencias/motorista-que-apresenta-print-da-cnh-pode-levar-multa-salgada-mesmo-com-documento-em-dia/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8YQEcisF3XvDb-UNa-Z6eaXrPMvUs3keQT8dnOc1pUE7JOEuCdLAfL87Y-co",
-   "credit": "www.jornalcruzeiro.com.br"
-  },
-  "t": {
-   "pt": {
-    "name": "carteira digital de trânsito",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via www.jornalcruzeiro.com.br."
-   },
-   "en": {
-    "name": "carteira digital de trânsito",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via www.jornalcruzeiro.com.br."
-   },
-   "es": {
-    "name": "carteira digital de trânsito",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía www.jornalcruzeiro.com.br."
-   }
-  }
- },
- {
-  "id": "tr14",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 61,
+  "collectedAt": "2026-10-01T21:11:45.195Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/09/30/pf-indicia-13-pessoas-em-investigacao-sobre-suposta-infiltracao-do-pcc-no-setor-de-combustiveis-e-no-sistema-financeiro.ghtml",
+  "sourceUrl": "https://www.estadao.com.br/cultura/cinema/tudo-que-sabemos-sobre-vingadores-doutor-destino-nprec/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4RmF1Om7JFcJr8Z3qgd1jdTstKj0xtix4n6HRF2E-WNNiunYxJbT6WYjVYGI",
-   "credit": "G1"
-  },
-  "t": {
-   "pt": {
-    "name": "dinheiro",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via G1."
-   },
-   "en": {
-    "name": "dinheiro",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via G1."
-   },
-   "es": {
-    "name": "dinheiro",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía G1."
-   }
-  }
- },
- {
-  "id": "tr15",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 98,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://www.uol.com.br/esporte/ultimas-noticias/2026/10/01/transmissao-ao-vivo-de-dinamarca-x-portugal-pela-liga-das-nacoes-veja-onde-assistir.ghtm",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRgmX5gYCOVEydw8iJgaoDhC53fEXz6iUO8DkCUZDh42W0GvlQrEl6Sd1ePmgs",
-   "credit": "UOL"
-  },
-  "t": {
-   "pt": {
-    "name": "dinamarca x portugal",
-    "note": "Busca em alta no Google (Brasil) — 50000+ buscas · via UOL."
-   },
-   "en": {
-    "name": "dinamarca x portugal",
-    "note": "Trending Google search (Brazil) — 50000+ searches · via UOL."
-   },
-   "es": {
-    "name": "dinamarca x portugal",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 50000+ búsquedas · vía UOL."
-   }
-  }
- },
- {
-  "id": "tr16",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 135,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 4,
-  "sourceUrl": "https://www.estadao.com.br/esportes/futebol/alemanha-x-servia-pela-liga-das-nacoes-onde-assistir-ao-vivo-horario-e-escalacao-npres/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY8U7yglNA7rgsaz4bRCcBbsYon_bc4awftlAcaxv1WC-i29cpZwy2KzP3bMM",
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiWn1GjFVyIASZPw1dSoyLJdd5JvvEt_qLZP7ZJbZgdKkrijSGjBu_7_WlUVo",
    "credit": "Estadão"
   },
   "t": {
    "pt": {
-    "name": "alemanha x sérvia",
-    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via Estadão."
+    "name": "doutor destino",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Estadão."
    },
    "en": {
-    "name": "alemanha x sérvia",
-    "note": "Trending Google search (Brazil) — 10000+ searches · via Estadão."
+    "name": "doutor destino",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via Estadão."
    },
    "es": {
-    "name": "alemanha x sérvia",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía Estadão."
+    "name": "doutor destino",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Estadão."
    }
-  }
- },
- {
-  "id": "tr17",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 172,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 5,
-  "sourceUrl": "https://tmc.com.br/entretenimento/brawl-stars-codigos-recompensas-gratuitas-outubro-2026/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEJEiXeUFFx05D4vcF7Ygp488nJZB9jkpIRhSYcC3KafKDqOx8pzQJziM1ZU8",
-   "credit": "tmc.com.br"
   },
-  "t": {
-   "pt": {
-    "name": "brawl stars",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via tmc.com.br."
-   },
-   "en": {
-    "name": "brawl stars",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via tmc.com.br."
-   },
-   "es": {
-    "name": "brawl stars",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía tmc.com.br."
-   }
-  }
+  "id": "tr5",
+  "hue": 88
  },
  {
-  "id": "tr18",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 209,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 6,
-  "sourceUrl": "https://ge.globo.com/futebol/times/corinthians/noticia/2026/10/01/corinthians-suspende-pagamento-de-divida-pela-arena-enquanto-negocia-quitacao-com-a-caixa.ghtml",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSd-z1kI10qei2bQUnCCYMC6I4ShnPLrHSEwnqHc7vBK8g3THcshn4IXqg9ACY",
-   "credit": "ge"
-  },
-  "t": {
-   "pt": {
-    "name": "caixa",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via ge."
-   },
-   "en": {
-    "name": "caixa",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via ge."
-   },
-   "es": {
-    "name": "caixa",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ge."
-   }
-  }
- },
- {
-  "id": "tr19",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 246,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 7,
-  "sourceUrl": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/10/de-olho-na-copa-feminina-globo-contrata-apresentadora-bianca-molina-para-a-ge-tv.shtml",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3kIqDKl_n0GDLX9yl9YHvCRXpDX8jx2WzON_ydDA5X7kEf9bfLejxcX1cOMM",
-   "credit": "UOL"
-  },
-  "t": {
-   "pt": {
-    "name": "jornalista",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via UOL."
-   },
-   "en": {
-    "name": "jornalista",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via UOL."
-   },
-   "es": {
-    "name": "jornalista",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía UOL."
-   }
-  }
- },
- {
-  "id": "tr20",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 283,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://g1.globo.com/to/tocantins/noticia/2026/10/01/caminhonete-capota-e-empresario-morre-na-br-153.ghtml",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYsouEU0ucltG__AZ6HQQo10bs7qTeWFl3wNBXSgx_gefiALGfk2ym2Wprl3o",
-   "credit": "G1"
-  },
-  "t": {
-   "pt": {
-    "name": "br-153",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via G1."
-   },
-   "en": {
-    "name": "br-153",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via G1."
-   },
-   "es": {
-    "name": "br-153",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía G1."
-   }
-  }
- },
- {
-  "id": "tr21",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 320,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cmvgyyy47xj9t",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "israel vs kosovo",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via BBC."
-   },
-   "en": {
-    "name": "israel vs kosovo",
-    "note": "Trending Google search (US) — 1000+ searches · via BBC."
-   },
-   "es": {
-    "name": "israel vs kosovo",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía BBC."
-   }
-  }
- },
- {
-  "id": "tr22",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 357,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.cnn.com/cnn-underscored/deals/amazon-prime-day-2026-09-28",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGl4agoR0RVUQRR6MCG8EEo0yehBUc5eE0Cbyxa4IDVkr0LDvuoRtTXKIGy5g",
-   "credit": "CNN"
-  },
-  "t": {
-   "pt": {
-    "name": "amazon prime day",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via CNN."
-   },
-   "en": {
-    "name": "amazon prime day",
-    "note": "Trending Google search (US) — 1000+ searches · via CNN."
-   },
-   "es": {
-    "name": "amazon prime day",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía CNN."
-   }
-  }
- },
- {
-  "id": "tr23",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 34,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.washingtonpost.com/politics/2026/10/01/trump-says-secret-service-wants-him-take-down-oval-office/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS81ho4OFIqDOxozXW6SgTObA-3CG2vyjVhqYD5AWMyzHVwLZc8nkqUcMIP8Eo",
-   "credit": "The Washington Post"
-  },
-  "t": {
-   "pt": {
-    "name": "the oval office",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via The Washington Post."
-   },
-   "en": {
-    "name": "the oval office",
-    "note": "Trending Google search (US) — 2000+ searches · via The Washington Post."
-   },
-   "es": {
-    "name": "the oval office",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The Washington Post."
-   }
-  }
- },
- {
-  "id": "tr24",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 71,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://as.com/futbol/uefa/grecia-paises-bajos-en-directo-uefa-nations-league-hoy-en-vivo-f202610-d/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcuhv1_pvisvwE0WcbxN_LfzL6iv88OtCmkCuVjMqGO33ppAGRDsz-86PpR-I",
-   "credit": "Diario AS"
-  },
-  "t": {
-   "pt": {
-    "name": "grecia - países bajos",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Diario AS."
-   },
-   "en": {
-    "name": "grecia - países bajos",
-    "note": "Trending Google search (US) — 1000+ searches · via Diario AS."
-   },
-   "es": {
-    "name": "grecia - países bajos",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Diario AS."
-   }
-  }
- },
- {
-  "id": "tr25",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 108,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://time.com/article/2026/10/01/donald-trump-2026-interview-transcript/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS34pyuAQEb_417lgVqkPaYXjqyJm8oMl0iORKDOeO8QHpc0wIthJPt3Hzx0IQ",
-   "credit": "Time Magazine"
-  },
-  "t": {
-   "pt": {
-    "name": "trump time interview",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via Time Magazine."
-   },
-   "en": {
-    "name": "trump time interview",
-    "note": "Trending Google search (US) — 5000+ searches · via Time Magazine."
-   },
-   "es": {
-    "name": "trump time interview",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Time Magazine."
-   }
-  }
- },
- {
-  "id": "tr26",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 145,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.caranddriver.com/photos/a73965610/2027-honda-civic-type-r-reveal-gallery/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSt23zhNhm8dVYaDSyVMhKj2mRqwCQbVoym-jVGU91hrBFoxg-OblkipwPLb_U",
-   "credit": "Car and Driver"
-  },
-  "t": {
-   "pt": {
-    "name": "2027 honda civic",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Car and Driver."
-   },
-   "en": {
-    "name": "2027 honda civic",
-    "note": "Trending Google search (US) — 1000+ searches · via Car and Driver."
-   },
-   "es": {
-    "name": "2027 honda civic",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Car and Driver."
-   }
-  }
- },
- {
-  "id": "tr27",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 182,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://www.delawareonline.com/story/news/2026/09/30/social-security-administration-2027-cost-of-living-adjustment-forecast-benefit-increase-cola-raise/92019155007/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-JVikAQS_2I_NkdVZGuWTL0rcd5PoeQ5KQasW94rYYhrRx9yJ9VgtjQweY_I",
-   "credit": "The News Journal"
-  },
-  "t": {
-   "pt": {
-    "name": "social security benefit increase projection",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via The News Journal."
-   },
-   "en": {
-    "name": "social security benefit increase projection",
-    "note": "Trending Google search (US) — 1000+ searches · via The News Journal."
-   },
-   "es": {
-    "name": "social security benefit increase projection",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía The News Journal."
-   }
-  }
- },
- {
-  "id": "tr28",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 219,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.bbc.com/news/articles/cmly40r3pkqxo",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZoeJuSCd--hqtIliCFW2hmfGLrHESePrivgK2pD-DcpaPd2eSIROWQ1A4SE",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "uss klakring",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via BBC."
-   },
-   "en": {
-    "name": "uss klakring",
-    "note": "Trending Google search (US) — 2000+ searches · via BBC."
-   },
-   "es": {
-    "name": "uss klakring",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía BBC."
-   }
-  }
- },
- {
-  "id": "tr29",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 256,
+  "collectedAt": "2026-10-01T21:11:45.195Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 1,
-  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/01/grecia-vs-paises-bajos-en-vivo-por-la-fase-de-grupos-de-la-uefa-nations-league-hora-donde-ver-y-formaciones/",
+  "sourceUrl": "https://www.infobae.com/deportes/2026/10/01/el-plan-que-lionel-messi-ya-puso-en-marcha-para-el-dia-del-retiro-del-futbol-los-cinco-clubes-bajo-su-orbita/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBHwh7HI31Ymuk4LHE6iGtgd1K8NfG8q3G131FXXGyOQgkukMmz9InZ51NXxU",
-   "credit": "TN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtRsweuV7MwNnx0lY-1iXD-D541xZ-QVJuxjSvzHtRTWWhjUwDzWlbrQSGnaU",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "grecia - países bajos",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via TN."
+    "name": "club deportivo eldense",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Infobae."
    },
    "en": {
-    "name": "grecia - países bajos",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via TN."
+    "name": "club deportivo eldense",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via Infobae."
    },
    "es": {
-    "name": "grecia - países bajos",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía TN."
+    "name": "club deportivo eldense",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
    }
-  }
- },
- {
-  "id": "tr30",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 293,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/01/gales-vs-noruega-en-vivo-por-la-fase-de-grupos-de-la-uefa-nations-league-hora-donde-ver-y-formaciones/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRf2NEkei8q0b7_Jave9OAwRsr5d05HD48EeoE1xxzYMbaSIK4acH7WI3-xVuI",
-   "credit": "TN"
   },
-  "t": {
-   "pt": {
-    "name": "gales - noruega",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via TN."
-   },
-   "en": {
-    "name": "gales - noruega",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via TN."
-   },
-   "es": {
-    "name": "gales - noruega",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía TN."
-   }
-  }
+  "id": "tr6",
+  "hue": 125
  },
  {
-  "id": "tr31",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 330,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://as.com/futbol/internacional/alemania-serbia-en-directo-uefa-nations-league-hoy-en-vivo-f202610-d/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmqUfNXXKiiwp1npHjh3LYEC2k-_cFJuekLQNdpd8wmRMCdzAqVySsFtT2YGw",
-   "credit": "Diario AS"
-  },
-  "t": {
-   "pt": {
-    "name": "alemania - serbia",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Diario AS."
-   },
-   "en": {
-    "name": "alemania - serbia",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via Diario AS."
-   },
-   "es": {
-    "name": "alemania - serbia",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Diario AS."
-   }
-  }
- },
- {
-  "id": "tr32",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 7,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.vietnam.vn/pt/truc-tiep-ti-so-dan-mach-vs-bo-dao-nha-hjlund-tim-khoang-trong-truoc-hang-thu-selecao",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMInHw_kqVJfhtXZ7TZpFVzqByADnS2ymsL1WJSA2XE1qv7x1MlxN3BuK2Jt0",
-   "credit": "Vietnam.vn"
-  },
-  "t": {
-   "pt": {
-    "name": "dinamarca - portugal",
-    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via Vietnam.vn."
-   },
-   "en": {
-    "name": "dinamarca - portugal",
-    "note": "Trending Google search (Argentina) — 5000+ searches · via Vietnam.vn."
-   },
-   "es": {
-    "name": "dinamarca - portugal",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía Vietnam.vn."
-   }
-  }
- },
- {
-  "id": "tr33",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 44,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.lanacion.com.ar/economia/ponen-fecha-a-la-firma-del-megaproyecto-de-us51000-millones-que-busca-convertir-a-la-argentina-en-nid01102026/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2ncPi8P7ut9Ej2MYFXKCTWpxZ-4ZXVQchcY7cnyYHHsu96bvPCGsJisp3cD4",
-   "credit": "La Nación"
-  },
-  "t": {
-   "pt": {
-    "name": "megaproyecto",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via La Nación."
-   },
-   "en": {
-    "name": "megaproyecto",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via La Nación."
-   },
-   "es": {
-    "name": "megaproyecto",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía La Nación."
-   }
-  }
- },
- {
-  "id": "tr34",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 81,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.riverplate.com/noticias/entradas/venta-de-entradas-river-vs-estudiantes-de-rio-cuarto-clausura-2026",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS58POLhJR7QQby75nSkjk_mJub2VcGtUE0ifbfrLb_QpMJBQkEcByrf48Hz5c",
-   "credit": "www.riverplate.com"
-  },
-  "t": {
-   "pt": {
-    "name": "river id",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via www.riverplate.com."
-   },
-   "en": {
-    "name": "river id",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via www.riverplate.com."
-   },
-   "es": {
-    "name": "river id",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía www.riverplate.com."
-   }
-  }
- },
- {
-  "id": "tr35",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 118,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.nbcnews.com/news/us-news/-was-mess-tennessee-fails-execute-inmate-2-lethal-injections-rcna600863",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-QjTcwblf0VCKspj8CAbUIwQpiQhTJJ4qQmxayUUA2gSyM7vCTsHN_QpThQ",
-   "credit": "NBC News"
-  },
-  "t": {
-   "pt": {
-    "name": "christa pike",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via NBC News."
-   },
-   "en": {
-    "name": "christa pike",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via NBC News."
-   },
-   "es": {
-    "name": "christa pike",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía NBC News."
-   }
-  }
- },
- {
-  "id": "tr36",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 155,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://www.puntodebreak.com/en/2026/09/30/alcaraz-weighs-in-on-whether-to-change-the-format-of-grand-slams",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqeN6XsFXguG4-Xji9gbnyITlbeNFEXfKfrqpHQx9W4lzbpylA14NIX3FFO-s",
-   "credit": "Punto de Break"
-  },
-  "t": {
-   "pt": {
-    "name": "alexander zverev",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Punto de Break."
-   },
-   "en": {
-    "name": "alexander zverev",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Punto de Break."
-   },
-   "es": {
-    "name": "alexander zverev",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Punto de Break."
-   }
-  }
- },
- {
-  "id": "tr37",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 192,
+  "collectedAt": "2026-10-01T21:11:45.195Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 1,
-  "sourceUrl": "https://www.goal.com/en/news/the-post-ronaldo-era-begins-leao-leads-portugal-s-attack-against-denmark/blt37cd1bdc415d1666",
+  "sourceUrl": "https://gilvicentefc.pt/horario-do-jogo-da-taca-de-portugal-definido/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrWm1tXxHKfs6D7DPgbQwQWQFaCYV2vLVpkULjEgGP1gwBzF5BV4lKwFe6dQ8",
-   "credit": "Goal.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3QfqIU-PiRPe7zanh_0q-sZHVBJj-_YjQmCUiYlvL-aNUM-9d4jxjNktFSA",
+   "credit": "Gil Vicente"
   },
   "t": {
    "pt": {
-    "name": "denmark vs portugal",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via Goal.com."
+    "name": "portugal fc",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via Gil Vicente."
    },
    "en": {
-    "name": "denmark vs portugal",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via Goal.com."
+    "name": "portugal fc",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via Gil Vicente."
    },
    "es": {
-    "name": "denmark vs portugal",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Goal.com."
+    "name": "portugal fc",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Gil Vicente."
    }
-  }
- },
- {
-  "id": "tr38",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 229,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://es-us.noticias.yahoo.com/deportes/pa%C3%ADses-bajos-jam%C3%A1s-perdi%C3%B3-visitante-135000174.html",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMk5ntRWv6iO5im5FEQ0nArhs3x-rlA0CkjLS16WiGHXLZ5qokCYbrpx3e_rY",
-   "credit": "Yahoo"
   },
-  "t": {
-   "pt": {
-    "name": "grecia - países bajos",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Yahoo."
-   },
-   "en": {
-    "name": "grecia - países bajos",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Yahoo."
-   },
-   "es": {
-    "name": "grecia - países bajos",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Yahoo."
-   }
-  }
- },
- {
-  "id": "tr39",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 266,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.vietnam.vn/pt/truc-tiep-ti-so-dan-mach-vs-bo-dao-nha-hjlund-tim-khoang-trong-truoc-hang-thu-selecao",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMInHw_kqVJfhtXZ7TZpFVzqByADnS2ymsL1WJSA2XE1qv7x1MlxN3BuK2Jt0",
-   "credit": "Vietnam.vn"
-  },
-  "t": {
-   "pt": {
-    "name": "dinamarca - portugal",
-    "note": "Busca em alta no Google (México) — 20000+ buscas · via Vietnam.vn."
-   },
-   "en": {
-    "name": "dinamarca - portugal",
-    "note": "Trending Google search (Mexico) — 20000+ searches · via Vietnam.vn."
-   },
-   "es": {
-    "name": "dinamarca - portugal",
-    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía Vietnam.vn."
-   }
-  }
- },
- {
-  "id": "tr40",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 303,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.marca.com/mx/futbol/uefa-nations-league/2026/10/01/ver-gales-vs-noruega-hora-juega-haaland-canal-tv-uefa-nations-league-2026.html",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRMMpJ4clqhTlo76BQWb-yUVsCyr7LYgRLeFyWKobe4j0cmEIb7SpL4U0mCxdo",
-   "credit": "MARCA"
-  },
-  "t": {
-   "pt": {
-    "name": "gales - noruega",
-    "note": "Busca em alta no Google (México) — 20000+ buscas · via MARCA."
-   },
-   "en": {
-    "name": "gales - noruega",
-    "note": "Trending Google search (Mexico) — 20000+ searches · via MARCA."
-   },
-   "es": {
-    "name": "gales - noruega",
-    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía MARCA."
-   }
-  }
- },
- {
-  "id": "tr41",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 340,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://as.com/futbol/internacional/alemania-serbia-en-directo-uefa-nations-league-hoy-en-vivo-f202610-d/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmqUfNXXKiiwp1npHjh3LYEC2k-_cFJuekLQNdpd8wmRMCdzAqVySsFtT2YGw",
-   "credit": "Diario AS"
-  },
-  "t": {
-   "pt": {
-    "name": "alemania - serbia",
-    "note": "Busca em alta no Google (México) — 5000+ buscas · via Diario AS."
-   },
-   "en": {
-    "name": "alemania - serbia",
-    "note": "Trending Google search (Mexico) — 5000+ searches · via Diario AS."
-   },
-   "es": {
-    "name": "alemania - serbia",
-    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía Diario AS."
-   }
-  }
- },
- {
-  "id": "tr42",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 17,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.informador.mx/entretenimiento/ticketmaster-2x1-en-guadalajara-lista-completa-de-conciertos-a-los-que-aplica-la-promocion-hoy-jueves-1-de-octubre-20261001-0085.html",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSH7_Sb-thuW7jfjSN8IaAwyD5_7sRJiRIP_qm9k2I5NJv1dBlZbi_NW6dBGkY",
-   "credit": "El Informador"
-  },
-  "t": {
-   "pt": {
-    "name": "ticketmaster",
-    "note": "Busca em alta no Google (México) — 10000+ buscas · via El Informador."
-   },
-   "en": {
-    "name": "ticketmaster",
-    "note": "Trending Google search (Mexico) — 10000+ searches · via El Informador."
-   },
-   "es": {
-    "name": "ticketmaster",
-    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía El Informador."
-   }
-  }
- },
- {
-  "id": "tr43",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 54,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.milenio.com/consejos/promociones-cafe-gratis-2x1-hoy-1-de-octubre-dia-internacional-cafe",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEvqj4y-HYeMA1O55YqyZxdBDtR00VkOeVlPA4lK2rmCWX0QNaXE8lpOSU_Ps",
-   "credit": "Milenio"
-  },
-  "t": {
-   "pt": {
-    "name": "dia del cafe",
-    "note": "Busca em alta no Google (México) — 10000+ buscas · via Milenio."
-   },
-   "en": {
-    "name": "dia del cafe",
-    "note": "Trending Google search (Mexico) — 10000+ searches · via Milenio."
-   },
-   "es": {
-    "name": "dia del cafe",
-    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía Milenio."
-   }
-  }
- },
- {
-  "id": "tr44",
-  "collectedAt": "2026-10-01T18:45:40.249Z",
-  "hue": 91,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 8,
-  "sourceUrl": "https://www.reforma.com/evoluciona-rachel-a-huracan-categoria-2-en-el-pacifico/ar3286193",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvn2wayVTFexrUq7bwW0-VXJUDDQpnFJ6um7RM3PfjNLODjYnqXlGhBLQD7ro",
-   "credit": "Reforma"
-  },
-  "t": {
-   "pt": {
-    "name": "octubre",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Reforma."
-   },
-   "en": {
-    "name": "octubre",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Reforma."
-   },
-   "es": {
-    "name": "octubre",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Reforma."
-   }
-  }
+  "id": "tr7",
+  "hue": 162
  }
 ]
