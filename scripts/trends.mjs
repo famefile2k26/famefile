@@ -36,9 +36,11 @@ async function tiktok() {
     for (const [path, kind] of kinds) {
       const page = await ctx.newPage();
       const captured = [];
+      const seenApis = [];
       page.on('response', async (res) => {
         const u = res.url();
-        if (/creative_radar_api\/v1\/popular_trend\/.+\/list/.test(u)) {
+        if (/creative_radar_api|popular_trend|creativecenter.*api/i.test(u)) {
+          seenApis.push(`${res.status()} ${u.split('?')[0]}`);
           try {
             captured.push(await res.json());
           } catch {}
@@ -52,8 +54,15 @@ async function tiktok() {
         meta.sources[`tiktok-${path}-${cc}`] = `erro: ${String(e).slice(0, 120)}`;
       }
       const lists = captured.flatMap((j) => Object.values(j?.data ?? {}).filter(Array.isArray));
-      const rows = lists.flat().slice(0, 5);
-      meta.sources[`tiktok-${path}-${cc}`] = rows.length;
+      let rows = lists.flat().slice(0, 5);
+      // Plano B: ler o texto renderizado da página (hashtags começam com #)
+      if (!rows.length && path === 'hashtag') {
+        const tags = await page.$$eval('*', (els) =>
+          [...new Set(els.map((e) => (e.childElementCount === 0 ? e.textContent?.trim() : '')).filter((t) => t && /^#\S{2,40}$/.test(t)))].slice(0, 5),
+        ).catch(() => []);
+        rows = tags.map((t, i) => ({ hashtag_name: t.slice(1), rank: i + 1 }));
+      }
+      meta.sources[`tiktok-${path}-${cc}`] = rows.length ? rows.length : { apis: seenApis.slice(0, 6), codes: captured.map((j) => j?.code ?? j?.msg).slice(0, 3), title: await page.title().catch(() => '') };
       for (const [i, r] of rows.entries()) {
         const rank = r.rank ?? i + 1;
         if (path === 'hashtag') {
