@@ -214,6 +214,20 @@ async function main() {
     }
   }
 
+  // 2b) Matérias sem pessoa/título na base: dica manual (artista no Deezer ou página da Wikipedia)
+  const hints: Record<string, string> = {
+    '2040': 'Sienna Spiro',
+    '2037': 'Nirvana',
+    '2009': 'The Strokes',
+    '2010': 'wiki:Lupin (TV series)',
+  };
+  for (const [id, hint] of Object.entries(hints)) {
+    if (db.articles[id]) continue;
+    const url = hint.startsWith('wiki:') ? (await wikiExact('en', hint.slice(5)))?.url : await deezerArtistPhoto(hint);
+    if (url) db.articles[id] = { url, title: hint.replace('wiki:', '') };
+    console.log(url ? '✓' : '·', 'dica', id, hint);
+  }
+
   // 3) Obras dos perfis (álbuns, singles, EPs)
   for (const p of people) {
     for (const w of p.works ?? []) {
