@@ -1,36 +1,324 @@
 [
  {
   "id": "tr1",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
   "hue": 300,
   "kind": "topic",
-  "platform": "youtube",
+  "platform": "tiktok",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://clutchpoints.com/gaming/all-brawl-stars-brawl-pass-rewards-for-season-55",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_r8N2vW6iW4cbN71Q-W0IbeZjyZTA7B8hKLnVQuDmzZt1Pgimle5rSaRWuGg",
-   "credit": "ClutchPoints"
-  },
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "brawl stars",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ClutchPoints."
+    "name": "#citytastetest",
+    "note": "Hashtag em alta no TikTok (Brasil) — #1 na semana."
    },
    "en": {
-    "name": "brawl stars",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via ClutchPoints."
+    "name": "#citytastetest",
+    "note": "Trending TikTok hashtag (Brazil) — #1 this week."
    },
    "es": {
-    "name": "brawl stars",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ClutchPoints."
+    "name": "#citytastetest",
+    "note": "Hashtag en tendencia en TikTok (Brasil) — #1 de la semana."
    }
   }
  },
  {
   "id": "tr2",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
   "hue": 337,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "BR",
+  "rank": 2,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
+  "t": {
+   "pt": {
+    "name": "#mylivejourney",
+    "note": "Hashtag em alta no TikTok (Brasil) — #2 na semana."
+   },
+   "en": {
+    "name": "#mylivejourney",
+    "note": "Trending TikTok hashtag (Brazil) — #2 this week."
+   },
+   "es": {
+    "name": "#mylivejourney",
+    "note": "Hashtag en tendencia en TikTok (Brasil) — #2 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr3",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 14,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "BR",
+  "rank": 3,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
+  "t": {
+   "pt": {
+    "name": "#noreaster",
+    "note": "Hashtag em alta no TikTok (Brasil) — #3 na semana."
+   },
+   "en": {
+    "name": "#noreaster",
+    "note": "Trending TikTok hashtag (Brazil) — #3 this week."
+   },
+   "es": {
+    "name": "#noreaster",
+    "note": "Hashtag en tendencia en TikTok (Brasil) — #3 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr4",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 51,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7",
+  "t": {
+   "pt": {
+    "name": "#citytastetest",
+    "note": "Hashtag em alta no TikTok (EUA) — #1 na semana."
+   },
+   "en": {
+    "name": "#citytastetest",
+    "note": "Trending TikTok hashtag (US) — #1 this week."
+   },
+   "es": {
+    "name": "#citytastetest",
+    "note": "Hashtag en tendencia en TikTok (EE. UU.) — #1 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr5",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 88,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7",
+  "t": {
+   "pt": {
+    "name": "#mylivejourney",
+    "note": "Hashtag em alta no TikTok (EUA) — #2 na semana."
+   },
+   "en": {
+    "name": "#mylivejourney",
+    "note": "Trending TikTok hashtag (US) — #2 this week."
+   },
+   "es": {
+    "name": "#mylivejourney",
+    "note": "Hashtag en tendencia en TikTok (EE. UU.) — #2 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr6",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 125,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=US&period=7",
+  "t": {
+   "pt": {
+    "name": "#noreaster",
+    "note": "Hashtag em alta no TikTok (EUA) — #3 na semana."
+   },
+   "en": {
+    "name": "#noreaster",
+    "note": "Trending TikTok hashtag (US) — #3 this week."
+   },
+   "es": {
+    "name": "#noreaster",
+    "note": "Hashtag en tendencia en TikTok (EE. UU.) — #3 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr7",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 162,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
+  "t": {
+   "pt": {
+    "name": "#citytastetest",
+    "note": "Hashtag em alta no TikTok (Argentina) — #1 na semana."
+   },
+   "en": {
+    "name": "#citytastetest",
+    "note": "Trending TikTok hashtag (Argentina) — #1 this week."
+   },
+   "es": {
+    "name": "#citytastetest",
+    "note": "Hashtag en tendencia en TikTok (Argentina) — #1 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr8",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 199,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
+  "t": {
+   "pt": {
+    "name": "#mylivejourney",
+    "note": "Hashtag em alta no TikTok (Argentina) — #2 na semana."
+   },
+   "en": {
+    "name": "#mylivejourney",
+    "note": "Trending TikTok hashtag (Argentina) — #2 this week."
+   },
+   "es": {
+    "name": "#mylivejourney",
+    "note": "Hashtag en tendencia en TikTok (Argentina) — #2 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr9",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 236,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
+  "t": {
+   "pt": {
+    "name": "#noreaster",
+    "note": "Hashtag em alta no TikTok (Argentina) — #3 na semana."
+   },
+   "en": {
+    "name": "#noreaster",
+    "note": "Trending TikTok hashtag (Argentina) — #3 this week."
+   },
+   "es": {
+    "name": "#noreaster",
+    "note": "Hashtag en tendencia en TikTok (Argentina) — #3 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr10",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 273,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
+  "t": {
+   "pt": {
+    "name": "#citytastetest",
+    "note": "Hashtag em alta no TikTok (México) — #1 na semana."
+   },
+   "en": {
+    "name": "#citytastetest",
+    "note": "Trending TikTok hashtag (Mexico) — #1 this week."
+   },
+   "es": {
+    "name": "#citytastetest",
+    "note": "Hashtag en tendencia en TikTok (México) — #1 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr11",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 310,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
+  "t": {
+   "pt": {
+    "name": "#mylivejourney",
+    "note": "Hashtag em alta no TikTok (México) — #2 na semana."
+   },
+   "en": {
+    "name": "#mylivejourney",
+    "note": "Trending TikTok hashtag (Mexico) — #2 this week."
+   },
+   "es": {
+    "name": "#mylivejourney",
+    "note": "Hashtag en tendencia en TikTok (México) — #2 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr12",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 347,
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
+  "t": {
+   "pt": {
+    "name": "#noreaster",
+    "note": "Hashtag em alta no TikTok (México) — #3 na semana."
+   },
+   "en": {
+    "name": "#noreaster",
+    "note": "Trending TikTok hashtag (Mexico) — #3 this week."
+   },
+   "es": {
+    "name": "#noreaster",
+    "note": "Hashtag en tendencia en TikTok (México) — #3 de la semana."
+   }
+  }
+ },
+ {
+  "id": "tr13",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 24,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 1,
+  "sourceUrl": "https://tmc.com.br/entretenimento/brawl-stars-codigos-recompensas-gratuitas-outubro-2026/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSEJEiXeUFFx05D4vcF7Ygp488nJZB9jkpIRhSYcC3KafKDqOx8pzQJziM1ZU8",
+   "credit": "tmc.com.br"
+  },
+  "t": {
+   "pt": {
+    "name": "brawl stars",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via tmc.com.br."
+   },
+   "en": {
+    "name": "brawl stars",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via tmc.com.br."
+   },
+   "es": {
+    "name": "brawl stars",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía tmc.com.br."
+   }
+  }
+ },
+ {
+  "id": "tr14",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 61,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -43,22 +331,22 @@
   "t": {
    "pt": {
     "name": "caixa",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ge."
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via ge."
    },
    "en": {
     "name": "caixa",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via ge."
+    "note": "Trending Google search (Brazil) — 5000+ searches · via ge."
    },
    "es": {
     "name": "caixa",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ge."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ge."
    }
   }
  },
  {
-  "id": "tr3",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 14,
+  "id": "tr15",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 98,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -84,9 +372,9 @@
   }
  },
  {
-  "id": "tr4",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 51,
+  "id": "tr16",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 135,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -112,9 +400,9 @@
   }
  },
  {
-  "id": "tr5",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 88,
+  "id": "tr17",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 172,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -140,37 +428,37 @@
   }
  },
  {
-  "id": "tr6",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 125,
+  "id": "tr18",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 209,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/01/bombeiro-que-matou-estudante-e-solto-tj-pede-suspensao-do-porte-de-arma.ghtm",
+  "sourceUrl": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/10/01/testemunha-diz-que-bombeiro-quebrou-vidro-do-carro-com-cotoveladas-antes-de-matar-estudante-a-tiros-em-taubate.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQ5fUJDh8XRibbhsYlQmnI7jgXvP-xs9VRCWLvmvcsMLfZps4xEXFnKqiGzVY",
-   "credit": "UOL Notícias"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYQls0XiFTNPxknVW27a37frGgv8gf1m35I2Lbu1fpuYHwNYRBvSmhYsqOX0k",
+   "credit": "G1"
   },
   "t": {
    "pt": {
     "name": "estudante de medicina",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via UOL Notícias."
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via G1."
    },
    "en": {
     "name": "estudante de medicina",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via UOL Notícias."
+    "note": "Trending Google search (Brazil) — 5000+ searches · via G1."
    },
    "es": {
     "name": "estudante de medicina",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía UOL Notícias."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía G1."
    }
   }
  },
  {
-  "id": "tr7",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 162,
+  "id": "tr19",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 246,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -196,41 +484,97 @@
   }
  },
  {
-  "id": "tr8",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 199,
+  "id": "tr20",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 283,
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 8,
-  "sourceUrl": "https://cbn.globo.com/coberturas/eleicoes-2026/noticia/2026/10/01/governo-trump-financia-com-us-1-milhao-projeto-no-brasil-que-acusa-stf-de-censura-diz-jornal.ghtml",
+  "sourceUrl": "https://g1.globo.com/politica/blog/camila-bomfim/post/2026/10/01/nossa-senhora-mendonca-mudou-de-voto-apos-conversas-com-nunes-marques-e-ministros-do-tse.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5k-VX3NPltv-MI1DHQj7z0zSHxbbuza1KhDZWgboWchUET79-MGG-rqE58Jw",
-   "credit": "CBN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDKD5yVeoB1hcGVrQMVEdEzIxFusR_iligz-5TBOPTsYxJHQ7o3rDkcZdRpPI",
+   "credit": "G1"
   },
   "t": {
    "pt": {
     "name": "stf",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via CBN."
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via G1."
    },
    "en": {
     "name": "stf",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via CBN."
+    "note": "Trending Google search (Brazil) — 2000+ searches · via G1."
    },
    "es": {
     "name": "stf",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía CBN."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía G1."
    }
   }
  },
  {
-  "id": "tr9",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 236,
+  "id": "tr21",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 320,
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
+  "sourceUrl": "https://www.cnn.com/2026/10/01/us/renee-good-death-lawsuits",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKO6S2DD74D8ugTGwk01e1qOn9VTkcYb26b1krJVPjTTqmBcaiMIn5_tJ6leI",
+   "credit": "CNN"
+  },
+  "t": {
+   "pt": {
+    "name": "lawsuit",
+    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via CNN."
+   },
+   "en": {
+    "name": "lawsuit",
+    "note": "Trending Google search (US) — 10000+ searches · via CNN."
+   },
+   "es": {
+    "name": "lawsuit",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía CNN."
+   }
+  }
+ },
+ {
+  "id": "tr22",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 357,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.chronicleonline.com/sports/soccer/azerbaijan-liechtenstein-nations-league-soccer/image_4f006002-eac5-50b9-81c1-64e3a2e522e3.html",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsl3gA06x14aZTKdJoGoVKulomQAUwGZEQJ31egU6F9ztCU2zuG7hrWGHTvDM",
+   "credit": "chronicleonline.com"
+  },
+  "t": {
+   "pt": {
+    "name": "azerbaijan vs liechtenstein",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via chronicleonline.com."
+   },
+   "en": {
+    "name": "azerbaijan vs liechtenstein",
+    "note": "Trending Google search (US) — 1000+ searches · via chronicleonline.com."
+   },
+   "es": {
+    "name": "azerbaijan vs liechtenstein",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía chronicleonline.com."
+   }
+  }
+ },
+ {
+  "id": "tr23",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 34,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 3,
   "sourceUrl": "https://www.espn.com/olympics/story/_/id/50077403/reflecting-pool-vandalism-case-vs-ex-olympian-dismissed",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTq_Zq4l2EbcyjsF_FOhOj1j6n-Eypt_Ch0NwHa21ykUJaxc_ycxXSCS7piOLg",
@@ -239,54 +583,82 @@
   "t": {
    "pt": {
     "name": "david hearn reflecting pool case dismissed",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via ESPN."
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via ESPN."
    },
    "en": {
     "name": "david hearn reflecting pool case dismissed",
-    "note": "Trending Google search (US) — 1000+ searches · via ESPN."
+    "note": "Trending Google search (US) — 2000+ searches · via ESPN."
    },
    "es": {
     "name": "david hearn reflecting pool case dismissed",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía ESPN."
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía ESPN."
    }
   }
  },
  {
-  "id": "tr10",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 273,
+  "id": "tr24",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 71,
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.usatoday.com/story/money/consumer-protection/2026/10/01/amazon-payments-2-5-billion-settlement/92035542007/",
+  "rank": 4,
+  "sourceUrl": "https://www.ksl.com/article/51630330/amazon-prime-refunds-are-coming-scammers-may-be-too",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvTs8mQbKD3ADYDYF8oV9iYMjSFKvWv1sQAzA5w1Q7kPS20uU6v4rGThSGtw",
-   "credit": "USA Today"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2G5YDzu-DNbZvKqwDJyjygc3FTpq3xDMc163TWOYadrtZKINJuVEE4nVPtoY",
+   "credit": "KSL.com"
   },
   "t": {
    "pt": {
     "name": "amazon ftc settlement payouts",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via USA Today."
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via KSL.com."
    },
    "en": {
     "name": "amazon ftc settlement payouts",
-    "note": "Trending Google search (US) — 2000+ searches · via USA Today."
+    "note": "Trending Google search (US) — 2000+ searches · via KSL.com."
    },
    "es": {
     "name": "amazon ftc settlement payouts",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía USA Today."
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía KSL.com."
    }
   }
  },
  {
-  "id": "tr11",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 310,
+  "id": "tr25",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 108,
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
+  "rank": 5,
+  "sourceUrl": "https://www.loudersound.com/news/venom-frontman-cronos-dead-aged-64-2026",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylcCOiHSTtC7wEIsVovYFdPD4QmvtI4bNO17PnYlBL6YCob4-7pWq5ICS55Y",
+   "credit": "Louder"
+  },
+  "t": {
+   "pt": {
+    "name": "cronos",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via Louder."
+   },
+   "en": {
+    "name": "cronos",
+    "note": "Trending Google search (US) — 5000+ searches · via Louder."
+   },
+   "es": {
+    "name": "cronos",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Louder."
+   }
+  }
+ },
+ {
+  "id": "tr26",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 145,
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 6,
   "sourceUrl": "https://www.politico.com/live-updates/2026/09/30/congress/republican-on-ice-maybe-were-doing-something-wrong-here-01098256",
   "image": {
    "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSaSfY5vFsc3hBfxCNFndQTSnCHV8xM7ksfHC_SBNkRmUlsMSSGCcqJ3255CM",
@@ -295,26 +667,26 @@
   "t": {
    "pt": {
     "name": "jim justice",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Politico."
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Politico."
    },
    "en": {
     "name": "jim justice",
-    "note": "Trending Google search (US) — 1000+ searches · via Politico."
+    "note": "Trending Google search (US) — 2000+ searches · via Politico."
    },
    "es": {
     "name": "jim justice",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Politico."
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Politico."
    }
   }
  },
  {
-  "id": "tr12",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 347,
+  "id": "tr27",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 182,
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
+  "rank": 7,
   "sourceUrl": "https://airlive.net/emergency/2026/10/01/emirates-a380-flight-ek31-to-london-is-declaring-an-emergency-and-diverting/",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-4wswr2rlNMr2VLjphosSvHnIhqBb7lo8lLrNdwG-bQti5bgLu8EXJ2qVSLU",
@@ -323,26 +695,26 @@
   "t": {
    "pt": {
     "name": "emirates",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via airlive."
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via airlive."
    },
    "en": {
     "name": "emirates",
-    "note": "Trending Google search (US) — 2000+ searches · via airlive."
+    "note": "Trending Google search (US) — 5000+ searches · via airlive."
    },
    "es": {
     "name": "emirates",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía airlive."
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía airlive."
    }
   }
  },
  {
-  "id": "tr13",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 24,
+  "id": "tr28",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 219,
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 5,
+  "rank": 8,
   "sourceUrl": "https://www.nytimes.com/athletic/7649479/2026/10/01/braves-ray-kerr-opener-wild-card-game-3/",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0L3U4ePba9d2Vr_rjEHiI_Dlw-9RWXjBtHpphJWYdYSjZOqfM-T82cyLhX8k",
@@ -364,93 +736,9 @@
   }
  },
  {
-  "id": "tr14",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 61,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.nytimes.com/2026/10/01/us/politics/supreme-court-trump-migrant-detention.html",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0j9jcwMJlskGWLcpMR4DYiQiQcidLdw8gFKUNXZ4P6bXJgkzGPf-jA3isAkw",
-   "credit": "The New York Times"
-  },
-  "t": {
-   "pt": {
-    "name": "detention",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via The New York Times."
-   },
-   "en": {
-    "name": "detention",
-    "note": "Trending Google search (US) — 2000+ searches · via The New York Times."
-   },
-   "es": {
-    "name": "detention",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The New York Times."
-   }
-  }
- },
- {
-  "id": "tr15",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 98,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://people.com/kylie-kelce-apologizes-kate-middleton-how-she-addressed-her-podcast-invite-12151143",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRubb33w34bvHmzMTSDEzK7SvKMMo2dH6zuxaynJeF9CiWSuhLF_05UAXUxLwk",
-   "credit": "People.com"
-  },
-  "t": {
-   "pt": {
-    "name": "kylie kelce",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via People.com."
-   },
-   "en": {
-    "name": "kylie kelce",
-    "note": "Trending Google search (US) — 2000+ searches · via People.com."
-   },
-   "es": {
-    "name": "kylie kelce",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía People.com."
-   }
-  }
- },
- {
-  "id": "tr16",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 135,
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.loudersound.com/news/venom-frontman-cronos-dead-aged-64-2026",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylcCOiHSTtC7wEIsVovYFdPD4QmvtI4bNO17PnYlBL6YCob4-7pWq5ICS55Y",
-   "credit": "Louder"
-  },
-  "t": {
-   "pt": {
-    "name": "cronos venom",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Louder."
-   },
-   "en": {
-    "name": "cronos venom",
-    "note": "Trending Google search (US) — 2000+ searches · via Louder."
-   },
-   "es": {
-    "name": "cronos venom",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Louder."
-   }
-  }
- },
- {
-  "id": "tr17",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 172,
+  "id": "tr29",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 256,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -463,22 +751,22 @@
   "t": {
    "pt": {
     "name": "megaproyecto",
-    "note": "Busca em alta no Google (Argentina) — 20000+ buscas · via La Nación."
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via La Nación."
    },
    "en": {
     "name": "megaproyecto",
-    "note": "Trending Google search (Argentina) — 20000+ searches · via La Nación."
+    "note": "Trending Google search (Argentina) — 2000+ searches · via La Nación."
    },
    "es": {
     "name": "megaproyecto",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 20000+ búsquedas · vía La Nación."
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía La Nación."
    }
   }
  },
  {
-  "id": "tr18",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 209,
+  "id": "tr30",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 293,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -504,37 +792,37 @@
   }
  },
  {
-  "id": "tr19",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 246,
+  "id": "tr31",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 330,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 3,
-  "sourceUrl": "https://apnews.com/article/tennessee-execution-christa-pike-woman-38c20d49bea09bed1488c2b41c309f2c",
+  "sourceUrl": "https://www.bbc.com/news/articles/cq8r6rjdvlx6o",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEKrPrFAcXhXyFvbhTfva5R1dOMUcjtn6t0MGzQYcFkKtvmIuPczuGp0OsmA",
-   "credit": "AP News"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcwN0U4wsDoevH2w81trRnDP6wePzA8rf_BnDdUD9drTRQzhJKhsdKeuNOL-I",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
     "name": "christa pike",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via AP News."
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via BBC."
    },
    "en": {
     "name": "christa pike",
-    "note": "Trending Google search (Argentina) — 500+ searches · via AP News."
+    "note": "Trending Google search (Argentina) — 2000+ searches · via BBC."
    },
    "es": {
     "name": "christa pike",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía AP News."
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía BBC."
    }
   }
  },
  {
-  "id": "tr20",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 283,
+  "id": "tr32",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 7,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -560,9 +848,9 @@
   }
  },
  {
-  "id": "tr21",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 320,
+  "id": "tr33",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 44,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -588,37 +876,37 @@
   }
  },
  {
-  "id": "tr22",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 357,
+  "id": "tr34",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 81,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 6,
-  "sourceUrl": "https://www.espn.com.ar/tenis/nota/_/id/17317621/era-un-riesgo-para-ellos-david-ferrer-explico-las-razones-de-la-baja-de-carlos-alcaraz-de-la-copa-davis-2026-espana-declaraciones",
+  "sourceUrl": "https://www.marca.com/tenis/2026/10/01/alcaraz-empieza-remontada-defensa-corona-tokio-juega-sampras.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQY4iHgiNnfBgFq8lmw_7-LiMk-LvIB_H0vOg5yeLJH7mYXub72dgfETOsf1Y0",
-   "credit": "ESPN Argentina"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxDCJ6_7nR3ba56AkjZg6adI09Rq_T2QC8tRKNoSRFLi-MWCLUEj80dyJpC0c",
+   "credit": "MARCA"
   },
   "t": {
    "pt": {
     "name": "carlos alcaraz",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via ESPN Argentina."
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via MARCA."
    },
    "en": {
     "name": "carlos alcaraz",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via ESPN Argentina."
+    "note": "Trending Google search (Argentina) — 1000+ searches · via MARCA."
    },
    "es": {
     "name": "carlos alcaraz",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía ESPN Argentina."
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía MARCA."
    }
   }
  },
  {
-  "id": "tr23",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 34,
+  "id": "tr35",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 118,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -644,9 +932,9 @@
   }
  },
  {
-  "id": "tr24",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 71,
+  "id": "tr36",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 155,
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -672,9 +960,9 @@
   }
  },
  {
-  "id": "tr25",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 108,
+  "id": "tr37",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 192,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
@@ -700,9 +988,9 @@
   }
  },
  {
-  "id": "tr26",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 145,
+  "id": "tr38",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 229,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
@@ -728,44 +1016,44 @@
   }
  },
  {
-  "id": "tr27",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 182,
+  "id": "tr39",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 266,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 3,
-  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/01/estados/rachel-ya-es-huracan-categoria-2-causara-lluvias-muy-fuertes-en-sinaloa-jalisco-nayarit-y-bcs",
+  "sourceUrl": "https://www.reforma.com/evoluciona-rachel-a-huracan-categoria-2-en-el-pacifico/ar3286193",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0VpkzFLRn4JClKywbGjIg6zQs-JIECW2M_2ZU5gDutzJFxG0_YkOuJH-IPc",
-   "credit": "La Jornada"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvn2wayVTFexrUq7bwW0-VXJUDDQpnFJ6um7RM3PfjNLODjYnqXlGhBLQD7ro",
+   "credit": "Reforma"
   },
   "t": {
    "pt": {
     "name": "octubre",
-    "note": "Busca em alta no Google (México) — 10000+ buscas · via La Jornada."
+    "note": "Busca em alta no Google (México) — 10000+ buscas · via Reforma."
    },
    "en": {
     "name": "octubre",
-    "note": "Trending Google search (Mexico) — 10000+ searches · via La Jornada."
+    "note": "Trending Google search (Mexico) — 10000+ searches · via Reforma."
    },
    "es": {
     "name": "octubre",
-    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía La Jornada."
+    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía Reforma."
    }
   }
  },
  {
-  "id": "tr28",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 219,
+  "id": "tr40",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 303,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 4,
   "sourceUrl": "https://citytv.eltiempo.com/noticias/medio-ambiente/hoy-va-llover-en-bogota-conozca-el-pronostico-del-clima_95837",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQI-QW-liCFW8sUUIYQ1NHfuhvrva5-MpwACFk4I4SzRBTT48CvAWsU2xgXbPc",
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRnOb1Mlze9HMyWCbBK3wOp6sts9bLSMWTY0x1_O-03PBPD5XawQgu6XEAt8A",
    "credit": "City Tv"
   },
   "t": {
@@ -784,9 +1072,9 @@
   }
  },
  {
-  "id": "tr29",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 256,
+  "id": "tr41",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 340,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
@@ -812,9 +1100,9 @@
   }
  },
  {
-  "id": "tr30",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 293,
+  "id": "tr42",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 17,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
@@ -840,16 +1128,16 @@
   }
  },
  {
-  "id": "tr31",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 330,
+  "id": "tr43",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 54,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 7,
-  "sourceUrl": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17324315/en-que-mejoro-ecuador-en-su-segundo-partido-del-nuevo-ciclo-de-marcelo-gallardo",
+  "sourceUrl": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17324452/galindez-y-el-partido-de-ecuador-vs-japon-lo-hicimos-mucho-mejor",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQExUNS9ZN7XFkxZLSt1_T2vaCGmc7lhfsPoUqA-vBdg7eFyCgWGhDo22Scflc",
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRTYeqRtUpzcuvSqwyU6aX7zwwp3dONK7xT2NyNQgIeXNC9mCNmtRf1wjguzU",
    "credit": "ESPN México"
   },
   "t": {
@@ -868,9 +1156,9 @@
   }
  },
  {
-  "id": "tr32",
-  "collectedAt": "2026-10-01T16:35:52.643Z",
-  "hue": 7,
+  "id": "tr44",
+  "collectedAt": "2026-10-01T17:04:28.332Z",
+  "hue": 91,
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
