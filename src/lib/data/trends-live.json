@@ -1,5 +1,305 @@
 [
  {
+  "id": "tr1",
+  "kind": "video",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "sourceUrl": "https://buzzbeat.tv/news/who-is-benjamin-stachio-viral-triple-mustache-man-revealed-as-ai-creat-264102",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 300,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Benjamin Stachio, o 'homem de três bigodes'",
+    "note": "Vídeo do personagem dançando num bar viralizou e foi revelado como criação de IA, inclusive a música."
+   },
+   "en": {
+    "name": "Benjamin Stachio, the 'triple-mustache man'",
+    "note": "His bar-dance video went viral before it was revealed to be an AI creation, music included."
+   },
+   "es": {
+    "name": "Benjamin Stachio, el 'hombre de tres bigotes'",
+    "note": "Su video bailando en un bar se viralizó y resultó ser una creación de IA, música incluida."
+   }
+  },
+  "rank": 1
+ },
+ {
+  "id": "tr2",
+  "kind": "topic",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://ladbible.com/news/world-news/influencer-jean-phil-ai-generated-302949-20260928",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 337,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Jean Phil, o influenciador de IA",
+    "note": "Personagem que faz 'boxe de sombra' em Paris teve vídeo com 35,9 milhões de views e foi ligado a uma criptomoeda."
+   },
+   "en": {
+    "name": "Jean Phil, the AI influencer",
+    "note": "The shadowboxing character in Paris had one video reach 35.9 million views and was tied to a meme coin."
+   },
+   "es": {
+    "name": "Jean Phil, el influencer de IA",
+    "note": "El personaje que hace 'boxeo de sombra' en París tuvo un video con 35,9 millones de vistas y fue ligado a una criptomoneda."
+   }
+  },
+  "rank": 2
+ },
+ {
+  "id": "tr3",
+  "kind": "video",
+  "platform": "youtube",
+  "region": "US",
+  "sourceUrl": "https://www.benzinga.com/markets/tech/26/09/62041755/mrbeast-returns-with-another-1-million-challenge-this-time-he-wants-contestants-to-eat-everything-in-a-grocery-store",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 14,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "MrBeast: comer um mercado inteiro por US$ 1 milhão",
+    "note": "Novo desafio do maior youtuber do mundo, descrito por ele como um 'minifilme', estreia no sábado."
+   },
+   "en": {
+    "name": "MrBeast: Eat an entire grocery store for $1 million",
+    "note": "The world's biggest YouTuber's new challenge, which he calls a 'mini movie', premieres Saturday."
+   },
+   "es": {
+    "name": "MrBeast: comerse un supermercado entero por US$ 1 millón",
+    "note": "El nuevo desafío del youtuber más grande del mundo, que él define como una 'minipelícula', se estrena el sábado."
+   }
+  },
+  "rank": 3
+ },
+ {
+  "id": "tr4",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "sourceUrl": "https://www.dexerto.com/youtube/mkbhd-calls-youtubes-new-a-b-testing-feature-its-craziest-riskiest-idea-yet-3414189/",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 51,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Teste A/B de vídeos no YouTube",
+    "note": "Recurso que testa até 3 versões do mesmo vídeo virou debate após MKBHD chamá-lo de 'a ideia mais arriscada'."
+   },
+   "en": {
+    "name": "YouTube video A/B testing",
+    "note": "A feature testing up to 3 versions of the same video sparked debate after MKBHD called it the 'riskiest idea'."
+   },
+   "es": {
+    "name": "Pruebas A/B de videos en YouTube",
+    "note": "La función que prueba hasta 3 versiones del mismo video generó debate tras las críticas de MKBHD."
+   }
+  },
+  "rank": 4
+ },
+ {
+  "id": "tr5",
+  "kind": "sound",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 88,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Dança 'Break your legs' ('Watch Me')",
+    "note": "Coreografia sincronizada ao trecho 'break your legs' de 'Watch Me (Whip/Nae Nae)', de Silentó."
+   },
+   "en": {
+    "name": "'Break your legs' dance ('Watch Me')",
+    "note": "A routine synced to the 'break your legs' part of Silentó's 'Watch Me (Whip/Nae Nae)'."
+   },
+   "es": {
+    "name": "Baile 'Break your legs' ('Watch Me')",
+    "note": "Coreografía sincronizada con la parte 'break your legs' de 'Watch Me (Whip/Nae Nae)', de Silentó."
+   }
+  },
+  "rank": 5
+ },
+ {
+  "id": "tr6",
+  "kind": "format",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 125,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "'Bata palmas se você é contra…'",
+    "note": "Criadores listam implicâncias bem específicas na tela e aplaudem em concordância com o áudio."
+   },
+   "en": {
+    "name": "'Clap if you're against…'",
+    "note": "Creators call out hyper-specific pet peeves on screen and clap along with the audio."
+   },
+   "es": {
+    "name": "'Aplaudí si estás en contra de…'",
+    "note": "Los creadores muestran manías muy específicas en pantalla y aplauden siguiendo el audio."
+   }
+  },
+  "rank": 6
+ },
+ {
+  "id": "tr7",
+  "kind": "format",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 162,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "'Quando eu estiver no leito de morte…'",
+    "note": "Um 'médico' pede para ninguém fazer o paciente rir, e o vídeo revela a piada interna mais específica possível."
+   },
+   "en": {
+    "name": "'When I'm on my deathbed…'",
+    "note": "A 'doctor' warns no one to make the patient laugh, then the video reveals a hyper-specific inside joke."
+   },
+   "es": {
+    "name": "'Cuando esté en mi lecho de muerte…'",
+    "note": "Un 'médico' pide que nadie haga reír al paciente y el video revela el chiste interno más específico."
+   }
+  },
+  "rank": 7
+ },
+ {
+  "id": "tr8",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 199,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Whimsymaxxing",
+    "note": "Onda de enfeitar objetos do dia a dia com strass e pedrarias, em reação ao minimalismo."
+   },
+   "en": {
+    "name": "Whimsymaxxing",
+    "note": "The trend of bedazzling everyday items with rhinestones and gems, a rejection of minimalism."
+   },
+   "es": {
+    "name": "Whimsymaxxing",
+    "note": "La moda de decorar objetos cotidianos con strass y piedras, como rechazo al minimalismo."
+   }
+  },
+  "rank": 8
+ },
+ {
+  "id": "tr9",
+  "kind": "format",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 236,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Retrato falado da polícia",
+    "note": "Uma pessoa descreve uma imagem e outra desenha sem ver; o resultado é comparado como num retrato falado."
+   },
+   "en": {
+    "name": "Police suspect drawing",
+    "note": "One person describes an image while another draws it blind, with results compared like a police sketch."
+   },
+   "es": {
+    "name": "Retrato hablado policial",
+    "note": "Una persona describe una imagen y otra la dibuja sin verla; el resultado se compara como un identikit."
+   }
+  },
+  "rank": 9
+ },
+ {
+  "id": "tr10",
+  "kind": "sound",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://www.socialpilot.co/blog/tiktok-trends",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 273,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "'Reasons to Get a Bob' ('FREAKED OUT')",
+    "note": "Lista impassível de motivos para cortar o cabelo chanel ao som de 'FREAKED OUT', de Fat Papi & prodshushy; o vídeo original tem cerca de 18 milhões de views."
+   },
+   "en": {
+    "name": "'Reasons to Get a Bob' ('FREAKED OUT')",
+    "note": "A deadpan list of reasons to get a bob set to Fat Papi & prodshushy's 'FREAKED OUT'; the original has around 18 million views."
+   },
+   "es": {
+    "name": "'Reasons to Get a Bob' ('FREAKED OUT')",
+    "note": "Lista impasible de motivos para cortarse el pelo carré con 'FREAKED OUT', de Fat Papi & prodshushy; el original ronda los 18 millones de vistas."
+   }
+  },
+  "rank": 10
+ },
+ {
+  "id": "tr11",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "sourceUrl": "https://infobae.com/salud/ciencia/2026/10/01/videos-virales-de-tiktok-sobre-skincare-que-riesgos-pueden-causar-en-la-piel-segun-un-nuevo-estudio",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 310,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Skincare viral sob alerta",
+    "note": "Estudo apresentado em congresso europeu de dermatologia apontou alegações enganosas em 95% dos vídeos analisados sobre 'pele de vidro'."
+   },
+   "en": {
+    "name": "Viral skincare under scrutiny",
+    "note": "A study presented at a European dermatology congress found misleading claims in 95% of analyzed 'glass skin' videos."
+   },
+   "es": {
+    "name": "Skincare viral bajo la lupa",
+    "note": "Un estudio presentado en un congreso europeo de dermatología halló afirmaciones engañosas en el 95% de los videos sobre 'piel de cristal' analizados."
+   }
+  },
+  "rank": 11
+ },
+ {
+  "id": "tr12",
+  "kind": "video",
+  "platform": "tiktok",
+  "region": "BR",
+  "sourceUrl": "https://www.rondoniadinamica.com/noticias/2026/09/quem-e-milca-influenciadora-que-deu-fora-em-ze-felipe,254936.shtml",
+  "collectedAt": "2026-10-01T23:46:56Z",
+  "hue": 347,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Milca dá 'fora' em Zé Felipe",
+    "note": "Em live no TikTok, a influenciadora potiguar disse não ter interesse no cantor, e o trecho a levou a 1,2 milhão de seguidores no Instagram."
+   },
+   "en": {
+    "name": "Milca turns down Zé Felipe",
+    "note": "During a TikTok live, the Brazilian influencer said she wasn't interested in the singer, and the clip pushed her to 1.2 million Instagram followers."
+   },
+   "es": {
+    "name": "Milca rechaza a Zé Felipe",
+    "note": "En un live de TikTok, la influencer brasileña dijo no tener interés en el cantante, y el clip la llevó a 1,2 millones de seguidores en Instagram."
+   }
+  },
+  "rank": 12
+ },
+ {
   "collectedAt": "2026-10-01T21:43:30.847Z",
   "kind": "topic",
   "platform": "tiktok",
@@ -20,8 +320,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
-  "id": "tr1",
-  "hue": 300
+  "id": "tr13",
+  "hue": 24
  },
  {
   "collectedAt": "2026-10-01T21:43:30.847Z",
@@ -44,8 +344,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
-  "id": "tr2",
-  "hue": 337
+  "id": "tr14",
+  "hue": 61
  },
  {
   "collectedAt": "2026-10-01T21:43:30.847Z",
@@ -68,8 +368,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
-  "id": "tr3",
-  "hue": 14
+  "id": "tr15",
+  "hue": 98
  },
  {
   "collectedAt": "2026-10-01T21:43:30.847Z",
@@ -96,8 +396,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Gil Vicente."
    }
   },
-  "id": "tr4",
-  "hue": 51
+  "id": "tr16",
+  "hue": 135
  },
  {
   "collectedAt": "2026-10-01T21:43:30.847Z",
@@ -124,8 +424,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr5",
-  "hue": 88
+  "id": "tr17",
+  "hue": 172
  },
  {
   "collectedAt": "2026-10-01T21:43:30.847Z",
@@ -152,7 +452,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Gil Vicente."
    }
   },
-  "id": "tr6",
-  "hue": 125
+  "id": "tr18",
+  "hue": 209
  }
 ]

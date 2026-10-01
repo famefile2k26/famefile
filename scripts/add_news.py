@@ -49,7 +49,7 @@ def all_existing():
         except Exception:
             continue
         if isinstance(d, list):
-            out += [x for x in d if isinstance(x, dict) and 't' in x]
+            out += [x for x in d if isinstance(x, dict) and isinstance(x.get('t'), dict) and 'headline' in x['t'].get('pt', {})]
     for f in DATA.glob('content*.ts'):
         out += [{'t': {'pt': {'headline': h}}, 'sources': []} for h in re.findall(r"headline: '([^']+)'", f.read_text())]
     return out
