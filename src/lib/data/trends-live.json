@@ -300,7 +300,7 @@
   "rank": 12
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -324,7 +324,7 @@
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -348,7 +348,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -372,11 +372,39 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
+  "sourceUrl": "https://oglobo.globo.com/play/realities/noticia/2026/10/01/enquete-a-fazenda-18-ultima-parcial-atualizada-aponta-disputa-acirradissima-entre-adryana-ribeiro-daniel-erthal-e-maira-charken.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPHxOvqQRkjcRG1H_WSzf2I0UmCTS_Q-ESA2cwEOGISMYGnvA76RbttbEhyrE",
+   "credit": "O GLOBO"
+  },
+  "t": {
+   "pt": {
+    "name": "enquete a fazenda",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via O GLOBO."
+   },
+   "en": {
+    "name": "enquete a fazenda",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via O GLOBO."
+   },
+   "es": {
+    "name": "enquete a fazenda",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía O GLOBO."
+   }
+  },
+  "id": "tr16",
+  "hue": 135
+ },
+ {
+  "collectedAt": "2026-10-02T03:38:22.147Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 2,
   "sourceUrl": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-produz-documentario-sobre-guerra-de-audiencia-dos-domingos-entre-gugu-e-faustao.shtml",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScx893zMfPpK2g_4UsuvzoW4Fg6Tt35U6x34RSp6gaQBRVi_ZnY8OptYnvsHA",
@@ -385,138 +413,110 @@
   "t": {
    "pt": {
     "name": "globoplay",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via UOL."
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via UOL."
    },
    "en": {
     "name": "globoplay",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via UOL."
+    "note": "Trending Google search (Brazil) — 10000+ searches · via UOL."
    },
    "es": {
     "name": "globoplay",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía UOL."
-   }
-  },
-  "id": "tr16",
-  "hue": 135
- },
- {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/videos-tem-noticias-2-edicao/video/novorizontino-recebe-o-goias-em-casa-pela-serie-b-do-brasileiro-15012427.ghtml",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzLKTEsigDd0lHMLCTwD0K5rbp6oQsI3uDpRACLiX3KZOeachOcnVOK7aUJG0",
-   "credit": "G1"
-  },
-  "t": {
-   "pt": {
-    "name": "novorizontino x goiás",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via G1."
-   },
-   "en": {
-    "name": "novorizontino x goiás",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via G1."
-   },
-   "es": {
-    "name": "novorizontino x goiás",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía G1."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía UOL."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com/nfl/story/_/id/50073098/former-steelers-coach-mike-tomlin-minecraft-city-12-year-reveal",
+  "region": "BR",
+  "rank": 3,
+  "sourceUrl": "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/01/goias-ja-desperdicou-metade-dos-penaltis-que-teve-na-serie-b.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYXYu4ergZ71w8PImKD53Cr2vgeFECl2XRNFY9cSQ0-2fKvqua_ubd-zJTyQ",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO7qjD1Zxv2YaBwgXqTCzoYJSEfxXOlcTTFESCOn4Mw_sFAarJCCvJnmfHMl4",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "steelers coach",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
+    "name": "novorizontino x goiás",
+    "note": "Busca em alta no Google (Brasil) — 50000+ buscas · via ge."
    },
    "en": {
-    "name": "steelers coach",
-    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
+    "name": "novorizontino x goiás",
+    "note": "Trending Google search (Brazil) — 50000+ searches · via ge."
    },
    "es": {
-    "name": "steelers coach",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
+    "name": "novorizontino x goiás",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 50000+ búsquedas · vía ge."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50046007/mlb-playoffs-2026-wild-card-game-3-live-updates-analysis-takeaways-phillies-braves",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50070369/mlb-playoffs-2026-first-look-preview-division-series-matchups-brewers-dodgers-rays-guardians",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDWXCQSeXYF2o9HZWat-wUsmPXKH9mUqB-ioiWrmG3Vp8JF8LRYb8Iqpgoirc",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwSuynMPaTM3hcR83ZpGuTJsbjEA3h4yIL-e8wmTRcqsYa2DSyDOvGEVxtnjQ",
    "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "phillies",
-    "note": "Busca em alta no Google (EUA) — 100000+ buscas · via ESPN."
+    "name": "nlds schedule",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
    },
    "en": {
-    "name": "phillies",
-    "note": "Trending Google search (US) — 100000+ searches · via ESPN."
+    "name": "nlds schedule",
+    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
    },
    "es": {
-    "name": "phillies",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100000+ búsquedas · vía ESPN."
+    "name": "nlds schedule",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://sports.yahoo.com/articles/mason-graham-leaves-browns-vs-003832037.html",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.clarin.com/fama/hernan-coronel-cantante-mala-fama-llama-atencion-masterchef-celebrity_0_dRg1H06T8j.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZiD8aiG28kIcg4l4hO4DJeEFOumC6inAEKo6VG77IUCt84SxeUZULmeUNjGA",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjPMIow_hJnhi7CN_F3rmb015mPRaU6AqeJcTqV0upiGdsctJYlc5_IOH8_0",
+   "credit": "Clarin.com"
   },
   "t": {
    "pt": {
-    "name": "mason graham",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via Yahoo Sports."
+    "name": "mala fama",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Clarin.com."
    },
    "en": {
-    "name": "mason graham",
-    "note": "Trending Google search (US) — 5000+ searches · via Yahoo Sports."
+    "name": "mala fama",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Clarin.com."
    },
    "es": {
-    "name": "mason graham",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Yahoo Sports."
+    "name": "mala fama",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
+  "rank": 2,
   "sourceUrl": "https://www.infobae.com/deportes/2026/10/01/el-plan-que-lionel-messi-ya-puso-en-marcha-para-el-dia-del-retiro-del-futbol-los-cinco-clubes-bajo-su-orbita/",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTtRsweuV7MwNnx0lY-1iXD-D541xZ-QVJuxjSvzHtRTWWhjUwDzWlbrQSGnaU",
@@ -540,59 +540,87 @@
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://www.tycsports.com/futbol-internacional/traicion-un-intimo-amigo-de-cristiano-ronaldo-revelo-el-motivo-detras-del-escandalo-id763902.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA",
-   "credit": "MLB.com"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTu-rlYNPoRZRrU0UnRRo_fqQ-28kvvTlhCTvvJs4oa0jyceO0ANj95djHZqK0",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "braves - phillies",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via MLB.com."
+    "name": "portugal vs",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "braves - phillies",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via MLB.com."
+    "name": "portugal vs",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via TyC Sports."
    },
    "es": {
-    "name": "braves - phillies",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía MLB.com."
+    "name": "portugal vs",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "collectedAt": "2026-10-02T03:38:22.147Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://gilvicentefc.pt/horario-do-jogo-da-taca-de-portugal-definido/",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50046007/mlb-playoffs-2026-wild-card-game-3-live-updates-analysis-takeaways-phillies-braves",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3QfqIU-PiRPe7zanh_0q-sZHVBJj-_YjQmCUiYlvL-aNUM-9d4jxjNktFSA",
-   "credit": "Gil Vicente"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDWXCQSeXYF2o9HZWat-wUsmPXKH9mUqB-ioiWrmG3Vp8JF8LRYb8Iqpgoirc",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "portugal fc",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Gil Vicente."
+    "name": "braves - phillies",
+    "note": "Busca em alta no Google (México) — 5000+ buscas · via ESPN."
    },
    "en": {
-    "name": "portugal fc",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Gil Vicente."
+    "name": "braves - phillies",
+    "note": "Trending Google search (Mexico) — 5000+ searches · via ESPN."
    },
    "es": {
-    "name": "portugal fc",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Gil Vicente."
+    "name": "braves - phillies",
+    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr23",
   "hue": 34
+ },
+ {
+  "collectedAt": "2026-10-02T03:38:22.147Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.nfl.com/news/steelers-vs-browns-three-must-know-storylines-for-thursday-s-week-4-prime-time-game",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqXNrP-ADTTo9QNHd6NwfS6kDqWkT68heyQvRD35BRKyu04a0_HKZRV2Tt33c",
+   "credit": "NFL.com"
+  },
+  "t": {
+   "pt": {
+    "name": "browns - steelers",
+    "note": "Busca em alta no Google (México) — 50000+ buscas · via NFL.com."
+   },
+   "en": {
+    "name": "browns - steelers",
+    "note": "Trending Google search (Mexico) — 50000+ searches · via NFL.com."
+   },
+   "es": {
+    "name": "browns - steelers",
+    "note": "Búsqueda en tendencia en Google (México) — 50000+ búsquedas · vía NFL.com."
+   }
+  },
+  "id": "tr24",
+  "hue": 71
  }
 ]
