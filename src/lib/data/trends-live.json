@@ -341,7 +341,7 @@
   "rank": 13
  },
  {
-  "collectedAt": "2026-10-02T09:38:30.333Z",
+  "collectedAt": "2026-10-02T12:43:48.596Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -365,7 +365,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-02T09:38:30.333Z",
+  "collectedAt": "2026-10-02T12:43:48.596Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -389,7 +389,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-02T09:38:30.333Z",
+  "collectedAt": "2026-10-02T12:43:48.596Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -413,35 +413,91 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-02T09:38:30.333Z",
+  "collectedAt": "2026-10-02T12:43:48.596Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/01/morre-a-cantora-karina-zeviani-ex-participante-do-the-voice-brasil-aos-51-anos.ghtml",
+  "sourceUrl": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-renewed-season-2-amazon-1236894905/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfgEnEIoHAwG_tlZH0MpJgpwJmFkDq_QS-XY8v3YQpdmRs-7O3jksztJ0Y9Ds",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKBh5NlOtvWxqIS6G08p5fZCbQNzeP7t0058ipeWsQBc5PmM7Ag7F7TV2efew",
+   "credit": "Variety"
   },
   "t": {
    "pt": {
-    "name": "karina zeviani",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via G1."
+    "name": "amazon prime video",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Variety."
    },
    "en": {
-    "name": "karina zeviani",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via G1."
+    "name": "amazon prime video",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via Variety."
    },
    "es": {
-    "name": "karina zeviani",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía G1."
+    "name": "amazon prime video",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Variety."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-02T09:38:30.333Z",
+  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 2,
+  "sourceUrl": "https://oglobo.globo.com/play/novelas/noticia/2026/10/02/filho-de-giovanna-ewbank-e-bruno-gagliasso-bless-fara-sua-estreia-em-novelas-em-a-nobreza-do-amor-sempre-teve-uma-alma-artistica.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpgdSHjQoE0A1pKhkRZ0qox_g4jP7K01xBuyzqQnWfZhB1ZZqphN42TmYs0S8",
+   "credit": "O GLOBO"
+  },
+  "t": {
+   "pt": {
+    "name": "bruno gagliasso",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via O GLOBO."
+   },
+   "en": {
+    "name": "bruno gagliasso",
+    "note": "Trending Google search (Brazil) — 500+ searches · via O GLOBO."
+   },
+   "es": {
+    "name": "bruno gagliasso",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía O GLOBO."
+   }
+  },
+  "id": "tr18",
+  "hue": 209
+ },
+ {
+  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.imdb.com/fr/news/ni66042388/?ref_=tt_nwr_1",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY-nIR6UU8rFFoqVnRVN8UKh8pj9dSU9SbQMbfFStGtzQiCPbTIFI-eDbGIw8",
+   "credit": "IMDb"
+  },
+  "t": {
+   "pt": {
+    "name": "dolph lundgren",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via IMDb."
+   },
+   "en": {
+    "name": "dolph lundgren",
+    "note": "Trending Google search (US) — 1000+ searches · via IMDb."
+   },
+   "es": {
+    "name": "dolph lundgren",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía IMDb."
+   }
+  },
+  "id": "tr19",
+  "hue": 246
+ },
+ {
+  "collectedAt": "2026-10-02T12:43:48.596Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -465,7 +521,7 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr18",
-  "hue": 209
+  "id": "tr20",
+  "hue": 283
  }
 ]
