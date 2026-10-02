@@ -1,6 +1,6 @@
 # PROJECT_STATE
 
-_Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
+_Atualizado: 2026-10-02 · Site no ar e 100% automático (robô editor + capas + radar de trends)_
 
 ## Arquitetura atual
 - **Next.js 15 (App Router) + TypeScript estrito + Tailwind v4.** Monólito modular. Sem outras dependências de runtime.
@@ -47,6 +47,19 @@ _Atualizado: 2026-09-28 · Fase 1 completa + admin + arquivo de matérias_
 ## Personalização por país (29/09)
 - `middleware.ts`: 1ª visita escolhe o idioma pelo país do IP (`x-vercel-ip-country`): BR/PT/AO/MZ → pt; AR/MX/CO/CL/ES… → es; EUA e demais → en. Escolha manual (cookie NEXT_LOCALE) sempre vence. `?cc=AR` força um país (teste) e fica salvo em cookie.
 - `lib/data/relevance.ts`: ordena matérias por recência + proximidade (país dos famosos, mercado, domínio das fontes). Home, hero e listas de seção são dinâmicas por país. Módulo "Em alta · {país}".
+
+## Automação em produção (desde 01/10/2026)
+- **Robô editor** (tarefa agendada `trig_01R2reVsTmHz5sw47eGiAyQs`, 08:47 · 13:47 · 19:47 de Brasília, aprovação automática): segue `docs/ROBOT.md`, pesquisa, escreve 15–30 matérias PT/EN/ES com foto e fontes (incl. especiais e análises com nota), cria perfis de todo famoso citado (+ mutirão de 10/rodada) via `scripts/add_news.py` → `news-live.json` / `people-extra.json`. Publica em blocos de ~8 (commit+push a cada bloco) para não perder trabalho se a sessão cair. Também monta 8–15 virais com curadoria (`scripts/set_trends.py`).
+- **Radar de trends** (aba Internet & Creators): workflow `trends.yml` a cada 3h roda `scripts/trends.mjs` — TikTok Creative Center (sem login só dá hashtags globais → marcadas como GLOBAL e deduplicadas) + Google Trends RSS BR/US/AR/MX filtrado para cultura pop (regex POP + nomes dos perfis). Virais com curadoria do robô (`curated: true`) ficam no topo por 36h. Diagnóstico em `trends-meta.json`.
+- **Capas e fotos**: workflow `covers.yml` (iTunes/Deezer/Wikipedia) em cada push de dados e diariamente.
+- **Formatos de matéria**: `format` = review | feature | list | explainer (badge nos cards).
+- **Geo**: país pelo header `x-vercel-ip-country` (override `?cc=XX`, cookie `ff_cc`) define idioma e prioridade das notícias (`relevance.ts`).
+- APIs oficiais de TikTok/Instagram exigem conta de desenvolvedor aprovada — não usadas; radar usa fontes públicas + curadoria.
+- Avisos de "em breve"/"em construção" removidos do site (01/10).
+- Situação em 02/10: 87 matérias do robô no ar, radar com 21 itens (13 com curadoria).
+
+## Regras editoriais (atualizadas)
+- Bloqueados: Felipe Neto, Ana Paula Renault (`src/lib/editorial.ts`). Tema proibido: apostas/bets. Toda matéria com foto. Todo famoso de matéria ganha perfil.
 
 ## Regras editoriais permanentes
 - **Felipe Neto e Ana Paula Renault não fazem parte do site:** nunca publicar notícias sobre eles nem manter perfil. Bloqueio em `src/lib/editorial.ts` (filtra matérias que os citem em qualquer idioma e perfis, inclusive do admin/robô).
