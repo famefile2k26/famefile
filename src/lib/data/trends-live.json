@@ -341,7 +341,7 @@
   "rank": 13
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -365,7 +365,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -389,7 +389,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -413,7 +413,7 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -426,78 +426,106 @@
   "t": {
    "pt": {
     "name": "amazon prime video",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Variety."
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via Variety."
    },
    "en": {
     "name": "amazon prime video",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via Variety."
+    "note": "Trending Google search (Brazil) — 5000+ searches · via Variety."
    },
    "es": {
     "name": "amazon prime video",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Variety."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Variety."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://oglobo.globo.com/play/novelas/noticia/2026/10/02/filho-de-giovanna-ewbank-e-bruno-gagliasso-bless-fara-sua-estreia-em-novelas-em-a-nobreza-do-amor-sempre-teve-uma-alma-artistica.ghtml",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.bbc.com/news/articles/c5398kkx27ewo",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRpgdSHjQoE0A1pKhkRZ0qox_g4jP7K01xBuyzqQnWfZhB1ZZqphN42TmYs0S8",
-   "credit": "O GLOBO"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLVhWBxzfX47EWU8Up7lew9FD8zej33V-hd5lBYxBuAU_8QoFcqHKl5CYfOE",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "bruno gagliasso",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via O GLOBO."
+    "name": "stray kids grammy boycott 2027",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via BBC."
    },
    "en": {
-    "name": "bruno gagliasso",
-    "note": "Trending Google search (Brazil) — 500+ searches · via O GLOBO."
+    "name": "stray kids grammy boycott 2027",
+    "note": "Trending Google search (US) — 1000+ searches · via BBC."
    },
    "es": {
-    "name": "bruno gagliasso",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía O GLOBO."
+    "name": "stray kids grammy boycott 2027",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía BBC."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.imdb.com/fr/news/ni66042388/?ref_=tt_nwr_1",
+  "rank": 2,
+  "sourceUrl": "https://thedirect.com/article/the-walking-dead-dead-city-season-4-status-scott-gimple",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQY-nIR6UU8rFFoqVnRVN8UKh8pj9dSU9SbQMbfFStGtzQiCPbTIFI-eDbGIw8",
-   "credit": "IMDb"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcMlGFpcFaPKsne5rEFXqfvJZiLmi5VlxiRbysXdzh5mSrPzvXxX8g0gP7-OE",
+   "credit": "The Direct"
   },
   "t": {
    "pt": {
-    "name": "dolph lundgren",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via IMDb."
+    "name": "the walking dead",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via The Direct."
    },
    "en": {
-    "name": "dolph lundgren",
-    "note": "Trending Google search (US) — 1000+ searches · via IMDb."
+    "name": "the walking dead",
+    "note": "Trending Google search (US) — 2000+ searches · via The Direct."
    },
    "es": {
-    "name": "dolph lundgren",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía IMDb."
+    "name": "the walking dead",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The Direct."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-02T12:43:48.596Z",
+  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://people.com/kelly-ripa-mark-consuelos-throwback-photos-12152837",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSELlX5iAkbmGVEILyHwERKUm8g9mbH8vWtbaauw28jrLjMT39IoqqlVGGjGp0",
+   "credit": "People.com"
+  },
+  "t": {
+   "pt": {
+    "name": "kelly ripa",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via People.com."
+   },
+   "en": {
+    "name": "kelly ripa",
+    "note": "Trending Google search (US) — 500+ searches · via People.com."
+   },
+   "es": {
+    "name": "kelly ripa",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía People.com."
+   }
+  },
+  "id": "tr20",
+  "hue": 283
+ },
+ {
+  "collectedAt": "2026-10-02T15:39:18.604Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -521,7 +549,7 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr20",
-  "hue": 283
+  "id": "tr21",
+  "hue": 320
  }
 ]
