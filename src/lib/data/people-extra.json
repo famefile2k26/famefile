@@ -7539,5 +7539,324 @@
     "12 victorias en programas musicales con 'REDRED'"
    ]
   ]
+ },
+ {
+  "slug": "ishowspeed",
+  "name": "IShowSpeed",
+  "market": "global",
+  "kinds": [
+   "creator",
+   "streamer"
+  ],
+  "country": "US",
+  "legalName": "Darren Jason Watkins Jr.",
+  "birthDate": "2005-01-21",
+  "birthPlace": "Cincinnati, Ohio, EUA",
+  "activeSince": 2016,
+  "genres": [
+   "livestream",
+   "entretenimento",
+   "futebol"
+  ],
+  "aliases": [
+   "Speed",
+   "Darren Watkins"
+  ],
+  "works": [
+   {
+    "title": "World Cup (Champions)",
+    "year": 2026,
+    "kind": "single"
+   },
+   {
+    "title": "World Cup 2026 Tour",
+    "year": 2026,
+    "kind": "tour"
+   }
+  ],
+  "pt": [
+   "Youtuber e streamer",
+   "Fenômeno americano das lives, conhecido pelo estilo explosivo e pelas turnês pelo mundo. Em 2026, tornou-se o primeiro criador de conteúdo a se apresentar numa final de Copa do Mundo.",
+   [
+    "Passou dos 50 milhões de inscritos no YouTube em janeiro de 2026",
+    "Cantou 'World Cup (Champions)' na final da Copa de 2026"
+   ]
+  ],
+  "en": [
+   "YouTuber and streamer",
+   "American livestreaming phenomenon known for his explosive style and world tours. In 2026 he became the first content creator to perform at a World Cup final.",
+   [
+    "Passed 50 million YouTube subscribers in January 2026",
+    "Performed 'World Cup (Champions)' at the 2026 World Cup final"
+   ]
+  ],
+  "es": [
+   "Youtuber y streamer",
+   "Fenómeno estadounidense de los directos, conocido por su estilo explosivo y sus giras por el mundo. En 2026 se convirtió en el primer creador de contenido en actuar en una final del Mundial.",
+   [
+    "Superó los 50 millones de suscriptores en YouTube en enero de 2026",
+    "Cantó 'World Cup (Champions)' en la final del Mundial 2026"
+   ]
+  ]
+ },
+ {
+  "slug": "victoria-beckham",
+  "name": "Victoria Beckham",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "GB",
+  "legalName": "Victoria Caroline Beckham",
+  "birthDate": "1974-04-17",
+  "birthPlace": "Harlow, Essex, Inglaterra",
+  "activeSince": 1994,
+  "genres": [
+   "pop"
+  ],
+  "aliases": [
+   "Posh Spice",
+   "Victoria Adams"
+  ],
+  "works": [
+   {
+    "title": "Spice",
+    "year": 1996,
+    "kind": "album"
+   },
+   {
+    "title": "Victoria Beckham",
+    "year": 2001,
+    "kind": "album"
+   },
+   {
+    "title": "Victoria Beckham (grife)",
+    "year": 2008,
+    "kind": "project"
+   }
+  ],
+  "pt": [
+   "Estilista e ex-Spice Girl",
+   "Ex-integrante das Spice Girls, a 'Posh Spice' virou estilista e comanda a grife que leva seu nome desde 2008. É casada com David Beckham.",
+   [
+    "Integrante das Spice Girls",
+    "Fundadora da grife Victoria Beckham (2008)"
+   ]
+  ],
+  "en": [
+   "Designer and former Spice Girl",
+   "The former Spice Girls member known as 'Posh Spice' became a fashion designer and has run her eponymous label since 2008. She is married to David Beckham.",
+   [
+    "Member of the Spice Girls",
+    "Founder of the Victoria Beckham label (2008)"
+   ]
+  ],
+  "es": [
+   "Diseñadora y ex Spice Girl",
+   "Ex integrante de las Spice Girls, la 'Posh Spice' se convirtió en diseñadora y dirige la marca que lleva su nombre desde 2008. Está casada con David Beckham.",
+   [
+    "Integrante de las Spice Girls",
+    "Fundadora de la marca Victoria Beckham (2008)"
+   ]
+  ]
+ },
+ {
+  "slug": "david-beckham",
+  "name": "David Beckham",
+  "market": "global",
+  "kinds": [
+   "athlete"
+  ],
+  "country": "GB",
+  "legalName": "David Robert Joseph Beckham",
+  "birthDate": "1975-05-02",
+  "birthPlace": "Leytonstone, Londres, Inglaterra",
+  "activeSince": 1992,
+  "genres": [
+   "futebol"
+  ],
+  "works": [
+   {
+    "title": "Manchester United",
+    "year": 1992,
+    "kind": "club"
+   },
+   {
+    "title": "Real Madrid",
+    "year": 2003,
+    "kind": "club"
+   },
+   {
+    "title": "LA Galaxy",
+    "year": 2007,
+    "kind": "club"
+   },
+   {
+    "title": "Inter Miami",
+    "year": 2018,
+    "kind": "club"
+   }
+  ],
+  "pt": [
+   "Ex-jogador de futebol",
+   "Ex-capitão da seleção inglesa e astro de Manchester United e Real Madrid, é coproprietário do Inter Miami e marido de Victoria Beckham.",
+   [
+    "Ex-capitão da Inglaterra",
+    "Coproprietário do Inter Miami"
+   ]
+  ],
+  "en": [
+   "Former footballer",
+   "Former England captain and Manchester United and Real Madrid star, he is co-owner of Inter Miami and husband of Victoria Beckham.",
+   [
+    "Former England captain",
+    "Co-owner of Inter Miami"
+   ]
+  ],
+  "es": [
+   "Ex futbolista",
+   "Ex capitán de la selección inglesa y estrella del Manchester United y el Real Madrid, es copropietario del Inter Miami y esposo de Victoria Beckham.",
+   [
+    "Ex capitán de Inglaterra",
+    "Copropietario del Inter Miami"
+   ]
+  ]
+ },
+ {
+  "slug": "brooklyn-beckham",
+  "name": "Brooklyn Beckham",
+  "market": "global",
+  "kinds": [
+   "creator"
+  ],
+  "country": "GB",
+  "birthDate": "1999-03-04",
+  "birthPlace": "Londres, Inglaterra",
+  "aliases": [
+   "Brooklyn Peltz Beckham"
+  ],
+  "pt": [
+   "Filho de David e Victoria Beckham",
+   "Primogênito de David e Victoria Beckham, é casado com a atriz Nicola Peltz desde 2022 e está afastado dos pais.",
+   [
+    "Casado com Nicola Peltz",
+    "Primogênito do casal Beckham"
+   ]
+  ],
+  "en": [
+   "Son of David and Victoria Beckham",
+   "The eldest child of David and Victoria Beckham, he has been married to actress Nicola Peltz since 2022 and is estranged from his parents.",
+   [
+    "Married to Nicola Peltz",
+    "Eldest Beckham child"
+   ]
+  ],
+  "es": [
+   "Hijo de David y Victoria Beckham",
+   "Primogénito de David y Victoria Beckham, está casado con la actriz Nicola Peltz desde 2022 y distanciado de sus padres.",
+   [
+    "Casado con Nicola Peltz",
+    "Primogénito de los Beckham"
+   ]
+  ]
+ },
+ {
+  "slug": "lauryn-hill",
+  "name": "Lauryn Hill",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "US",
+  "legalName": "Lauryn Noelle Hill",
+  "birthDate": "1975-05-26",
+  "birthPlace": "Newark, New Jersey, EUA",
+  "genres": [
+   "hip-hop",
+   "R&B",
+   "neo soul"
+  ],
+  "aliases": [
+   "Ms. Lauryn Hill",
+   "L-Boogie"
+  ],
+  "works": [
+   {
+    "title": "The Score (Fugees)",
+    "year": 1996,
+    "kind": "album"
+   },
+   {
+    "title": "The Miseducation of Lauryn Hill",
+    "year": 1998,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantora e rapper",
+   "Ex-integrante dos Fugees, lançou em 1998 'The Miseducation of Lauryn Hill', vencedor do Grammy de álbum do ano.",
+   [
+    "'The Miseducation of Lauryn Hill' (1998)",
+    "Integrante dos Fugees"
+   ]
+  ],
+  "en": [
+   "Singer and rapper",
+   "A former member of the Fugees, she released 1998's 'The Miseducation of Lauryn Hill,' which won the Grammy for album of the year.",
+   [
+    "'The Miseducation of Lauryn Hill' (1998)",
+    "Member of the Fugees"
+   ]
+  ],
+  "es": [
+   "Cantante y rapera",
+   "Ex integrante de los Fugees, lanzó en 1998 'The Miseducation of Lauryn Hill', ganador del Grammy al álbum del año.",
+   [
+    "'The Miseducation of Lauryn Hill' (1998)",
+    "Integrante de los Fugees"
+   ]
+  ]
+ },
+ {
+  "slug": "renata-sorrah",
+  "name": "Renata Sorrah",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "birthDate": "1947-02-21",
+  "birthPlace": "Rio de Janeiro, RJ",
+  "works": [
+   {
+    "title": "Senhora do Destino",
+    "year": 2004,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Atriz",
+   "Uma das atrizes mais respeitadas do país, com longa carreira no teatro e na TV; eternizou a vilã Nazaré Tedesco em 'Senhora do Destino'.",
+   [
+    "Nazaré Tedesco em 'Senhora do Destino' (2004)",
+    "Carreira consagrada no teatro"
+   ]
+  ],
+  "en": [
+   "Actress",
+   "One of Brazil's most respected actresses, with a long stage and TV career; she immortalized villain Nazaré Tedesco in 'Senhora do Destino.'",
+   [
+    "Nazaré Tedesco in 'Senhora do Destino' (2004)",
+    "Acclaimed stage career"
+   ]
+  ],
+  "es": [
+   "Actriz",
+   "Una de las actrices más respetadas de Brasil, con larga trayectoria en teatro y TV; inmortalizó a la villana Nazaré Tedesco en 'Senhora do Destino'.",
+   [
+    "Nazaré Tedesco en 'Senhora do Destino' (2004)",
+    "Consagrada carrera teatral"
+   ]
+  ]
  }
 ]
