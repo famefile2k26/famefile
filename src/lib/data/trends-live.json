@@ -300,7 +300,7 @@
   "rank": 12
  },
  {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
+  "collectedAt": "2026-10-02T09:38:30.333Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -324,7 +324,7 @@
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
+  "collectedAt": "2026-10-02T09:38:30.333Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -348,7 +348,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
+  "collectedAt": "2026-10-02T09:38:30.333Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -372,119 +372,35 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
+  "collectedAt": "2026-10-02T09:38:30.333Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://f5.folha.uol.com.br/televisao/a-fazenda-18/2026/10/a-fazenda-18-enquete-f5-mostra-quem-deve-ser-o-eliminado-da-semana.shtml",
+  "sourceUrl": "https://g1.globo.com/sp/ribeirao-preto-franca/noticia/2026/10/01/morre-a-cantora-karina-zeviani-ex-participante-do-the-voice-brasil-aos-51-anos.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSRIfRKa3hIaZfkYVhYcPn1M2osggF7gUBnbhK-ALXG9i6LUf79FuN2cBLFkdw",
-   "credit": "UOL"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfgEnEIoHAwG_tlZH0MpJgpwJmFkDq_QS-XY8v3YQpdmRs-7O3jksztJ0Y9Ds",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "enquete a fazenda",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via UOL."
+    "name": "karina zeviani",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via G1."
    },
    "en": {
-    "name": "enquete a fazenda",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via UOL."
+    "name": "karina zeviani",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via G1."
    },
    "es": {
-    "name": "enquete a fazenda",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía UOL."
+    "name": "karina zeviani",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía G1."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://gshow.globo.com/globoplay/noticia/o-que-e-gaslighting-tema-abordado-na-novelinha-eu-nao-era-louca-era-casada.ghtml",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFyCsZPooGVcVLNhZm1qsJHXrTahcfmu0Opp6T60eI-rGGX4Auy-PqEycouyM",
-   "credit": "Gshow"
-  },
-  "t": {
-   "pt": {
-    "name": "globoplay",
-    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via Gshow."
-   },
-   "en": {
-    "name": "globoplay",
-    "note": "Trending Google search (Brazil) — 10000+ searches · via Gshow."
-   },
-   "es": {
-    "name": "globoplay",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía Gshow."
-   }
-  },
-  "id": "tr17",
-  "hue": 172
- },
- {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://robinhood.com/us/en/prediction-markets/tennis/events/francisco-cerundolo-vs-jakub-mensik-game-spread-oct-02-2026/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7sSpU2uDdL5xkS6nSATG7NWDN4kIHHf7QYNE2y_VyeJ9x1DNsCuj-mwYcSv0",
-   "credit": "Robinhood"
-  },
-  "t": {
-   "pt": {
-    "name": "jasmine paolini",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Robinhood."
-   },
-   "en": {
-    "name": "jasmine paolini",
-    "note": "Trending Google search (US) — 2000+ searches · via Robinhood."
-   },
-   "es": {
-    "name": "jasmine paolini",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Robinhood."
-   }
-  },
-  "id": "tr18",
-  "hue": 209
- },
- {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.sacbee.com/news/weather-news/article317445254.html",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSKrwbi0N_ZyuhoUpOtx0w8kxGxszGqwKiMhfuKVBSXvSEBCG_qmnzU9HG42Vw",
-   "credit": "Sacramento Bee"
-  },
-  "t": {
-   "pt": {
-    "name": "aftershock 2026",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Sacramento Bee."
-   },
-   "en": {
-    "name": "aftershock 2026",
-    "note": "Trending Google search (US) — 1000+ searches · via Sacramento Bee."
-   },
-   "es": {
-    "name": "aftershock 2026",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Sacramento Bee."
-   }
-  },
-  "id": "tr19",
-  "hue": 246
- },
- {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
+  "collectedAt": "2026-10-02T09:38:30.333Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -508,35 +424,7 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr20",
-  "hue": 283
- },
- {
-  "collectedAt": "2026-10-02T06:43:49.548Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.infobae.com/deportes/2026/10/01/el-detras-de-escena-de-la-salida-de-cristiano-ronaldo-de-portugal-la-ultima-suplica-en-el-aeropuerto-para-evitar-el-gran-escandalo/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAiNmzhpuLU1Z9WYjQkOOhWGQX_0Ij2UYrKz4D0CO2bAvLVP6q7X7cZh9ZY6I",
-   "credit": "Infobae"
-  },
-  "t": {
-   "pt": {
-    "name": "portugal vs",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Infobae."
-   },
-   "en": {
-    "name": "portugal vs",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via Infobae."
-   },
-   "es": {
-    "name": "portugal vs",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
-   }
-  },
-  "id": "tr21",
-  "hue": 320
+  "id": "tr17",
+  "hue": 172
  }
 ]
