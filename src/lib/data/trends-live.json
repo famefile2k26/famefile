@@ -353,7 +353,7 @@
   "rank": 13
  },
  {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
+  "collectedAt": "2026-10-02T21:36:47.873Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -361,15 +361,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#cornell",
+    "name": "#reggie",
     "note": "Hashtag em alta no TikTok (global) — #1 na semana."
    },
    "en": {
-    "name": "#cornell",
+    "name": "#reggie",
     "note": "Trending TikTok hashtag (global) — #1 this week."
    },
    "es": {
-    "name": "#cornell",
+    "name": "#reggie",
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
@@ -377,7 +377,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
+  "collectedAt": "2026-10-02T21:36:47.873Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -385,15 +385,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#reggie",
+    "name": "#cornell",
     "note": "Hashtag em alta no TikTok (global) — #2 na semana."
    },
    "en": {
-    "name": "#reggie",
+    "name": "#cornell",
     "note": "Trending TikTok hashtag (global) — #2 this week."
    },
    "es": {
-    "name": "#reggie",
+    "name": "#cornell",
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
@@ -401,7 +401,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
+  "collectedAt": "2026-10-02T21:36:47.873Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -425,27 +425,27 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
+  "collectedAt": "2026-10-02T21:36:47.873Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www.uol.com.br/esporte/ultimas-noticias/2026/10/02/belgica-x-turquia-horario-e-onde-assistir-ao-jogo-da-liga-das-nacoes.ghtm",
+  "sourceUrl": "https://www.uol.com.br/splash/noticias/2026/10/02/carol-lekker-desativa-instagram-apos-contar-morte-de-rick-a-adryana.ghtm",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr_jvbLHfarxeUtLWayIKyHK1sjsOizI0Tj6HgmojjoJHIMQROk41iGwH-CAE",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxqQQmQYjXfbhCByDFmx-4fbBtSiWDBmVnQMKYTcS8Co4ao5a2rSzZk99qj6U",
    "credit": "UOL"
   },
   "t": {
    "pt": {
-    "name": "bélgica x turquia",
+    "name": "adryana ribeiro",
     "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via UOL."
    },
    "en": {
-    "name": "bélgica x turquia",
+    "name": "adryana ribeiro",
     "note": "Trending Google search (Brazil) — 5000+ searches · via UOL."
    },
    "es": {
-    "name": "bélgica x turquia",
+    "name": "adryana ribeiro",
     "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía UOL."
    }
   },
@@ -453,70 +453,14 @@
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-renewed-season-2-amazon-1236894905/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKBh5NlOtvWxqIS6G08p5fZCbQNzeP7t0058ipeWsQBc5PmM7Ag7F7TV2efew",
-   "credit": "Variety"
-  },
-  "t": {
-   "pt": {
-    "name": "amazon prime video",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via Variety."
-   },
-   "en": {
-    "name": "amazon prime video",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via Variety."
-   },
-   "es": {
-    "name": "amazon prime video",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Variety."
-   }
-  },
-  "id": "tr18",
-  "hue": 209
- },
- {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.usatoday.com/story/entertainment/movies/2026/10/02/bruce-willis-wife-ftd-diagnosis-photo/92055813007/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT38dd-I_HFd0cPyX3-HSn2Mic1KB1akzoQMlEn2LimFTeGn1BzvBnZwDB9Jio",
-   "credit": "USA Today"
-  },
-  "t": {
-   "pt": {
-    "name": "bruce willis",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via USA Today."
-   },
-   "en": {
-    "name": "bruce willis",
-    "note": "Trending Google search (US) — 5000+ searches · via USA Today."
-   },
-   "es": {
-    "name": "bruce willis",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía USA Today."
-   }
-  },
-  "id": "tr19",
-  "hue": 246
- },
- {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
+  "collectedAt": "2026-10-02T21:36:47.873Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 1,
   "sourceUrl": "https://www.infobae.com/teleshow/2026/10/02/amalia-granata-le-respondio-a-robbie-williams-me-gustaria-reencontrarme-con-el-desde-otro-lugar/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE8zRxOToHCI2QyfUkPRCxj6_BT6dnP_DLavQsqQ1YfGqj3jB3GSz1aNkEFlg",
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHWbCHmTgmsNUVExghkYiNyCcm320zn7Td4ZTfPtlkHcfYh2Oav84FWOd5Y94",
    "credit": "Infobae"
   },
   "t": {
@@ -533,35 +477,7 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr20",
-  "hue": 283
- },
- {
-  "collectedAt": "2026-10-02T18:41:02.110Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.pagina12.com.ar/2026/10/02/murio-ricardo-soule-lider-de-vox-dei-y-pionero-del-rock-argentino/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlLL9nRco4VhcZy27zglC7VEPH-fLSOYcQX0_zwM2ACESlVFb7FKif_Dg76M",
-   "credit": "Página|12"
-  },
-  "t": {
-   "pt": {
-    "name": "ricardo soule",
-    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via Página|12."
-   },
-   "en": {
-    "name": "ricardo soule",
-    "note": "Trending Google search (Argentina) — 5000+ searches · via Página|12."
-   },
-   "es": {
-    "name": "ricardo soule",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía Página|12."
-   }
-  },
-  "id": "tr21",
-  "hue": 320
+  "id": "tr18",
+  "hue": 209
  }
 ]
