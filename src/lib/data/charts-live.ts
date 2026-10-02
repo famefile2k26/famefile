@@ -1,5 +1,5 @@
 /**
- * Charts reais (via kworb.net, que espelha Spotify e Apple Music). Coletados em 28/09/2026.
+ * Charts reais (via kworb.net, que espelha Spotify e Apple Music). Coletados em 28/09/2026; Apple Music BR/EUA atualizado em 02/10/2026.
  * Regra do site: o padrão exibido é sempre o GLOBAL; o leitor escolhe plataforma e país.
  * Gerado a partir da pesquisa — o robô vai substituir este arquivo a cada atualização.
  */
@@ -349,7 +349,7 @@ const raw: Raw[] = [
   "id": "apple-br",
   "platform": "apple",
   "region": "BR",
-  "periodEnd": "2026-09-27",
+  "periodEnd": "2026-10-01",
   "kind": "daily",
   "sourceUrl": "https://kworb.net/charts/apple_s/br.html",
   "entries": [
@@ -363,16 +363,15 @@ const raw: Raw[] = [
    },
    {
     "position": 2,
-    "lastPosition": 2,
-    "title": "Pink Clouding",
-    "artistName": "Taylor Swift",
-    "hue": 209,
-    "artistId": "taylor-swift"
+    "lastPosition": 3,
+    "title": "Nicole Kidman",
+    "artistName": "ADÉLA",
+    "hue": 209
    },
    {
     "position": 3,
-    "lastPosition": 3,
-    "title": "Cleveland!",
+    "lastPosition": 2,
+    "title": "Pink Clouding",
     "artistName": "Taylor Swift",
     "hue": 238,
     "artistId": "taylor-swift"
@@ -388,44 +387,46 @@ const raw: Raw[] = [
    {
     "position": 5,
     "lastPosition": 6,
-    "title": "Nicole Kidman",
-    "artistName": "ADÉLA",
-    "hue": 296
-   },
-   {
-    "position": 6,
-    "lastPosition": 5,
     "title": "The Fate of Ophelia",
     "artistName": "Taylor Swift",
-    "hue": 325,
+    "hue": 296,
     "artistId": "taylor-swift"
    },
    {
-    "position": 7,
+    "position": 6,
     "lastPosition": 7,
     "title": "Ain't In LA",
     "artistName": "ADÉLA",
-    "hue": 354
+    "hue": 325
+   },
+   {
+    "position": 7,
+    "lastPosition": 5,
+    "title": "Cleveland!",
+    "artistName": "Taylor Swift",
+    "hue": 354,
+    "artistId": "taylor-swift"
    },
    {
     "position": 8,
     "lastPosition": 8,
-    "title": "Cuida do Pet (feat. Mc Negão Original, DU'L & Dj Aladin GDB)",
-    "artistName": "Oldilla, Mc Iguinho Ct, MC Willian & Aaron Modesto",
-    "hue": 23
+    "title": "the cure",
+    "artistName": "Olivia Rodrigo",
+    "hue": 23,
+    "artistId": "olivia-rodrigo"
    },
    {
     "position": 9,
     "lastPosition": 9,
-    "title": "P do Pecado (Ao Vivo)",
-    "artistName": "Grupo Menos É Mais & Simone Mendes",
+    "title": "Cuida do Pet (feat. Mc Negão Original, DU'L & Dj Aladin GDB)",
+    "artistName": "Oldilla, Mc Iguinho Ct, MC Willian & Aaron Modesto",
     "hue": 52
    },
    {
     "position": 10,
-    "lastPosition": 10,
-    "title": "Eu Te Seguro (Ao Vivo)",
-    "artistName": "Panda & MJ Records",
+    "lastPosition": 17,
+    "title": "Melatonin",
+    "artistName": "Tinashe",
     "hue": 81
    }
   ]
@@ -434,7 +435,7 @@ const raw: Raw[] = [
   "id": "apple-us",
   "platform": "apple",
   "region": "US",
-  "periodEnd": "2026-09-27",
+  "periodEnd": "2026-10-02",
   "kind": "daily",
   "sourceUrl": "https://kworb.net/charts/apple_s/us.html",
   "entries": [
@@ -449,70 +450,70 @@ const raw: Raw[] = [
    {
     "position": 2,
     "lastPosition": 2,
-    "title": "Cleveland!",
-    "artistName": "Taylor Swift",
-    "hue": 209,
-    "artistId": "taylor-swift"
-   },
-   {
-    "position": 3,
-    "lastPosition": 4,
-    "title": "Babylon",
-    "artistName": "Taylor Swift",
-    "hue": 238,
-    "artistId": "taylor-swift"
-   },
-   {
-    "position": 4,
-    "lastPosition": 3,
-    "title": "Pink Clouding",
-    "artistName": "Taylor Swift",
-    "hue": 267,
-    "artistId": "taylor-swift"
-   },
-   {
-    "position": 5,
-    "lastPosition": 5,
     "title": "Choosin' Texas",
     "artistName": "Ella Langley",
-    "hue": 296,
+    "hue": 209,
     "artistId": "ella-langley"
    },
    {
-    "position": 6,
-    "lastPosition": 7,
+    "position": 3,
+    "lastPosition": 3,
     "title": "BbY WOW",
     "artistName": "KAROL G, Judeline & rusowsky",
-    "hue": 325,
+    "hue": 238,
     "artistId": "karol-g"
    },
    {
-    "position": 7,
-    "lastPosition": 6,
+    "position": 4,
+    "lastPosition": 5,
     "title": "Last Thing You Need (from GTAVI: The Album)",
+    "artistName": "Morgan Wallen",
+    "hue": 267,
+    "artistId": "morgan-wallen"
+   },
+   {
+    "position": 5,
+    "lastPosition": null,
+    "title": "Babylon",
+    "artistName": "Taylor Swift",
+    "hue": 296,
+    "artistId": "taylor-swift"
+   },
+   {
+    "position": 6,
+    "lastPosition": 6,
+    "title": "Pink Clouding",
+    "artistName": "Taylor Swift",
+    "hue": 325,
+    "artistId": "taylor-swift"
+   },
+   {
+    "position": 7,
+    "lastPosition": 8,
+    "title": "Been By Now",
     "artistName": "Morgan Wallen",
     "hue": 354,
     "artistId": "morgan-wallen"
    },
    {
     "position": 8,
-    "lastPosition": 8,
-    "title": "Been By Now",
-    "artistName": "Morgan Wallen",
-    "hue": 23,
-    "artistId": "morgan-wallen"
-   },
-   {
-    "position": 9,
     "lastPosition": 9,
     "title": "Janice STFU",
     "artistName": "Drake",
-    "hue": 52,
+    "hue": 23,
     "artistId": "drake"
    },
    {
+    "position": 9,
+    "lastPosition": null,
+    "title": "Cleveland!",
+    "artistName": "Taylor Swift",
+    "hue": 52,
+    "artistId": "taylor-swift"
+   },
+   {
     "position": 10,
-    "lastPosition": 11,
+    "lastPosition": 10,
     "title": "Nicole Kidman",
     "artistName": "ADÉLA",
     "hue": 81
@@ -530,6 +531,6 @@ export const liveCharts: Chart[] = raw.map((c) => ({
   title: { pt: provider[c.platform], en: provider[c.platform], es: provider[c.platform] },
   region: c.region,
   periodEnd: c.periodEnd,
-  provenance: { provider: `${provider[c.platform]} ${c.kind === 'weekly' ? 'Weekly' : 'Daily'} (via kworb.net)`, sourceUrl: c.sourceUrl, retrievedAt: '2026-09-28T12:00:00Z' },
+  provenance: { provider: `${provider[c.platform]} ${c.kind === 'weekly' ? 'Weekly' : 'Daily'} (via kworb.net)`, sourceUrl: c.sourceUrl, retrievedAt: '2026-10-02T12:00:00Z' },
   entries: c.entries,
 }));

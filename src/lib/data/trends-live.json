@@ -2,149 +2,165 @@
  {
   "id": "tr1",
   "kind": "video",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://buzzbeat.tv/news/who-is-benjamin-stachio-viral-triple-mustache-man-revealed-as-ai-creat-264102",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://tmc.com.br/entretenimento/mano-brown-refaz-meme-sao-paulo-1o-de-outubro/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Benjamin Stachio, o 'homem de três bigodes'",
-    "note": "Vídeo do personagem dançando num bar viralizou e foi revelado como criação de IA, inclusive a música."
+    "name": "'São Paulo, 1º de outubro' com Mano Brown",
+    "note": "O próprio rapper refez o meme anual de 'Diário de um Detento' para o aniversário da cantora Cidy Ferreira, e o vídeo bateu perto de 1 milhão de views."
    },
    "en": {
-    "name": "Benjamin Stachio, the 'triple-mustache man'",
-    "note": "His bar-dance video went viral before it was revealed to be an AI creation, music included."
+    "name": "'São Paulo, October 1st' with Mano Brown",
+    "note": "The rapper himself redid the yearly 'Diário de um Detento' meme for singer Cidy Ferreira's birthday, and the clip neared 1 million views."
    },
    "es": {
-    "name": "Benjamin Stachio, el 'hombre de tres bigotes'",
-    "note": "Su video bailando en un bar se viralizó y resultó ser una creación de IA, música incluida."
+    "name": "'São Paulo, 1 de octubre' con Mano Brown",
+    "note": "El propio rapero rehízo el meme anual de 'Diário de um Detento' para el cumpleaños de la cantante Cidy Ferreira, y el video rozó el millón de vistas."
    }
   },
-  "rank": 1
+  "rank": 1,
+  "image": {
+   "url": "https://tmc.com.br/wp-content/uploads/2026/10/ManoBrown_1DeOutubro_.jpg.webp",
+   "credit": "Reprodução/YouTube e Instagram"
+  }
  },
  {
   "id": "tr2",
   "kind": "topic",
-  "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://ladbible.com/news/world-news/influencer-jean-phil-ai-generated-302949-20260928",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "platform": "x",
+  "region": "MX",
+  "sourceUrl": "https://kchcomunicacion.com/2026/10/01/la-casa-de-los-famosos-mexico-final-en-cines-decepciona/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Jean Phil, o influenciador de IA",
-    "note": "Personagem que faz 'boxe de sombra' em Paris teve vídeo com 35,9 milhões de views e foi ligado a uma criptomoeda."
+    "name": "'La Casa de los tibios'",
+    "note": "Internautas apelidaram 'La Casa de los Famosos México' de 'casa dos mornos' por falta de brigas, às vésperas da final de 4/10, que passará até nos cinemas."
    },
    "en": {
-    "name": "Jean Phil, the AI influencer",
-    "note": "The shadowboxing character in Paris had one video reach 35.9 million views and was tied to a meme coin."
+    "name": "'La Casa de los tibios'",
+    "note": "Viewers nicknamed 'La Casa de los Famosos México' 'the house of the lukewarm' over its lack of drama, ahead of the Oct. 4 finale, which will even screen in theaters."
    },
    "es": {
-    "name": "Jean Phil, el influencer de IA",
-    "note": "El personaje que hace 'boxeo de sombra' en París tuvo un video con 35,9 millones de vistas y fue ligado a una criptomoneda."
+    "name": "'La Casa de los tibios'",
+    "note": "Los usuarios bautizaron así a 'La Casa de los Famosos México' por su falta de peleas, en la previa de la final del 4/10, que se verá incluso en cines."
    }
   },
-  "rank": 2
+  "rank": 2,
+  "image": {
+   "url": "https://kchcomunicacion.com/wp-content/uploads/2026/10/Transmitiran-la-final-de-La-Casa-de-los-Famosos-Me-1.jpg",
+   "credit": "KCH FM"
+  }
  },
  {
   "id": "tr3",
   "kind": "video",
-  "platform": "youtube",
-  "region": "US",
-  "sourceUrl": "https://www.benzinga.com/markets/tech/26/09/62041755/mrbeast-returns-with-another-1-million-challenge-this-time-he-wants-contestants-to-eat-everything-in-a-grocery-store",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "platform": "x",
+  "region": "AR",
+  "sourceUrl": "https://www.minutouno.com/espectaculos/el-inesperado-piropo-hernan-mala-fama-lizy-tagliani-que-sorprendio-wanda-nara-masterchef-n6328509",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "MrBeast: comer um mercado inteiro por US$ 1 milhão",
-    "note": "Novo desafio do maior youtuber do mundo, descrito por ele como um 'minifilme', estreia no sábado."
+    "name": "Hernán (Mala Fama) e a 'salamandra' Lizy",
+    "note": "No 'MasterChef Celebrity' argentino, o cantor disse que 'não dá para sentir frio ao lado desta salamandra' sobre Lizy Tagliani, e a dupla virou xodó das redes."
    },
    "en": {
-    "name": "MrBeast: Eat an entire grocery store for $1 million",
-    "note": "The world's biggest YouTuber's new challenge, which he calls a 'mini movie', premieres Saturday."
+    "name": "Hernán (Mala Fama) and 'salamander' Lizy",
+    "note": "On Argentina's 'MasterChef Celebrity', the singer said 'you can't be cold next to this salamander' about Lizy Tagliani, and the duo became a social media favorite."
    },
    "es": {
-    "name": "MrBeast: comerse un supermercado entero por US$ 1 millón",
-    "note": "El nuevo desafío del youtuber más grande del mundo, que él define como una 'minipelícula', se estrena el sábado."
+    "name": "Hernán (Mala Fama) y la 'salamandra' Lizy",
+    "note": "En 'MasterChef Celebrity', el cantante dijo 'no se puede tener frío al lado de esta salamandra' sobre Lizy Tagliani, y la dupla se volvió la favorita de las redes."
    }
   },
-  "rank": 3
+  "rank": 3,
+  "image": {
+   "url": "https://media.minutouno.com/p/a2082044f28b1cb0166422be71a78fc9/adjuntos/150/imagenes/043/676/0043676554/hernan-malafama-lizy-tagliana-masterchef.jpg",
+   "credit": "Minuto Uno"
+  }
  },
  {
   "id": "tr4",
-  "kind": "topic",
-  "platform": "youtube",
+  "kind": "sound",
+  "platform": "tiktok",
   "region": "US",
-  "sourceUrl": "https://www.dexerto.com/youtube/mkbhd-calls-youtubes-new-a-b-testing-feature-its-craziest-riskiest-idea-yet-3414189/",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "sourceUrl": "https://www.digitalmusicnews.com/2026/09/30/taylor-swift-tosses-tiktok-another-juicy-exclusive/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Teste A/B de vídeos no YouTube",
-    "note": "Recurso que testa até 3 versões do mesmo vídeo virou debate após MKBHD chamá-lo de 'a ideia mais arriscada'."
+    "name": "'Patient Zero' no dia do casamento",
+    "note": "Noivos usam o novo single de Taylor Swift com a letra na tela em vídeos de casamento, enquanto o TikTok abre um hub exclusivo da música com bastidores liberados por metas dos fãs."
    },
    "en": {
-    "name": "YouTube video A/B testing",
-    "note": "A feature testing up to 3 versions of the same video sparked debate after MKBHD called it the 'riskiest idea'."
+    "name": "'Patient Zero' wedding day",
+    "note": "Couples set wedding footage to Taylor Swift's new single with lyric overlays, as TikTok launches an exclusive hub for the song with behind-the-scenes clips unlocked by fan goals."
    },
    "es": {
-    "name": "Pruebas A/B de videos en YouTube",
-    "note": "La función que prueba hasta 3 versiones del mismo video generó debate tras las críticas de MKBHD."
+    "name": "'Patient Zero' en el día de la boda",
+    "note": "Parejas usan el nuevo single de Taylor Swift con la letra en pantalla en videos de boda, mientras TikTok abre un hub exclusivo de la canción con material inédito que los fans desbloquean."
    }
   },
   "rank": 4
  },
  {
   "id": "tr5",
-  "kind": "sound",
+  "kind": "topic",
   "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "region": "GLOBAL",
+  "sourceUrl": "https://infobae.com/salud/ciencia/2026/10/01/videos-virales-de-tiktok-sobre-skincare-que-riesgos-pueden-causar-en-la-piel-segun-un-nuevo-estudio",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 88,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Dança 'Break your legs' ('Watch Me')",
-    "note": "Coreografia sincronizada ao trecho 'break your legs' de 'Watch Me (Whip/Nae Nae)', de Silentó."
+    "name": "Skincare viral sob alerta",
+    "note": "Estudo apresentado no congresso europeu de dermatologia viu alegações enganosas em quase 95% dos vídeos virais de 'pele de vidro' — e nenhum era de dermatologista."
    },
    "en": {
-    "name": "'Break your legs' dance ('Watch Me')",
-    "note": "A routine synced to the 'break your legs' part of Silentó's 'Watch Me (Whip/Nae Nae)'."
+    "name": "Viral skincare under fire",
+    "note": "A study presented at Europe's dermatology congress found misleading claims in nearly 95% of viral 'glass skin' videos — and none were made by dermatologists."
    },
    "es": {
-    "name": "Baile 'Break your legs' ('Watch Me')",
-    "note": "Coreografía sincronizada con la parte 'break your legs' de 'Watch Me (Whip/Nae Nae)', de Silentó."
+    "name": "Skincare viral bajo la lupa",
+    "note": "Un estudio presentado en el congreso europeo de dermatología halló afirmaciones engañosas en casi el 95% de los videos virales de 'piel de cristal', y ninguno era de un dermatólogo."
    }
   },
-  "rank": 5
+  "rank": 5,
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/KRMYRGYS4RG5XI7XTSTCWJAUCU.png?auth=62c07ff2d3e4522d55729a5ac3abf2918bc84ab2ad7fbf6c1b9d31a39f9dd54b&smart=true&width=1200&height=630&quality=85",
+   "credit": "Infobae"
+  }
  },
  {
   "id": "tr6",
   "kind": "format",
   "platform": "tiktok",
   "region": "US",
-  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Bata palmas se você é contra…'",
-    "note": "Criadores listam implicâncias bem específicas na tela e aplaudem em concordância com o áudio."
+    "name": "Ramalama costume walk",
+    "note": "Câmera baixa nas pernas, a pessoa caminha até a lente e o zoom revela a fantasia de Halloween completa, ao som de 'Ramalama (Bang Bang)', de Róisín Murphy."
    },
    "en": {
-    "name": "'Clap if you're against…'",
-    "note": "Creators call out hyper-specific pet peeves on screen and clap along with the audio."
+    "name": "Ramalama costume walk",
+    "note": "A low-angle shot of legs walking toward the camera zooms out to reveal a full Halloween costume, set to Róisín Murphy's 'Ramalama (Bang Bang)'."
    },
    "es": {
-    "name": "'Aplaudí si estás en contra de…'",
-    "note": "Los creadores muestran manías muy específicas en pantalla y aplauden siguiendo el audio."
+    "name": "Ramalama costume walk",
+    "note": "Toma baja de las piernas caminando hacia la cámara y un zoom que revela el disfraz completo de Halloween, con 'Ramalama (Bang Bang)', de Róisín Murphy."
    }
   },
   "rank": 6
@@ -154,72 +170,72 @@
   "kind": "format",
   "platform": "tiktok",
   "region": "US",
-  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Quando eu estiver no leito de morte…'",
-    "note": "Um 'médico' pede para ninguém fazer o paciente rir, e o vídeo revela a piada interna mais específica possível."
+    "name": "'Two Fishes'",
+    "note": "Defender uma opinião absurda com a calma de um debate, no embalo de Corbin Mims, de 'Love Island USA'."
    },
    "en": {
-    "name": "'When I'm on my deathbed…'",
-    "note": "A 'doctor' warns no one to make the patient laugh, then the video reveals a hyper-specific inside joke."
+    "name": "'Two Fishes'",
+    "note": "Defending an unreasonable take with calm debate energy, riffing on Corbin Mims from 'Love Island USA'."
    },
    "es": {
-    "name": "'Cuando esté en mi lecho de muerte…'",
-    "note": "Un 'médico' pide que nadie haga reír al paciente y el video revela el chiste interno más específico."
+    "name": "'Two Fishes'",
+    "note": "Defender una opinión absurda con la calma de un debate, inspirado en Corbin Mims, de 'Love Island USA'."
    }
   },
   "rank": 7
  },
  {
   "id": "tr8",
-  "kind": "topic",
+  "kind": "format",
   "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "region": "US",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Whimsymaxxing",
-    "note": "Onda de enfeitar objetos do dia a dia com strass e pedrarias, em reação ao minimalismo."
+    "name": "Ilusão da cabeça de abóbora",
+    "note": "Segurar uma abóbora colada à lente cria a ilusão de que ela é a cabeça de quem está atrás, com um remix assombrado de Hocus Pocus."
    },
    "en": {
-    "name": "Whimsymaxxing",
-    "note": "The trend of bedazzling everyday items with rhinestones and gems, a rejection of minimalism."
+    "name": "Pumpkin head illusion",
+    "note": "Holding a pumpkin right up to the lens makes it look like the head of the person behind it, set to a spooky Hocus Pocus remix."
    },
    "es": {
-    "name": "Whimsymaxxing",
-    "note": "La moda de decorar objetos cotidianos con strass y piedras, como rechazo al minimalismo."
+    "name": "Ilusión de la cabeza de calabaza",
+    "note": "Sostener una calabaza pegada al lente crea la ilusión de que es la cabeza de quien está detrás, con un remix espeluznante de Hocus Pocus."
    }
   },
   "rank": 8
  },
  {
   "id": "tr9",
-  "kind": "format",
+  "kind": "sound",
   "platform": "tiktok",
   "region": "US",
-  "sourceUrl": "https://socialbee.com/blog/tiktok-trends-you-cant-miss/",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "sourceUrl": "https://napoleoncat.com/blog/tiktok-trends/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Retrato falado da polícia",
-    "note": "Uma pessoa descreve uma imagem e outra desenha sem ver; o resultado é comparado como num retrato falado."
+    "name": "'Someone's gotta hold it down'",
+    "note": "Vídeos dos bastidores sem glamour — fechar o turno, segurar o suporte, o estoque — enquanto todo mundo está fora, ao som de 'Ain't In LA', de ADÉLA."
    },
    "en": {
-    "name": "Police suspect drawing",
-    "note": "One person describes an image while another draws it blind, with results compared like a police sketch."
+    "name": "'Someone's gotta hold it down'",
+    "note": "Unglamorous behind-the-scenes clips — closing shifts, support duty, the warehouse — while everyone else is away, set to ADÉLA's 'Ain't In LA'."
    },
    "es": {
-    "name": "Retrato hablado policial",
-    "note": "Una persona describe una imagen y otra la dibuja sin verla; el resultado se compara como un identikit."
+    "name": "'Someone's gotta hold it down'",
+    "note": "Videos de trastienda sin glamour —cerrar el turno, soporte, el depósito— mientras todos los demás no están, con 'Ain't In LA', de ADÉLA."
    }
   },
   "rank": 9
@@ -228,76 +244,101 @@
   "id": "tr10",
   "kind": "sound",
   "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.socialpilot.co/blog/tiktok-trends",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "region": "GLOBAL",
+  "sourceUrl": "https://napoleoncat.com/blog/tiktok-trends/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Reasons to Get a Bob' ('FREAKED OUT')",
-    "note": "Lista impassível de motivos para cortar o cabelo chanel ao som de 'FREAKED OUT', de Fat Papi & prodshushy; o vídeo original tem cerca de 18 milhões de views."
+    "name": "'It's a clock'",
+    "note": "Memórias de quando a pessoa não percebeu algo óbvio, com o áudio caindo bem no momento da ficha cair."
    },
    "en": {
-    "name": "'Reasons to Get a Bob' ('FREAKED OUT')",
-    "note": "A deadpan list of reasons to get a bob set to Fat Papi & prodshushy's 'FREAKED OUT'; the original has around 18 million views."
+    "name": "'It's a clock'",
+    "note": "Memories of missing something obvious, with the audio landing right at the moment of realization."
    },
    "es": {
-    "name": "'Reasons to Get a Bob' ('FREAKED OUT')",
-    "note": "Lista impasible de motivos para cortarse el pelo carré con 'FREAKED OUT', de Fat Papi & prodshushy; el original ronda los 18 millones de vistas."
+    "name": "'It's a clock'",
+    "note": "Recuerdos de cuando alguien no vio algo obvio, con el audio cayendo justo en el momento de darse cuenta."
    }
   },
   "rank": 10
  },
  {
   "id": "tr11",
-  "kind": "topic",
+  "kind": "sound",
   "platform": "tiktok",
   "region": "GLOBAL",
-  "sourceUrl": "https://infobae.com/salud/ciencia/2026/10/01/videos-virales-de-tiktok-sobre-skincare-que-riesgos-pueden-causar-en-la-piel-segun-un-nuevo-estudio",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "sourceUrl": "https://napoleoncat.com/blog/tiktok-trends/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 310,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Skincare viral sob alerta",
-    "note": "Estudo apresentado em congresso europeu de dermatologia apontou alegações enganosas em 95% dos vídeos analisados sobre 'pele de vidro'."
+    "name": "'Oh Yeah?' city walk",
+    "note": "Caminhadas pela cidade filmadas como abertura de filme ao som de 'Oh Yeah?', de Steve Lacy, da trilha de 'Homem-Aranha: Um Novo Dia'."
    },
    "en": {
-    "name": "Viral skincare under scrutiny",
-    "note": "A study presented at a European dermatology congress found misleading claims in 95% of analyzed 'glass skin' videos."
+    "name": "'Oh Yeah?' city walk",
+    "note": "Steady city-walk footage framed like a movie opening, set to Steve Lacy's 'Oh Yeah?' from the 'Spider-Man: Brand New Day' soundtrack."
    },
    "es": {
-    "name": "Skincare viral bajo la lupa",
-    "note": "Un estudio presentado en un congreso europeo de dermatología halló afirmaciones engañosas en el 95% de los videos sobre 'piel de cristal' analizados."
+    "name": "'Oh Yeah?' city walk",
+    "note": "Paseos por la ciudad filmados como la apertura de una película, con 'Oh Yeah?', de Steve Lacy, de la banda sonora de 'Spider-Man: Brand New Day'."
    }
   },
   "rank": 11
  },
  {
   "id": "tr12",
-  "kind": "video",
-  "platform": "tiktok",
-  "region": "BR",
-  "sourceUrl": "https://www.rondoniadinamica.com/noticias/2026/09/quem-e-milca-influenciadora-que-deu-fora-em-ze-felipe,254936.shtml",
-  "collectedAt": "2026-10-01T23:46:56Z",
+  "kind": "format",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://socialbee.com/blog/trending-instagram-memes/",
+  "collectedAt": "2026-10-02T12:41:34Z",
   "hue": 347,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Milca dá 'fora' em Zé Felipe",
-    "note": "Em live no TikTok, a influenciadora potiguar disse não ter interesse no cantor, e o trecho a levou a 1,2 milhão de seguidores no Instagram."
+    "name": "Ben Affleck cansado",
+    "note": "A cara de exaustão do ator voltou como legenda para momentos que drenam a energia e para quando a cabeça já 'desligou'."
    },
    "en": {
-    "name": "Milca turns down Zé Felipe",
-    "note": "During a TikTok live, the Brazilian influencer said she wasn't interested in the singer, and the clip pushed her to 1.2 million Instagram followers."
+    "name": "Tired Ben Affleck",
+    "note": "The actor's exhausted face is back as the caption for draining moments and full mental checkouts."
    },
    "es": {
-    "name": "Milca rechaza a Zé Felipe",
-    "note": "En un live de TikTok, la influencer brasileña dijo no tener interés en el cantante, y el clip la llevó a 1,2 millones de seguidores en Instagram."
+    "name": "Ben Affleck cansado",
+    "note": "La cara de agotamiento del actor volvió como reacción para momentos agotadores y para cuando la mente ya 'se desconectó'."
    }
   },
   "rank": 12
+ },
+ {
+  "id": "tr13",
+  "kind": "video",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "sourceUrl": "https://buzzbeat.tv/news/who-is-benjamin-stachio-viral-triple-mustache-man-revealed-as-ai-creat-264102",
+  "collectedAt": "2026-10-02T12:41:34Z",
+  "hue": 24,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Benjamin Stachio, o 'homem de três bigodes'",
+    "note": "Vídeo do personagem dançando num bar viralizou e foi revelado como criação de IA, inclusive a música."
+   },
+   "en": {
+    "name": "Benjamin Stachio, the 'triple-mustache man'",
+    "note": "A clip of the character dancing in a bar went viral and was revealed to be AI-made, song included."
+   },
+   "es": {
+    "name": "Benjamin Stachio, el 'hombre de tres bigotes'",
+    "note": "El video del personaje bailando en un bar se viralizó y resultó ser una creación de IA, incluida la canción."
+   }
+  },
+  "rank": 13
  },
  {
   "collectedAt": "2026-10-02T09:38:30.333Z",
@@ -320,8 +361,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
-  "id": "tr13",
-  "hue": 24
+  "id": "tr14",
+  "hue": 61
  },
  {
   "collectedAt": "2026-10-02T09:38:30.333Z",
@@ -344,8 +385,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
-  "id": "tr14",
-  "hue": 61
+  "id": "tr15",
+  "hue": 98
  },
  {
   "collectedAt": "2026-10-02T09:38:30.333Z",
@@ -368,8 +409,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
-  "id": "tr15",
-  "hue": 98
+  "id": "tr16",
+  "hue": 135
  },
  {
   "collectedAt": "2026-10-02T09:38:30.333Z",
@@ -396,8 +437,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía G1."
    }
   },
-  "id": "tr16",
-  "hue": 135
+  "id": "tr17",
+  "hue": 172
  },
  {
   "collectedAt": "2026-10-02T09:38:30.333Z",
@@ -424,7 +465,7 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr17",
-  "hue": 172
+  "id": "tr18",
+  "hue": 209
  }
 ]
