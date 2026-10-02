@@ -1,241 +1,253 @@
 [
  {
   "id": "tr1",
-  "kind": "video",
-  "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://tmc.com.br/entretenimento/mano-brown-refaz-meme-sao-paulo-1o-de-outubro/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "kind": "topic",
+  "platform": "x",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.aninews.in/news/tech/others/elon-musk-says-instagram-is-for-girls-sparks-online-reactions20261002200239/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'São Paulo, 1º de outubro' com Mano Brown",
-    "note": "O próprio rapper refez o meme anual de 'Diário de um Detento' para o aniversário da cantora Cidy Ferreira, e o vídeo bateu perto de 1 milhão de views."
+    "name": "'Instagram é para meninas'",
+    "note": "Elon Musk endossou post que chama o Instagram de app 'feito para mulheres' e foi acusado de machismo."
    },
    "en": {
-    "name": "'São Paulo, October 1st' with Mano Brown",
-    "note": "The rapper himself redid the yearly 'Diário de um Detento' meme for singer Cidy Ferreira's birthday, and the clip neared 1 million views."
+    "name": "'Instagram is for girls'",
+    "note": "Elon Musk endorsed a post calling Instagram an app 'made for women' and was accused of sexism."
    },
    "es": {
-    "name": "'São Paulo, 1 de octubre' con Mano Brown",
-    "note": "El propio rapero rehízo el meme anual de 'Diário de um Detento' para el cumpleaños de la cantante Cidy Ferreira, y el video rozó el millón de vistas."
+    "name": "'Instagram es para chicas'",
+    "note": "Elon Musk respaldó un post que llama a Instagram una app 'hecha para mujeres' y fue acusado de machismo."
    }
   },
   "rank": 1,
   "image": {
-   "url": "https://tmc.com.br/wp-content/uploads/2026/10/ManoBrown_1DeOutubro_.jpg.webp",
-   "credit": "Reprodução/YouTube e Instagram"
+   "url": "https://www.thenews.com.pk/assets/uploads/2026-10-02/1418500_050913_updates.jpg",
+   "credit": "The News International"
   }
  },
  {
   "id": "tr2",
   "kind": "topic",
-  "platform": "x",
-  "region": "MX",
-  "sourceUrl": "https://kchcomunicacion.com/2026/10/01/la-casa-de-los-famosos-mexico-final-en-cines-decepciona/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "platform": "youtube",
+  "region": "BR",
+  "sourceUrl": "https://rollingstone.com.br/noticia/morre-lito-sousa-criador-do-canal-avioes-e-musicas-aos-59-anos/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'La Casa de los tibios'",
-    "note": "Internautas apelidaram 'La Casa de los Famosos México' de 'casa dos mornos' por falta de brigas, às vésperas da final de 4/10, que passará até nos cinemas."
+    "name": "'Até o próximo voo' para Lito Sousa",
+    "note": "Fãs se despedem do criador do Aviões e Músicas, morto aos 59 anos, com o bordão do canal."
    },
    "en": {
-    "name": "'La Casa de los tibios'",
-    "note": "Viewers nicknamed 'La Casa de los Famosos México' 'the house of the lukewarm' over its lack of drama, ahead of the Oct. 4 finale, which will even screen in theaters."
+    "name": "'See you on the next flight' for Lito Sousa",
+    "note": "Fans say goodbye to the Aviões e Músicas creator, who died at 59, using the channel's sign-off."
    },
    "es": {
-    "name": "'La Casa de los tibios'",
-    "note": "Los usuarios bautizaron así a 'La Casa de los Famosos México' por su falta de peleas, en la previa de la final del 4/10, que se verá incluso en cines."
+    "name": "'Hasta el próximo vuelo' para Lito Sousa",
+    "note": "Los fans despiden al creador de Aviões e Músicas, fallecido a los 59 años, con el lema del canal."
    }
   },
   "rank": 2,
   "image": {
-   "url": "https://kchcomunicacion.com/wp-content/uploads/2026/10/Transmitiran-la-final-de-La-Casa-de-los-Famosos-Me-1.jpg",
-   "credit": "KCH FM"
+   "url": "https://rollingstone.com.br/wp-content/uploads/2026/10/lito-reproducao-instagram.jpg",
+   "credit": "Reprodução/Instagram via Rolling Stone Brasil"
   }
  },
  {
   "id": "tr3",
-  "kind": "video",
-  "platform": "x",
-  "region": "AR",
-  "sourceUrl": "https://www.minutouno.com/espectaculos/el-inesperado-piropo-hernan-mala-fama-lizy-tagliani-que-sorprendio-wanda-nara-masterchef-n6328509",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "sourceUrl": "https://www.dexerto.com/youtube/mighty-mike-plays-dad-refunds-viewers-for-ai-merch-retracts-claim-he-was-fired-3415052/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Hernán (Mala Fama) e a 'salamandra' Lizy",
-    "note": "No 'MasterChef Celebrity' argentino, o cantor disse que 'não dá para sentir frio ao lado desta salamandra' sobre Lizy Tagliani, e a dupla virou xodó das redes."
+    "name": "Caso Mighty Mike Plays",
+    "note": "Pai do youtuber mirim admite que não foi demitido e reembolsa camisetas feitas com IA após a história dos US$ 118 mil."
    },
    "en": {
-    "name": "Hernán (Mala Fama) and 'salamander' Lizy",
-    "note": "On Argentina's 'MasterChef Celebrity', the singer said 'you can't be cold next to this salamander' about Lizy Tagliani, and the duo became a social media favorite."
+    "name": "Mighty Mike Plays saga",
+    "note": "The kid YouTuber's dad admits he wasn't fired and refunds AI-made shirts after the $118K story."
    },
    "es": {
-    "name": "Hernán (Mala Fama) y la 'salamandra' Lizy",
-    "note": "En 'MasterChef Celebrity', el cantante dijo 'no se puede tener frío al lado de esta salamandra' sobre Lizy Tagliani, y la dupla se volvió la favorita de las redes."
+    "name": "Caso Mighty Mike Plays",
+    "note": "El padre del youtuber infantil admite que no fue despedido y reembolsa camisetas hechas con IA tras la historia de los US$ 118.000."
    }
   },
   "rank": 3,
   "image": {
-   "url": "https://media.minutouno.com/p/a2082044f28b1cb0166422be71a78fc9/adjuntos/150/imagenes/043/676/0043676554/hernan-malafama-lizy-tagliana-masterchef.jpg",
-   "credit": "Minuto Uno"
+   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/19/mightymikeplays-merch-site.jpg",
+   "credit": "Dexerto"
   }
  },
  {
   "id": "tr4",
-  "kind": "sound",
+  "kind": "video",
   "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.digitalmusicnews.com/2026/09/30/taylor-swift-tosses-tiktok-another-juicy-exclusive/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "region": "MX",
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/01/maestra-encuentra-la-forma-mas-divertida-de-aprender-las-tablas-de-multiplicar-y-su-cancion-causa-furor-en-tiktok/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Patient Zero' no dia do casamento",
-    "note": "Noivos usam o novo single de Taylor Swift com a letra na tela em vídeos de casamento, enquanto o TikTok abre um hub exclusivo da música com bastidores liberados por metas dos fãs."
+    "name": "Tabuada cantada da Miss Miriam",
+    "note": "Professora mexicana passa de 1 milhão de views com música que embaralha as contas de multiplicação."
    },
    "en": {
-    "name": "'Patient Zero' wedding day",
-    "note": "Couples set wedding footage to Taylor Swift's new single with lyric overlays, as TikTok launches an exclusive hub for the song with behind-the-scenes clips unlocked by fan goals."
+    "name": "Miss Miriam's times-table song",
+    "note": "A Mexican teacher tops 1 million views with a song that shuffles multiplication problems."
    },
    "es": {
-    "name": "'Patient Zero' en el día de la boda",
-    "note": "Parejas usan el nuevo single de Taylor Swift con la letra en pantalla en videos de boda, mientras TikTok abre un hub exclusivo de la canción con material inédito que los fans desbloquean."
+    "name": "La canción de las tablas de Miss Miriam",
+    "note": "Una maestra mexicana supera el millón de vistas con una canción que mezcla las multiplicaciones."
    }
   },
-  "rank": 4
- },
- {
-  "id": "tr5",
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://infobae.com/salud/ciencia/2026/10/01/videos-virales-de-tiktok-sobre-skincare-que-riesgos-pueden-causar-en-la-piel-segun-un-nuevo-estudio",
-  "collectedAt": "2026-10-02T12:41:34Z",
-  "hue": 88,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Skincare viral sob alerta",
-    "note": "Estudo apresentado no congresso europeu de dermatologia viu alegações enganosas em quase 95% dos vídeos virais de 'pele de vidro' — e nenhum era de dermatologista."
-   },
-   "en": {
-    "name": "Viral skincare under fire",
-    "note": "A study presented at Europe's dermatology congress found misleading claims in nearly 95% of viral 'glass skin' videos — and none were made by dermatologists."
-   },
-   "es": {
-    "name": "Skincare viral bajo la lupa",
-    "note": "Un estudio presentado en el congreso europeo de dermatología halló afirmaciones engañosas en casi el 95% de los videos virales de 'piel de cristal', y ninguno era de un dermatólogo."
-   }
-  },
-  "rank": 5,
+  "rank": 4,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/KRMYRGYS4RG5XI7XTSTCWJAUCU.png?auth=62c07ff2d3e4522d55729a5ac3abf2918bc84ab2ad7fbf6c1b9d31a39f9dd54b&smart=true&width=1200&height=630&quality=85",
+   "url": "https://www.infobae.com/resizer/v2/MV4J5D52FBBL7PMIKABM2JZREE.jpg?auth=e3eb2d386a0803366efb7af10433eb77b46efad4e8deeecb0295476b744a626c&smart=true&width=1200&height=630&quality=85",
    "credit": "Infobae"
   }
  },
  {
-  "id": "tr6",
-  "kind": "format",
-  "platform": "tiktok",
+  "id": "tr5",
+  "kind": "video",
+  "platform": "youtube",
   "region": "US",
-  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-1-2026-pomeranians-first-day-as-an-office-dog-has-him-staying-in-his-comfort-zone-3536279",
+  "collectedAt": "2026-10-02T17:20:44Z",
+  "hue": 88,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Keanu, o pomerânio do escritório",
+    "note": "Cachorro passa o primeiro dia como 'cão de escritório' inteiro dentro da sua 'bolsa de apoio emocional'."
+   },
+   "en": {
+    "name": "Keanu the office Pomeranian",
+    "note": "A dog spends his whole first day as an 'office dog' inside his 'emotional support bag'."
+   },
+   "es": {
+    "name": "Keanu, el pomerania de oficina",
+    "note": "Un perro pasa todo su primer día como 'perro de oficina' dentro de su 'bolso de apoyo emocional'."
+   }
+  },
+  "rank": 5,
+  "image": {
+   "url": "https://media.tag24.com/1200x800/g/e/gerdz717kdjl8u4oiwb6ctg2lk82g7xo.jpg",
+   "credit": "YouTube/@keanuthepompom via TAG24"
+  }
+ },
+ {
+  "id": "tr6",
+  "kind": "topic",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://maisgoias.com.br/entretenimento/celebridades/virginia-fonseca-rebate-seguidora-que-a-chamou-de-muito-brega",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Ramalama costume walk",
-    "note": "Câmera baixa nas pernas, a pessoa caminha até a lente e o zoom revela a fantasia de Halloween completa, ao som de 'Ramalama (Bang Bang)', de Róisín Murphy."
+    "name": "Virginia 'brega em setembro'",
+    "note": "Virginia Fonseca rebate seguidora que a chamou de brega e divide a web: 'Vindo de você, é elogio'."
    },
    "en": {
-    "name": "Ramalama costume walk",
-    "note": "A low-angle shot of legs walking toward the camera zooms out to reveal a full Halloween costume, set to Róisín Murphy's 'Ramalama (Bang Bang)'."
+    "name": "Virginia's 'tacky September'",
+    "note": "Virginia Fonseca claps back at a follower who called her tacky and splits the internet: 'Coming from you, that's a compliment.'"
    },
    "es": {
-    "name": "Ramalama costume walk",
-    "note": "Toma baja de las piernas caminando hacia la cámara y un zoom que revela el disfraz completo de Halloween, con 'Ramalama (Bang Bang)', de Róisín Murphy."
+    "name": "Virginia, 'cursi en septiembre'",
+    "note": "Virginia Fonseca responde a una seguidora que la llamó cursi y divide las redes: 'Viniendo de ti, es un elogio'."
    }
   },
-  "rank": 6
+  "rank": 6,
+  "image": {
+   "url": "https://imagens.s3.g.s4.mega.io/jguiyfuhdugyilvzrgjro5s3qklaka5gy3r3w/ocapixaba/wp-content/uploads/2026/10/Virginia-Fonseca-mostra-momento-inusitado-de-skincare-com-Vini-Jr.webp",
+   "credit": "O Capixaba"
+  }
  },
  {
   "id": "tr7",
-  "kind": "format",
-  "platform": "tiktok",
+  "kind": "topic",
+  "platform": "x",
   "region": "US",
-  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "sourceUrl": "https://www.axios.com/2026/10/01/jake-paul-anti-fund-ii-400m",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Two Fishes'",
-    "note": "Defender uma opinião absurda com a calma de um debate, no embalo de Corbin Mims, de 'Love Island USA'."
+    "name": "Jake Paul e os US$ 400 milhões",
+    "note": "O Anti Fund do youtuber mira US$ 400 milhões para seu segundo fundo, 13 vezes o primeiro."
    },
    "en": {
-    "name": "'Two Fishes'",
-    "note": "Defending an unreasonable take with calm debate energy, riffing on Corbin Mims from 'Love Island USA'."
+    "name": "Jake Paul's $400M fund",
+    "note": "The YouTuber's Anti Fund is targeting $400 million for its second fund, 13 times the first."
    },
    "es": {
-    "name": "'Two Fishes'",
-    "note": "Defender una opinión absurda con la calma de un debate, inspirado en Corbin Mims, de 'Love Island USA'."
+    "name": "Jake Paul y los US$ 400 millones",
+    "note": "El Anti Fund del youtuber apunta a US$ 400 millones para su segundo fondo, 13 veces el primero."
    }
   },
-  "rank": 7
+  "rank": 7,
+  "image": {
+   "url": "https://images.axios.com/wbJgbzcW3mOu_UWcDG2TRtOotbM=/0x0:4513x2539/1366x768/2026/10/01/1790866355312.jpeg",
+   "credit": "Axios"
+  }
  },
  {
   "id": "tr8",
   "kind": "format",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://tmc.com.br/entretenimento/mano-brown-refaz-meme-sao-paulo-1o-de-outubro/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Ilusão da cabeça de abóbora",
-    "note": "Segurar uma abóbora colada à lente cria a ilusão de que ela é a cabeça de quem está atrás, com um remix assombrado de Hocus Pocus."
+    "name": "'São Paulo, 1º de outubro' com Mano Brown",
+    "note": "O próprio Mano Brown refez o meme de 'Diário de um Detento' e o vídeo bombou no dia que dá nome à música."
    },
    "en": {
-    "name": "Pumpkin head illusion",
-    "note": "Holding a pumpkin right up to the lens makes it look like the head of the person behind it, set to a spooky Hocus Pocus remix."
+    "name": "'São Paulo, October 1st' with Mano Brown",
+    "note": "Mano Brown himself remade the 'Diário de um Detento' meme, and the video blew up on the date the song names."
    },
    "es": {
-    "name": "Ilusión de la cabeza de calabaza",
-    "note": "Sostener una calabaza pegada al lente crea la ilusión de que es la cabeza de quien está detrás, con un remix espeluznante de Hocus Pocus."
+    "name": "'São Paulo, 1 de octubre' con Mano Brown",
+    "note": "El propio Mano Brown rehizo el meme de 'Diário de um Detento' y el video explotó en la fecha que nombra la canción."
    }
   },
   "rank": 8
  },
  {
   "id": "tr9",
-  "kind": "sound",
+  "kind": "format",
   "platform": "tiktok",
   "region": "US",
-  "sourceUrl": "https://napoleoncat.com/blog/tiktok-trends/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Someone's gotta hold it down'",
-    "note": "Vídeos dos bastidores sem glamour — fechar o turno, segurar o suporte, o estoque — enquanto todo mundo está fora, ao som de 'Ain't In LA', de ADÉLA."
+    "name": "'Stop the wedding'",
+    "note": "Carrossel de fotos com áudio de Ashe e legendas que começam com 'Parem o casamento, mas…' seguidas de confissões."
    },
    "en": {
-    "name": "'Someone's gotta hold it down'",
-    "note": "Unglamorous behind-the-scenes clips — closing shifts, support duty, the warehouse — while everyone else is away, set to ADÉLA's 'Ain't In LA'."
+    "name": "'Stop the wedding'",
+    "note": "Photo carousel set to Ashe's audio with captions starting 'Stop the wedding, but…' followed by wedding confessions."
    },
    "es": {
-    "name": "'Someone's gotta hold it down'",
-    "note": "Videos de trastienda sin glamour —cerrar el turno, soporte, el depósito— mientras todos los demás no están, con 'Ain't In LA', de ADÉLA."
+    "name": "'Stop the wedding'",
+    "note": "Carrusel de fotos con audio de Ashe y textos que empiezan con 'Paren la boda, pero…' seguidos de confesiones."
    }
   },
   "rank": 9
@@ -244,48 +256,48 @@
   "id": "tr10",
   "kind": "sound",
   "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://napoleoncat.com/blog/tiktok-trends/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "region": "US",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'It's a clock'",
-    "note": "Memórias de quando a pessoa não percebeu algo óbvio, com o áudio caindo bem no momento da ficha cair."
+    "name": "Ramalama costume walk",
+    "note": "Câmera baixa revela aos poucos a fantasia de Halloween ao som de 'Ramalama (Bang Bang)', de Róisín Murphy."
    },
    "en": {
-    "name": "'It's a clock'",
-    "note": "Memories of missing something obvious, with the audio landing right at the moment of realization."
+    "name": "Ramalama costume walk",
+    "note": "A low-angle shot slowly reveals a Halloween costume to Róisín Murphy's 'Ramalama (Bang Bang)'."
    },
    "es": {
-    "name": "'It's a clock'",
-    "note": "Recuerdos de cuando alguien no vio algo obvio, con el audio cayendo justo en el momento de darse cuenta."
+    "name": "Ramalama costume walk",
+    "note": "Una toma baja revela poco a poco el disfraz de Halloween al ritmo de 'Ramalama (Bang Bang)' de Róisín Murphy."
    }
   },
   "rank": 10
  },
  {
   "id": "tr11",
-  "kind": "sound",
+  "kind": "format",
   "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://napoleoncat.com/blog/tiktok-trends/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "region": "US",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 310,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Oh Yeah?' city walk",
-    "note": "Caminhadas pela cidade filmadas como abertura de filme ao som de 'Oh Yeah?', de Steve Lacy, da trilha de 'Homem-Aranha: Um Novo Dia'."
+    "name": "'Be OK'",
+    "note": "Dancinha alegre com a música de Ingrid Michaelson e texto na tela revelando o que está dando errado de verdade."
    },
    "en": {
-    "name": "'Oh Yeah?' city walk",
-    "note": "Steady city-walk footage framed like a movie opening, set to Steve Lacy's 'Oh Yeah?' from the 'Spider-Man: Brand New Day' soundtrack."
+    "name": "'Be OK'",
+    "note": "An upbeat dance to Ingrid Michaelson's song with on-screen text revealing what's really going wrong."
    },
    "es": {
-    "name": "'Oh Yeah?' city walk",
-    "note": "Paseos por la ciudad filmados como la apertura de una película, con 'Oh Yeah?', de Steve Lacy, de la banda sonora de 'Spider-Man: Brand New Day'."
+    "name": "'Be OK'",
+    "note": "Un baile alegre con la canción de Ingrid Michaelson y texto en pantalla que revela lo que realmente va mal."
    }
   },
   "rank": 11
@@ -293,49 +305,49 @@
  {
   "id": "tr12",
   "kind": "format",
-  "platform": "instagram",
+  "platform": "tiktok",
   "region": "GLOBAL",
-  "sourceUrl": "https://socialbee.com/blog/trending-instagram-memes/",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "sourceUrl": "https://napoleoncat.com/blog/trending-memes/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 347,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Ben Affleck cansado",
-    "note": "A cara de exaustão do ator voltou como legenda para momentos que drenam a energia e para quando a cabeça já 'desligou'."
+    "name": "'Grr Mondays'",
+    "note": "Meme com cena de 'Ted 2' contrasta a segunda-feira esperada com a real; um dos primeiros vídeos passou de 2,8 milhões de views."
    },
    "en": {
-    "name": "Tired Ben Affleck",
-    "note": "The actor's exhausted face is back as the caption for draining moments and full mental checkouts."
+    "name": "'Grr Mondays'",
+    "note": "A 'Ted 2' clip meme contrasting the Monday you expect with the real one; an early video topped 2.8 million views."
    },
    "es": {
-    "name": "Ben Affleck cansado",
-    "note": "La cara de agotamiento del actor volvió como reacción para momentos agotadores y para cuando la mente ya 'se desconectó'."
+    "name": "'Grr Mondays'",
+    "note": "Meme con una escena de 'Ted 2' que contrasta el lunes esperado con el real; uno de los primeros videos superó 2,8 millones de vistas."
    }
   },
   "rank": 12
  },
  {
   "id": "tr13",
-  "kind": "video",
+  "kind": "sound",
   "platform": "tiktok",
   "region": "GLOBAL",
-  "sourceUrl": "https://buzzbeat.tv/news/who-is-benjamin-stachio-viral-triple-mustache-man-revealed-as-ai-creat-264102",
-  "collectedAt": "2026-10-02T12:41:34Z",
+  "sourceUrl": "https://blog.nuelink.com/whats-trending-on-tiktok-october-2026-top-trending-tiktok-sounds/",
+  "collectedAt": "2026-10-02T17:20:44Z",
   "hue": 24,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Benjamin Stachio, o 'homem de três bigodes'",
-    "note": "Vídeo do personagem dançando num bar viralizou e foi revelado como criação de IA, inclusive a música."
+    "name": "'My Day Is Good'",
+    "note": "Áudio de RIZADOINK usado para ironizar dias em que quase nada foi produtivo."
    },
    "en": {
-    "name": "Benjamin Stachio, the 'triple-mustache man'",
-    "note": "A clip of the character dancing in a bar went viral and was revealed to be AI-made, song included."
+    "name": "'My Day Is Good'",
+    "note": "RIZADOINK's audio used to joke about days when barely anything got done."
    },
    "es": {
-    "name": "Benjamin Stachio, el 'hombre de tres bigotes'",
-    "note": "El video del personaje bailando en un bar se viralizó y resultó ser una creación de IA, incluida la canción."
+    "name": "'My Day Is Good'",
+    "note": "Audio de RIZADOINK usado para ironizar los días en que casi nada fue productivo."
    }
   },
   "rank": 13

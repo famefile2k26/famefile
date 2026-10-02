@@ -1,11 +1,955 @@
 [
  {
+  "id": "2610021726",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-02T16:30:00Z",
+  "personIds": [
+   "tom-cruise",
+   "alejandro-gonzalez-inarritu"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://cdn.mos.cms.futurecdn.net/Vt2jHCxxfJuojD8Zu99aJY.jpg",
+   "credit": "Foto: Warner Bros. Pictures/Divulgação"
+  },
+  "sources": [
+   {
+    "name": "CinemaBlend",
+    "url": "https://www.cinemablend.com/movies/tom-cruise-digger-landed-worst-rotten-tomatoes-score-almost-decade"
+   },
+   {
+    "name": "Gulf News",
+    "url": "https://gulfnews.com/entertainment/tom-cruises-digger-hits-low-53-rotten-tomatoes-score-embraces-bad-reviews-in-bold-new-ad-1.500693071"
+   },
+   {
+    "name": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Digger_(2026_film)"
+   }
+  ],
+  "hue": 162,
+  "t": {
+   "pt": {
+    "slug": "analise-digger-tom-cruise-inarritu",
+    "headline": "Análise: em 'Digger', Tom Cruise se diverte como bilionário apocalíptico — pena que a sátira de Iñárritu ria sozinha",
+    "summary": "A comédia de humor negro que estreia nos EUA nesta sexta tem o Cruise mais livre em anos, mas tropeça no próprio excesso.",
+    "body": [
+     "Esta é uma análise opinativa. 'Digger', que chega aos cinemas americanos e britânicos nesta sexta (2), coloca Tom Cruise na pele de Digger Rockwell, um magnata do petróleo que corre para provar que é o salvador da humanidade antes que o desastre ambiental que ele próprio provocou acabe com tudo. Alejandro G. Iñárritu, de 'Birdman' e 'O Regresso', dirige um elenco que ainda reúne Riz Ahmed, John Goodman como presidente dos EUA, Sandra Hüller e Jesse Plemons, em 129 minutos de sátira de fôlego.",
+     "O melhor do filme está no centro: Cruise abandona o herói de ação e abraça um personagem vaidoso, ridículo e assustador, numa das atuações mais soltas de sua carreira. A fotografia e a encenação de Iñárritu são inventivas e barulhentas na medida, e até críticos que não gostaram do conjunto reconheceram a força do protagonista e do visual — o BBC, por exemplo, gostou do resultado, ainda que ache alguns excessos exagerados demais.",
+     "O problema é que a sátira parece mais interessada em se admirar do que em morder. Boa parte da crítica americana, de veículos como IndieWire, TheWrap e Los Angeles Times, apontou um filme distante, satisfeito consigo mesmo e vazio quando as luzes acendem. O placar confirma a divisão: 53% no Rotten Tomatoes e 44 no Metacritic, a pior nota de Cruise no agregador desde 'A Múmia' (2017). A própria Warner abraçou a polêmica com um anúncio que põe lado a lado elogios e ataques ao longa.",
+     "No fim, 'Digger' é um daqueles fracassos fascinantes que valem a discussão: ambicioso, irregular e longo demais, sustentado por um astro disposto a rir da própria imagem. Não é a obra-prima que alguns enxergam nem o desastre que a bilheteria sugere — é um filme que grita alto e diz pouco.",
+     "Nota: 5/10"
+    ]
+   },
+   "en": {
+    "slug": "review-digger-tom-cruise-inarritu",
+    "headline": "Review: in 'Digger', Tom Cruise has a blast as an apocalyptic billionaire — too bad Iñárritu's satire laughs alone",
+    "summary": "The dark comedy opening in the US this Friday features the loosest Cruise in years, but trips over its own excess.",
+    "body": [
+     "This is an opinion piece. 'Digger', which hits US and UK theaters this Friday (Oct. 2), casts Tom Cruise as Digger Rockwell, an oil tycoon racing to prove he is humanity's savior before the environmental disaster he unleashed destroys everything. Alejandro G. Iñárritu, of 'Birdman' and 'The Revenant', directs a cast that also includes Riz Ahmed, John Goodman as the US president, Sandra Hüller and Jesse Plemons across 129 minutes of sprawling satire.",
+     "The film's best asset sits at its center: Cruise drops the action-hero persona and embraces a vain, ridiculous and frightening character in one of the loosest performances of his career. Iñárritu's camerawork and staging are inventive and appropriately loud, and even critics who disliked the whole acknowledged the strength of the lead and the visuals — the BBC, for one, liked it while finding some of its excesses a bit too excessive.",
+     "The trouble is that the satire seems more interested in admiring itself than in biting. Much of the US press, from IndieWire and TheWrap to the Los Angeles Times, described a detached, self-satisfied film that feels hollow once the lights come up. The scores confirm the split: 53% on Rotten Tomatoes and 44 on Metacritic, Cruise's worst Tomatometer since 'The Mummy' (2017). Warner Bros. even leaned into the controversy with an ad pairing raves and pans side by side.",
+     "In the end, 'Digger' is one of those fascinating misfires worth arguing about: ambitious, uneven and too long, held up by a star willing to laugh at his own image. It is neither the masterpiece some see nor the disaster the box office suggests — it is a film that shouts loudly and says little.",
+     "Score: 5/10"
+    ]
+   },
+   "es": {
+    "slug": "analisis-digger-tom-cruise-inarritu",
+    "headline": "Análisis: en 'Digger', Tom Cruise se divierte como millonario apocalíptico — lástima que la sátira de Iñárritu se ría sola",
+    "summary": "La comedia negra que se estrena en EE. UU. este viernes tiene al Cruise más suelto en años, pero tropieza con su propio exceso.",
+    "body": [
+     "Este es un análisis de opinión. 'Digger', que llega a los cines de Estados Unidos y Reino Unido este viernes (2), pone a Tom Cruise en la piel de Digger Rockwell, un magnate petrolero que corre para demostrar que es el salvador de la humanidad antes de que el desastre ambiental que él mismo provocó lo destruya todo. Alejandro G. Iñárritu, de 'Birdman' y 'El renacido', dirige un elenco que también reúne a Riz Ahmed, John Goodman como presidente de EE. UU., Sandra Hüller y Jesse Plemons, en 129 minutos de sátira desbordada.",
+     "Lo mejor de la película está en el centro: Cruise deja de lado al héroe de acción y abraza a un personaje vanidoso, ridículo y aterrador, en una de las actuaciones más libres de su carrera. La fotografía y la puesta en escena de Iñárritu son ingeniosas y ruidosas en su justa medida, e incluso críticos a quienes no convenció el conjunto reconocieron la fuerza del protagonista y de lo visual; la BBC, por ejemplo, la disfrutó, aunque considera algunos excesos demasiado excesivos.",
+     "El problema es que la sátira parece más interesada en admirarse que en morder. Buena parte de la crítica estadounidense, de IndieWire y TheWrap a Los Angeles Times, señaló una película distante, satisfecha consigo misma y vacía cuando se encienden las luces. Las cifras confirman la división: 53% en Rotten Tomatoes y 44 en Metacritic, la peor nota de Cruise en el agregador desde 'La momia' (2017). Warner incluso abrazó la polémica con un anuncio que enfrenta elogios y ataques.",
+     "Al final, 'Digger' es uno de esos fracasos fascinantes que merecen discusión: ambicioso, irregular y demasiado largo, sostenido por una estrella dispuesta a reírse de su propia imagen. No es la obra maestra que algunos ven ni el desastre que sugiere la taquilla: es una película que grita fuerte y dice poco.",
+     "Nota: 5/10"
+    ]
+   }
+  },
+  "format": "review"
+ },
+ {
+  "id": "2610021717",
+  "section": "music",
+  "publishedAt": "2026-10-02T16:19:00Z",
+  "personIds": [
+   "ricardo-soule"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/ZIZPPLSYPZAAHE3PPKWEURS45A.png?auth=a64e91d8b0bc0639f7ad7c2621764acbeed2ddddcc86faaa409ec8437115c190&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Infobae"
+  },
+  "sources": [
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/teleshow/2026/10/02/murio-ricardo-soule-fundador-de-vox-dei-y-figura-clave-del-rock-argentino/"
+   },
+   {
+    "name": "El Destape",
+    "url": "https://www.eldestapeweb.com/cultura/murio-ricardo-soule-cantante-vox-dei-76-anos-202610213646"
+   }
+  ],
+  "hue": 99,
+  "t": {
+   "pt": {
+    "slug": "morre-ricardo-soule-vox-dei-rock-argentino",
+    "headline": "Morre Ricardo Soulé, fundador do Vox Dei e autor de 'Presente', hino do rock argentino, aos 76 anos",
+    "summary": "Pioneiro do rock argentino, ele criou o álbum conceitual 'La Biblia' e havia anunciado pausa nos shows por saúde.",
+    "body": [
+     "O rock argentino perdeu nesta sexta-feira (2) um de seus pioneiros: Ricardo Soulé, fundador do Vox Dei, morreu aos 76 anos. A morte foi confirmada pela família; em setembro, ele já tinha anunciado um afastamento temporário dos palcos por problemas de saúde. O velório deve acontecer em Quilmes, cidade da Grande Buenos Aires onde o Vox Dei nasceu e que o reconheceu como Cidadão Ilustre.",
+     "Nascido em 15 de março de 1950, Soulé foi vocalista, guitarrista, violinista e compositor do Vox Dei, banda formada em 1967 que adotou o nome em 1969, e fez parte da primeira geração do rock no país. É dele 'Presente (El momento en que estás)', escrita aos 17 anos e que virou hino de várias gerações.",
+     "Soulé também concebeu 'La Biblia' (1971), álbum conceitual que reinterpretou passagens do Antigo e do Novo Testamento e é considerado um marco do gênero. Depois, seguiu carreira solo e deu aulas de violino. Em nota, a família escreveu que 'seu espírito está livre' e que 'a música é de todos' e a obra, eterna."
+    ]
+   },
+   "en": {
+    "slug": "ricardo-soule-vox-dei-dies-argentine-rock",
+    "headline": "Ricardo Soulé, Vox Dei founder and writer of Argentine rock anthem 'Presente', dies at 76",
+    "summary": "The Argentine rock pioneer created the concept album 'La Biblia' and had stepped back from shows for health reasons.",
+    "body": [
+     "Argentine rock lost one of its pioneers on Friday (Oct. 2): Ricardo Soulé, founder of Vox Dei, died at 76. His family confirmed the death; in September he had announced a temporary break from performing due to health problems. The wake is expected in Quilmes, the Greater Buenos Aires city where Vox Dei was born and which named him a Distinguished Citizen.",
+     "Born on March 15, 1950, Soulé was the singer, guitarist, violinist and songwriter of Vox Dei, a band formed in 1967 that took its name in 1969, and belonged to the first generation of rock in Argentina. He wrote 'Presente (El momento en que estás)' at 17, a song that became an anthem for several generations.",
+     "Soulé also conceived 'La Biblia' (1971), a concept album that reinterpreted passages from the Old and New Testaments and is considered a landmark of the genre. He later pursued a solo career and taught violin. In a statement, his family wrote that 'his spirit is free', that 'music belongs to everyone' and that his work is eternal."
+    ]
+   },
+   "es": {
+    "slug": "murio-ricardo-soule-vox-dei-rock-argentino",
+    "headline": "Murió Ricardo Soulé, fundador de Vox Dei y autor de 'Presente', himno del rock argentino, a los 76 años",
+    "summary": "El pionero del rock nacional creó el álbum conceptual 'La Biblia' y había anunciado una pausa en los shows por salud.",
+    "body": [
+     "El rock argentino perdió este viernes 2 a uno de sus pioneros: Ricardo Soulé, fundador de Vox Dei, murió a los 76 años. La familia confirmó la noticia; en septiembre ya había anunciado un retiro temporal de los escenarios por problemas de salud. Se prevé que lo despidan en Quilmes, ciudad donde nació Vox Dei y que lo había distinguido como Ciudadano Ilustre.",
+     "Nacido el 15 de marzo de 1950, Soulé fue cantante, guitarrista, violinista y compositor de Vox Dei, banda formada en 1967 que adoptó su nombre en 1969, y formó parte de la primera generación del rock en el país. Suya es 'Presente (El momento en que estás)', escrita a los 17 años y convertida en himno de varias generaciones.",
+     "Soulé también concibió 'La Biblia' (1971), álbum conceptual que reinterpretó pasajes del Antiguo y el Nuevo Testamento y es considerado un hito del género. Luego siguió como solista y dio clases de violín. En un comunicado, su familia escribió que 'su espíritu es libre', que 'la música es de todos' y que su obra es eterna."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021713",
+  "section": "music",
+  "publishedAt": "2026-10-02T16:15:00Z",
+  "personIds": [
+   "frejat"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.brasil247.com/wp-content/uploads/2026/10/photo-desk-1790957459556.jpg?w=1200&quality=88&strip=all",
+   "credit": "Foto: Brasil 247"
+  },
+  "sources": [
+   {
+    "name": "Brasil 247",
+    "url": "https://www.brasil247.com/cultura/frejat-repudia-uso-da-musica-bete-balanco-por-renan-santos/"
+   }
+  ],
+  "hue": 271,
+  "t": {
+   "pt": {
+    "slug": "frejat-repudia-bete-balanco-campanha-renan-santos",
+    "headline": "Frejat detona uso de 'Bete Balanço' em paródia de campanha: 'Total falta de respeito aos direitos dos autores'",
+    "summary": "Clássico composto com Cazuza virou jingle 'Vote na Onça' em protesto do candidato Renan Santos diante da Globo.",
+    "body": [
+     "Roberto Frejat foi a público nesta sexta-feira (2) para repudiar o uso de 'Bete Balanço', sucesso que compôs com Cazuza, pela campanha do candidato à Presidência Renan Santos, do partido Missão. A música foi adaptada numa paródia batizada de 'Vote na Onça', em referência ao mascote da legenda, com trechos da letra alterados.",
+     "A versão foi cantada pelo próprio candidato em cima de um carro de som durante um protesto nesta quinta (1º), em frente à sede da TV Globo, no Rio de Janeiro. Segundo o comunicado, a editora Warner Chappell já tinha enviado uma notificação extrajudicial pedindo o fim do uso em 22 de setembro.",
+     "'Não compartilhamos das suas ideias e do uso contínuo, indevido e desautorizado de nossa música, que demonstra total falta de respeito aos direitos dos autores', afirmou o músico. Não há, até o momento, resposta pública da campanha sobre o caso."
+    ]
+   },
+   "en": {
+    "slug": "frejat-condemns-bete-balanco-renan-santos-campaign",
+    "headline": "Frejat slams campaign parody of 'Bete Balanço': 'A total lack of respect for authors' rights'",
+    "summary": "The classic he wrote with Cazuza became a 'Vote for the Jaguar' jingle at a protest by candidate Renan Santos outside Globo.",
+    "body": [
+     "Brazilian rocker Roberto Frejat publicly condemned on Friday (Oct. 2) the use of 'Bete Balanço', the hit he co-wrote with Cazuza, by the campaign of presidential candidate Renan Santos of the Missão party. The song was reworked into a parody called 'Vote na Onça' ('Vote for the Jaguar'), a nod to the party's mascot, with altered lyrics.",
+     "The candidate himself sang the version from a sound truck during a protest on Thursday (Oct. 1) outside TV Globo's headquarters in Rio de Janeiro. According to the statement, publisher Warner Chappell had already sent a cease-and-desist notice on Sept. 22.",
+     "'We do not share your ideas, nor the continuous, improper and unauthorized use of our song, which shows a total lack of respect for authors' rights,' the musician said. So far, the campaign has not publicly responded."
+    ]
+   },
+   "es": {
+    "slug": "frejat-repudia-bete-balanco-campana-renan-santos",
+    "headline": "Frejat repudia la parodia de 'Bete Balanço' en una campaña: 'Total falta de respeto a los derechos de autor'",
+    "summary": "El clásico que compuso con Cazuza se volvió el jingle 'Vote na Onça' en una protesta del candidato Renan Santos frente a Globo.",
+    "body": [
+     "El rockero brasileño Roberto Frejat repudió públicamente este viernes 2 el uso de 'Bete Balanço', éxito que compuso con Cazuza, por parte de la campaña del candidato presidencial Renan Santos, del partido Missão. La canción fue convertida en una parodia llamada 'Vote na Onça' ('Vote al Jaguar'), en referencia a la mascota del partido, con la letra modificada.",
+     "El propio candidato cantó la versión desde un camión de sonido durante una protesta el jueves 1, frente a la sede de TV Globo en Río de Janeiro. Según el comunicado, la editorial Warner Chappell ya había enviado una notificación extrajudicial el 22 de septiembre.",
+     "'No compartimos sus ideas ni el uso continuo, indebido y no autorizado de nuestra canción, que demuestra una total falta de respeto a los derechos de los autores', afirmó el músico. Por ahora, la campaña no respondió públicamente."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021721",
+  "section": "music",
+  "publishedAt": "2026-10-02T16:00:00Z",
+  "personIds": [
+   "stray-kids",
+   "bts"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.allkpop.com/upload/2026/10/content/020901/1790946081-1.jpg",
+   "credit": "Foto: allkpop"
+  },
+  "sources": [
+   {
+    "name": "allkpop",
+    "url": "https://www.allkpop.com/article/2026/10/stray-kids-join-bts-in-skipping-grammy-submissions-as-asian-pop-category-moves-forward"
+   }
+  ],
+  "hue": 287,
+  "t": {
+   "pt": {
+    "slug": "stray-kids-boicote-grammy-pop-asiatico-bts",
+    "headline": "Agora é Stray Kids: grupo se junta ao BTS e fica fora da nova categoria de pop asiático do Grammy",
+    "summary": "Mesmo com os oito membros votantes da Academia, o grupo da JYP não inscreveu músicas no prêmio de 2027.",
+    "body": [
+     "O boicote à nova categoria de pop asiático do Grammy ganhou mais um peso-pesado. O Stray Kids não inscreveu músicas para a disputa de Melhor Performance de Pop Asiático, criada para a 69ª edição do prêmio, em fevereiro de 2027, seguindo o caminho do BTS, que já tinha recusado a inscrição em julho.",
+     "A decisão chama atenção porque os oito integrantes do grupo da JYP Entertainment foram nomeados membros votantes da Recording Academy neste ano. Em agosto, os rapazes disseram em coletiva que nunca trataram prêmios ou recordes como objetivo. O BTS, por sua vez, afirmou esperar que a música fosse ouvida 'além de região ou idioma'.",
+     "A categoria vale para canções com uso significativo de idiomas asiáticos e exclui faixas só em inglês. A Academia consultou nomes da indústria asiática, incluindo a HYBE, em 1º de outubro, mas decidiu mantê-la. Enquanto isso, o EP 'This & That' estreou no topo da Billboard 200, nono número 1 do Stray Kids na parada."
+    ]
+   },
+   "en": {
+    "slug": "stray-kids-skip-grammy-asian-pop-category-bts",
+    "headline": "Now it's Stray Kids: the group joins BTS in sitting out the Grammys' new Asian pop category",
+    "summary": "Even with all eight members as Academy voters, the JYP group did not submit songs for the 2027 awards.",
+    "body": [
+     "The boycott of the Grammys' new Asian pop category has gained another heavyweight. Stray Kids did not submit songs for Best Asian Pop Music Performance, created for the 69th Grammy Awards in February 2027, following BTS, which declined to submit in July.",
+     "The decision stands out because all eight members of the JYP Entertainment group were appointed Recording Academy voting members this year. In August, the members told a press conference they had never made awards or records their goal. BTS, for its part, said it hoped music would be heard 'beyond region or language'.",
+     "The category covers songs with significant use of Asian languages and excludes English-only tracks. The Academy consulted Asian industry figures, including HYBE, on Oct. 1 but chose to keep it. Meanwhile, the EP 'This & That' debuted atop the Billboard 200, Stray Kids' ninth No. 1 on the chart."
+    ]
+   },
+   "es": {
+    "slug": "stray-kids-boicot-grammy-pop-asiatico-bts",
+    "headline": "Ahora es Stray Kids: el grupo se suma a BTS y queda fuera de la nueva categoría de pop asiático del Grammy",
+    "summary": "Aun con sus ocho miembros como votantes de la Academia, el grupo de JYP no inscribió canciones para los premios de 2027.",
+    "body": [
+     "El boicot a la nueva categoría de pop asiático del Grammy sumó otro peso pesado. Stray Kids no inscribió canciones para Mejor Interpretación de Pop Asiático, creada para la 69.ª edición, en febrero de 2027, siguiendo a BTS, que ya había rechazado inscribirse en julio.",
+     "La decisión llama la atención porque los ocho integrantes del grupo de JYP Entertainment fueron nombrados miembros votantes de la Recording Academy este año. En agosto, dijeron en conferencia de prensa que nunca se pusieron como meta premios o récords. BTS, por su parte, afirmó esperar que la música se escuchara 'más allá de la región o el idioma'.",
+     "La categoría abarca canciones con uso significativo de idiomas asiáticos y excluye temas solo en inglés. La Academia consultó a figuras de la industria asiática, incluida HYBE, el 1 de octubre, pero decidió mantenerla. Mientras tanto, el EP 'This & That' debutó en la cima del Billboard 200, noveno número 1 de Stray Kids en la lista."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021705",
+  "section": "creators",
+  "publishedAt": "2026-10-02T16:00:00Z",
+  "personIds": [],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://media.tag24.com/1200x800/g/e/gerdz717kdjl8u4oiwb6ctg2lk82g7xo.jpg",
+   "credit": "Foto: YouTube/@keanuthepompom via TAG24"
+  },
+  "sources": [
+   {
+    "name": "TAG24",
+    "url": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-1-2026-pomeranians-first-day-as-an-office-dog-has-him-staying-in-his-comfort-zone-3536279"
+   },
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/mexico/2026/10/01/maestra-encuentra-la-forma-mas-divertida-de-aprender-las-tablas-de-multiplicar-y-su-cancion-causa-furor-en-tiktok/"
+   },
+   {
+    "name": "Metrópoles",
+    "url": "https://www.metropoles.com/viralizou/golden-do-portao-vira-queridinho-das-redes-e-recebe-200-visitas-em-2-dias"
+   }
+  ],
+  "hue": 255,
+  "t": {
+   "pt": {
+    "slug": "virais-da-semana-golden-do-portao-pomeranio-tabuada",
+    "headline": "Golden que rouba casaco, pomerânio que não sai da bolsa e tabuada cantada: os virais fofos que dominaram a semana",
+    "summary": "De Itajaí ao México, três vídeos simples somaram milhões de views e viraram a pausa favorita da internet.",
+    "body": [
+     "1. O 'golden do portão' (Brasil): Budy, um golden retriever de 1 ano de Itajaí (SC), virou celebridade depois que um casal, a caminho do cartório para assinar os papéis do casamento, parou para fazer carinho e teve o casaco abocanhado. O vídeo passou de 38 milhões de visualizações e 3,2 milhões de curtidas, o perfil @budy3golden chegou a cerca de 300 mil seguidores, e o portão da casa recebeu mais de 200 visitas em um fim de semana.",
+     "2. O pomerânio que odeia expediente (EUA): no YouTube Shorts, o perfil @keanuthepompom mostrou o primeiro dia de Keanu como 'cão de escritório'. Ele foi de trem até o trabalho e passou o dia inteiro dentro de uma bolsa de bolinhas, só se ajeitando para dormir melhor. A dona chamou o acessório de 'bolsa de apoio emocional', e a internet se identificou.",
+     "3. A tabuada que virou hit (México): a professora Miriam Heidy (@missmiriamheidy) passou de 1 milhão de visualizações no TikTok com uma música que embaralha contas de multiplicação fora da ordem para treinar o cálculo mental. O vídeo pegou até adultos, que confessaram nos comentários ainda tropeçar na tabuada."
+    ]
+   },
+   "en": {
+    "slug": "viral-videos-of-the-week-golden-pomeranian-multiplication",
+    "headline": "A coat-stealing golden, a Pomeranian who won't leave his bag and a times-table bop: the wholesome virals that ruled the week",
+    "summary": "From southern Brazil to Mexico, three simple videos racked up millions of views and became the internet's favorite break.",
+    "body": [
+     "1. The 'gate golden' (Brazil): Budy, a 1-year-old golden retriever from Itajaí, became a celebrity after a couple heading to the registry office to sign their marriage papers stopped to pet him and he grabbed one of their coats. The video passed 38 million views and 3.2 million likes, his account @budy3golden reached about 300,000 followers, and his gate drew more than 200 visitors in a single weekend.",
+     "2. The Pomeranian who hates office hours (U.S.): on YouTube Shorts, @keanuthepompom showed Keanu's first day as an 'office dog.' He took the train to work and spent the entire day inside a polka-dot bag, moving only to get comfier. His owner called it his 'emotional support bag,' and the internet related.",
+     "3. The times table that became a hit (Mexico): teacher Miriam Heidy (@missmiriamheidy) topped 1 million views on TikTok with a song that shuffles multiplication problems out of order to train mental math. It even hooked adults, who admitted in the comments that they still stumble over their times tables."
+    ]
+   },
+   "es": {
+    "slug": "virales-de-la-semana-golden-pomerania-tablas",
+    "headline": "Un golden que roba abrigos, un pomerania que no sale de su bolso y las tablas hechas canción: los virales tiernos de la semana",
+    "summary": "Del sur de Brasil a México, tres videos sencillos sumaron millones de vistas y se volvieron la pausa favorita de internet.",
+    "body": [
+     "1. El 'golden del portón' (Brasil): Budy, un golden retriever de 1 año de Itajaí, se volvió famoso después de que una pareja que iba al registro civil a firmar los papeles de su boda se detuvo a acariciarlo y él les agarró un abrigo. El video superó los 38 millones de vistas y 3,2 millones de 'me gusta', su perfil @budy3golden llegó a unos 300.000 seguidores y su portón recibió más de 200 visitas en un fin de semana.",
+     "2. El pomerania que odia la oficina (EE. UU.): en YouTube Shorts, @keanuthepompom mostró el primer día de Keanu como 'perro de oficina'. Viajó en tren al trabajo y pasó toda la jornada dentro de un bolso de lunares, moviéndose solo para acomodarse. Su dueña lo llamó su 'bolso de apoyo emocional', y internet se sintió identificado.",
+     "3. Las tablas que se volvieron hit (México): la maestra Miriam Heidy (@missmiriamheidy) superó el millón de vistas en TikTok con una canción que mezcla multiplicaciones fuera de orden para entrenar el cálculo mental. Atrapó incluso a adultos, que admitieron en los comentarios que todavía tropiezan con las tablas."
+    ]
+   }
+  },
+  "format": "list"
+ },
+ {
+  "id": "2610021720",
+  "section": "music",
+  "publishedAt": "2026-10-02T15:51:00Z",
+  "personIds": [
+   "mac-miller",
+   "ariana-grande",
+   "kendrick-lamar"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2026/10/Screenshot-2026-10-01-at-10.36.18-PM.png",
+   "credit": "Foto: HotNewHipHop/Reprodução"
+  },
+  "sources": [
+   {
+    "name": "Consequence",
+    "url": "https://consequence.net/2026/10/mac-miller-divine-feminine-10th-anniversary/"
+   },
+   {
+    "name": "HotNewHipHop",
+    "url": "https://www.hotnewhiphop.com/1011716-the-divine-feminine-10th-anniversary-mac-miller"
+   }
+  ],
+  "hue": 240,
+  "t": {
+   "pt": {
+    "slug": "mac-miller-the-divine-feminine-10-anos-tres-musicas-ineditas",
+    "headline": "Mac Miller ganha três músicas inéditas nos 10 anos de 'The Divine Feminine', o disco com Ariana Grande",
+    "summary": "Edição comemorativa traz 'Grand', 'Channel 13' e 'Butterflies', esta com Thundercat no baixo.",
+    "body": [
+     "O espólio de Mac Miller lançou nesta sexta-feira (2) a edição de 10 anos de 'The Divine Feminine', álbum de 2016 que tem participações de Ariana Grande, então namorada do rapper, em 'My Favorite Part', e de Kendrick Lamar em 'God Is Fair, Sexy Nasty'. O relançamento soma três faixas inéditas das sessões originais: 'Grand', 'Channel 13' e 'Butterflies'.",
+     "'Butterflies', produzida por Taylor Graves e com Thundercat no baixo, é uma faixa de neo-soul que circulava vazada havia anos e finalmente chega aos canais oficiais. O disco original também tem Anderson .Paak, Ty Dolla $ign, Bilal, CeeLo Green e NJOMZA.",
+     "A edição está nas plataformas de streaming e ganhou um vinil exclusivo da Amazon nas cores rosa e fruit punch. O espólio já tinha feito o mesmo com 'GO:OD AM' em outubro de 2025 e prevê tratamento igual para 'Swimming' em 2028."
+    ]
+   },
+   "en": {
+    "slug": "mac-miller-the-divine-feminine-10th-anniversary-three-unreleased-songs",
+    "headline": "Mac Miller gets three unreleased songs for the 10th anniversary of 'The Divine Feminine', his album with Ariana Grande",
+    "summary": "The anniversary edition adds 'Grand', 'Channel 13' and 'Butterflies', the latter with Thundercat on bass.",
+    "body": [
+     "Mac Miller's estate released the 10th anniversary edition of 'The Divine Feminine' on Friday (Oct. 2), the 2016 album featuring Ariana Grande, then the rapper's girlfriend, on 'My Favorite Part' and Kendrick Lamar on 'God Is Fair, Sexy Nasty'. The reissue adds three unreleased tracks from the original sessions: 'Grand', 'Channel 13' and 'Butterflies'.",
+     "'Butterflies', produced by Taylor Graves with Thundercat on bass, is a neo-soul track that had circulated as a leak for years and is now officially available. The original album also features Anderson .Paak, Ty Dolla $ign, Bilal, CeeLo Green and NJOMZA.",
+     "The edition is on streaming services and has an Amazon-exclusive baby pink and fruit punch vinyl. The estate gave 'GO:OD AM' the same treatment in October 2025 and plans to do so for 'Swimming' in 2028."
+    ]
+   },
+   "es": {
+    "slug": "mac-miller-the-divine-feminine-10-anos-tres-canciones-ineditas",
+    "headline": "Mac Miller suma tres canciones inéditas en los 10 años de 'The Divine Feminine', el disco con Ariana Grande",
+    "summary": "La edición aniversario incluye 'Grand', 'Channel 13' y 'Butterflies', esta con Thundercat en el bajo.",
+    "body": [
+     "El patrimonio de Mac Miller lanzó este viernes (2) la edición por los 10 años de 'The Divine Feminine', álbum de 2016 con Ariana Grande, entonces novia del rapero, en 'My Favorite Part', y Kendrick Lamar en 'God Is Fair, Sexy Nasty'. La reedición suma tres temas inéditos de las sesiones originales: 'Grand', 'Channel 13' y 'Butterflies'.",
+     "'Butterflies', producida por Taylor Graves y con Thundercat en el bajo, es un tema neo-soul que circulaba filtrado desde hace años y ahora llega a los canales oficiales. El disco original también cuenta con Anderson .Paak, Ty Dolla $ign, Bilal, CeeLo Green y NJOMZA.",
+     "La edición está en las plataformas de streaming y tiene un vinilo exclusivo de Amazon en rosa y fruit punch. El patrimonio ya hizo lo mismo con 'GO:OD AM' en octubre de 2025 y prevé repetirlo con 'Swimming' en 2028."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021711",
+  "section": "music",
+  "publishedAt": "2026-10-02T15:44:00Z",
+  "personIds": [
+   "robbie-williams"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/AACSNKSUTJDWXODCSHJIFI72P4.jpg?auth=66df81d36ff3a9b0d2d469bca0941386e21deee0035e5701a47a1e4cb61ce07a&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Infobae"
+  },
+  "sources": [
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/teleshow/2026/10/02/la-revelacion-de-robbie-williams-sobre-su-encuentro-con-una-fan-argentina-me-acoste-con-ella-pero-no-es-la-que-creen/"
+   },
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/teleshow/2026/10/02/amalia-granata-le-respondio-a-robbie-williams-me-gustaria-reencontrarme-con-el-desde-otro-lugar/"
+   }
+  ],
+  "hue": 177,
+  "t": {
+   "pt": {
+    "slug": "robbie-williams-diego-amalia-granata-buenos-aires",
+    "headline": "'Não é quem vocês pensam': Robbie Williams diz no palco que dormiu com fã argentino, aponta para 'Diego', e Amalia Granata responde",
+    "summary": "Em seu primeiro show em Buenos Aires em 20 anos, o cantor brincou com o affair de 2004 e a deputada argentina reagiu na TV.",
+    "body": [
+     "Robbie Williams voltou a Buenos Aires depois de 20 anos e transformou o show desta quinta-feira (1º), na Movistar Arena, em assunto nacional na Argentina. Entre uma música e outra, o britânico disse que 'não deveria contar', mas que tinha acabado de ver na plateia um fã com quem havia dormido na última passagem pelo país — e avisou: 'Não é quem vocês pensam'.",
+     "Em seguida, apontou para um homem de barba no público: 'Não te reconheci porque agora você tem barba. Você foi um amante muito carinhoso. Que bom te ver de novo, Diego'. A piada foi lida como uma forma de esvaziar a especulação de sempre: o romance relâmpago que ele teve em 2004 com Amalia Granata, hoje deputada, que foi vista entrando no hotel onde o cantor está hospedado, mas disse que ia a uma festa de aniversário privada.",
+     "Nesta sexta (2), Granata comentou o caso no programa 'La Mañana con Moria'. Descreveu o encontro de 2004 como 'romântico e fogoso, mas não selvagem', lembrou que visitou o cantor em Los Angeles em 2007 e disse que gostaria de reencontrá-lo 'de outro lugar': ela propôs que Robbie seja padrinho da fundação que comanda, voltada a TDAH e dislexia."
+    ]
+   },
+   "en": {
+    "slug": "robbie-williams-diego-amalia-granata-buenos-aires",
+    "headline": "'It's not who you think': Robbie Williams says on stage he slept with an Argentine fan, points at 'Diego', and Amalia Granata responds",
+    "summary": "At his first Buenos Aires show in 20 years, the singer joked about his 2004 fling, and the Argentine lawmaker reacted on TV.",
+    "body": [
+     "Robbie Williams returned to Buenos Aires after 20 years and turned Thursday's (Oct. 1) show at the Movistar Arena into national talk in Argentina. Between songs, the British star said he 'really shouldn't tell this' but had just spotted a fan in the crowd he had slept with on his last visit — adding: 'It's not who you think.'",
+     "He then pointed at a bearded man in the audience: 'I didn't recognize you because you have a beard now. You were a very tender lover. Good to see you again, Diego.' The joke was read as a way to defuse the usual speculation about his brief 2004 romance with Amalia Granata, now a lawmaker, who was seen entering the hotel where the singer is staying but said she was attending a private birthday party.",
+     "On Friday (Oct. 2), Granata addressed it on the show 'La Mañana con Moria'. She described the 2004 encounter as 'romantic and passionate, but not wild', recalled visiting him in Los Angeles in 2007 and said she would like to reconnect 'from a different place': she proposed that Robbie become a patron of the foundation she runs, focused on ADHD and dyslexia."
+    ]
+   },
+   "es": {
+    "slug": "robbie-williams-diego-amalia-granata-buenos-aires",
+    "headline": "'No es quien creen': Robbie Williams dice en el escenario que se acostó con un fan argentino, señala a 'Diego' y Amalia Granata responde",
+    "summary": "En su primer show en Buenos Aires en 20 años, el cantante bromeó con el affaire de 2004 y la diputada reaccionó en la TV.",
+    "body": [
+     "Robbie Williams volvió a Buenos Aires después de 20 años y convirtió el show del jueves 1 en el Movistar Arena en tema nacional. Entre canción y canción, el británico dijo que 'realmente no debería contar esto', pero que acababa de ver en el público a un fan con el que se había acostado en su última visita, y aclaró: 'No es quien creen'.",
+     "Luego señaló a un hombre con barba entre el público: 'No te reconocí porque ahora llevás barba. Fuiste un amante muy tierno. Qué bueno verte de nuevo, Diego'. La broma se interpretó como una manera de desactivar la especulación de siempre: el romance fugaz que tuvo en 2004 con Amalia Granata, hoy diputada, quien fue vista entrando al hotel donde se aloja el cantante, aunque aseguró que iba a un cumpleaños privado.",
+     "Este viernes 2, Granata habló del tema en 'La Mañana con Moria'. Describió el encuentro de 2004 como 'romántico y fogoso, pero no salvaje', recordó que visitó al cantante en Los Ángeles en 2007 y dijo que le gustaría reencontrarse con él 'desde otro lugar': propuso que Robbie sea padrino de la fundación que preside, dedicada al TDAH y la dislexia."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021725",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-02T15:30:00Z",
+  "personIds": [
+   "anne-hathaway",
+   "dakota-johnson",
+   "tom-cruise",
+   "alejandro-gonzalez-inarritu"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.comicbasics.com/wp-content/uploads/2026/09/slika_2026-09-28_140246412.webp",
+   "credit": "Foto: Amazon MGM Studios/Divulgação"
+  },
+  "sources": [
+   {
+    "name": "World of Reel",
+    "url": "https://www.worldofreel.com/blog/2026/10/2/digger-stumbles-with-12m-previews-misunderstood-or-insufferable-post-your-review"
+   },
+   {
+    "name": "Comic Basics",
+    "url": "https://www.comicbasics.com/verity-is-exploding-at-the-box-office-with-massive-walkups-and-a-monster-friday/"
+   }
+  ],
+  "hue": 115,
+  "t": {
+   "pt": {
+    "slug": "verity-4-5-milhoes-pre-estreia-digger-1-2-milhao-tom-cruise",
+    "headline": "Verity atropela Tom Cruise: thriller faz US$ 4,5 milhões nas pré-estreias, e 'Digger' fica em US$ 1,2 milhão",
+    "summary": "Nas sessões de quinta nos EUA, o suspense com Anne Hathaway e Dakota Johnson arrecadou quase quatro vezes mais que a sátira de Alejandro G. Iñárritu.",
+    "body": [
+     "A primeira batalha do fim de semana nas bilheterias americanas terminou com placar elástico. 'Verity', thriller psicológico com Anne Hathaway, Dakota Johnson e Josh Hartnett, somou US$ 4,5 milhões nas sessões de pré-estreia da quinta-feira (1º), enquanto 'Digger', a aposta de Tom Cruise com o diretor Alejandro G. Iñárritu, ficou em US$ 1,2 milhão.",
+     "Produzido pela Amazon MGM com orçamento de cerca de US$ 40 milhões, 'Verity' estreia em 3.510 cinemas e viu as projeções subirem ao longo da semana: as estimativas das publicações especializadas agora vão de US$ 30 milhões a US$ 35 milhões no fim de semana de estreia, impulsionadas por forte procura de última hora nas bilheterias.",
+     "Para 'Digger', da Warner Bros., o cenário é bem mais sombrio. A sátira, que já chegou com críticas divididas, era projetada para algo entre US$ 12 milhões e US$ 15 milhões, e parte da imprensa americana já fala no risco de um dos maiores fracassos do ano diante do custo da superprodução."
+    ]
+   },
+   "en": {
+    "slug": "verity-4-5-million-previews-digger-1-2-million-tom-cruise",
+    "headline": "Verity runs over Tom Cruise: thriller grabs $4.5M in previews as 'Digger' digs up just $1.2M",
+    "summary": "At Thursday screenings in the US, the Anne Hathaway and Dakota Johnson thriller earned nearly four times as much as Alejandro G. Iñárritu's satire.",
+    "body": [
+     "The first box office battle of the weekend ended in a rout. 'Verity', the psychological thriller starring Anne Hathaway, Dakota Johnson and Josh Hartnett, took in $4.5 million from Thursday (Oct. 1) previews, while 'Digger', Tom Cruise's collaboration with director Alejandro G. Iñárritu, landed at $1.2 million.",
+     "Produced by Amazon MGM on a budget of around $40 million, 'Verity' opens in 3,510 theaters and saw its projections climb throughout the week: trade estimates now range from $30 million to $35 million for its opening weekend, fueled by strong walk-up business.",
+     "For Warner Bros.' 'Digger', the picture is much grimmer. The satire, which arrived with split reviews, was projected at $12 million to $15 million, and parts of the US press are already warning it could become one of the year's biggest flops given the cost of the production."
+    ]
+   },
+   "es": {
+    "slug": "verity-4-5-millones-preestreno-digger-1-2-millones-tom-cruise",
+    "headline": "Verity arrolla a Tom Cruise: el thriller suma US$ 4,5 millones en preestrenos y 'Digger' se queda en US$ 1,2 millones",
+    "summary": "En las funciones del jueves en EE. UU., el suspenso con Anne Hathaway y Dakota Johnson recaudó casi cuatro veces más que la sátira de Alejandro G. Iñárritu.",
+    "body": [
+     "La primera batalla del fin de semana en la taquilla estadounidense terminó con un marcador abultado. 'Verity', thriller psicológico con Anne Hathaway, Dakota Johnson y Josh Hartnett, sumó US$ 4,5 millones en los preestrenos del jueves (1), mientras que 'Digger', la apuesta de Tom Cruise con el director Alejandro G. Iñárritu, se quedó en US$ 1,2 millones.",
+     "Producida por Amazon MGM con un presupuesto de unos US$ 40 millones, 'Verity' se estrena en 3.510 salas y vio subir sus proyecciones durante la semana: los cálculos de la prensa especializada ya van de US$ 30 millones a US$ 35 millones para su fin de semana de estreno, impulsados por una fuerte venta de último momento.",
+     "Para 'Digger', de Warner Bros., el panorama es mucho más sombrío. La sátira, que llegó con críticas divididas, estaba proyectada entre US$ 12 millones y US$ 15 millones, y parte de la prensa estadounidense ya habla del riesgo de uno de los mayores fracasos del año por el costo de la superproducción."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021704",
+  "section": "creators",
+  "publishedAt": "2026-10-02T15:27:00Z",
+  "personIds": [],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/09/19/mightymikeplays-merch-site.jpg",
+   "credit": "Foto: Reprodução via Dexerto"
+  },
+  "sources": [
+   {
+    "name": "Dexerto",
+    "url": "https://www.dexerto.com/youtube/mighty-mike-plays-dad-refunds-viewers-for-ai-merch-retracts-claim-he-was-fired-3415052/"
+   },
+   {
+    "name": "Dexerto",
+    "url": "https://www.dexerto.com/youtube/mighty-mikes-dad-accused-of-being-multimillionaire-after-asking-for-money-over-118k-youtube-ads-3412469/"
+   },
+   {
+    "name": "CafeMom",
+    "url": "https://cafemom.com/news/mighty-mike-plays-118k-minecraft-story-fake-claims"
+   }
+  ],
+  "hue": 208,
+  "t": {
+   "pt": {
+    "slug": "entenda-caso-mighty-mike-plays-pai-118-mil-dolares",
+    "headline": "Entenda o caso Mighty Mike Plays: o pai que culpou o filho de 9 anos por US$ 118 mil em anúncios agora recua",
+    "summary": "Após internautas acharem imóveis de US$ 4 milhões, o pai do youtuber mirim admite que não foi demitido e devolve o dinheiro de camisetas feitas com IA.",
+    "body": [
+     "A história começou em meados de setembro: Dave, pai do youtuber mirim de Minecraft Mighty Mike Plays, de 9 anos, disse que o filho tinha torrado cerca de US$ 118 mil em campanhas de anúncios no YouTube com o cartão corporativo dele, o que teria custado seu emprego. Para cobrir o rombo, a família lançou uma vaquinha e uma loja com camisetas de US$ 67 a US$ 97, algumas com a estampa '118k'.",
+     "A internet desconfiou. Usuários lembraram que operadoras de cartão barrariam gastos desse tamanho, e o youtuber Scott Shafer afirmou ter encontrado duas casas do pai em Glendale, na Califórnia, avaliadas juntas em US$ 4 milhões, além de uma empresa de mídia e publicidade em nome dele. Segundo a imprensa americana, Dave chegou a ameaçar processar criadores que contestavam a versão.",
+     "Nesta sexta (2), ele recuou: admitiu que não foi demitido, mas perdeu um contrato entre empresas, disse ter cerca de 12 companhias e anunciou reembolso das camisetas com desenhos gerados por IA, nas quais gastou US$ 10 mil. 'Não achei que fosse viralizar tanto e obviamente não lidei com tudo do jeito certo', afirmou. 'Não devia ter usado IA.'"
+    ]
+   },
+   "en": {
+    "slug": "mighty-mike-plays-118k-dad-explained",
+    "headline": "The Mighty Mike Plays saga explained: the dad who blamed his 9-year-old for $118K in ads is now backtracking",
+    "summary": "After online sleuths found $4 million in property, the kid YouTuber's father admits he wasn't fired and refunds AI-designed merch.",
+    "body": [
+     "The saga began in mid-September, when Dave, father of 9-year-old Minecraft YouTuber Mighty Mike Plays, said his son had spent about $118,000 on YouTube ad campaigns using his company credit card, allegedly costing him his job. To cover the hole, the family launched a fundraiser and a merch store with T-shirts priced from $67 to $97, some bearing the '118k' print.",
+     "The internet was skeptical. Users noted that card issuers would flag charges that large, and YouTuber Scott Shafer said he found two homes owned by the father in Glendale, California, worth a combined $4 million, plus a media and advertising company in his name. According to U.S. outlets, Dave even threatened to sue creators who disputed his story.",
+     "On Friday (Oct. 2), he walked it back: he admitted he wasn't fired but lost a contract between companies, said he owns around 12 businesses and announced refunds for the AI-designed shirts, on which he spent $10,000. 'I didn't think it would go so viral and I obviously didn't handle everything in the right way,' he said. 'I shouldn't have used AI.'"
+    ]
+   },
+   "es": {
+    "slug": "caso-mighty-mike-plays-padre-118-mil-dolares-explicado",
+    "headline": "Entiende el caso Mighty Mike Plays: el padre que culpó a su hijo de 9 años por US$ 118.000 en anuncios ahora se retracta",
+    "summary": "Tras descubrirse propiedades por US$ 4 millones, el padre del youtuber infantil admite que no fue despedido y reembolsa camisetas hechas con IA.",
+    "body": [
+     "Todo empezó a mediados de septiembre: Dave, padre del youtuber infantil de Minecraft Mighty Mike Plays, de 9 años, dijo que su hijo había gastado unos US$ 118.000 en campañas de anuncios de YouTube con su tarjeta corporativa, lo que le habría costado el empleo. Para cubrir la deuda, la familia lanzó una colecta y una tienda con camisetas de US$ 67 a US$ 97, algunas con el estampado '118k'.",
+     "Internet desconfió. Usuarios señalaron que los bancos bloquearían cargos de ese tamaño, y el youtuber Scott Shafer aseguró haber encontrado dos casas del padre en Glendale, California, valoradas en conjunto en US$ 4 millones, además de una empresa de medios y publicidad a su nombre. Según la prensa estadounidense, Dave llegó a amenazar con demandar a creadores que cuestionaban su versión.",
+     "Este viernes 2 se retractó: admitió que no fue despedido, sino que perdió un contrato entre empresas, dijo tener unas 12 compañías y anunció el reembolso de las camisetas con diseños generados por IA, en las que gastó US$ 10.000. 'No pensé que se haría tan viral y obviamente no manejé todo de la forma correcta', dijo. 'No debí usar IA'."
+    ]
+   }
+  },
+  "format": "explainer"
+ },
+ {
+  "id": "2610021729",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-02T14:30:00Z",
+  "personIds": [],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.whats-on-netflix.com/wp-content/uploads/2026/10/a-different-world-renewed-for-season-2-netflix.jpg",
+   "credit": "Foto: Netflix/Divulgação"
+  },
+  "sources": [
+   {
+    "name": "What's on Netflix",
+    "url": "https://www.whats-on-netflix.com/news/a-different-world-season-2-netflix-renewal/"
+   },
+   {
+    "name": "Just Jared",
+    "url": "https://www.justjared.com/2026/10/02/a-different-world-renewed-for-season-2-at-netflix/"
+   }
+  ],
+  "hue": 303,
+  "t": {
+   "pt": {
+    "slug": "a-different-world-renovada-segunda-temporada-netflix",
+    "headline": "Oito dias e 4,2 milhões de views: Netflix renova 'A Different World', a continuação do clássico dos anos 80",
+    "summary": "A série que leva a filha de Dwayne e Whitney para a universidade Hillman ganha segunda temporada pouco mais de uma semana após a estreia.",
+    "body": [
+     "A Netflix não esperou muito. 'A Different World', continuação do sitcom de 1987, foi renovada para a segunda temporada nesta sexta-feira (2), só oito dias depois de estrear, em 24 de setembro. Na primeira semana, a série estreou em 4º lugar no ranking global de séries em inglês da plataforma, com 4,2 milhões de visualizações, e entrou no Top 10 de 15 países.",
+     "A trama acompanha Deborah Wayne, vivida por Maleah Joi Moon, em seu primeiro ano na Hillman, universidade historicamente negra. Ela é filha de Dwayne e Whitney, o casal querido da série original, e Kadeem Hardison e Jasmine Guy voltam aos papéis. Segundo a Netflix, o segundo ano vai mostrar os estudantes lidando com decisões passadas, futuros incertos, novos amores e amizades.",
+     "A criadora e showrunner Felicia Pride disse que se sente validada pelo público e que a equipe está mais que animada para voltar a Hillman. Já Debbie Allen, produtora executiva e diretora, comemorou dizendo que o público e a Netflix falaram, e que a série trouxe o que todo mundo precisava: alegria, romance, relevância, autenticidade e coração."
+    ]
+   },
+   "en": {
+    "slug": "a-different-world-renewed-season-2-netflix",
+    "headline": "Eight days and 4.2 million views: Netflix renews 'A Different World', the sequel to the '80s classic",
+    "summary": "The series that sends Dwayne and Whitney's daughter to Hillman gets a second season just over a week after its debut.",
+    "body": [
+     "Netflix did not wait long. 'A Different World', the sequel to the 1987 sitcom, was renewed for a second season on Friday (Oct. 2), just eight days after premiering on Sept. 24. In its first week, the show debuted at No. 4 on the streamer's global English-language TV chart with 4.2 million views and reached the Top 10 in 15 countries.",
+     "The story follows Deborah Wayne, played by Maleah Joi Moon, during her freshman year at Hillman, a historically Black college. She is the daughter of Dwayne and Whitney, the beloved couple from the original series, with Kadeem Hardison and Jasmine Guy reprising their roles. According to Netflix, sophomore year will see the students facing past decisions, uncertain futures, new loves and friendships.",
+     "Creator and showrunner Felicia Pride said she feels validated by the audience and that the team is beyond excited to return to Hillman. Executive producer and director Debbie Allen celebrated by saying the people and Netflix have spoken, and that the show delivered what everybody needed: joy, romance, relevance, authenticity and heart."
+    ]
+   },
+   "es": {
+    "slug": "a-different-world-renovada-segunda-temporada-netflix",
+    "headline": "Ocho días y 4,2 millones de vistas: Netflix renueva 'A Different World', la continuación del clásico de los 80",
+    "summary": "La serie que lleva a la hija de Dwayne y Whitney a la universidad Hillman tendrá segunda temporada poco más de una semana después del estreno.",
+    "body": [
+     "Netflix no esperó mucho. 'A Different World', continuación del sitcom de 1987, fue renovada para una segunda temporada este viernes (2), apenas ocho días después de estrenarse, el 24 de septiembre. En su primera semana, la serie debutó en el 4º puesto del ranking global de series en inglés de la plataforma, con 4,2 millones de visualizaciones, y entró al Top 10 de 15 países.",
+     "La trama sigue a Deborah Wayne, interpretada por Maleah Joi Moon, en su primer año en Hillman, una universidad históricamente negra. Ella es hija de Dwayne y Whitney, la querida pareja de la serie original, y Kadeem Hardison y Jasmine Guy retoman sus papeles. Según Netflix, el segundo año mostrará a los estudiantes enfrentando decisiones pasadas, futuros inciertos, nuevos amores y amistades.",
+     "La creadora y showrunner Felicia Pride dijo sentirse validada por el público y que el equipo está más que entusiasmado por volver a Hillman. Debbie Allen, productora ejecutiva y directora, celebró diciendo que el público y Netflix hablaron, y que la serie trajo lo que todos necesitaban: alegría, romance, relevancia, autenticidad y corazón."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021728",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-02T14:30:00Z",
+  "personIds": [
+   "bruno-gagliasso",
+   "giovanna-ewbank"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://amazonasatual.com.br/wp-content/uploads/2026/10/Bless-Gagliasso.jpg",
+   "credit": "Foto: Amazonas Atual/Estadão Conteúdo"
+  },
+  "sources": [
+   {
+    "name": "Amazonas Atual / Estadão Conteúdo",
+    "url": "https://amazonasatual.com.br/bless-filho-de-giovanna-e-bruno-gagliasso-estreia-em-novela/"
+   },
+   {
+    "name": "O Hoje",
+    "url": "https://ohoje.com/2026/10/02/filho-de-giovanna-ewbank-e-bruno-gagliasso-estreia-como-ator-em-novela-da-globo/"
+   }
+  ],
+  "hue": 256,
+  "t": {
+   "pt": {
+    "slug": "bless-filho-giovanna-ewbank-bruno-gagliasso-estreia-novela-a-nobreza-do-amor",
+    "headline": "Príncipe na Globo: Bless, filho de Giovanna Ewbank e Bruno Gagliasso, estreia em novela nesta sexta",
+    "summary": "Aos 11 anos, ele vive a versão criança do príncipe Cayman II em 'A Nobreza do Amor', e a mãe se derrete: 'Agora é a vez dele'.",
+    "body": [
+     "Bless Gagliasso, de 11 anos, faz nesta sexta-feira (2) sua estreia em novelas. O filho de Giovanna Ewbank e Bruno Gagliasso aparece em 'A Nobreza do Amor', na faixa das 18h da Globo, como o príncipe Cayman II na infância, em cenas de flashback.",
+     "Nas sequências, ambientadas no fictício reino africano de Batanga, ele contracena com Arthur Ferreira, que interpreta José, irmão de Cayman, ainda criança. Os dois brincam nos jardins do palácio e tentam arrancar um punhal cravado em um baobá sagrado. A trama se passa nos anos 1920, entre Batanga e Barro Preto, no Rio Grande do Norte.",
+     "Giovanna celebrou a conquista do filho, que faz aulas de teatro e já havia gravado o filme ainda inédito 'Makunaima XXI'. Ela disse que foi lindo ver Bless escolher algo que ama e que faz seus olhos brilharem, afirmou que o menino tem 'alma artística' e completou que agora é a vez dele viver essa história."
+    ]
+   },
+   "en": {
+    "slug": "bless-son-giovanna-ewbank-bruno-gagliasso-telenovela-debut-a-nobreza-do-amor",
+    "headline": "A prince on Globo: Bless, son of Giovanna Ewbank and Bruno Gagliasso, makes his telenovela debut this Friday",
+    "summary": "At 11, he plays the young Prince Cayman II in 'A Nobreza do Amor', and his mom is beaming: 'Now it's his turn'.",
+    "body": [
+     "Bless Gagliasso, 11, makes his telenovela debut this Friday (Oct. 2). The son of Giovanna Ewbank and Bruno Gagliasso appears in 'A Nobreza do Amor', in Globo's 6 p.m. slot, as Prince Cayman II as a child in flashback scenes.",
+     "In the sequences, set in the fictional African kingdom of Batanga, he acts alongside Arthur Ferreira, who plays Cayman's brother José as a boy. The two play in the palace gardens and try to pull a dagger out of a sacred baobab tree. The story is set in the 1920s, between Batanga and Barro Preto, in Rio Grande do Norte.",
+     "Giovanna celebrated her son's milestone; he takes acting classes and has already shot the yet-unreleased film 'Makunaima XXI'. She said it was beautiful to see Bless choose something he loves that makes his eyes shine, described him as having an 'artistic soul' and added that now it is his turn to live this story."
+    ]
+   },
+   "es": {
+    "slug": "bless-hijo-giovanna-ewbank-bruno-gagliasso-debut-telenovela-a-nobreza-do-amor",
+    "headline": "Un príncipe en Globo: Bless, hijo de Giovanna Ewbank y Bruno Gagliasso, debuta en telenovela este viernes",
+    "summary": "A los 11 años, interpreta al príncipe Cayman II de niño en 'A Nobreza do Amor', y su madre se emociona: 'Ahora es su turno'.",
+    "body": [
+     "Bless Gagliasso, de 11 años, debuta este viernes (2) en las telenovelas. El hijo de Giovanna Ewbank y Bruno Gagliasso aparece en 'A Nobreza do Amor', en la franja de las 18 h de Globo, como el príncipe Cayman II en su infancia, en escenas de flashback.",
+     "En las secuencias, ambientadas en el ficticio reino africano de Batanga, actúa junto a Arthur Ferreira, que interpreta de niño a José, hermano de Cayman. Ambos juegan en los jardines del palacio e intentan arrancar un puñal clavado en un baobab sagrado. La trama transcurre en los años 1920, entre Batanga y Barro Preto, en Rio Grande do Norte.",
+     "Giovanna celebró el logro de su hijo, que toma clases de teatro y ya había rodado la película aún inédita 'Makunaima XXI'. Dijo que fue hermoso ver a Bless elegir algo que ama y que le hace brillar los ojos, afirmó que el niño tiene 'alma artística' y agregó que ahora es su turno de vivir esta historia."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021707",
+  "section": "news",
+  "publishedAt": "2026-10-02T14:26:00Z",
+  "personIds": [
+   "vini-jr"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://caras.com.br/wp-content/uploads/2026/10/vini-jr-mansao-rio-de-janeiro.jpg",
+   "credit": "Foto: Reprodução/Instagram @vinijr via CARAS Brasil"
+  },
+  "sources": [
+   {
+    "name": "CARAS Brasil",
+    "url": "https://caras.com.br/casa-dos-famosos/avaliada-em-r-20-milhoes-mansao-de-vini-jr-no-rio-tem-boate-exclusiva-e-museu-secreto.phtml"
+   }
+  ],
+  "hue": 349,
+  "t": {
+   "pt": {
+    "slug": "vini-jr-mansao-rio-boate-museu-secreto",
+    "headline": "Boate subterrânea e 'museu secreto': por dentro da mansão de R$ 20 milhões de Vini Jr. no Rio",
+    "summary": "Erguida em quatro lotes de um condomínio da Barra da Tijuca, a casa do atacante do Real Madrid levou cerca de três anos para ficar pronta e esconde camisas históricas e troféus.",
+    "body": [
+     "Quando volta ao Brasil, Vini Jr. não precisa sair de casa para cair na noite. A mansão do atacante do Real Madrid na Barra da Tijuca, Zona Oeste do Rio, avaliada em cerca de R$ 20 milhões, tem uma boate própria no subsolo, com isolamento acústico, segundo levantamento publicado nesta sexta-feira (2) pela revista CARAS Brasil.",
+     "A casa ocupa quatro lotes unidos dentro de um condomínio de luxo e foi concluída em 2023, depois de aproximadamente três anos de obra. São três andares, com pé-direito duplo na entrada, grandes painéis de vidro para aproveitar a luz natural e mármore nas escadas, nas áreas sociais, na cozinha e nos banheiros, detalhes arquitetônicos que já haviam sido descritos pelo jornal O Globo.",
+     "O cômodo mais curioso é um 'museu secreto' revelado pelo canal Loud Sports, no YouTube: um espaço que reúne camisas históricas, prêmios e itens raros da carreira do jogador. O pacote de lazer inclui ainda piscina de bordas largas, sala de jogos, academia particular, campo de futebol próprio e automação com sistema de som integrado pela casa toda.",
+     "O Rio está longe de ser o único endereço do craque de 26 anos. De acordo com a publicação, Vini, que recebe cerca de 24 milhões de euros por ano no Real Madrid, também mantém imóveis em Madri e em Dubai."
+    ]
+   },
+   "en": {
+    "slug": "vini-jr-rio-mansion-nightclub-secret-museum",
+    "headline": "An underground nightclub and a 'secret museum': inside Vini Jr.'s R$20 million mansion in Rio",
+    "summary": "Built across four lots in a Barra da Tijuca gated community, the Real Madrid forward's home took about three years to finish and hides historic jerseys and trophies.",
+    "body": [
+     "When he returns to Brazil, Vini Jr. doesn't need to leave home for a night out. The Real Madrid forward's mansion in Barra da Tijuca, in Rio de Janeiro's West Zone, valued at around R$20 million, has its own soundproofed basement nightclub, according to a feature published Friday (Oct. 2) by CARAS Brasil.",
+     "The house occupies four combined lots inside a luxury gated community and was completed in 2023 after roughly three years of construction. It has three floors, a double-height entrance, large glass panels to bring in natural light and marble on the staircases, living areas, kitchen and bathrooms, architectural details previously described by the newspaper O Globo.",
+     "The most curious room is a 'secret museum' revealed by the Loud Sports YouTube channel: a space that gathers historic jerseys, awards and rare memorabilia from the player's career. The leisure package also includes a wide-edged pool, a game room, a private gym, his own soccer pitch and home automation with a sound system running through the whole house.",
+     "Rio is far from the 26-year-old star's only address. According to the magazine, Vini, who earns about 24 million euros a year at Real Madrid, also owns properties in Madrid and Dubai."
+    ]
+   },
+   "es": {
+    "slug": "vini-jr-mansion-rio-discoteca-museo-secreto",
+    "headline": "Discoteca subterránea y 'museo secreto': así es la mansión de R$ 20 millones de Vini Jr. en Río",
+    "summary": "Levantada en cuatro lotes de un barrio cerrado de Barra da Tijuca, la casa del delantero del Real Madrid tardó unos tres años en terminarse y guarda camisetas históricas y trofeos.",
+    "body": [
+     "Cuando vuelve a Brasil, Vini Jr. no necesita salir de casa para irse de fiesta. La mansión del delantero del Real Madrid en Barra da Tijuca, en la Zona Oeste de Río de Janeiro, valorada en unos R$ 20 millones, tiene su propia discoteca en el subsuelo, con aislamiento acústico, según un reportaje publicado este viernes (2) por la revista CARAS Brasil.",
+     "La casa ocupa cuatro lotes unidos dentro de un barrio cerrado de lujo y se terminó en 2023, tras unos tres años de obra. Tiene tres plantas, doble altura en la entrada, grandes paneles de vidrio para aprovechar la luz natural y mármol en las escaleras, las áreas sociales, la cocina y los baños, detalles arquitectónicos que ya había descrito el diario O Globo.",
+     "La estancia más curiosa es un 'museo secreto' revelado por el canal Loud Sports en YouTube: un espacio que reúne camisetas históricas, premios y objetos raros de la carrera del jugador. El paquete de ocio incluye además piscina de bordes amplios, sala de juegos, gimnasio privado, cancha de fútbol propia y domótica con sistema de sonido integrado en toda la casa.",
+     "Río está lejos de ser la única dirección de la estrella de 26 años. Según la publicación, Vini, que cobra unos 24 millones de euros al año en el Real Madrid, también tiene propiedades en Madrid y en Dubái."
+    ]
+   }
+  },
+  "format": "feature"
+ },
+ {
+  "id": "2610021719",
+  "section": "music",
+  "publishedAt": "2026-10-02T14:00:00Z",
+  "personIds": [
+   "quavo"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://ratingsgamemusic.com/wp-content/uploads/2026/10/img_7308.jpg",
+   "credit": "Foto: Ratings Game Music"
+  },
+  "sources": [
+   {
+    "name": "Stereogum",
+    "url": "https://stereogum.com/2512722/quavo-announces-qromelife-tracklist-with-tyler-the-creator-justin-timberlake-future-more/news"
+   },
+   {
+    "name": "InMusic Blog",
+    "url": "https://inmusicblog.com/reviews/quavo-qromelife-review-songs-ranked/"
+   },
+   {
+    "name": "Ratings Game Music",
+    "url": "https://ratingsgamemusic.com/2026/10/02/quavo-qromelife-album-review/"
+   }
+  ],
+  "hue": 193,
+  "t": {
+   "pt": {
+    "slug": "analise-quavo-qromelife-pharrell-offset",
+    "headline": "Análise: em 'QRÖMELIFE', Quavo reencontra Offset, troca o trap pelo groove de Pharrell e acerta mais do que erra",
+    "summary": "Disco de 14 faixas produzido por Pharrell tem Tyler, the Creator, Justin Timberlake e Future, mas brilha mais quando é pessoal.",
+    "body": [
+     "Esta é uma análise opinativa. 'QRÖMELIFE', lançado nesta sexta-feira (2) pela Quality Control/Motown, é o disco em que Quavo deixa de lado o trap seco dos Migos e entrega o comando sonoro a Pharrell Williams, produtor de todas as 14 faixas. O rapper conta que gravou o projeto no ano passado, ainda lidando com o luto pela morte de Takeoff, em 2022, e que Pharrell foi um guia criativo nesse período.",
+     "O momento de maior peso é 'Away', primeiro encontro em disco dos dois Migos sobreviventes, Quavo e Offset, desde a tragédia: uma faixa sobre luto e seguir em frente que vale mais pelo simbolismo do que por qualquer verso de efeito. 'House Music', com Justin Timberlake, empurra o álbum para longe do trap e para perto do groove e da melodia, e é o risco que mais compensa.",
+     "Nem todo convidado funciona. 'Baby Breath', que junta Pharrell, Tyler, the Creator e A$AP Rocky, parecia o ápice no papel, mas soa como quatro egos disputando espaço, uma oportunidade desperdiçada que parte da crítica também apontou. Já 'Trance' e 'HAOYU DEWDAT', com Yung Miami, mostram um Quavo mais cantor, à vontade com refrões leves; a recepção inicial é dividida, com elogios à diversão e críticas de que nem ele nem Pharrell estão no auge.",
+     "No saldo, 'QRÖMELIFE' é o trabalho solo mais interessante de Quavo: menos previsível, mais luminoso e com um coração real no meio. Falta corte, porque 14 faixas com tanto convidado deixam a sensação de playlist, mas a aposta em sair da zona de conforto merece crédito.",
+     "Nota: 7/10"
+    ]
+   },
+   "en": {
+    "slug": "review-quavo-qromelife-pharrell-offset",
+    "headline": "Review: on 'QRÖMELIFE', Quavo reunites with Offset, trades trap for Pharrell's groove and gets more right than wrong",
+    "summary": "The Pharrell-produced 14-track album features Tyler, the Creator, Justin Timberlake and Future, but shines most when it gets personal.",
+    "body": [
+     "This is an opinion review. 'QRÖMELIFE', released Friday (Oct. 2) via Quality Control/Motown, is the record where Quavo sets aside the dry Migos trap and hands sonic control to Pharrell Williams, who produced all 14 tracks. The rapper says he made it last year while still grieving Takeoff's 2022 death, and credits Pharrell as a creative guide during that time.",
+     "The weightiest moment is 'Away', the first recorded meeting of the two surviving Migos, Quavo and Offset, since the tragedy: a song about grief and moving on that matters more for its symbolism than for any flashy bar. 'House Music', with Justin Timberlake, pushes the album away from trap and toward groove and melody, and it is the gamble that pays off most.",
+     "Not every guest lands. 'Baby Breath', uniting Pharrell, Tyler, the Creator and A$AP Rocky, looked like the peak on paper but sounds like four egos fighting for room, a missed opportunity some critics also flagged. 'Trance' and 'HAOYU DEWDAT', with Yung Miami, show Quavo as more of a singer, comfortable with breezy hooks; early reception is split, praising the fun while arguing neither he nor Pharrell is at their best.",
+     "Overall, 'QRÖMELIFE' is Quavo's most interesting solo work: less predictable, brighter, and with a real heart in the middle. It needs editing, since 14 guest-heavy tracks feel like a playlist, but the move out of his comfort zone deserves credit.",
+     "Score: 7/10"
+    ]
+   },
+   "es": {
+    "slug": "resena-quavo-qromelife-pharrell-offset",
+    "headline": "Reseña: en 'QRÖMELIFE', Quavo se reencuentra con Offset, cambia el trap por el groove de Pharrell y acierta más de lo que falla",
+    "summary": "El disco de 14 temas producido por Pharrell tiene a Tyler, the Creator, Justin Timberlake y Future, pero brilla más cuando se pone personal.",
+    "body": [
+     "Esta es una reseña de opinión. 'QRÖMELIFE', lanzado este viernes (2) por Quality Control/Motown, es el disco en el que Quavo deja de lado el trap seco de Migos y le cede el mando sonoro a Pharrell Williams, productor de los 14 temas. El rapero cuenta que lo grabó el año pasado, aún en duelo por la muerte de Takeoff en 2022, y que Pharrell fue su guía creativo en esa etapa.",
+     "El momento de mayor peso es 'Away', el primer encuentro en disco de los dos Migos sobrevivientes, Quavo y Offset, desde la tragedia: una canción sobre el duelo y seguir adelante que vale más por su simbolismo que por cualquier verso efectista. 'House Music', con Justin Timberlake, aleja el álbum del trap y lo acerca al groove y la melodía, y es la apuesta que mejor sale.",
+     "No todos los invitados funcionan. 'Baby Breath', que junta a Pharrell, Tyler, the Creator y A$AP Rocky, parecía la cima en el papel, pero suena a cuatro egos peleando por espacio, una oportunidad perdida que parte de la crítica también señaló. 'Trance' y 'HAOYU DEWDAT', con Yung Miami, muestran a un Quavo más cantante, cómodo con estribillos ligeros; la recepción inicial está dividida, entre elogios a la diversión y críticas de que ni él ni Pharrell están en su mejor momento.",
+     "En balance, 'QRÖMELIFE' es el trabajo solista más interesante de Quavo: menos previsible, más luminoso y con un corazón real en el centro. Le falta recorte, porque 14 temas con tantos invitados dejan sensación de playlist, pero la apuesta por salir de su zona de confort merece crédito.",
+     "Nota: 7/10"
+    ]
+   }
+  },
+  "format": "review"
+ },
+ {
+  "id": "2610021709",
+  "section": "streamers",
+  "publishedAt": "2026-10-02T13:09:00Z",
+  "personIds": [],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://insider-gaming.com/wp-content/uploads/2026/10/GTA-Miami-Heat.jpg",
+   "credit": "Foto: Insider Gaming / Rockstar Games / Miami Heat"
+  },
+  "sources": [
+   {
+    "name": "Insider Gaming",
+    "url": "https://insider-gaming.com/gta-6-collaboration-turns-miami-heat-into-vice-city/"
+   },
+   {
+    "name": "Destructoid",
+    "url": "https://www.destructoid.com/gta6-teams-nba-miami-heat-vice-city-sponsored-branded-espn-game/"
+   },
+   {
+    "name": "The Source",
+    "url": "https://thesource.com/2026/10/02/miami-heat-rockstar-games-night-in-vice-city-gta-vi/"
+   }
+  ],
+  "hue": 83,
+  "t": {
+   "pt": {
+    "slug": "gta-6-miami-heat-vira-vice-city-jogo-nba-vespera-lancamento",
+    "headline": "GTA 6 invade a NBA: Miami Heat vira 'Vice City' por uma noite, na véspera do lançamento do jogo",
+    "summary": "Rockstar e Miami Heat anunciam 'A Night in Vice City', com uniforme inédito e quadra temática no jogo contra os Bucks em 18 de novembro, véspera da estreia de GTA 6.",
+    "body": [
+     "A contagem regressiva para GTA 6 chegou às quadras da NBA. A Rockstar Games e o Miami Heat anunciaram nesta sexta-feira (2) a ação 'A Night in Vice City': no dia 18 de novembro, o time da Flórida enfrenta o Milwaukee Bucks no Kaseya Center vestindo um uniforme nunca usado antes e jogando sobre um piso de madeira criado especialmente para a ocasião, a 'Vice City Court'.",
+     "O duelo terá transmissão nacional da ESPN nos Estados Unidos e acontece literalmente na véspera do lançamento: GTA 6 chega ao PS5 e ao Xbox Series X|S em 19 de novembro, com liberação à meia-noite, poucas horas depois do apito final. O clube promete ativações especiais para os torcedores na arena durante a partida.",
+     "A parceria já movimenta a loja oficial do Heat, que colocou à venda uma coleção temática de Vice City com camisetas, moletons e bonés, com preços entre US$ 45 e US$ 110; um dos modelos de boné já esgotou. A ação reforça o marketing da Rockstar em Miami, que já havia instalado um letreiro gigante de 'Welcome to Vice City' no topo do Kaseya Center."
+    ]
+   },
+   "en": {
+    "slug": "gta-6-miami-heat-becomes-vice-city-nba-game-launch-eve",
+    "headline": "GTA 6 hits the NBA: the Miami Heat become 'Vice City' for one night, on the eve of the game's launch",
+    "summary": "Rockstar and the Miami Heat announce 'A Night in Vice City', with a brand-new uniform and themed court for the November 18 game against the Bucks, the eve of GTA 6's release.",
+    "body": [
+     "The GTA 6 countdown has reached the NBA hardwood. Rockstar Games and the Miami Heat announced on Friday (Oct. 2) 'A Night in Vice City': on November 18, the Florida team will host the Milwaukee Bucks at Kaseya Center wearing a never-before-seen uniform on a floor built specifically for the occasion, the 'Vice City Court'.",
+     "The game will air nationally on ESPN in the United States and lands right on the eve of launch: GTA 6 arrives on PS5 and Xbox Series X|S on November 19, unlocking at midnight just hours after the final buzzer. The team promises special fan activations inside the arena on game night.",
+     "The partnership is already moving merchandise at the official Heat store, which launched a Vice City-themed collection of T-shirts, hoodies and caps priced between $45 and $110; one cap style has already sold out. The stunt builds on Rockstar's Miami marketing push, which had already placed a giant 'Welcome to Vice City' sign atop Kaseya Center."
+    ]
+   },
+   "es": {
+    "slug": "gta-6-miami-heat-se-convierte-en-vice-city-partido-nba-vispera-lanzamiento",
+    "headline": "GTA 6 invade la NBA: el Miami Heat se convierte en 'Vice City' por una noche, en la víspera del lanzamiento del juego",
+    "summary": "Rockstar y el Miami Heat anuncian 'A Night in Vice City', con uniforme inédito y cancha temática en el partido ante los Bucks del 18 de noviembre, víspera del estreno de GTA 6.",
+    "body": [
+     "La cuenta regresiva de GTA 6 llegó a las canchas de la NBA. Rockstar Games y el Miami Heat anunciaron este viernes (2) la acción 'A Night in Vice City': el 18 de noviembre, el equipo de Florida recibirá a los Milwaukee Bucks en el Kaseya Center con un uniforme nunca antes usado y sobre un parqué creado especialmente para la ocasión, la 'Vice City Court'.",
+     "El partido tendrá transmisión nacional de ESPN en Estados Unidos y se juega justo en la víspera del lanzamiento: GTA 6 llega a PS5 y Xbox Series X|S el 19 de noviembre, con desbloqueo a medianoche, pocas horas después del final del juego. El club promete activaciones especiales para los aficionados en la arena.",
+     "La alianza ya mueve la tienda oficial del Heat, que lanzó una colección temática de Vice City con camisetas, sudaderas y gorras de entre 45 y 110 dólares; uno de los modelos de gorra ya se agotó. La acción refuerza el marketing de Rockstar en Miami, que ya había instalado un enorme letrero de 'Welcome to Vice City' en lo alto del Kaseya Center."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021710",
+  "section": "streamers",
+  "publishedAt": "2026-10-02T13:03:00Z",
+  "personIds": [],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://media.dotesports.com/wp-content/uploads/2026/10/vct-champions-2026-jdg.webp",
+   "credit": "Foto: Dot Esports / Riot Games"
+  },
+  "sources": [
+   {
+    "name": "Dot Esports",
+    "url": "https://dotesports.com/valorant/news/vct-champions-2026-china-elimination"
+   },
+   {
+    "name": "Hotspawn",
+    "url": "https://www.hotspawn.com/valorant/news/cn-eliminations-valorant-champions-shanghai"
+   },
+   {
+    "name": "VZone",
+    "url": "https://vzone.gg/noticia/adversario-definido-loud-encara-global-esports-em-partida-eliminatoria-no-champions/"
+   }
+  ],
+  "hue": 130,
+  "t": {
+   "pt": {
+    "slug": "china-eliminada-valorant-champions-xangai-loud-global-esports-domingo",
+    "headline": "Vexame em casa: China perde os quatro times no Champions de Xangai, e a Global Esports que eliminou a EDG agora cruza com a LOUD",
+    "summary": "Dona da casa, a China não venceu uma única série no Mundial de Valorant; a Global Esports passou pela EDG com 2 a 0 e decide com a LOUD, no domingo (4), a vaga nos playoffs.",
+    "body": [
+     "O Mundial de Valorant em Xangai virou pesadelo para os anfitriões. Nesta sexta-feira (2), EDward Gaming e JD Gaming caíram na repescagem da fase de grupos e completaram a eliminação de todos os quatro representantes chineses, um dia depois de TYLOO e Xi Lai Gaming também se despedirem. Até a véspera, a China somava apenas um mapa vencido no torneio e nenhuma série.",
+     "A JDG chegou a empatar com a T1 ao atropelar por 13 a 3 na Abyss, mas perdeu Lotus (13 a 11) e Haven (13 a 5). Já a EDG, que havia sido varrida pela LOUD na estreia, foi derrotada pela Global Esports por 2 a 0, com 13 a 5 na Summit e 13 a 6 na Sunset. No dia anterior, a TYLOO tinha conquistado o primeiro mapa chinês da competição, mas acabou superada pela Team Liquid por 2 a 1.",
+     "A vitória da Global Esports define o próximo desafio brasileiro: a LOUD, que perdeu para a Vitality na chave dos vencedores, encara os indianos no domingo (4), em melhor de três eliminatória. Quem vencer avança aos playoffs do Champions; quem perder dá adeus à temporada 2026."
+    ]
+   },
+   "en": {
+    "slug": "china-eliminated-valorant-champions-shanghai-loud-global-esports-sunday",
+    "headline": "Home-soil disaster: China loses all four teams at Champions Shanghai, and EDG's executioner Global Esports now meets LOUD",
+    "summary": "The host region failed to win a single series at the Valorant world championship; Global Esports swept EDG 2-0 and faces LOUD on Sunday (Oct. 4) for a playoff spot.",
+    "body": [
+     "Valorant's world championship in Shanghai turned into a nightmare for the hosts. On Friday (Oct. 2), EDward Gaming and JD Gaming fell in the group-stage elimination matches, completing the exit of all four Chinese representatives a day after TYLOO and Xi Lai Gaming were also knocked out. Going into the day, China had won just one map and no series at the event.",
+     "JDG tied the series against T1 with a 13-3 rout on Abyss, but dropped Lotus (13-11) and Haven (13-5). EDG, swept by LOUD in its opener, lost 2-0 to Global Esports, 13-5 on Summit and 13-6 on Sunset. The day before, TYLOO had claimed China's first map of the tournament before falling 2-1 to Team Liquid.",
+     "Global Esports' win sets up Brazil's next test: LOUD, beaten by Vitality in the winners' match, faces the Indian side on Sunday (Oct. 4) in a best-of-three decider. The winner reaches the Champions playoffs; the loser's 2026 season is over."
+    ]
+   },
+   "es": {
+    "slug": "china-eliminada-valorant-champions-shanghai-loud-global-esports-domingo",
+    "headline": "Desastre en casa: China pierde a sus cuatro equipos en el Champions de Shanghái, y la Global Esports que eliminó a EDG ahora se cruza con LOUD",
+    "summary": "La región anfitriona no ganó ni una serie en el Mundial de Valorant; Global Esports barrió 2-0 a EDG y define con LOUD, el domingo (4), el boleto a los playoffs.",
+    "body": [
+     "El Mundial de Valorant en Shanghái se convirtió en una pesadilla para los anfitriones. Este viernes (2), EDward Gaming y JD Gaming cayeron en los partidos de eliminación de la fase de grupos y completaron la salida de los cuatro representantes chinos, un día después de que TYLOO y Xi Lai Gaming también se despidieran. Hasta entonces, China sumaba apenas un mapa ganado y ninguna serie en el torneo.",
+     "JDG llegó a empatar ante T1 con un aplastante 13-3 en Abyss, pero perdió Lotus (13-11) y Haven (13-5). EDG, que había sido barrida por LOUD en el debut, cayó 2-0 ante Global Esports, con 13-5 en Summit y 13-6 en Sunset. El día anterior, TYLOO había conseguido el primer mapa chino de la competición antes de perder 2-1 con Team Liquid.",
+     "El triunfo de Global Esports define el próximo reto brasileño: LOUD, que perdió con Vitality en la llave de ganadores, enfrenta al equipo indio el domingo (4) en un mejor de tres eliminatorio. Quien gane avanza a los playoffs del Champions; quien pierda se despide de la temporada 2026."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021702",
+  "section": "creators",
+  "publishedAt": "2026-10-02T12:09:00Z",
+  "personIds": [
+   "elon-musk"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.thenews.com.pk/assets/uploads/2026-10-02/1418500_050913_updates.jpg",
+   "credit": "Foto: The News International"
+  },
+  "sources": [
+   {
+    "name": "ANI",
+    "url": "https://www.aninews.in/news/tech/others/elon-musk-says-instagram-is-for-girls-sparks-online-reactions20261002200239/"
+   },
+   {
+    "name": "The News International",
+    "url": "https://www.thenews.com.pk/latest/1418500-elon-musk-sparks-major-backlash-after-declaring-instagram-is-for-girls"
+   }
+  ],
+  "hue": 114,
+  "t": {
+   "pt": {
+    "slug": "elon-musk-instagram-e-para-meninas-polemica",
+    "headline": "'Instagram é para meninas': Elon Musk reacende guerra com a Meta e racha a internet",
+    "summary": "Dono do X endossou post de um perfil que apagou o Instagram e foi chamado de machista; é a segunda alfinetada do tipo só em 2026.",
+    "body": [
+     "Elon Musk voltou a provocar a Meta nesta sexta-feira (2). Ao responder a um post do perfil Geiger Capital, que contou ter apagado a conta no Instagram e descreveu o app como 'feito para mulheres', o dono do X resumiu: 'Instagram é para meninas'.",
+     "A frase viralizou e dividiu as redes. Críticos chamaram o comentário de machista e lembraram que a plataforma reúne bilhões de usuários de todos os gêneros; um deles ironizou: 'Agora rede social é dividida por gênero?'. Outros defenderam o Instagram como o espaço que dita tendências culturais e estéticas, enquanto apoiadores de Musk viram a fala como simples provocação para promover o X, rival direto do app de Mark Zuckerberg.",
+     "Não é a primeira vez. Em maio de 2026, Musk já tinha ironizado homens adultos que lhe mandavam o perfil do Instagram, em post que também foi criticado como ofensivo. Analistas ouvidos pela imprensa internacional veem nas alfinetadas recorrentes mais um capítulo da disputa entre as big techs por atenção, anunciantes e influência cultural."
+    ]
+   },
+   "en": {
+    "slug": "elon-musk-instagram-is-for-girls-backlash",
+    "headline": "'Instagram is for girls': Elon Musk reignites his Meta feud and splits the internet",
+    "summary": "The X owner endorsed a post from an account that deleted Instagram and was called sexist; it's his second jab of the kind this year.",
+    "body": [
+     "Elon Musk took another swipe at Meta on Friday (Oct. 2). Replying to a post by the account Geiger Capital, which said it had deleted Instagram and described the app as 'made for women,' the X owner summed it up: 'Instagram is for girls.'",
+     "The line went viral and divided social media. Critics called the remark sexist and pointed out that the platform has billions of users of every gender; one asked, 'Damn is social media based on gender now?' Others defended Instagram as the place that sets cultural and aesthetic trends, while Musk's supporters read it as simple trolling to promote X, a direct rival to Mark Zuckerberg's app.",
+     "It isn't the first time. In May 2026, Musk mocked grown men who sent him their Instagram profiles, a post that was also criticized as offensive. Analysts quoted by international outlets see the recurring jabs as another chapter in Big Tech's fight for attention, advertisers and cultural clout."
+    ]
+   },
+   "es": {
+    "slug": "elon-musk-instagram-es-para-chicas-polemica",
+    "headline": "'Instagram es para chicas': Elon Musk reaviva su guerra con Meta y divide a internet",
+    "summary": "El dueño de X respaldó el post de una cuenta que borró Instagram y fue tachado de machista; es su segunda pulla de este tipo en 2026.",
+    "body": [
+     "Elon Musk volvió a provocar a Meta este viernes 2 de octubre. Al responder a un post de la cuenta Geiger Capital, que contó haber borrado Instagram y describió la app como 'hecha para mujeres', el dueño de X lo resumió así: 'Instagram es para chicas'.",
+     "La frase se viralizó y dividió las redes. Los críticos la calificaron de machista y recordaron que la plataforma reúne miles de millones de usuarios de todos los géneros; uno ironizó: '¿Ahora las redes sociales se dividen por género?'. Otros defendieron a Instagram como el espacio que marca las tendencias culturales y estéticas, mientras los seguidores de Musk lo vieron como una simple provocación para promocionar X, rival directo de la app de Mark Zuckerberg.",
+     "No es la primera vez. En mayo de 2026, Musk ya se había burlado de hombres adultos que le enviaban su perfil de Instagram, en un post también criticado como ofensivo. Analistas citados por la prensa internacional ven en estas pullas otro capítulo de la pelea de las big tech por atención, anunciantes e influencia cultural."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610021216",
   "section": "movies-tv",
   "publishedAt": "2026-10-02T11:30:00Z",
   "personIds": [
    "anne-hathaway",
-   "dakota-johnson"
+   "dakota-johnson",
+   "josh-hartnett",
+   "michael-showalter"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -67,6 +1011,65 @@
    }
   },
   "format": "review"
+ },
+ {
+  "id": "2610021727",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-02T11:21:00Z",
+  "personIds": [
+   "adryana-ribeiro",
+   "christina-rocha",
+   "sergio-hondjakoff"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://admin.itatiaia.com.br/wp-content/uploads/sites/27/2026/10/Adryana-Ribeiro-foi-eliminada-de-A-Fazenda-18-2.jpg?resize=1280%2C720&w=1280&h=720&quality=75&crop=1",
+   "credit": "Foto: Reprodução/Record"
+  },
+  "sources": [
+   {
+    "name": "Itatiaia",
+    "url": "https://www.itatiaia.com.br/entretenimento/eliminada-de-a-fazenda-18-adryana-ameaca-abandonar-live-apos-briga-com-apresentadoras/"
+   },
+   {
+    "name": "iBahia",
+    "url": "https://ibahia.com/diversao/tv/resumo-a-fazenda-18-daniel-toca-o-terror-e-discute-com-thaide-monica-ataca-ator-e-darlin-e-maira-voltam-a-brigar-391536"
+   }
+  ],
+  "hue": 209,
+  "t": {
+   "pt": {
+    "slug": "a-fazenda-18-adryana-ameaca-sair-de-live-christina-rocha-daniel-provoca",
+    "headline": "A Fazenda 18: Adryana ameaça largar live após embate com Christina Rocha, e Daniel volta da Roça provocando: 'O jogo não vira, capota!'",
+    "summary": "Madrugada pós-eliminação teve bate-boca na Cabine de Descompressão, greve na cozinha e plano para esconder comida da despensa.",
+    "body": [
+     "A eliminação de Adryana Ribeiro, com 8,59% dos votos, não encerrou a confusão. Na Cabine de Descompressão, já na madrugada desta sexta (2), a cantora bateu de frente com as apresentadoras Carol Lekker e Christina Rocha, que a questionaram sobre contradições no modo como tratou Sérgio Hondjakoff: ela dizia que o ator sofria bullying, mas depois o acusou de etarismo e racismo durante uma prova. Interrompida, Adryana perguntou se poderia responder e avisou que, se quisessem, iria embora. Diante da resposta de Carol, ironizou que faria aulas de oratória com ela. No fim da live, ela recebeu a notícia da morte de um amigo em um acidente de helicóptero e se emocionou.",
+     "Dentro da sede, quem cresceu foi Daniel Erthal. Sobrevivente da Roça e imune graças ao presente deixado por Adryana, ele provocou os rivais com a frase 'o jogo não vira, capota' e cobrou mais atitude de Thaíde, que respondeu cantando uma música improvisada sobre gente desonesta. Murilo Dias, irritado com a volta de Daniel, anunciou que não cozinha mais para o grupo.",
+     "Maíra Charken, que ganhou o direito de vetar dois peões da Prova de Fogo, escolheu Rikardo Negro e Murilo, e a decisão reacendeu a briga com Darlin, que chamou a escolha de covarde. Para completar, por volta das 4h30, Jottapê e Murilo combinaram esconder mantimentos quando a despensa fosse reabastecida, só para 'criar caos' na casa."
+    ]
+   },
+   "en": {
+    "slug": "a-fazenda-18-adryana-threatens-to-leave-live-christina-rocha-daniel-taunts",
+    "headline": "A Fazenda 18: Adryana threatens to walk off live show after clash with Christina Rocha, as Daniel returns from the Roça taunting: 'The game doesn't flip, it crashes!'",
+    "summary": "The post-elimination night brought a heated exchange on the decompression show, a kitchen strike and a plan to hide pantry supplies.",
+    "body": [
+     "Adryana Ribeiro's elimination, with 8.59% of the vote, did not end the chaos. On the 'Cabine de Descompressão' live show early Friday (Oct. 2), the singer clashed with hosts Carol Lekker and Christina Rocha, who pressed her on contradictions in how she treated Sérgio Hondjakoff: she had said the actor was being bullied, but later accused him of ageism and racism during a challenge. When interrupted, Adryana asked whether she would be allowed to answer and said she could leave if they wanted. After Carol's reply, she quipped that she would take public-speaking lessons from her. At the end of the show, she learned that a friend had died in a helicopter crash and became emotional.",
+     "Inside the house, Daniel Erthal was the one on the rise. Having survived the Roça and holding immunity thanks to a gift left by Adryana, he taunted his rivals by saying 'the game doesn't flip, it crashes' and challenged Thaíde to play harder, prompting the rapper to answer with an improvised song about dishonest people. Murilo Dias, annoyed by Daniel's return, announced he would no longer cook for the group.",
+     "Maíra Charken, who won the right to bar two contestants from the Fire Challenge, picked Rikardo Negro and Murilo, reigniting her feud with Darlin, who called the choice cowardly. To top it off, around 4:30 a.m., Jottapê and Murilo agreed to hide supplies once the pantry was restocked, just to 'create chaos' in the house."
+    ]
+   },
+   "es": {
+    "slug": "a-fazenda-18-adryana-amenaza-dejar-en-vivo-christina-rocha-daniel-provoca",
+    "headline": "A Fazenda 18: Adryana amenaza con abandonar el en vivo tras chocar con Christina Rocha, y Daniel vuelve de la Roça provocando: '¡El juego no se da vuelta, vuelca!'",
+    "summary": "La madrugada tras la eliminación tuvo discusión en la Cabine de Descompressão, huelga en la cocina y un plan para esconder comida de la despensa.",
+    "body": [
+     "La eliminación de Adryana Ribeiro, con el 8,59% de los votos, no terminó con el caos. En la Cabine de Descompressão, ya en la madrugada de este viernes (2), la cantante chocó con las presentadoras Carol Lekker y Christina Rocha, que la cuestionaron por contradicciones en su trato a Sérgio Hondjakoff: decía que el actor sufría bullying, pero luego lo acusó de edadismo y racismo durante una prueba. Al ser interrumpida, Adryana preguntó si podría responder y avisó que, si querían, se iba. Tras la respuesta de Carol, ironizó que tomaría clases de oratoria con ella. Al final del programa, recibió la noticia de la muerte de un amigo en un accidente de helicóptero y se emocionó.",
+     "Dentro de la casa, quien creció fue Daniel Erthal. Sobreviviente de la Roça e inmune gracias al regalo que le dejó Adryana, provocó a sus rivales con la frase 'el juego no se da vuelta, vuelca' y le exigió más actitud a Thaíde, que respondió con una canción improvisada sobre gente deshonesta. Murilo Dias, molesto por el regreso de Daniel, anunció que ya no cocina para el grupo.",
+     "Maíra Charken, que ganó el derecho de vetar a dos participantes de la Prueba de Fuego, eligió a Rikardo Negro y a Murilo, y la decisión reavivó la pelea con Darlin, que calificó la elección de cobarde. Para colmo, cerca de las 4:30, Jottapê y Murilo acordaron esconder provisiones cuando se reabasteciera la despensa, solo para 'crear caos' en la casa."
+    ]
+   }
+  }
  },
  {
   "id": "2610021207",
@@ -425,6 +1428,121 @@
   }
  },
  {
+  "id": "2610021715",
+  "section": "music",
+  "publishedAt": "2026-10-02T04:14:00Z",
+  "personIds": [
+   "cazzu"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/UFM6HKHTQJBG7D5S376RQ3CD2U.png?auth=f9b4f7f3be94290108773f45fa4439d72c0992766b769b78588a922e97721754&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Infobae"
+  },
+  "sources": [
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/teleshow/2026/10/02/cazzu-dara-su-primer-show-en-un-estadio-en-jujuy-con-homenajes-a-su-tierra-me-da-verguenza-pero-estoy-orgullosa/"
+   }
+  ],
+  "hue": 5,
+  "t": {
+   "pt": {
+    "slug": "cazzu-primeiro-show-estadio-jujuy",
+    "headline": "Cazzu faz neste sábado o primeiro show em estádio da carreira — e escolheu a terra natal, Jujuy: 'Ninguém vem de fora'",
+    "summary": "A rapper argentina sobe ao palco do Estadio 23 de Agosto só com músicos locais e homenagens ao norte do país.",
+    "body": [
+     "Cazzu vai realizar neste sábado (3) o primeiro show em estádio de sua carreira, e o palco não poderia ser mais simbólico: o Estadio 23 de Agosto, em San Salvador de Jujuy, no norte da Argentina, província onde a cantora nasceu.",
+     "A ideia é transformar a noite numa celebração regional. Segundo a artista, a banda será formada exclusivamente por músicos da província — 'Ninguém vem de fora, são todos daqui' — e o roteiro inclui gestos de homenagem à terra. 'Sou mais de onde sou do que de quem sou', resumiu, admitindo sentir vergonha e orgulho ao mesmo tempo.",
+     "O show vem na esteira de 'Latinaje', quarto álbum da cantora, que mergulha em cumbia, música andina e instrumentos tradicionais como quenas e sikus. Cazzu contou ainda que a maternidade a reconectou com memórias de infância e que uma canção de ninar dedicada à filha, Inti, foi das mais difíceis de gravar e de cantar ao vivo."
+    ]
+   },
+   "en": {
+    "slug": "cazzu-first-stadium-show-jujuy",
+    "headline": "Cazzu plays the first stadium show of her career on Saturday — in her home province of Jujuy: 'Nobody's coming from outside'",
+    "summary": "The Argentine star takes the Estadio 23 de Agosto stage with only local musicians and tributes to northern Argentina.",
+    "body": [
+     "Cazzu will play the first stadium show of her career on Saturday (Oct. 3), and the venue couldn't be more symbolic: the Estadio 23 de Agosto in San Salvador de Jujuy, in northern Argentina, the province where the singer was born.",
+     "The plan is to turn the night into a regional celebration. According to the artist, the band will be made up exclusively of local musicians — 'Nobody's coming from outside, they're all from here' — and the show includes tributes to her homeland. 'I'm more about where I'm from than who I am,' she said, admitting she feels embarrassed and proud at the same time.",
+     "The concert follows 'Latinaje', her fourth album, which dives into cumbia, Andean music and traditional instruments like quenas and sikus. Cazzu also said motherhood reconnected her with childhood memories, and that a lullaby dedicated to her daughter, Inti, was among the hardest songs to record and perform live."
+    ]
+   },
+   "es": {
+    "slug": "cazzu-primer-show-estadio-jujuy",
+    "headline": "Cazzu da este sábado el primer show en estadio de su carrera, y eligió su Jujuy natal: 'No viene nadie de afuera'",
+    "summary": "La artista argentina sube al Estadio 23 de Agosto solo con músicos locales y homenajes al norte del país.",
+    "body": [
+     "Cazzu dará este sábado 3 el primer show en estadio de su carrera, y el lugar no podría ser más simbólico: el Estadio 23 de Agosto, en San Salvador de Jujuy, la provincia donde nació.",
+     "La idea es convertir la noche en una celebración regional. Según la artista, la banda estará formada exclusivamente por músicos de la provincia —'No viene nadie de afuera, son todos de acá'— y el show incluye gestos de homenaje a su tierra. 'Soy más de dónde soy que quién soy', resumió, y admitió sentir vergüenza y orgullo a la vez.",
+     "El concierto llega tras 'Latinaje', su cuarto álbum, que se sumerge en la cumbia, la música andina e instrumentos tradicionales como quenas y sikus. Cazzu contó además que la maternidad la reconectó con recuerdos de la infancia y que una canción de cuna dedicada a su hija, Inti, fue de las más difíciles de grabar y de cantar en vivo."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021718",
+  "section": "music",
+  "publishedAt": "2026-10-02T04:00:00Z",
+  "personIds": [
+   "drake",
+   "ella-langley"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://ca.rollingstone.com/media-library/drake-attends-a-game-between-the-houston-rockets-and-the-cleveland-cavaliers.webp?id=67571515&width=1200&height=600&coordinates=0%2C132%2C0%2C132",
+   "credit": "Foto: Rolling Stone Canada"
+  },
+  "sources": [
+   {
+    "name": "Rolling Stone Canada",
+    "url": "https://ca.rollingstone.com/music/drake-expands-habibti-with-four-songs-from-fomo/"
+   },
+   {
+    "name": "Consequence",
+    "url": "https://consequence.net/2026/10/drake-fomo-choosin-texas/"
+   },
+   {
+    "name": "HipHop-N-More",
+    "url": "https://hiphop-n-more.com/2026/10/drake-releases-habibti-fomo-edition-feat-4-new-tracks-stream/"
+   }
+  ],
+  "hue": 146,
+  "t": {
+   "pt": {
+    "slug": "drake-habibti-fomo-quatro-faixas-ineditas-don-toliver-yebba",
+    "headline": "Drake cede aos fãs e solta 4 faixas do filme 'FOMO', com Don Toliver, Yebba e até 'Choosin' Texas'",
+    "summary": "Edição expandida de 'HABIBTI' passa de 11 para 15 músicas e traz as canções que só existiam no filme do rapper.",
+    "body": [
+     "Drake atendeu ao pedido dos fãs e lançou nesta sexta-feira (2) 'HABIBTI (FOMO)', versão ampliada do álbum que saiu em maio. O disco passa de 11 para 15 faixas com quatro inéditas que até agora só podiam ser ouvidas em 'Fear of Missing Out', filme bancado pelo próprio rapper e exibido online em 15 de setembro.",
+     "As novidades são 'Quebec', solo que já tinha clipe próprio no filme; 'Cold Shoulder', com Don Toliver e Yebba, apresentada com cenas no parque Canada's Wonderland; 'Classic PT2', continuação da faixa 'Classic'; e 'Solar Eclipse', também com Don Toliver, construída em cima de 'Choosin' Texas', sucesso country de Ella Langley.",
+     "'HABIBTI' fez parte de um lançamento triplo inédito em maio, ao lado de 'ICEMAN' e 'MAID OF HONOR'. Dias antes, Drake avisou em uma live que 'boa parte' das músicas pedidas chegaria às plataformas, mas deixou claro que nem tudo o que aparece no filme seria lançado."
+    ]
+   },
+   "en": {
+    "slug": "drake-habibti-fomo-four-new-songs-don-toliver-yebba",
+    "headline": "Drake gives in to fans and drops 4 songs from his 'FOMO' film, with Don Toliver, Yebba and even 'Choosin' Texas'",
+    "summary": "The expanded edition of 'HABIBTI' grows from 11 to 15 tracks and adds songs that had only existed in the rapper's film.",
+    "body": [
+     "Drake answered fans' demands and released 'HABIBTI (FOMO)' on Friday (Oct. 2), an expanded version of the album that came out in May. The project grows from 11 to 15 tracks with four new songs that until now could only be heard in 'Fear of Missing Out', the self-funded film the rapper premiered online on Sept. 15.",
+     "The additions are 'Quebec', a solo cut that already had its own visual in the film; 'Cold Shoulder', with Don Toliver and Yebba, introduced with footage at Canada's Wonderland; 'Classic PT2', a follow-up to 'Classic'; and 'Solar Eclipse', also featuring Don Toliver, built around Ella Langley's country hit 'Choosin' Texas'.",
+     "'HABIBTI' was part of an unprecedented triple release in May alongside 'ICEMAN' and 'MAID OF HONOR'. Days ago, Drake said on a livestream that 'enough' of the requested songs were coming to streaming, while making clear that not everything in the film would be released."
+    ]
+   },
+   "es": {
+    "slug": "drake-habibti-fomo-cuatro-canciones-ineditas-don-toliver-yebba",
+    "headline": "Drake cede ante los fans y lanza 4 temas de su película 'FOMO', con Don Toliver, Yebba y hasta 'Choosin' Texas'",
+    "summary": "La edición ampliada de 'HABIBTI' pasa de 11 a 15 canciones y suma temas que solo existían en el filme del rapero.",
+    "body": [
+     "Drake escuchó a sus fans y lanzó este viernes (2) 'HABIBTI (FOMO)', versión ampliada del álbum que salió en mayo. El disco pasa de 11 a 15 temas con cuatro inéditos que hasta ahora solo se podían oír en 'Fear of Missing Out', la película financiada por el propio rapero y estrenada en línea el 15 de septiembre.",
+     "Las novedades son 'Quebec', tema solista que ya tenía su propio video en el filme; 'Cold Shoulder', con Don Toliver y Yebba, presentada con escenas en el parque Canada's Wonderland; 'Classic PT2', continuación de 'Classic'; y 'Solar Eclipse', también con Don Toliver, construida sobre 'Choosin' Texas', éxito country de Ella Langley.",
+     "'HABIBTI' formó parte de un lanzamiento triple inédito en mayo, junto a 'ICEMAN' y 'MAID OF HONOR'. Días atrás, Drake avisó en un directo que 'buena parte' de las canciones pedidas llegaría a las plataformas, aunque aclaró que no todo lo que aparece en la película sería publicado."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610021201",
   "section": "movies-tv",
   "publishedAt": "2026-10-02T03:20:00Z",
@@ -547,6 +1665,118 @@
    }
   },
   "breaking": true
+ },
+ {
+  "id": "2610021714",
+  "section": "music",
+  "publishedAt": "2026-10-02T03:00:00Z",
+  "personIds": [
+   "alok",
+   "nayeon"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://billboard-com-br.s3.amazonaws.com/wp-content/uploads/2026/09/30120858/Alok-e-NAYEON-do-TWICE.webp",
+   "credit": "Foto: Divulgação / Billboard Brasil"
+  },
+  "sources": [
+   {
+    "name": "Billboard Brasil",
+    "url": "https://billboard.com.br/alok-e-nayeon-do-twice-bye-bye-inhibitions/"
+   },
+   {
+    "name": "Sports Kyunghyang",
+    "url": "https://sports.khan.co.kr/en/article/202610022207007/"
+   }
+  ],
+  "hue": 318,
+  "t": {
+   "pt": {
+    "slug": "alok-nayeon-twice-bye-bye-inhibitions-lancamento",
+    "headline": "Saiu! Alok e Nayeon, do TWICE, lançam 'Bye Bye Inhibitions', a parceria revelada de surpresa no Rock in Rio",
+    "summary": "Dance-pop feito para festival chega às plataformas e ganha estreia ao vivo no EDC Korea neste domingo.",
+    "body": [
+     "Já está nas plataformas 'Bye Bye Inhibitions', a primeira parceria entre o DJ e produtor brasileiro Alok e Nayeon, integrante do TWICE. A faixa saiu à meia-noite desta sexta-feira (2), em cada fuso horário, e é vendida como um encontro inédito entre a eletrônica feita no Brasil e o K-pop.",
+     "A música não é totalmente nova para o público brasileiro: Alok já tinha tocado a faixa no Palco Mundo do Rock in Rio, em 11 de setembro, quando a voz de Nayeon foi revelada como surpresa para a plateia. A imprensa coreana descreve o resultado como um dance-pop de melodia viciante e produção pensada para festivais, com mensagem de curtir o momento e se expressar sem amarras.",
+     "A primeira apresentação ao vivo oficial está marcada para este domingo (4), no festival EDC Korea. Nayeon, que entrou no TWICE em 2015, foi a primeira integrante do grupo a lançar trabalho solo, com o EP 'IM NAYEON' e o hit 'POP!', em 2022."
+    ]
+   },
+   "en": {
+    "slug": "alok-nayeon-twice-bye-bye-inhibitions-release",
+    "headline": "It's out! Alok and TWICE's Nayeon drop 'Bye Bye Inhibitions', the collab revealed as a Rock in Rio surprise",
+    "summary": "The festival-ready dance-pop track hits streaming and gets its live debut at EDC Korea on Sunday.",
+    "body": [
+     "'Bye Bye Inhibitions', the first collaboration between Brazilian DJ-producer Alok and TWICE member Nayeon, is now on streaming platforms. The track dropped at midnight on Friday (Oct. 2) in each time zone and is billed as an unprecedented meeting of Brazilian-made electronic music and K-pop.",
+     "Brazilian fans have heard it before: Alok played the track on Rock in Rio's main stage on Sept. 11, when Nayeon's vocals were revealed as a surprise to the crowd. Korean press describes it as dance-pop with an addictive melody and festival-built production, carrying a message about enjoying the moment and expressing yourself freely.",
+     "The first official live performance is set for Sunday (Oct. 4) at EDC Korea. Nayeon, who joined TWICE in 2015, was the group's first member to release solo work, with the 2022 EP 'IM NAYEON' and the hit 'POP!'."
+    ]
+   },
+   "es": {
+    "slug": "alok-nayeon-twice-bye-bye-inhibitions-lanzamiento",
+    "headline": "¡Ya salió! Alok y Nayeon, de TWICE, lanzan 'Bye Bye Inhibitions', la colaboración revelada por sorpresa en Rock in Rio",
+    "summary": "El dance-pop pensado para festivales llega a las plataformas y debuta en vivo en el EDC Korea este domingo.",
+    "body": [
+     "Ya está en plataformas 'Bye Bye Inhibitions', la primera colaboración entre el DJ y productor brasileño Alok y Nayeon, integrante de TWICE. El tema salió a la medianoche de este viernes 2, en cada huso horario, y se presenta como un encuentro inédito entre la electrónica hecha en Brasil y el K-pop.",
+     "El público brasileño ya lo conocía: Alok lo tocó en el Palco Mundo de Rock in Rio el 11 de septiembre, cuando la voz de Nayeon se reveló como sorpresa. La prensa coreana lo describe como un dance-pop de melodía adictiva y producción pensada para festivales, con un mensaje sobre disfrutar el momento y expresarse sin ataduras.",
+     "La primera presentación oficial en vivo será este domingo 4, en el festival EDC Korea. Nayeon, que entró a TWICE en 2015, fue la primera integrante del grupo en lanzar material solista, con el EP 'IM NAYEON' y el hit 'POP!', en 2022."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021722",
+  "section": "music",
+  "publishedAt": "2026-10-02T02:55:00Z",
+  "personIds": [
+   "onew",
+   "zico"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://wimg.heraldcorp.com/news/cms/2026/10/02/news-p.v1.20261002.2b12b9d5c8544cd78bf0c50a725a747f_P1.jpg",
+   "credit": "Foto: The Korea Herald"
+  },
+  "sources": [
+   {
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10891758"
+   }
+  ],
+  "hue": 334,
+  "t": {
+   "pt": {
+    "slug": "onew-shinee-zico-tic-tac-toe-delusion",
+    "headline": "Depois de Yuju, Onew chama Zico: dueto 'Tic Tac Toe' sai dia 7 e esquenta o 1º single álbum do astro do SHINee",
+    "summary": "Faixa é uma das três músicas de foco de 'Delusion', que chega completo em 20 de outubro.",
+    "body": [
+     "Onew, do SHINee, anunciou mais um parceiro de peso: o cantor e produtor Zico divide com ele 'Tic Tac Toe', dueto que sai em 7 de outubro. A informação foi confirmada pela Griffin Entertainment, gravadora do artista.",
+     "A música é uma das três faixas de foco de 'Delusion', primeiro single álbum da carreira solo de Onew. Antes dela veio 'Mind Games', lançada com Yuju, ex-integrante do GFriend. O projeto completo chega em 20 de outubro.",
+     "É um ano movimentado para o cantor: 'Delusion' chega cerca de sete meses depois do quinto EP, 'Tough Love', e logo após um single lançado no Japão em setembro."
+    ]
+   },
+   "en": {
+    "slug": "onew-shinee-zico-tic-tac-toe-delusion",
+    "headline": "After Yuju, Onew calls in Zico: duet 'Tic Tac Toe' drops Oct. 7 ahead of the SHINee star's first single album",
+    "summary": "The track is one of three focus songs on 'Delusion', out in full on Oct. 20.",
+    "body": [
+     "SHINee's Onew has announced another heavyweight partner: singer and producer Zico joins him on 'Tic Tac Toe', a duet out Oct. 7. The news was confirmed by Griffin Entertainment, the singer's label.",
+     "The song is one of three focus tracks on 'Delusion', the first single album of Onew's solo career. It follows 'Mind Games', released with Yuju, formerly of GFriend. The full project arrives Oct. 20.",
+     "It is a busy year for the singer: 'Delusion' lands about seven months after his fifth EP, 'Tough Love', and right after a single released in Japan in September."
+    ]
+   },
+   "es": {
+    "slug": "onew-shinee-zico-tic-tac-toe-delusion",
+    "headline": "Tras Yuju, Onew llama a Zico: el dueto 'Tic Tac Toe' sale el 7 y anticipa el primer single álbum de la estrella de SHINee",
+    "summary": "El tema es uno de los tres focales de 'Delusion', que llega completo el 20 de octubre.",
+    "body": [
+     "Onew, de SHINee, anunció otro socio de peso: el cantante y productor Zico comparte con él 'Tic Tac Toe', un dueto que sale el 7 de octubre. La noticia fue confirmada por Griffin Entertainment, su sello.",
+     "La canción es uno de los tres temas focales de 'Delusion', el primer single álbum de la carrera solista de Onew. Antes llegó 'Mind Games', lanzada con Yuju, exintegrante de GFriend. El proyecto completo sale el 20 de octubre.",
+     "Es un año intenso para el cantante: 'Delusion' llega unos siete meses después de su quinto EP, 'Tough Love', y justo tras un sencillo lanzado en Japón en septiembre."
+    ]
+   }
+  }
  },
  {
   "id": "2610021205",
@@ -971,6 +2201,67 @@
   }
  },
  {
+  "id": "2610021706",
+  "section": "news",
+  "publishedAt": "2026-10-01T19:59:00Z",
+  "personIds": [
+   "jim-carrey"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://imagez.tmz.com/image/e6/16by9/2026/10/01/e60d242d08154505a5e59cb4b95df58f_xl.jpg",
+   "credit": "Foto: TMZ"
+  },
+  "sources": [
+   {
+    "name": "TMZ",
+    "url": "https://www.tmz.com/2026/10/01/jim-carrey-maui-mansion-for-sale/"
+   },
+   {
+    "name": "eMaui Real Estate",
+    "url": "https://blog.emauirealestate.com/2026/10/jim-carreys-maui-mansion-for-sale/"
+   }
+  ],
+  "hue": 302,
+  "t": {
+   "pt": {
+    "slug": "jim-carrey-mansao-maui-havai-35-milhoes",
+    "headline": "Teto de palha, praia na porta e tobogã na piscina: a mansão de US$ 35 milhões que Jim Carrey pôs à venda no Havaí",
+    "summary": "Horas depois de o casamento secreto com Min Ah vir à tona, o ator anunciou a venda de seu refúgio à beira-mar em Maui, que já pertenceu ao diretor de 'Os Goonies'.",
+    "body": [
+     "Jim Carrey mal deixou a notícia do casamento secreto com Min Ah esfriar: horas depois de o enlace vir a público, o ator colocou à venda sua propriedade em Maui, no Havaí, por US$ 35 milhões, segundo o TMZ. O imóvel fica na Keawakapu Beach, na divisa entre Kihei e Wailea, e é anunciado pela imobiliária eMaui Real Estate.",
+     "O terreno tem quase um acre (cerca de 4 mil m²) espalhado por dois lotes de frente para o mar, com aproximadamente 170 pés (uns 52 metros) de faixa de areia. A casa principal, com mais de 4 mil pés quadrados, três quartos e cinco banheiros, foi construída em 2002 e projetada pelo escritório Ike Kligerman Barkley, com cara de resort tropical: teto de palha, estrutura de pinho Douglas e interiores revestidos de bambu trançado.",
+     "A área externa é o grande chamariz. A piscina de formato livre tem pedras naturais, gruta, tobogã e spa, cercada por coqueiros e paisagismo tropical maduro. Há ainda uma casa de hóspedes separada, com dois quartos e entrada própria, e o imóvel é vendido totalmente mobiliado.",
+     "A mansão também tem pedigree de Hollywood: de acordo com a imobiliária, ela pertenceu ao diretor Richard Donner, de 'Superman', 'Os Goonies' e 'Máquina Mortífera', e à produtora Lauren Shuler Donner, da franquia 'X-Men', e foi vendida em novembro de 2016 por US$ 16,5 milhões. Se sair pelo preço pedido agora, o valor terá mais que dobrado em dez anos."
+    ]
+   },
+   "en": {
+    "slug": "jim-carrey-maui-mansion-hawaii-35-million",
+    "headline": "Thatched roof, beach out front and a pool slide: inside the $35 million Hawaii mansion Jim Carrey just put up for sale",
+    "summary": "Hours after his secret marriage to Min Ah came to light, the actor listed his oceanfront retreat in Maui, a home once owned by the director of 'The Goonies'.",
+    "body": [
+     "Jim Carrey barely let the news of his secret marriage to Min Ah cool down: hours after the wedding became public, the actor listed his property in Maui, Hawaii, for $35 million, according to TMZ. The home sits on Keawakapu Beach, on the border of Kihei and Wailea, and is being marketed by eMaui Real Estate.",
+     "The estate covers nearly one acre across two beachfront lots, with roughly 170 feet of sand frontage. The main house, at more than 4,000 square feet with three bedrooms and five bathrooms, was built in 2002 and designed by the firm Ike Kligerman Barkley with a tropical-resort feel: a thatched roof, Douglas fir framing and woven bamboo interiors.",
+     "The outdoor space is the real showstopper. The freeform pool has natural rock, a grotto, a slide and a spa, surrounded by coconut palms and mature tropical landscaping. There is also a separate two-bedroom guest house with its own entrance, and the property is being sold fully furnished.",
+     "The mansion also has Hollywood pedigree: according to the brokerage, it belonged to director Richard Donner, of 'Superman', 'The Goonies' and 'Lethal Weapon', and producer Lauren Shuler Donner, of the 'X-Men' franchise, and it sold in November 2016 for $16.5 million. If it fetches the current asking price, its value will have more than doubled in ten years."
+    ]
+   },
+   "es": {
+    "slug": "jim-carrey-mansion-maui-hawai-35-millones",
+    "headline": "Techo de paja, playa en la puerta y tobogán en la piscina: la mansión de US$ 35 millones que Jim Carrey puso a la venta en Hawái",
+    "summary": "Horas después de que saliera a la luz su boda secreta con Min Ah, el actor puso en venta su refugio frente al mar en Maui, que perteneció al director de 'Los Goonies'.",
+    "body": [
+     "Jim Carrey apenas dejó enfriar la noticia de su boda secreta con Min Ah: horas después de que el enlace se hiciera público, el actor puso a la venta su propiedad en Maui, Hawái, por US$ 35 millones, según TMZ. La casa está en Keawakapu Beach, en el límite entre Kihei y Wailea, y la comercializa la inmobiliaria eMaui Real Estate.",
+     "El terreno tiene casi un acre (unos 4.000 m²) repartido en dos lotes frente al mar, con aproximadamente 170 pies (unos 52 metros) de playa. La casa principal, de más de 4.000 pies cuadrados, tres dormitorios y cinco baños, fue construida en 2002 y diseñada por el estudio Ike Kligerman Barkley con aire de resort tropical: techo de paja, estructura de pino Douglas e interiores de bambú tejido.",
+     "El exterior es el gran atractivo. La piscina de forma libre tiene rocas naturales, gruta, tobogán y spa, rodeada de cocoteros y paisajismo tropical maduro. Además hay una casa de huéspedes independiente, con dos dormitorios y entrada propia, y la propiedad se vende totalmente amueblada.",
+     "La mansión también tiene pedigrí de Hollywood: según la inmobiliaria, perteneció al director Richard Donner, de 'Superman', 'Los Goonies' y 'Arma mortal', y a la productora Lauren Shuler Donner, de la franquicia 'X-Men', y se vendió en noviembre de 2016 por US$ 16,5 millones. Si se vende al precio pedido, su valor se habrá más que duplicado en diez años."
+    ]
+   }
+  },
+  "format": "feature"
+ },
+ {
   "id": "2610012319",
   "section": "news",
   "publishedAt": "2026-10-01T19:48:00Z",
@@ -1019,6 +2310,116 @@
      "Jim Carrey está casado. El actor de 'La máscara' y 'The Truman Show' se casó con Min Ah, actriz y artista, en una ceremonia pequeña y privada en Los Ángeles, según confirmó su representante a ABC News. La fecha exacta no se dio a conocer.",
      "La pareja está junta desde hace años, pero mantuvo el romance lejos de los flashes. Su primera aparición juntos en una premiación fue en febrero de 2026, en los César, en París, cuando Carrey recibió un premio honorífico a su carrera y se declaró en francés: 'Gracias a mi compañera sublime, Min Ah. Te amo, Min Ah'.",
      "Es el tercer matrimonio del actor, de 64 años. Estuvo casado con Melissa Womer, madre de su única hija, de 1987 a 1995, y con la actriz Lauren Holly, de 1996 a 1997."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021703",
+  "section": "creators",
+  "publishedAt": "2026-10-01T19:36:00Z",
+  "personIds": [
+   "jake-paul"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://images.axios.com/wbJgbzcW3mOu_UWcDG2TRtOotbM=/0x0:4513x2539/1366x768/2026/10/01/1790866355312.jpeg",
+   "credit": "Foto: Axios"
+  },
+  "sources": [
+   {
+    "name": "Axios",
+    "url": "https://www.axios.com/2026/10/01/jake-paul-anti-fund-ii-400m"
+   }
+  ],
+  "hue": 161,
+  "t": {
+   "pt": {
+    "slug": "jake-paul-anti-fund-400-milhoes-dolares",
+    "headline": "De youtuber a investidor da OpenAI: Jake Paul quer levantar US$ 400 milhões para novo fundo",
+    "summary": "O Anti Fund, que tem Logan Paul como sócio, busca um segundo fundo 13 vezes maior que o primeiro, segundo documento enviado à SEC.",
+    "body": [
+     "Jake Paul quer dar um salto no mercado financeiro. O Anti Fund, gestora de venture capital que o youtuber e boxeador fundou com o investidor Geoffrey Woo, mira US$ 400 milhões para seu segundo fundo, segundo registro na SEC, a comissão de valores mobiliários dos EUA, revelado pelo Axios nesta quinta-feira (1º).",
+     "O valor é mais de 13 vezes o do primeiro fundo, de US$ 30 milhões, fechado em dezembro de 2025. Em junho de 2026, a gestora ainda concluiu um fundo de crescimento de US$ 100 milhões e hoje administra mais de US$ 180 milhões. O irmão, Logan Paul, entrou como sócio em 2025.",
+     "No portfólio estão nomes pesados do setor de tecnologia, como OpenAI, Anduril, Cognition, Helion e Erebor. O movimento reforça a virada de Jake Paul, que saiu dos vídeos de pegadinha para o boxe e agora tenta se firmar entre os investidores do Vale do Silício."
+    ]
+   },
+   "en": {
+    "slug": "jake-paul-anti-fund-400-million",
+    "headline": "From YouTuber to OpenAI investor: Jake Paul wants to raise $400 million for a new fund",
+    "summary": "Anti Fund, where Logan Paul is a partner, is targeting a second fund 13 times larger than its first, according to an SEC filing.",
+    "body": [
+     "Jake Paul is making a bigger play in finance. Anti Fund, the venture capital firm the YouTuber and boxer co-founded with investor Geoffrey Woo, is targeting $400 million for its second fund, according to an SEC filing reported by Axios on Thursday (Oct. 1).",
+     "That is more than 13 times the size of its $30 million debut fund, which closed in December 2025. In June 2026 the firm also closed a $100 million growth fund, and it now manages more than $180 million. His brother, Logan Paul, joined as a general partner in 2025.",
+     "The portfolio includes heavyweight tech names such as OpenAI, Anduril, Cognition, Helion and Erebor. The move underlines Jake Paul's reinvention, from prank videos to boxing and now to a seat among Silicon Valley investors."
+    ]
+   },
+   "es": {
+    "slug": "jake-paul-anti-fund-400-millones-dolares",
+    "headline": "De youtuber a inversor de OpenAI: Jake Paul quiere reunir US$ 400 millones para un nuevo fondo",
+    "summary": "Anti Fund, donde Logan Paul es socio, busca un segundo fondo 13 veces mayor que el primero, según un documento presentado ante la SEC.",
+    "body": [
+     "Jake Paul quiere dar un salto en las finanzas. Anti Fund, la gestora de capital de riesgo que el youtuber y boxeador fundó con el inversor Geoffrey Woo, apunta a US$ 400 millones para su segundo fondo, según un registro ante la SEC, el regulador bursátil de EE. UU., revelado por Axios el jueves 1 de octubre.",
+     "La cifra supera en más de 13 veces su primer fondo, de US$ 30 millones, cerrado en diciembre de 2025. En junio de 2026 la gestora cerró además un fondo de crecimiento de US$ 100 millones y hoy administra más de US$ 180 millones. Su hermano, Logan Paul, se sumó como socio en 2025.",
+     "En la cartera figuran pesos pesados de la tecnología como OpenAI, Anduril, Cognition, Helion y Erebor. El movimiento refuerza la reinvención de Jake Paul, que pasó de los videos de bromas al boxeo y ahora busca un lugar entre los inversores de Silicon Valley."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021712",
+  "section": "music",
+  "publishedAt": "2026-10-01T19:32:00Z",
+  "personIds": [
+   "pablo"
+  ],
+  "confidence": "confirmed",
+  "risk": "yellow",
+  "image": {
+   "url": "https://i.metroimg.com/N6QQkCbSwgWAFoJ1BNQIICEEP27GMReISzFD56DkOoE/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/pablo-acusado-calote-cancela-show-eua-explica6.jpg",
+   "credit": "Foto: Metrópoles"
+  },
+  "sources": [
+   {
+    "name": "Metrópoles",
+    "url": "https://www.metropoles.com/colunas/fabia-oliveira/apos-cancelar-show-nos-eua-e-ser-acusado-de-calote-pablo-se-explica"
+   },
+   {
+    "name": "O Tempo",
+    "url": "https://www.otempo.com.br/entretenimento/2026/10/1/cantor-pablo-cancela-shows-nos-eua-apos-equipe-ter-visto-negado"
+   }
+  ],
+  "hue": 224,
+  "t": {
+   "pt": {
+    "slug": "pablo-cancela-shows-eua-visto-negado-acusado-calote",
+    "headline": "Pablo cancela shows nos EUA na véspera, e produtora cobra mais de US$ 88 mil: 'Falou que não ia embarcar'",
+    "summary": "Equipe do rei do arrocha culpa vistos negados; empresário americano fala em calote.",
+    "body": [
+     "O cantor Pablo, um dos maiores nomes do arrocha, cancelou os dois shows que faria nos Estados Unidos: Boston, nesta sexta-feira (2), e Newark, em Nova Jersey, neste sábado (3). A notícia veio a poucos dias das apresentações e acabou virando briga pública com o produtor responsável pela turnê.",
+     "Adilson Alves Schuina, dono da Schuina Productions, afirma que já tinha pago mais de US$ 88 mil (cerca de R$ 455 mil) e acusa o lado do cantor de calote. Segundo ele, o empresário de Pablo, Mário Paim, simplesmente avisou que 'não ia embarcar'.",
+     "Em nota, a M&P Produções diz que os shows não aconteceram por 'circunstâncias imprevistas e alheias à vontade do artista e da equipe', ligadas exclusivamente ao processo migratório: integrantes essenciais tiveram o visto negado e outros só receberam os passaportes liberados em 30 de setembro. O escritório agradeceu a compreensão do público; até agora não há informação sobre devolução de valores ou novas datas."
+    ]
+   },
+   "en": {
+    "slug": "pablo-cancels-us-shows-visa-denied-promoter-accuses",
+    "headline": "Brazilian star Pablo cancels US shows at the last minute, and promoter demands back over $88,000: 'He said he wasn't boarding'",
+    "summary": "The arrocha king's team blames denied visas; the US promoter calls it a stiff.",
+    "body": [
+     "Brazilian singer Pablo, one of the biggest names in arrocha music, has canceled the two concerts he was set to play in the United States: Boston on Friday (Oct. 2) and Newark, New Jersey, on Saturday (Oct. 3). The news came just days before the shows and turned into a public fight with the tour's promoter.",
+     "Adilson Alves Schuina, owner of Schuina Productions, says he had already paid more than US$88,000 (about R$455,000) and accuses the singer's camp of reneging. According to him, Pablo's manager, Mário Paim, simply said he 'wasn't going to board.'",
+     "In a statement, M&P Produções said the shows could not happen due to 'unforeseen circumstances beyond the control of the artist and team', related solely to immigration: key team members were denied visas and others only had passports cleared on Sept. 30. The office thanked fans for their understanding; so far there is no word on refunds or new dates."
+    ]
+   },
+   "es": {
+    "slug": "pablo-cancela-shows-eeuu-visa-negada-productor-acusa",
+    "headline": "Pablo cancela sus shows en EE. UU. a último momento y el productor reclama más de US$ 88.000: 'Dijo que no iba a embarcar'",
+    "summary": "El equipo del rey del arrocha culpa a visas negadas; el empresario estadounidense habla de estafa.",
+    "body": [
+     "El cantante brasileño Pablo, uno de los mayores nombres del arrocha, canceló los dos conciertos que daría en Estados Unidos: Boston, este viernes 2, y Newark, Nueva Jersey, el sábado 3. La noticia llegó a pocos días de las presentaciones y terminó en una pelea pública con el productor de la gira.",
+     "Adilson Alves Schuina, dueño de Schuina Productions, asegura que ya había pagado más de US$ 88.000 (unos R$ 455.000) y acusa al equipo del cantante de incumplimiento. Según él, el representante de Pablo, Mário Paim, simplemente avisó que 'no iba a embarcar'.",
+     "En un comunicado, M&P Produções afirmó que los shows no se hicieron por 'circunstancias imprevistas y ajenas al artista y su equipo', ligadas exclusivamente al proceso migratorio: miembros clave tuvieron la visa negada y otros recién recibieron sus pasaportes el 30 de septiembre. La oficina agradeció la comprensión del público; por ahora no hay información sobre reembolsos ni nuevas fechas."
     ]
    }
   }
@@ -1078,6 +2479,121 @@
      "El regreso de Marcus Fenix empezó con buen pie. Con el fin del embargo de reseñas este miércoles (1), Gears of War: E-Day, de The Coalition, apareció en Metacritic con un promedio de entre 87 y 88: el mejor resultado de la saga desde Gears of War 3 (91) y por encima de Gears 4 y Gears 5, que quedaron en 84.",
      "La precuela transcurre en el Día de la Emergencia, cuando los Locust surgen del subsuelo, y reúne a Marcus y Dom Santiago con personajes nuevos. Medios como Pure Xbox y DayOne le dieron un 10 y hablan del mejor combate de la franquicia en veinte años; GamingBolt le puso 9, y VGC y GAMINGbible, 8. La nota discordante fue la del francés Gamekult, que le dio 5 y vio una saga 'en piloto automático'.",
      "Parte de las reseñas sigue en curso porque el multijugador no se entregó a la prensa antes del lanzamiento. El juego sale oficialmente el 6 de octubre para Xbox Series X|S y PC, con estreno el mismo día en Game Pass; quienes compraron la edición Premium ya juegan en acceso anticipado."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021716",
+  "section": "music",
+  "publishedAt": "2026-10-01T19:15:00Z",
+  "personIds": [
+   "luisa-sonza",
+   "xin"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://billboard-com-br.s3.amazonaws.com/wp-content/uploads/2026/10/01161726/sonza.jpg",
+   "credit": "Foto: Billboard Brasil"
+  },
+  "sources": [
+   {
+    "name": "Billboard Brasil",
+    "url": "https://billboard.com.br/xin-parceria-luisa-sonza-teaser"
+   }
+  ],
+  "hue": 52,
+  "t": {
+   "pt": {
+    "slug": "luisa-sonza-xin-zzirit-parceria-kpop",
+    "headline": "Luísa Sonza entra de novo no K-pop: parceria com o girl group X:IN, 'ZZIRIT', sai em 6 de outubro",
+    "summary": "Teaser já foi divulgado; é a segunda colaboração da brasileira com o pop coreano em 2026.",
+    "body": [
+     "Luísa Sonza vai aparecer em mais um lançamento de K-pop. O girl group X:IN anunciou com um teaser a faixa 'ZZIRIT', parceria com a brasileira que chega às plataformas na próxima terça-feira, 6 de outubro.",
+     "A música faz parte do projeto 'Chain Reaction' do grupo e terá clipe dirigido por Alexey Figurov. O X:IN estreou em 2023 e é formado por E.sha, Nizz, Nova, Hannah e Aria.",
+     "É a segunda incursão de Sonza no pop coreano: em julho, ela participou de um remix de 'Bloody Paradise', do ENHYPEN. A parceria chega no mesmo momento em que outro brasileiro, Alok, lança faixa com Nayeon, do TWICE."
+    ]
+   },
+   "en": {
+    "slug": "luisa-sonza-xin-zzirit-kpop-collab",
+    "headline": "Luísa Sonza dives back into K-pop: her collab with girl group X:IN, 'ZZIRIT', drops Oct. 6",
+    "summary": "A teaser is already out; it's the Brazilian star's second K-pop collaboration of 2026.",
+    "body": [
+     "Luísa Sonza is set to feature on another K-pop release. Girl group X:IN announced with a teaser the track 'ZZIRIT', a collaboration with the Brazilian singer that hits streaming platforms next Tuesday, Oct. 6.",
+     "The song is part of the group's 'Chain Reaction' project and will get a music video directed by Alexey Figurov. X:IN debuted in 2023 and is made up of E.sha, Nizz, Nova, Hannah and Aria.",
+     "It's Sonza's second foray into Korean pop: in July she appeared on a remix of ENHYPEN's 'Bloody Paradise'. The collab lands just as another Brazilian, Alok, releases a track with TWICE's Nayeon."
+    ]
+   },
+   "es": {
+    "slug": "luisa-sonza-xin-zzirit-colaboracion-kpop",
+    "headline": "Luísa Sonza vuelve al K-pop: su colaboración con el girl group X:IN, 'ZZIRIT', sale el 6 de octubre",
+    "summary": "El teaser ya fue publicado; es la segunda colaboración de la brasileña con el pop coreano en 2026.",
+    "body": [
+     "Luísa Sonza estará en otro lanzamiento de K-pop. El girl group X:IN anunció con un teaser el tema 'ZZIRIT', colaboración con la brasileña que llegará a las plataformas el próximo martes 6 de octubre.",
+     "La canción forma parte del proyecto 'Chain Reaction' del grupo y tendrá un videoclip dirigido por Alexey Figurov. X:IN debutó en 2023 y está integrado por E.sha, Nizz, Nova, Hannah y Aria.",
+     "Es la segunda incursión de Sonza en el pop coreano: en julio participó en un remix de 'Bloody Paradise', de ENHYPEN. La colaboración llega justo cuando otro brasileño, Alok, lanza un tema con Nayeon, de TWICE."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021701",
+  "section": "creators",
+  "publishedAt": "2026-10-01T18:42:00Z",
+  "personIds": [
+   "lito-sousa"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://rollingstone.com.br/wp-content/uploads/2026/10/lito-reproducao-instagram.jpg",
+   "credit": "Foto: Reprodução/Instagram via Rolling Stone Brasil"
+  },
+  "sources": [
+   {
+    "name": "Rolling Stone Brasil",
+    "url": "https://rollingstone.com.br/noticia/morre-lito-sousa-criador-do-canal-avioes-e-musicas-aos-59-anos/"
+   },
+   {
+    "name": "Terra",
+    "url": "https://www.terra.com.br/diversao/gente/morre-lito-sousa-influenciador-do-avioes-e-musicas-aos-59-anos,b621219008e325ca7557593f9faef32ffi1hevgz.html"
+   },
+   {
+    "name": "O Tempo",
+    "url": "https://www.otempo.com.br/entretenimento/2026/10/2/lito-sousa-e-velado-na-zona-norte-de-sao-paulo-nesta-sexta-feira"
+   }
+  ],
+  "hue": 67,
+  "t": {
+   "pt": {
+    "slug": "morre-lito-sousa-avioes-e-musicas-59-anos",
+    "headline": "'Até o próximo voo': morre Lito Sousa, o youtuber que ensinou o Brasil a entender aviões, aos 59 anos",
+    "summary": "Criador do canal Aviões e Músicas, com 3,7 milhões de inscritos, tinha a doença de Creutzfeldt-Jakob e foi velado nesta sexta em São Paulo.",
+    "body": [
+     "Lito Sousa, criador do canal Aviões e Músicas, morreu na quinta-feira (1º), aos 59 anos, em casa, em São Paulo, onde recebia cuidados paliativos. Ele havia sido diagnosticado em agosto com a doença de Creutzfeldt-Jakob, uma condição neurodegenerativa rara e sem cura, e em setembro se tornou o primeiro paciente humano a receber o tratamento experimental ALN-6457.",
+     "Natural de Natal (RN), Lito entrou na aviação aos 14 anos, num curso técnico da Força Aérea, e passou mais de três décadas como mecânico de aeronaves e especialista em segurança de voo em empresas como Varig, Transbrasil e United Airlines. Em 2010 abriu o canal no YouTube, que chegou a 3,7 milhões de inscritos traduzindo assuntos técnicos para o público leigo. Também escreveu o livro 'Onde Morrem os Aviões' e criou programas para profissionais do setor e para quem tem medo de voar.",
+     "A despedida foi anunciada pela mulher, Mila Seidl, com a frase que virou bordão do canal: 'Um grande abraço e até o próximo voo. Foi uma honra ter viajado com você'. Ele deixa também o filho Malone, de 7 anos. O velório aconteceu nesta sexta (2), na Zona Norte de São Paulo, e a família pediu que o público não fotografasse a cerimônia."
+    ]
+   },
+   "en": {
+    "slug": "lito-sousa-avioes-e-musicas-youtuber-dies-59",
+    "headline": "'See you on the next flight': Lito Sousa, the YouTuber who taught Brazil how planes work, dies at 59",
+    "summary": "The creator of the Aviões e Músicas channel, with 3.7 million subscribers, had Creutzfeldt-Jakob disease; his wake was held Friday in São Paulo.",
+    "body": [
+     "Lito Sousa, creator of the YouTube channel Aviões e Músicas, died on Thursday (Oct. 1) at age 59 at his home in São Paulo, where he was receiving palliative care. He had been diagnosed in August with Creutzfeldt-Jakob disease, a rare and incurable neurodegenerative condition, and in September became the first human patient to receive the experimental treatment ALN-6457.",
+     "Born in Natal, Brazil, Sousa entered aviation at 14 through an Air Force technical course and spent more than three decades as an aircraft mechanic and flight safety specialist at carriers such as Varig, Transbrasil and United Airlines. He launched his YouTube channel in 2010, growing it to 3.7 million subscribers by translating technical topics for a general audience. He also wrote the book 'Onde Morrem os Aviões' and created programs for industry professionals and for people afraid of flying.",
+     "His wife, Mila Seidl, announced his death with the channel's signature sign-off: 'A big hug and see you on the next flight. It was an honor to have traveled with you.' He is also survived by his 7-year-old son, Malone. The wake took place on Friday (Oct. 2) in São Paulo's North Zone, and the family asked attendees not to photograph the ceremony."
+    ]
+   },
+   "es": {
+    "slug": "muere-lito-sousa-avioes-e-musicas-59-anos",
+    "headline": "'Hasta el próximo vuelo': muere Lito Sousa, el youtuber que enseñó a Brasil a entender los aviones, a los 59 años",
+    "summary": "El creador del canal Aviões e Músicas, con 3,7 millones de suscriptores, padecía la enfermedad de Creutzfeldt-Jakob y fue velado este viernes en São Paulo.",
+    "body": [
+     "Lito Sousa, creador del canal de YouTube Aviões e Músicas, murió el jueves 1 de octubre a los 59 años en su casa de São Paulo, donde recibía cuidados paliativos. En agosto había sido diagnosticado con la enfermedad de Creutzfeldt-Jakob, una afección neurodegenerativa rara e incurable, y en septiembre se convirtió en el primer paciente humano en recibir el tratamiento experimental ALN-6457.",
+     "Nacido en Natal (Brasil), Lito entró en la aviación a los 14 años con un curso técnico de la Fuerza Aérea y pasó más de tres décadas como mecánico de aeronaves y especialista en seguridad de vuelo en aerolíneas como Varig, Transbrasil y United Airlines. En 2010 abrió su canal, que llegó a 3,7 millones de suscriptores explicando temas técnicos al gran público. También escribió el libro 'Onde Morrem os Aviões' y creó programas para profesionales del sector y para quienes tienen miedo a volar.",
+     "Su esposa, Mila Seidl, anunció la muerte con la despedida característica del canal: 'Un gran abrazo y hasta el próximo vuelo. Fue un honor haber viajado contigo'. Deja también a su hijo Malone, de 7 años. El velatorio se realizó el viernes 2 en la Zona Norte de São Paulo, y la familia pidió no fotografiar la ceremonia."
     ]
    }
   }
@@ -1304,6 +2820,63 @@
      "Prime Video renovó 'Neagley', el spin-off de 'Reacher' protagonizado por Maria Sten, para una segunda temporada. El anuncio llegó el miércoles (1), dos semanas después de que los ocho episodios de la primera entrega se estrenaran juntos en la plataforma, el 16 de septiembre.",
      "Según la prensa especializada, la serie alcanzó 40 millones de espectadores en sus primeros 13 días. 'El público de todo el mundo abrazó a Frances Neagley como una fuerza propia', afirmó Peter Friedlander, jefe global de televisión de Amazon MGM Studios.",
      "En la trama, Neagley, exintegrante de la unidad militar de Jack Reacher y ahora investigadora privada en Chicago, indaga la muerte sospechosa de un amigo; Alan Ritchson aparece como Reacher. Nick Santora y Nicholas Wootton son los showrunners. Aún no hay fecha para la nueva temporada — y 'Reacher', la serie madre, ya está renovada para su sexto año."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021730",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-01T17:17:00Z",
+  "personIds": [
+   "vin-diesel"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://i0.wp.com/tbreak.com/wp-content/uploads/2026/08/fast_diesel.jpg?fit=1000%2C667&ssl=1",
+   "credit": "Foto: Universal Pictures/Divulgação"
+  },
+  "sources": [
+   {
+    "name": "Dark Horizons",
+    "url": "https://www.darkhorizons.com/fast-and-the-furious-tv-series-gets-greenlit/"
+   },
+   {
+    "name": "tbreak",
+    "url": "https://tbreak.com/fast-furious-peacock-series-greenlit-2028/"
+   }
+  ],
+  "hue": 350,
+  "t": {
+   "pt": {
+    "slug": "velozes-e-furiosos-serie-peacock-aprovada-2028",
+    "headline": "'Velozes e Furiosos' vira série: Peacock dá sinal verde e franquia de US$ 7 bilhões chega à TV em 2028",
+    "summary": "Vin Diesel é produtor executivo do projeto, comandado por roteiristas de 'Sons of Anarchy' e '9-1-1: Lone Star'.",
+    "body": [
+     "A família vai para o streaming. A Peacock, plataforma da NBCUniversal, encomendou oficialmente uma série derivada de 'Velozes e Furiosos', com estreia prevista para 2028. O projeto tinha sido anunciado em maio, no evento de Upfront da empresa, e é um dos até quatro derivados da saga em desenvolvimento, o único com encomenda de série até agora.",
+     "Mike Daniels, de 'Sons of Anarchy', e Wolfe Coleman, de '9-1-1: Lone Star', escrevem o piloto e dividem o comando como showrunners. Vin Diesel assina como produtor executivo ao lado de Neal H. Moritz e de Chris Morgan, roteirista histórico da franquia, entre outros. Ainda não há elenco anunciado, nem confirmação de que Diesel apareça em cena, e a trama segue em segredo.",
+     "A janela de 2028 conversa com o calendário da saga nos cinemas: o próximo filme, 'Fast Forever', está marcado para 17 de março de 2028. Em 25 anos, a franquia já arrecadou mais de US$ 7 bilhões nas bilheterias do mundo."
+    ]
+   },
+   "en": {
+    "slug": "fast-and-furious-series-peacock-greenlit-2028",
+    "headline": "'Fast & Furious' goes to TV: Peacock greenlights series as the $7 billion franchise heads to streaming in 2028",
+    "summary": "Vin Diesel executive produces the project, run by writers from 'Sons of Anarchy' and '9-1-1: Lone Star'.",
+    "body": [
+     "The family is going to streaming. Peacock, NBCUniversal's platform, has officially ordered a 'Fast & Furious' spinoff series, slated to premiere in 2028. The project was first announced in May at the company's Upfront event and is one of up to four franchise spinoffs in development, the only one with a series order so far.",
+     "Mike Daniels, of 'Sons of Anarchy', and Wolfe Coleman, of '9-1-1: Lone Star', are writing the pilot and will serve as co-showrunners. Vin Diesel executive produces alongside Neal H. Moritz and longtime franchise writer Chris Morgan, among others. No cast has been announced, there is no confirmation Diesel will appear on screen, and the plot remains under wraps.",
+     "The 2028 window lines up with the saga's big-screen calendar: the next film, 'Fast Forever', is set for March 17, 2028. Over 25 years, the franchise has grossed more than $7 billion worldwide."
+    ]
+   },
+   "es": {
+    "slug": "rapidos-y-furiosos-serie-peacock-aprobada-2028",
+    "headline": "'Rápidos y furiosos' será serie: Peacock da luz verde y la franquicia de US$ 7.000 millones llega a la TV en 2028",
+    "summary": "Vin Diesel es productor ejecutivo del proyecto, a cargo de guionistas de 'Sons of Anarchy' y '9-1-1: Lone Star'.",
+    "body": [
+     "La familia se muda al streaming. Peacock, la plataforma de NBCUniversal, encargó oficialmente una serie derivada de 'Rápidos y furiosos', con estreno previsto para 2028. El proyecto se había anunciado en mayo, en el evento Upfront de la compañía, y es uno de hasta cuatro derivados de la saga en desarrollo, el único con pedido de serie hasta ahora.",
+     "Mike Daniels, de 'Sons of Anarchy', y Wolfe Coleman, de '9-1-1: Lone Star', escriben el piloto y serán showrunners. Vin Diesel figura como productor ejecutivo junto a Neal H. Moritz y a Chris Morgan, guionista histórico de la franquicia, entre otros. Todavía no hay elenco anunciado ni confirmación de que Diesel aparezca en pantalla, y la trama se mantiene en secreto.",
+     "La ventana de 2028 coincide con el calendario de la saga en los cines: la próxima película, 'Fast Forever', está prevista para el 17 de marzo de 2028. En 25 años, la franquicia ya recaudó más de US$ 7.000 millones en taquilla mundial."
     ]
    }
   }
@@ -2130,6 +3703,117 @@
   }
  },
  {
+  "id": "2610021724",
+  "section": "news",
+  "publishedAt": "2026-10-01T10:37:00Z",
+  "personIds": [
+   "hailey-bieber",
+   "justin-bieber"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/blt8bbf16c2d7a209e5/bltb907528f9f013cc6/6abe3658c703a2f28fead782/hailey_bieber_justin_bieber_french.jpg",
+   "credit": "Foto: Tyla/Reprodução"
+  },
+  "sources": [
+   {
+    "name": "Tyla",
+    "url": "https://tyla.com/entertainment/celebrity/hailey-bieber-quotidien-justin-bieber-french-514381-20261001"
+   }
+  ],
+  "hue": 68,
+  "t": {
+   "pt": {
+    "slug": "hailey-bieber-diz-que-justin-bieber-e-frances-quotidien",
+    "headline": "'Ele também é francês': Hailey Bieber 'muda' a nacionalidade de Justin na TV da França e divide a internet",
+    "summary": "Na divulgação da Rhode, ela afirmou que a família do marido canadense é francesa.",
+    "body": [
+     "Hailey Bieber deixou fãs confusos ao dizer, no programa francês 'Quotidien', que Justin Bieber é francês. Questionada, ela explicou: 'Ele é do Canadá, mas também é francês. A família dele é francesa'. A modelo estava no país para divulgar a chegada da Rhode, sua marca de beleza, à Sephora França.",
+     "Justin nasceu em Ontário e cresceu em Stratford, no Canadá. A mãe, Pattie Mallette, tem origem franco-canadense, e o cantor estudou em escolas de imersão em francês. Ele arrisca o idioma, mas nunca se disse fluente nem se apresentou como francês; em 2011, chegou a dizer à Rolling Stone que o Canadá era 'o melhor país do mundo'.",
+     "Nas redes, a declaração dividiu opiniões. Um usuário do Reddit resumiu o lado cético: 'Ele pode ter alguma ascendência francesa, mas culturalmente? Não'. Outros defenderam Hailey, lembrando a herança franco-canadense da família do cantor."
+    ]
+   },
+   "en": {
+    "slug": "hailey-bieber-says-justin-bieber-is-french-quotidien",
+    "headline": "'He's also French': Hailey Bieber 'changes' Justin's nationality on French TV and splits the internet",
+    "summary": "Promoting Rhode, she said her Canadian husband's family is French.",
+    "body": [
+     "Hailey Bieber left fans confused after saying on French show 'Quotidien' that Justin Bieber is French. Pressed on it, she explained: 'He's from Canada but he's also French. His family is French.' She was in the country promoting Rhode's launch at Sephora France.",
+     "Justin was born in Ontario and raised in Stratford, Canada. His mother, Pattie Mallette, has French-Canadian roots, and the singer attended French immersion schools. He speaks some French but has never claimed fluency or identified as French; in 2011 he told Rolling Stone that Canada was 'the best country in the world'.",
+     "Online, the remark split opinions. One Reddit user summed up the skeptics: 'He may have some French ancestry but, culturally? No.' Others defended Hailey, pointing to the French-Canadian heritage of the singer's family."
+    ]
+   },
+   "es": {
+    "slug": "hailey-bieber-dice-que-justin-bieber-es-frances-quotidien",
+    "headline": "'También es francés': Hailey Bieber 'cambia' la nacionalidad de Justin en la TV de Francia y divide a internet",
+    "summary": "Promocionando Rhode, afirmó que la familia de su esposo canadiense es francesa.",
+    "body": [
+     "Hailey Bieber dejó confundidos a los fans al decir, en el programa francés 'Quotidien', que Justin Bieber es francés. Al ser consultada, explicó: 'Es de Canadá, pero también es francés. Su familia es francesa'. La modelo estaba en el país para promocionar la llegada de Rhode, su marca de belleza, a Sephora Francia.",
+     "Justin nació en Ontario y creció en Stratford, Canadá. Su madre, Pattie Mallette, tiene raíces franco-canadienses, y el cantante estudió en escuelas de inmersión en francés. Habla algo del idioma, pero nunca dijo ser fluido ni se presentó como francés; en 2011 le dijo a Rolling Stone que Canadá era 'el mejor país del mundo'.",
+     "En redes, la frase dividió opiniones. Un usuario de Reddit resumió a los escépticos: 'Puede que tenga algo de ascendencia francesa, pero ¿culturalmente? No'. Otros defendieron a Hailey, recordando la herencia franco-canadiense de la familia del cantante."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610021723",
+  "section": "music",
+  "publishedAt": "2026-10-01T07:11:00Z",
+  "personIds": [
+   "keyvitup"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://wimg.heraldcorp.com/news/cms/2026/10/01/news-p.v1.20261001.15c98fdb28d24e20944cb66c190fb89f_P1.jpg",
+   "credit": "Foto: The Korea Herald"
+  },
+  "sources": [
+   {
+    "name": "Korea JoongAng Daily",
+    "url": "https://www.koreajoongangdaily.com/korea/police-called-over-keyvitups-3-am-music-video-shoot-agency-apologizes/12900722"
+   },
+   {
+    "name": "The Korea Herald",
+    "url": "https://www.koreaherald.com/article/10890625"
+   }
+  ],
+  "hue": 21,
+  "t": {
+   "pt": {
+    "slug": "keyvitup-clipe-3-da-manha-policia-incheon-kim-jae-joong",
+    "headline": "Clipe às 3 da manhã com caixas de som e fumaça: polícia interrompe gravação de grupo de Kim Jae-joong",
+    "summary": "Agência do Keyvitup pediu desculpas após moradores de Incheon reclamarem do barulho sem aviso prévio.",
+    "body": [
+     "A gravação de um clipe do Keyvitup, grupo novato de K-pop, terminou com a polícia na porta. Por volta das 3h20 da madrugada de quarta-feira (30, horário local), agentes foram chamados ao mercado Jemulpo, em Incheon, onde a equipe filmava com caixas de som em volume alto, efeitos de fumaça e muita gente, numa área residencial.",
+     "Um morador de dez anos do bairro desabafou nas redes que já viu inúmeras filmagens no local, mas nunca uma que chegasse de repente no meio da noite usando alto-falantes, e sem qualquer aviso aos vizinhos. O mercado abandonado, dos anos 1970, é cenário popular e já apareceu em filmes como 'New World' e 'Sunny'.",
+     "A iNKODE, agência fundada pelo cantor Kim Jae-joong, pediu desculpas e admitiu não ter considerado o impacto da filmagem nos moradores. O Keyvitup estreou em abril com três integrantes coreanos e dois japoneses e prepara retorno para novembro."
+    ]
+   },
+   "en": {
+    "slug": "keyvitup-3am-music-video-police-incheon-kim-jae-joong",
+    "headline": "A 3 a.m. music video with speakers and smoke: police halt shoot by Kim Jae-joong's rookie group",
+    "summary": "Keyvitup's agency apologized after Incheon residents complained about the noise and lack of notice.",
+    "body": [
+     "A music video shoot by rookie K-pop group Keyvitup ended with police at the scene. Around 3:20 a.m. on Wednesday (local time), officers were called to Jemulpo market in Incheon, where the crew was filming with loud speakers, smoke effects and a large team in a residential area.",
+     "A resident of ten years vented on social media that they had seen countless shoots there but never one show up suddenly in the middle of the night using loudspeakers, with no notice to neighbors. The abandoned 1970s market is a popular location and has appeared in films such as 'New World' and 'Sunny'.",
+     "iNKODE, the agency founded by singer Kim Jae-joong, apologized and admitted it failed to consider the shoot's impact on residents. Keyvitup debuted in April with three Korean and two Japanese members and is set to return in November."
+    ]
+   },
+   "es": {
+    "slug": "keyvitup-video-3-am-policia-incheon-kim-jae-joong",
+    "headline": "Un video a las 3 de la mañana con parlantes y humo: la policía frena la grabación del grupo de Kim Jae-joong",
+    "summary": "La agencia de Keyvitup pidió disculpas tras las quejas de vecinos de Incheon por el ruido sin aviso previo.",
+    "body": [
+     "La grabación de un video de Keyvitup, grupo novato de K-pop, terminó con la policía en el lugar. Hacia las 3:20 de la madrugada del miércoles (hora local), agentes fueron llamados al mercado Jemulpo, en Incheon, donde el equipo filmaba con parlantes a alto volumen, efectos de humo y mucha gente en una zona residencial.",
+     "Un vecino de hace diez años se quejó en redes de que había visto innumerables rodajes allí, pero nunca uno que llegara de golpe en plena noche con altavoces y sin avisar a nadie. El mercado abandonado, de los años 70, es una locación popular y aparece en películas como 'New World' y 'Sunny'.",
+     "iNKODE, la agencia fundada por el cantante Kim Jae-joong, pidió disculpas y admitió no haber considerado el impacto del rodaje en los vecinos. Keyvitup debutó en abril con tres integrantes coreanos y dos japoneses y prepara su regreso para noviembre."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610012318",
   "section": "music",
   "publishedAt": "2026-10-01T07:02:00Z",
@@ -2306,7 +3990,8 @@
   "publishedAt": "2026-10-01T02:46:00Z",
   "personIds": [
    "tini",
-   "emilia-mernes"
+   "emilia-mernes",
+   "rodrigo-de-paul"
   ],
   "confidence": "reported",
   "risk": "yellow",
@@ -2415,6 +4100,64 @@
     ]
    }
   }
+ },
+ {
+  "id": "2610021708",
+  "section": "music",
+  "publishedAt": "2026-10-01T01:16:00Z",
+  "personIds": [
+   "lali",
+   "tini"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/FDBAI35Q7RGEXE7QAP3MCDI2DM.png?auth=2f0bcbc30b7be073b88d5668b189ee2df90245c84ca573baa04d5f55b1cc705c&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Infobae"
+  },
+  "sources": [
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/teleshow/2026/09/30/veronica-de-la-canal-dio-detalles-sobre-los-vestidos-de-novia-de-lali-esposito-y-tini-stoessel-me-parecio-magico/"
+   }
+  ],
+  "hue": 36,
+  "t": {
+   "pt": {
+    "slug": "lali-tini-vestidos-de-noiva-river-bastidores",
+    "headline": "Seda, pérolas e espartilho de cristais feitos em dez dias: os bastidores dos vestidos de noiva de Lali e Tini no River",
+    "summary": "A estilista Verónica de la Canal, que veste as duas desde crianças, revelou como criou os looks do momento que parou o estádio, inspirado na apresentação de Madonna, Britney e Christina no VMA de 2003.",
+    "body": [
+     "O momento em que Lali e Tini apareceram vestidas de noiva no palco do River Plate, no encerramento da turnê de Lali, teve uma corrida contra o relógio nos bastidores. Em entrevista ao programa de streaming 'Despierta la Casa', a estilista argentina Verónica de la Canal contou que os dois vestidos ficaram prontos em cerca de uma semana a dez dias, de acordo com o Infobae.",
+     "Cada peça foi pensada para a personalidade de quem a usava. O vestido de Lali, a primeira a ser chamada para o projeto, levou brocado de seda natural branco com fios prateados e um espartilho de renda chantilly bordado com cristais, com detalhes de cinta-liga que remetem à lingerie de noiva. O de Tini combinou seda natural, shantung de seda bordado com pérolas e brocado de seda marfim, com uma saia de tule volumosa para dar movimento no palco.",
+     "Havia ainda um truque de figurino: as partes externas dos dois vestidos se soltavam rapidamente, deixando os espartilhos à mostra e transformando o look no meio do número. A cena, que também teve a participação de Marilina Bertoldi, fez referência direta à histórica apresentação de Madonna, Britney Spears e Christina Aguilera no VMA de 2003: as três cantaram 'Like a Virgin', trocaram um beijo aplaudido pelo público e emendaram com '1Amor'.",
+     "Para a estilista, o momento teve um peso pessoal. Verónica lembrou que acompanha as duas cantoras desde que eram muito pequenas e resumiu o que sentiu ao ver o estádio vir abaixo: 'Me pareceu mágico'."
+    ]
+   },
+   "en": {
+    "slug": "lali-tini-wedding-dresses-river-behind-the-scenes",
+    "headline": "Silk, pearls and a crystal corset made in ten days: behind the scenes of Lali and Tini's wedding dresses at River",
+    "summary": "Designer Verónica de la Canal, who has dressed both singers since childhood, revealed how she created the looks for the moment that brought the stadium down, inspired by Madonna, Britney and Christina at the 2003 VMAs.",
+    "body": [
+     "The moment Lali and Tini appeared in wedding dresses on the River Plate stage, at the close of Lali's tour, involved a race against the clock behind the scenes. In an interview with the streaming show 'Despierta la Casa', Argentine designer Verónica de la Canal said both gowns were finished in about a week to ten days, according to Infobae.",
+     "Each piece was designed around the personality of the woman wearing it. Lali's dress, the first one commissioned, used white natural silk brocade with silver threads and a chantilly lace corset embroidered with crystals, with garter-belt details nodding to bridal lingerie. Tini's combined natural silk, pearl-embroidered silk shantung and ivory silk brocade, with a voluminous tulle skirt for movement on stage.",
+     "There was also a costume trick: the outer layers of both dresses came off quickly, revealing the corsets and transforming the look mid-number. The scene, which also featured Marilina Bertoldi, was a direct reference to the historic performance by Madonna, Britney Spears and Christina Aguilera at the 2003 VMAs: the three sang 'Like a Virgin', shared a kiss that drew applause from the crowd and segued into '1Amor'.",
+     "For the designer, the moment was personal. Verónica recalled that she has worked with both singers since they were very young and summed up how she felt as the stadium erupted: 'It felt magical.'"
+    ]
+   },
+   "es": {
+    "slug": "lali-tini-vestidos-de-novia-river-detras-de-escena",
+    "headline": "Seda, perlas y un corsé de cristales hechos en diez días: los secretos de los vestidos de novia de Lali y Tini en River",
+    "summary": "La diseñadora Verónica de la Canal, que viste a las dos desde chicas, contó cómo creó los looks del momento que hizo vibrar al estadio, inspirado en Madonna, Britney y Christina en los VMA de 2003.",
+    "body": [
+     "El momento en que Lali y Tini aparecieron vestidas de novia en el escenario de River Plate, en el cierre de la gira de Lali, tuvo una carrera contra reloj detrás de escena. En una entrevista con el programa de streaming 'Despierta la Casa', la diseñadora argentina Verónica de la Canal contó que los dos vestidos estuvieron listos en una semana a diez días, según Infobae.",
+     "Cada prenda se pensó según la personalidad de quien la llevaba. El vestido de Lali, la primera en ser convocada, llevó brocado de seda natural blanco con hilos plateados y un corsé de encaje chantilly bordado con cristales, con detalles de portaligas que evocan la lencería nupcial. El de Tini combinó seda natural, shantung de seda bordado con perlas y brocado de seda marfil, con una falda de tul voluminosa para dar movimiento en el escenario.",
+     "Además había un truco de vestuario: las partes exteriores de ambos vestidos se quitaban rápidamente, dejaban los corsés a la vista y transformaban el look en pleno número. La escena, que también contó con Marilina Bertoldi, fue un homenaje directo a la histórica presentación de Madonna, Britney Spears y Christina Aguilera en los VMA de 2003: las tres cantaron 'Like a Virgin', se dieron un beso aplaudido por el público y siguieron con '1Amor'.",
+     "Para la diseñadora, el momento tuvo un peso personal. Verónica recordó que viste a las dos cantantes desde que eran muy chiquitas y resumió lo que sintió al ver el estadio venirse abajo: 'Me pareció mágico'."
+    ]
+   }
+  },
+  "format": "feature"
  },
  {
   "id": "2610012325",
@@ -3226,7 +4969,8 @@
   "section": "news",
   "publishedAt": "2026-09-28T12:58:00Z",
   "personIds": [
-   "juliette"
+   "juliette",
+   "gil-do-vigor"
   ],
   "confidence": "confirmed",
   "risk": "green",

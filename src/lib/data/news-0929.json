@@ -464,7 +464,9 @@
   "section": "news",
   "publishedAt": "2026-09-28T16:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "luana-piovani"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -568,7 +570,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-28T14:50:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "arthur-aguiar"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -620,7 +624,9 @@
   "section": "creators",
   "publishedAt": "2026-09-26T18:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "luana-piovani"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -1214,7 +1220,9 @@
   "breaking": true,
   "personIds": [
    "lali",
-   "tini"
+   "tini",
+   "dillom",
+   "miranda-banda"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -1273,7 +1281,8 @@
   "breaking": false,
   "personIds": [
    "tini",
-   "lali"
+   "lali",
+   "rodrigo-de-paul"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -1331,7 +1340,9 @@
   "publishedAt": "2026-09-28T19:56:00Z",
   "breaking": false,
   "personIds": [
-   "lali"
+   "lali",
+   "dillom",
+   "miranda-banda"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -1385,7 +1396,8 @@
   "publishedAt": "2026-09-27T12:00:00Z",
   "breaking": false,
   "personIds": [
-   "lali"
+   "lali",
+   "miranda-banda"
   ],
   "confidence": "reported",
   "risk": "yellow",
@@ -2068,7 +2080,8 @@
   "publishedAt": "2026-09-28T23:30:00Z",
   "breaking": false,
   "personIds": [
-   "rico-melquiades"
+   "rico-melquiades",
+   "luana-piovani"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -2957,7 +2970,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-28T21:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "olivia-colman"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3065,7 +3080,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-28T18:30:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "olivia-colman"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3285,7 +3302,8 @@
   "publishedAt": "2026-09-28T19:00:00Z",
   "breaking": false,
   "personIds": [
-   "shakira"
+   "shakira",
+   "ben-affleck"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -3447,7 +3465,8 @@
   "publishedAt": "2026-09-28T12:00:00Z",
   "breaking": false,
   "personIds": [
-   "florence-pugh"
+   "florence-pugh",
+   "ben-affleck"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -4419,7 +4438,9 @@
   "section": "news",
   "publishedAt": "2026-09-29T00:50:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "arthur-aguiar"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4471,7 +4492,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-28T14:28:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "gil-do-vigor"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
