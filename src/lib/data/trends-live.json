@@ -353,7 +353,7 @@
   "rank": 13
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -377,7 +377,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -401,7 +401,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -425,11 +425,39 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
+  "sourceUrl": "https://www.uol.com.br/esporte/ultimas-noticias/2026/10/02/belgica-x-turquia-horario-e-onde-assistir-ao-jogo-da-liga-das-nacoes.ghtm",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRr_jvbLHfarxeUtLWayIKyHK1sjsOizI0Tj6HgmojjoJHIMQROk41iGwH-CAE",
+   "credit": "UOL"
+  },
+  "t": {
+   "pt": {
+    "name": "bélgica x turquia",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via UOL."
+   },
+   "en": {
+    "name": "bélgica x turquia",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via UOL."
+   },
+   "es": {
+    "name": "bélgica x turquia",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía UOL."
+   }
+  },
+  "id": "tr17",
+  "hue": 172
+ },
+ {
+  "collectedAt": "2026-10-02T18:41:02.110Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 2,
   "sourceUrl": "https://variety.com/2026/tv/news/reacher-spinoff-neagley-renewed-season-2-amazon-1236894905/",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKBh5NlOtvWxqIS6G08p5fZCbQNzeP7t0058ipeWsQBc5PmM7Ag7F7TV2efew",
@@ -449,116 +477,88 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Variety."
    }
   },
-  "id": "tr17",
-  "hue": 172
- },
- {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.bbc.com/news/articles/c5398kkx27ewo",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjLVhWBxzfX47EWU8Up7lew9FD8zej33V-hd5lBYxBuAU_8QoFcqHKl5CYfOE",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "stray kids grammy boycott 2027",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via BBC."
-   },
-   "en": {
-    "name": "stray kids grammy boycott 2027",
-    "note": "Trending Google search (US) — 1000+ searches · via BBC."
-   },
-   "es": {
-    "name": "stray kids grammy boycott 2027",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía BBC."
-   }
-  },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://thedirect.com/article/the-walking-dead-dead-city-season-4-status-scott-gimple",
+  "rank": 1,
+  "sourceUrl": "https://www.usatoday.com/story/entertainment/movies/2026/10/02/bruce-willis-wife-ftd-diagnosis-photo/92055813007/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcMlGFpcFaPKsne5rEFXqfvJZiLmi5VlxiRbysXdzh5mSrPzvXxX8g0gP7-OE",
-   "credit": "The Direct"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT38dd-I_HFd0cPyX3-HSn2Mic1KB1akzoQMlEn2LimFTeGn1BzvBnZwDB9Jio",
+   "credit": "USA Today"
   },
   "t": {
    "pt": {
-    "name": "the walking dead",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via The Direct."
+    "name": "bruce willis",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via USA Today."
    },
    "en": {
-    "name": "the walking dead",
-    "note": "Trending Google search (US) — 2000+ searches · via The Direct."
+    "name": "bruce willis",
+    "note": "Trending Google search (US) — 5000+ searches · via USA Today."
    },
    "es": {
-    "name": "the walking dead",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The Direct."
+    "name": "bruce willis",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía USA Today."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://people.com/kelly-ripa-mark-consuelos-throwback-photos-12152837",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/02/amalia-granata-le-respondio-a-robbie-williams-me-gustaria-reencontrarme-con-el-desde-otro-lugar/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSELlX5iAkbmGVEILyHwERKUm8g9mbH8vWtbaauw28jrLjMT39IoqqlVGGjGp0",
-   "credit": "People.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRE8zRxOToHCI2QyfUkPRCxj6_BT6dnP_DLavQsqQ1YfGqj3jB3GSz1aNkEFlg",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "kelly ripa",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via People.com."
+    "name": "robbie williams",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Infobae."
    },
    "en": {
-    "name": "kelly ripa",
-    "note": "Trending Google search (US) — 500+ searches · via People.com."
+    "name": "robbie williams",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Infobae."
    },
    "es": {
-    "name": "kelly ripa",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía People.com."
+    "name": "robbie williams",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Infobae."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-02T15:39:18.604Z",
+  "collectedAt": "2026-10-02T18:41:02.110Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.clarin.com/fama/hernan-coronel-cantante-mala-fama-llama-atencion-masterchef-celebrity_0_dRg1H06T8j.html",
+  "rank": 2,
+  "sourceUrl": "https://www.pagina12.com.ar/2026/10/02/murio-ricardo-soule-lider-de-vox-dei-y-pionero-del-rock-argentino/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjPMIow_hJnhi7CN_F3rmb015mPRaU6AqeJcTqV0upiGdsctJYlc5_IOH8_0",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVlLL9nRco4VhcZy27zglC7VEPH-fLSOYcQX0_zwM2ACESlVFb7FKif_Dg76M",
+   "credit": "Página|12"
   },
   "t": {
    "pt": {
-    "name": "mala fama",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Clarin.com."
+    "name": "ricardo soule",
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via Página|12."
    },
    "en": {
-    "name": "mala fama",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via Clarin.com."
+    "name": "ricardo soule",
+    "note": "Trending Google search (Argentina) — 5000+ searches · via Página|12."
    },
    "es": {
-    "name": "mala fama",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
+    "name": "ricardo soule",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía Página|12."
    }
   },
   "id": "tr21",
