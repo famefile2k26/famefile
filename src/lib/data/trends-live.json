@@ -300,7 +300,7 @@
   "rank": 12
  },
  {
-  "collectedAt": "2026-10-01T21:43:30.847Z",
+  "collectedAt": "2026-10-02T00:44:10.035Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -308,15 +308,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#citytastetest",
+    "name": "#cornell",
     "note": "Hashtag em alta no TikTok (global) — #1 na semana."
    },
    "en": {
-    "name": "#citytastetest",
+    "name": "#cornell",
     "note": "Trending TikTok hashtag (global) — #1 this week."
    },
    "es": {
-    "name": "#citytastetest",
+    "name": "#cornell",
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
@@ -324,7 +324,7 @@
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-01T21:43:30.847Z",
+  "collectedAt": "2026-10-02T00:44:10.035Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -332,15 +332,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#mylivejourney",
+    "name": "#reggie",
     "note": "Hashtag em alta no TikTok (global) — #2 na semana."
    },
    "en": {
-    "name": "#mylivejourney",
+    "name": "#reggie",
     "note": "Trending TikTok hashtag (global) — #2 this week."
    },
    "es": {
-    "name": "#mylivejourney",
+    "name": "#reggie",
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
@@ -348,7 +348,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-01T21:43:30.847Z",
+  "collectedAt": "2026-10-02T00:44:10.035Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -356,15 +356,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#noreaster",
+    "name": "#cornelluniversity",
     "note": "Hashtag em alta no TikTok (global) — #3 na semana."
    },
    "en": {
-    "name": "#noreaster",
+    "name": "#cornelluniversity",
     "note": "Trending TikTok hashtag (global) — #3 this week."
    },
    "es": {
-    "name": "#noreaster",
+    "name": "#cornelluniversity",
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
@@ -372,35 +372,147 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-01T21:43:30.847Z",
+  "collectedAt": "2026-10-02T00:44:10.035Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://gilvicentefc.pt/horario-do-jogo-da-taca-de-portugal-definido/",
+  "sourceUrl": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/globo-produz-documentario-sobre-guerra-de-audiencia-dos-domingos-entre-gugu-e-faustao.shtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3QfqIU-PiRPe7zanh_0q-sZHVBJj-_YjQmCUiYlvL-aNUM-9d4jxjNktFSA",
-   "credit": "Gil Vicente"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScx893zMfPpK2g_4UsuvzoW4Fg6Tt35U6x34RSp6gaQBRVi_ZnY8OptYnvsHA",
+   "credit": "UOL"
   },
   "t": {
    "pt": {
-    "name": "portugal fc",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via Gil Vicente."
+    "name": "globoplay",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via UOL."
    },
    "en": {
-    "name": "portugal fc",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via Gil Vicente."
+    "name": "globoplay",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via UOL."
    },
    "es": {
-    "name": "portugal fc",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Gil Vicente."
+    "name": "globoplay",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía UOL."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-01T21:43:30.847Z",
+  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 2,
+  "sourceUrl": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/videos-tem-noticias-2-edicao/video/novorizontino-recebe-o-goias-em-casa-pela-serie-b-do-brasileiro-15012427.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzLKTEsigDd0lHMLCTwD0K5rbp6oQsI3uDpRACLiX3KZOeachOcnVOK7aUJG0",
+   "credit": "G1"
+  },
+  "t": {
+   "pt": {
+    "name": "novorizontino x goiás",
+    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via G1."
+   },
+   "en": {
+    "name": "novorizontino x goiás",
+    "note": "Trending Google search (Brazil) — 20000+ searches · via G1."
+   },
+   "es": {
+    "name": "novorizontino x goiás",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía G1."
+   }
+  },
+  "id": "tr17",
+  "hue": 172
+ },
+ {
+  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/nfl/story/_/id/50073098/former-steelers-coach-mike-tomlin-minecraft-city-12-year-reveal",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJYXYu4ergZ71w8PImKD53Cr2vgeFECl2XRNFY9cSQ0-2fKvqua_ubd-zJTyQ",
+   "credit": "ESPN"
+  },
+  "t": {
+   "pt": {
+    "name": "steelers coach",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
+   },
+   "en": {
+    "name": "steelers coach",
+    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
+   },
+   "es": {
+    "name": "steelers coach",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
+   }
+  },
+  "id": "tr18",
+  "hue": 209
+ },
+ {
+  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50046007/mlb-playoffs-2026-wild-card-game-3-live-updates-analysis-takeaways-phillies-braves",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDWXCQSeXYF2o9HZWat-wUsmPXKH9mUqB-ioiWrmG3Vp8JF8LRYb8Iqpgoirc",
+   "credit": "ESPN"
+  },
+  "t": {
+   "pt": {
+    "name": "phillies",
+    "note": "Busca em alta no Google (EUA) — 100000+ buscas · via ESPN."
+   },
+   "en": {
+    "name": "phillies",
+    "note": "Trending Google search (US) — 100000+ searches · via ESPN."
+   },
+   "es": {
+    "name": "phillies",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100000+ búsquedas · vía ESPN."
+   }
+  },
+  "id": "tr19",
+  "hue": 246
+ },
+ {
+  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://sports.yahoo.com/articles/mason-graham-leaves-browns-vs-003832037.html",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSZiD8aiG28kIcg4l4hO4DJeEFOumC6inAEKo6VG77IUCt84SxeUZULmeUNjGA",
+   "credit": "Yahoo Sports"
+  },
+  "t": {
+   "pt": {
+    "name": "mason graham",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via Yahoo Sports."
+   },
+   "en": {
+    "name": "mason graham",
+    "note": "Trending Google search (US) — 5000+ searches · via Yahoo Sports."
+   },
+   "es": {
+    "name": "mason graham",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Yahoo Sports."
+   }
+  },
+  "id": "tr20",
+  "hue": 283
+ },
+ {
+  "collectedAt": "2026-10-02T00:44:10.035Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
@@ -424,15 +536,43 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr17",
-  "hue": 172
+  "id": "tr21",
+  "hue": 320
  },
  {
-  "collectedAt": "2026-10-01T21:43:30.847Z",
+  "collectedAt": "2026-10-02T00:44:10.035Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 1,
+  "sourceUrl": "https://www.mlb.com/news/phillies-vs-braves-nl-wild-card-series-game-3-starting-lineups-and-pitching-matchup",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPTBSbmffwhZOIop6_y234EHI-d577755HVP_XDNu76sNwvgyUOedcEmy0dA",
+   "credit": "MLB.com"
+  },
+  "t": {
+   "pt": {
+    "name": "braves - phillies",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via MLB.com."
+   },
+   "en": {
+    "name": "braves - phillies",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via MLB.com."
+   },
+   "es": {
+    "name": "braves - phillies",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía MLB.com."
+   }
+  },
+  "id": "tr22",
+  "hue": 357
+ },
+ {
+  "collectedAt": "2026-10-02T00:44:10.035Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 2,
   "sourceUrl": "https://gilvicentefc.pt/horario-do-jogo-da-taca-de-portugal-definido/",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa3QfqIU-PiRPe7zanh_0q-sZHVBJj-_YjQmCUiYlvL-aNUM-9d4jxjNktFSA",
@@ -452,7 +592,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Gil Vicente."
    }
   },
-  "id": "tr18",
-  "hue": 209
+  "id": "tr23",
+  "hue": 34
  }
 ]
