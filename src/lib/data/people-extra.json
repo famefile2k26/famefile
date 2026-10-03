@@ -9085,5 +9085,1476 @@
     "Las gemelas Ruth y Raquel en 'Mulheres de Areia'"
    ]
   ]
+ },
+ {
+  "slug": "roberta-miranda",
+  "name": "Roberta Miranda",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "birthDate": "1956-09-28",
+  "genres": [
+   "sertanejo"
+  ],
+  "pt": [
+   "Cantora e compositora",
+   "Cantora e compositora paraibana, considerada pioneira por abrir espaço para mulheres no sertanejo. Tem 185 obras e 649 gravações registradas no Ecad.",
+   [
+    "Autora de 'Majestade, o Sabiá', com 93 regravações registradas",
+    "'De Igual pra Igual', parceria com Matogrosso, é sua música mais executada nos últimos cinco anos"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "Singer-songwriter from Paraíba, Brazil, regarded as a pioneer for opening doors to women in sertanejo. She has 185 works and 649 recordings registered with Ecad.",
+   [
+    "Wrote 'Majestade, o Sabiá', which has 93 registered cover versions",
+    "'De Igual pra Igual', co-written with Matogrosso, is her most-performed song of the past five years"
+   ]
+  ],
+  "es": [
+   "Cantante y compositora",
+   "Cantante y compositora de Paraíba, Brasil, considerada pionera por abrir espacio a las mujeres en el sertanejo. Tiene 185 obras y 649 grabaciones registradas en el Ecad.",
+   [
+    "Autora de 'Majestade, o Sabiá', con 93 regrabaciones registradas",
+    "'De Igual pra Igual', escrita con Matogrosso, es su canción más ejecutada de los últimos cinco años"
+   ]
+  ]
+ },
+ {
+  "slug": "mario-pergolini",
+  "name": "Mario Pergolini",
+  "market": "latin",
+  "kinds": [
+   "host",
+   "presenter"
+  ],
+  "country": "AR",
+  "pt": [
+   "Apresentador",
+   "Apresentador e empresário de mídia argentino, um dos nomes mais conhecidos da TV e do rádio do país.",
+   [
+    "Comanda o programa 'Otro día perdido', no El Trece"
+   ]
+  ],
+  "en": [
+   "Host",
+   "Argentine TV host and media entrepreneur, one of the best-known names in the country's television and radio.",
+   [
+    "Hosts 'Otro día perdido' on El Trece"
+   ]
+  ],
+  "es": [
+   "Conductor",
+   "Conductor y empresario de medios argentino, uno de los nombres más conocidos de la televisión y la radio del país.",
+   [
+    "Conduce 'Otro día perdido' por El Trece"
+   ]
+  ]
+ },
+ {
+  "slug": "ivan-noble",
+  "name": "Iván Noble",
+  "market": "latin",
+  "kinds": [
+   "singer"
+  ],
+  "country": "AR",
+  "genres": [
+   "rock"
+  ],
+  "pt": [
+   "Cantor",
+   "Cantor e compositor argentino, ex-vocalista da banda Caballeros de la Quema, com carreira solo consolidada.",
+   [
+    "Ex-líder dos Caballeros de la Quema",
+    "Gravou versão de 'Mi historia entre tus dedos', de Gianluca Grignani"
+   ]
+  ],
+  "en": [
+   "Singer",
+   "Argentine singer-songwriter, former frontman of the band Caballeros de la Quema, with an established solo career.",
+   [
+    "Former leader of Caballeros de la Quema",
+    "Recorded a version of Gianluca Grignani's 'Mi historia entre tus dedos'"
+   ]
+  ],
+  "es": [
+   "Cantante",
+   "Cantante y compositor argentino, ex líder de la banda Caballeros de la Quema, con una sólida carrera solista.",
+   [
+    "Ex líder de Caballeros de la Quema",
+    "Grabó una versión de 'Mi historia entre tus dedos', de Gianluca Grignani"
+   ]
+  ]
+ },
+ {
+  "slug": "paul-mccartney",
+  "name": "Paul McCartney",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "GB",
+  "ig": "paulmccartney",
+  "legalName": "James Paul McCartney",
+  "birthDate": "1942-06-18",
+  "birthPlace": "Liverpool, Inglaterra",
+  "activeSince": 1957,
+  "genres": [
+   "rock",
+   "pop"
+  ],
+  "aliases": [
+   "Sir Paul McCartney"
+  ],
+  "works": [
+   {
+    "title": "Abbey Road",
+    "year": 1969,
+    "kind": "album"
+   },
+   {
+    "title": "Band on the Run",
+    "year": 1973,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantor e compositor",
+   "Ex-integrante dos Beatles, é um dos compositores mais bem-sucedidos da história da música pop.",
+   [
+    "Cofundador dos Beatles",
+    "Criou os Wings nos anos 1970"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "Former member of the Beatles and one of the most successful songwriters in pop music history.",
+   [
+    "Co-founder of the Beatles",
+    "Formed Wings in the 1970s"
+   ]
+  ],
+  "es": [
+   "Cantante y compositor",
+   "Exintegrante de los Beatles, es uno de los compositores más exitosos de la historia de la música pop.",
+   [
+    "Cofundador de los Beatles",
+    "Creó Wings en los años 70"
+   ]
+  ]
+ },
+ {
+  "slug": "bang-chan",
+  "name": "Bang Chan",
+  "market": "kpop",
+  "kinds": [
+   "singer",
+   "producer"
+  ],
+  "country": "AU",
+  "legalName": "Christopher Bang",
+  "birthDate": "1997-10-03",
+  "activeSince": 2018,
+  "genres": [
+   "k-pop"
+  ],
+  "aliases": [
+   "Chris Bang"
+  ],
+  "pt": [
+   "Cantor e produtor",
+   "Líder do Stray Kids, grupo da JYP Entertainment, e integrante do trio de produção 3RACHA.",
+   [
+    "Líder do Stray Kids",
+    "Membro do 3RACHA"
+   ]
+  ],
+  "en": [
+   "Singer and producer",
+   "Leader of JYP Entertainment group Stray Kids and member of the production trio 3RACHA.",
+   [
+    "Leader of Stray Kids",
+    "Member of 3RACHA"
+   ]
+  ],
+  "es": [
+   "Cantante y productor",
+   "Líder de Stray Kids, grupo de JYP Entertainment, e integrante del trío de producción 3RACHA.",
+   [
+    "Líder de Stray Kids",
+    "Miembro de 3RACHA"
+   ]
+  ]
+ },
+ {
+  "slug": "jennie",
+  "name": "Jennie",
+  "market": "kpop",
+  "kinds": [
+   "singer",
+   "rapper"
+  ],
+  "country": "KR",
+  "ig": "jennierubyjane",
+  "legalName": "Kim Jennie",
+  "birthDate": "1996-01-16",
+  "activeSince": 2016,
+  "genres": [
+   "k-pop",
+   "pop",
+   "hip-hop"
+  ],
+  "aliases": [
+   "Jennie Kim",
+   "Kim Jennie"
+  ],
+  "works": [
+   {
+    "title": "Solo",
+    "year": 2018,
+    "kind": "single"
+   },
+   {
+    "title": "Ruby",
+    "year": 2025,
+    "kind": "album"
+   },
+   {
+    "title": "Dracula (with JENNIE)",
+    "year": 2026,
+    "kind": "single"
+   }
+  ],
+  "pt": [
+   "Cantora e rapper",
+   "Integrante do BLACKPINK, também tem carreira solo e lançou o álbum 'Ruby' em 2025.",
+   [
+    "Integrante do BLACKPINK",
+    "Álbum solo 'Ruby' (2025)"
+   ]
+  ],
+  "en": [
+   "Singer and rapper",
+   "Member of BLACKPINK who also has a solo career, releasing the album 'Ruby' in 2025.",
+   [
+    "Member of BLACKPINK",
+    "Solo album 'Ruby' (2025)"
+   ]
+  ],
+  "es": [
+   "Cantante y rapera",
+   "Integrante de BLACKPINK, también tiene carrera solista y lanzó el álbum 'Ruby' en 2025.",
+   [
+    "Integrante de BLACKPINK",
+    "Álbum solista 'Ruby' (2025)"
+   ]
+  ]
+ },
+ {
+  "slug": "tame-impala",
+  "name": "Tame Impala",
+  "market": "global",
+  "kinds": [
+   "band",
+   "singer",
+   "producer"
+  ],
+  "country": "AU",
+  "legalName": "Kevin Parker",
+  "birthDate": "1986-01-20",
+  "activeSince": 2007,
+  "genres": [
+   "rock psicodélico",
+   "pop",
+   "eletrônica"
+  ],
+  "aliases": [
+   "Kevin Parker"
+  ],
+  "works": [
+   {
+    "title": "Currents",
+    "year": 2015,
+    "kind": "album"
+   },
+   {
+    "title": "The Slow Rush",
+    "year": 2020,
+    "kind": "album"
+   },
+   {
+    "title": "Deadbeat",
+    "year": 2025,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Projeto musical",
+   "Projeto do australiano Kevin Parker, que compõe, grava e produz as músicas do Tame Impala.",
+   [
+    "Álbum 'Currents' (2015)",
+    "'Dracula' com Jennie (2026)"
+   ]
+  ],
+  "en": [
+   "Music project",
+   "Project of Australian musician Kevin Parker, who writes, records and produces Tame Impala's music.",
+   [
+    "Album 'Currents' (2015)",
+    "'Dracula' with Jennie (2026)"
+   ]
+  ],
+  "es": [
+   "Proyecto musical",
+   "Proyecto del australiano Kevin Parker, que compone, graba y produce la música de Tame Impala.",
+   [
+    "Álbum 'Currents' (2015)",
+    "'Dracula' con Jennie (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "noah-kahan",
+  "name": "Noah Kahan",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "US",
+  "ig": "noahkahan",
+  "activeSince": 2017,
+  "genres": [
+   "folk-pop",
+   "indie folk"
+  ],
+  "works": [
+   {
+    "title": "Stick Season",
+    "year": 2022,
+    "kind": "album"
+   },
+   {
+    "title": "The Great Divide",
+    "year": 2026,
+    "kind": "album"
+   },
+   {
+    "title": "Draw You Out",
+    "year": 2026,
+    "kind": "single"
+   }
+  ],
+  "pt": [
+   "Cantor e compositor",
+   "Cantor folk-pop americano que estourou com 'Stick Season' e levou 'The Great Divide' ao 1º lugar nos EUA e no Reino Unido.",
+   [
+    "Álbum 'Stick Season' (2022)",
+    "'The Great Divide' estreou em 1º nos EUA e no Reino Unido (2026)"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "American folk-pop singer who broke through with 'Stick Season' and took 'The Great Divide' to No. 1 in the US and UK.",
+   [
+    "Album 'Stick Season' (2022)",
+    "'The Great Divide' debuted at No. 1 in the US and UK (2026)"
+   ]
+  ],
+  "es": [
+   "Cantante y compositor",
+   "Cantante estadounidense de folk-pop que triunfó con 'Stick Season' y llevó 'The Great Divide' al n.º 1 en EE. UU. y el Reino Unido.",
+   [
+    "Álbum 'Stick Season' (2022)",
+    "'The Great Divide' debutó en el n.º 1 en EE. UU. y el Reino Unido (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "ratinho",
+  "name": "Ratinho",
+  "market": "brazil",
+  "kinds": [
+   "host",
+   "presenter"
+  ],
+  "country": "BR",
+  "legalName": "Carlos Roberto Massa",
+  "aliases": [
+   "Carlos Massa"
+  ],
+  "works": [
+   {
+    "title": "Programa do Ratinho",
+    "year": 1998,
+    "kind": "show"
+   }
+  ],
+  "pt": [
+   "Apresentador e empresário",
+   "Apresentador do 'Programa do Ratinho', no SBT, e dono da Rede Massa, afiliada do SBT no Paraná, com negócios em rádio e agronegócio.",
+   [
+    "Comanda programa no SBT há décadas",
+    "Dono da Rede Massa, com dezenas de rádios"
+   ]
+  ],
+  "en": [
+   "TV host and businessman",
+   "Host of SBT's 'Programa do Ratinho' and owner of Rede Massa, SBT's affiliate in Paraná, with businesses in radio and agribusiness.",
+   [
+    "Has hosted on SBT for decades",
+    "Owns Rede Massa, with dozens of radio stations"
+   ]
+  ],
+  "es": [
+   "Presentador y empresario",
+   "Presentador del 'Programa do Ratinho', en SBT, y dueño de Rede Massa, afiliada del SBT en Paraná, con negocios en radio y agronegocio.",
+   [
+    "Conduce un programa en SBT desde hace décadas",
+    "Dueño de Rede Massa, con decenas de radios"
+   ]
+  ]
+ },
+ {
+  "slug": "jonatas-faro",
+  "name": "Jonatas Faro",
+  "market": "brazil",
+  "kinds": [
+   "actor",
+   "singer"
+  ],
+  "country": "BR",
+  "aliases": [
+   "Jônatas Faro"
+  ],
+  "works": [
+   {
+    "title": "Chiquititas",
+    "year": 1998,
+    "kind": "series"
+   },
+   {
+    "title": "Cheias de Charme",
+    "year": 2012,
+    "kind": "series"
+   },
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "show"
+   }
+  ],
+  "pt": [
+   "Ator e cantor",
+   "Ator revelado como Samuca em 'Chiquititas' (1998), com passagens por 'Malhação' e 'Cheias de Charme'. Participa de A Fazenda 18.",
+   [
+    "Samuca em 'Chiquititas'",
+    "3º lugar na 'Dança dos Famosos' de 2009"
+   ]
+  ],
+  "en": [
+   "Actor and singer",
+   "Actor who rose to fame as Samuca in 'Chiquititas' (1998), with roles in 'Malhação' and 'Cheias de Charme'. Contestant on A Fazenda 18.",
+   [
+    "Samuca in 'Chiquititas'",
+    "3rd place on 'Dança dos Famosos' 2009"
+   ]
+  ],
+  "es": [
+   "Actor y cantante",
+   "Actor que se dio a conocer como Samuca en 'Chiquititas' (1998), con papeles en 'Malhação' y 'Cheias de Charme'. Participa en A Fazenda 18.",
+   [
+    "Samuca en 'Chiquititas'",
+    "3.º lugar en 'Dança dos Famosos' 2009"
+   ]
+  ]
+ },
+ {
+  "slug": "ariela-carasso",
+  "name": "Ariela Carasso",
+  "market": "brazil",
+  "kinds": [
+   "influencer"
+  ],
+  "country": "BR",
+  "works": [
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "show"
+   }
+  ],
+  "pt": [
+   "Empresária e influenciadora",
+   "Diretora de eventos e influenciadora que ficou conhecida no 'Casamento às Cegas Brasil'. Participa de A Fazenda 18.",
+   [
+    "Ex-participante do 'Casamento às Cegas Brasil'",
+    "Peoa de A Fazenda 18"
+   ]
+  ],
+  "en": [
+   "Businesswoman and influencer",
+   "Events director and influencer who became known on 'Love Is Blind: Brazil'. Contestant on A Fazenda 18.",
+   [
+    "Former 'Love Is Blind: Brazil' contestant",
+    "Contestant on A Fazenda 18"
+   ]
+  ],
+  "es": [
+   "Empresaria e influencer",
+   "Directora de eventos e influencer conocida por 'Casamiento a ciegas Brasil'. Participa en A Fazenda 18.",
+   [
+    "Exparticipante de 'Casamiento a ciegas Brasil'",
+    "Participante de A Fazenda 18"
+   ]
+  ]
+ },
+ {
+  "slug": "alan-cumming",
+  "name": "Alan Cumming",
+  "market": "global",
+  "kinds": [
+   "actor",
+   "host"
+  ],
+  "country": "GB",
+  "birthDate": "1965-01-27",
+  "birthPlace": "Aberfeldy, Escócia",
+  "works": [
+   {
+    "title": "The Good Wife",
+    "year": 2009,
+    "kind": "series"
+   },
+   {
+    "title": "The Traitors",
+    "year": 2023,
+    "kind": "show"
+   },
+   {
+    "title": "Tip Toe",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Ator e apresentador",
+   "Ator escocês vencedor do Tony por 'Cabaret', conhecido por 'The Good Wife' e por apresentar 'The Traitors' nos EUA.",
+   [
+    "Tony por 'Cabaret'",
+    "Apresentador de 'The Traitors'"
+   ]
+  ],
+  "en": [
+   "Actor and host",
+   "Scottish actor and Tony winner for 'Cabaret', known for 'The Good Wife' and for hosting the U.S. 'The Traitors'.",
+   [
+    "Tony for 'Cabaret'",
+    "Host of 'The Traitors'"
+   ]
+  ],
+  "es": [
+   "Actor y presentador",
+   "Actor escocés ganador del Tony por 'Cabaret', conocido por 'The Good Wife' y por presentar 'The Traitors' en EE. UU.",
+   [
+    "Tony por 'Cabaret'",
+    "Presentador de 'The Traitors'"
+   ]
+  ]
+ },
+ {
+  "slug": "david-morrissey",
+  "name": "David Morrissey",
+  "market": "global",
+  "kinds": [
+   "actor"
+  ],
+  "country": "GB",
+  "birthPlace": "Liverpool, Inglaterra",
+  "works": [
+   {
+    "title": "The Walking Dead",
+    "year": 2012,
+    "kind": "series"
+   },
+   {
+    "title": "Tip Toe",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Ator",
+   "Ator inglês conhecido mundialmente como o Governador de 'The Walking Dead'.",
+   [
+    "O Governador em 'The Walking Dead'",
+    "Protagonista de 'Tip Toe'"
+   ]
+  ],
+  "en": [
+   "Actor",
+   "English actor known worldwide as the Governor in 'The Walking Dead'.",
+   [
+    "The Governor in 'The Walking Dead'",
+    "Lead in 'Tip Toe'"
+   ]
+  ],
+  "es": [
+   "Actor",
+   "Actor inglés conocido mundialmente como el Gobernador de 'The Walking Dead'.",
+   [
+    "El Gobernador en 'The Walking Dead'",
+    "Protagonista de 'Tip Toe'"
+   ]
+  ]
+ },
+ {
+  "slug": "anthony-bourdain",
+  "name": "Anthony Bourdain",
+  "market": "global",
+  "kinds": [
+   "host",
+   "presenter"
+  ],
+  "country": "US",
+  "birthDate": "1956-06-25",
+  "birthPlace": "Nova York, EUA",
+  "works": [
+   {
+    "title": "Parts Unknown",
+    "year": 2013,
+    "kind": "series"
+   },
+   {
+    "title": "Get Jiro",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Chef, escritor e apresentador",
+   "Chef e escritor americano (1956–2018), autor de 'Cozinha Confidencial' e apresentador de programas de viagem como 'Parts Unknown'.",
+   [
+    "Livro 'Cozinha Confidencial' (2000)",
+    "Série 'Parts Unknown'"
+   ]
+  ],
+  "en": [
+   "Chef, writer and host",
+   "American chef and writer (1956–2018), author of 'Kitchen Confidential' and host of travel shows such as 'Parts Unknown'.",
+   [
+    "'Kitchen Confidential' (2000)",
+    "'Parts Unknown'"
+   ]
+  ],
+  "es": [
+   "Chef, escritor y presentador",
+   "Chef y escritor estadounidense (1956–2018), autor de 'Kitchen Confidential' y presentador de programas de viaje como 'Parts Unknown'.",
+   [
+    "'Kitchen Confidential' (2000)",
+    "'Parts Unknown'"
+   ]
+  ]
+ },
+ {
+  "slug": "marcela-montellato",
+  "name": "Marcela Montellato",
+  "market": "brazil",
+  "kinds": [
+   "creator",
+   "influencer"
+  ],
+  "country": "BR",
+  "genres": [
+   "humor",
+   "viagens"
+  ],
+  "pt": [
+   "Criadora de conteúdo, roteirista e diretora",
+   "Tiktoker brasileira conhecida por vídeos de humor, viagens e relatos pessoais.",
+   [
+    "6,3 milhões de seguidores no TikTok",
+    "1,8 milhão de seguidores no Instagram"
+   ]
+  ],
+  "en": [
+   "Content creator, screenwriter and director",
+   "Brazilian TikToker known for comedy, travel and personal storytelling videos.",
+   [
+    "6.3 million TikTok followers",
+    "1.8 million Instagram followers"
+   ]
+  ],
+  "es": [
+   "Creadora de contenido, guionista y directora",
+   "Tiktoker brasileña conocida por sus videos de humor, viajes y relatos personales.",
+   [
+    "6,3 millones de seguidores en TikTok",
+    "1,8 millones de seguidores en Instagram"
+   ]
+  ]
+ },
+ {
+  "slug": "mila-seidl",
+  "name": "Mila Seidl",
+  "market": "brazil",
+  "kinds": [
+   "producer"
+  ],
+  "country": "BR",
+  "pt": [
+   "Empresária",
+   "Sócia e viúva do youtuber Lito Sousa, comanda a área estratégica e comercial do Lito Group, empresa de cursos e conteúdo de aviação.",
+   [
+    "Sócia do Lito Group",
+    "Cofundadora do negócio por trás do canal 'Aviões e Músicas'"
+   ]
+  ],
+  "en": [
+   "Businesswoman",
+   "Business partner and widow of YouTuber Lito Sousa, she runs strategy and sales at Lito Group, an aviation courses and content company.",
+   [
+    "Partner at Lito Group",
+    "Co-runs the business behind the 'Aviões e Músicas' channel"
+   ]
+  ],
+  "es": [
+   "Empresaria",
+   "Socia y viuda del youtuber Lito Sousa, dirige el área estratégica y comercial de Lito Group, empresa de cursos y contenido de aviación.",
+   [
+    "Socia de Lito Group",
+    "Codirige el negocio detrás del canal 'Aviões e Músicas'"
+   ]
+  ]
+ },
+ {
+  "slug": "victor-fasano",
+  "name": "Victor Fasano",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "pt": [
+   "Ator",
+   "Ator brasileiro com longa trajetória em novelas da TV Globo, também conhecido pelo ativismo ambiental.",
+   [
+    "Galã de novelas da Globo",
+    "Ativista de causas ambientais"
+   ]
+  ],
+  "en": [
+   "Actor",
+   "Brazilian actor with a long career in TV Globo telenovelas, also known for his environmental activism.",
+   [
+    "Former Globo telenovela heartthrob",
+    "Environmental activist"
+   ]
+  ],
+  "es": [
+   "Actor",
+   "Actor brasileño con larga trayectoria en telenovelas de TV Globo, también conocido por su activismo ambiental.",
+   [
+    "Galán de telenovelas de Globo",
+    "Activista ambiental"
+   ]
+  ]
+ },
+ {
+  "slug": "marina-ruy-barbosa",
+  "name": "Marina Ruy Barbosa",
+  "market": "brazil",
+  "kinds": [
+   "actress"
+  ],
+  "country": "BR",
+  "ig": "marinaruybarbosa",
+  "birthDate": "1995-06-30",
+  "birthPlace": "Rio de Janeiro, RJ",
+  "works": [
+   {
+    "title": "Império",
+    "year": 2014,
+    "kind": "series"
+   },
+   {
+    "title": "Totalmente Demais",
+    "year": 2015,
+    "kind": "series"
+   },
+   {
+    "title": "A Força do Querer",
+    "year": 2017,
+    "kind": "series"
+   },
+   {
+    "title": "O Sétimo Guardião",
+    "year": 2018,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Atriz",
+   "Atriz carioca que cresceu nas novelas da Globo e virou uma das protagonistas mais populares da emissora, além de empresária de moda.",
+   [
+    "Protagonista de 'Totalmente Demais' e 'O Sétimo Guardião'",
+    "Ícone de moda nas redes"
+   ]
+  ],
+  "en": [
+   "Actress",
+   "Rio-born actress who grew up in Globo telenovelas and became one of the network's most popular leads, as well as a fashion entrepreneur.",
+   [
+    "Lead in 'Totalmente Demais' and 'O Sétimo Guardião'",
+    "Social media fashion icon"
+   ]
+  ],
+  "es": [
+   "Actriz",
+   "Actriz carioca que creció en las telenovelas de Globo y se convirtió en una de las protagonistas más populares de la cadena, además de empresaria de moda.",
+   [
+    "Protagonista de 'Totalmente Demais' y 'O Sétimo Guardião'",
+    "Ícono de moda en redes"
+   ]
+  ]
+ },
+ {
+  "slug": "roberto-justus",
+  "name": "Roberto Justus",
+  "market": "brazil",
+  "kinds": [
+   "host",
+   "presenter"
+  ],
+  "country": "BR",
+  "birthDate": "1955-04-30",
+  "birthPlace": "São Paulo, SP",
+  "works": [
+   {
+    "title": "O Aprendiz",
+    "year": 2004,
+    "kind": "show"
+   }
+  ],
+  "pt": [
+   "Empresário e apresentador",
+   "Publicitário e empresário paulistano que ficou famoso na TV como o chefe exigente do reality 'O Aprendiz'.",
+   [
+    "Apresentou 'O Aprendiz'",
+    "Casado com a influenciadora Ana Paula Siebert"
+   ]
+  ],
+  "en": [
+   "Businessman and TV host",
+   "São Paulo advertising executive and businessman who became famous on TV as the demanding boss of the reality show 'O Aprendiz'.",
+   [
+    "Hosted 'O Aprendiz'",
+    "Married to influencer Ana Paula Siebert"
+   ]
+  ],
+  "es": [
+   "Empresario y presentador",
+   "Publicista y empresario paulista que se hizo famoso en la TV como el exigente jefe del reality 'O Aprendiz'.",
+   [
+    "Presentó 'O Aprendiz'",
+    "Casado con la influencer Ana Paula Siebert"
+   ]
+  ]
+ },
+ {
+  "slug": "ana-paula-siebert",
+  "name": "Ana Paula Siebert",
+  "market": "brazil",
+  "kinds": [
+   "influencer"
+  ],
+  "country": "BR",
+  "pt": [
+   "Influenciadora",
+   "Influenciadora digital e empresária, casada com Roberto Justus, com quem tem a filha Vicky.",
+   [
+    "Mostra a rotina de luxo da família nas redes",
+    "Mãe de Vicky"
+   ]
+  ],
+  "en": [
+   "Influencer",
+   "Digital influencer and businesswoman, married to Roberto Justus, with whom she has a daughter, Vicky.",
+   [
+    "Shares the family's luxury lifestyle online",
+    "Mother of Vicky"
+   ]
+  ],
+  "es": [
+   "Influencer",
+   "Influencer digital y empresaria, casada con Roberto Justus, con quien tiene una hija, Vicky.",
+   [
+    "Muestra la vida de lujo de la familia en redes",
+    "Madre de Vicky"
+   ]
+  ]
+ },
+ {
+  "slug": "katseye",
+  "name": "KATSEYE",
+  "market": "global",
+  "kinds": [
+   "band"
+  ],
+  "country": "US",
+  "activeSince": 2024,
+  "genres": [
+   "pop"
+  ],
+  "aliases": [
+   "Katseye"
+  ],
+  "works": [
+   {
+    "title": "SIS (Soft Is Strong)",
+    "year": 2024,
+    "kind": "album"
+   },
+   {
+    "title": "Beautiful Chaos",
+    "year": 2025,
+    "kind": "album"
+   },
+   {
+    "title": "Gabriela",
+    "year": 2025,
+    "kind": "single"
+   },
+   {
+    "title": "Gnarly",
+    "year": 2025,
+    "kind": "single"
+   },
+   {
+    "title": "Wild",
+    "year": 2026,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Girl group global",
+   "Grupo feminino formado no reality 'Dream Academy' (2023), parceria da Hybe com a Geffen Records, e lançado em junho de 2024 com Daniela, Lara, Manon, Megan, Sophia e Yoonchae.",
+   [
+    "Indicado ao Grammy de Artista Revelação e de Melhor Performance Pop de Duo/Grupo por 'Gabriela'",
+    "O EP 'Wild' (2026) foi o primeiro nº 1 do grupo na Billboard 200"
+   ]
+  ],
+  "en": [
+   "Global girl group",
+   "Girl group formed on the 2023 reality series 'Dream Academy', a Hybe and Geffen Records partnership, debuting in June 2024 with Daniela, Lara, Manon, Megan, Sophia and Yoonchae.",
+   [
+    "Grammy nominee for Best New Artist and Best Pop Duo/Group Performance for 'Gabriela'",
+    "EP 'Wild' (2026) became the group's first No. 1 on the Billboard 200"
+   ]
+  ],
+  "es": [
+   "Girl group global",
+   "Grupo femenino formado en el reality 'Dream Academy' (2023), alianza de Hybe y Geffen Records, que debutó en junio de 2024 con Daniela, Lara, Manon, Megan, Sophia y Yoonchae.",
+   [
+    "Nominado al Grammy a Mejor Artista Nuevo y a Mejor Interpretación Pop de Dúo/Grupo por 'Gabriela'",
+    "El EP 'Wild' (2026) fue su primer n.º 1 en el Billboard 200"
+   ]
+  ]
+ },
+ {
+  "slug": "austin-butler",
+  "name": "Austin Butler",
+  "market": "global",
+  "kinds": [
+   "actor"
+  ],
+  "country": "US",
+  "legalName": "Austin Robert Butler",
+  "birthDate": "1991-08-17",
+  "birthPlace": "Anaheim, Califórnia/EUA",
+  "activeSince": 2005,
+  "works": [
+   {
+    "title": "Elvis",
+    "year": 2022,
+    "kind": "film"
+   },
+   {
+    "title": "Era Uma Vez em... Hollywood",
+    "year": 2019,
+    "kind": "film"
+   },
+   {
+    "title": "Duna: Parte Dois",
+    "year": 2024,
+    "kind": "film"
+   },
+   {
+    "title": "Masters of the Air",
+    "year": 2024,
+    "kind": "series"
+   },
+   {
+    "title": "Ladrões",
+    "year": 2025,
+    "kind": "film"
+   }
+  ],
+  "pt": [
+   "Ator",
+   "Ator americano que começou na TV infantil e virou astro de Hollywood ao interpretar Elvis Presley na cinebiografia de Baz Luhrmann (2022).",
+   [
+    "Globo de Ouro e BAFTA de Melhor Ator por 'Elvis', além de indicação ao Oscar",
+    "Viveu o vilão Feyd-Rautha em 'Duna: Parte Dois' (2024)"
+   ]
+  ],
+  "en": [
+   "Actor",
+   "American actor who started in children's TV and became a Hollywood star playing Elvis Presley in Baz Luhrmann's 2022 biopic.",
+   [
+    "Golden Globe and BAFTA for Best Actor for 'Elvis', plus an Oscar nomination",
+    "Played villain Feyd-Rautha in 'Dune: Part Two' (2024)"
+   ]
+  ],
+  "es": [
+   "Actor",
+   "Actor estadounidense que empezó en la TV infantil y se convirtió en estrella de Hollywood al interpretar a Elvis Presley en la biopic de Baz Luhrmann (2022).",
+   [
+    "Globo de Oro y BAFTA a Mejor Actor por 'Elvis', además de nominación al Oscar",
+    "Interpretó al villano Feyd-Rautha en 'Duna: Parte Dos' (2024)"
+   ]
+  ]
+ },
+ {
+  "slug": "danilo-gentili",
+  "name": "Danilo Gentili",
+  "market": "brazil",
+  "kinds": [
+   "host",
+   "presenter"
+  ],
+  "country": "BR",
+  "legalName": "Danilo Gentili Júnior",
+  "birthDate": "1979-09-27",
+  "birthPlace": "Santo André, SP",
+  "activeSince": 2005,
+  "genres": [
+   "humor",
+   "stand-up"
+  ],
+  "works": [
+   {
+    "title": "Custe o Que Custar (CQC)",
+    "year": 2008,
+    "kind": "show"
+   },
+   {
+    "title": "Agora É Tarde",
+    "year": 2011,
+    "kind": "show"
+   },
+   {
+    "title": "The Noite com Danilo Gentili",
+    "year": 2014,
+    "kind": "show"
+   },
+   {
+    "title": "Como se Tornar o Pior Aluno da Escola",
+    "year": 2017,
+    "kind": "film"
+   }
+  ],
+  "pt": [
+   "Humorista e apresentador",
+   "Comediante de stand-up que ficou famoso como repórter do 'CQC', na Band, e comanda desde 2014 o talk show 'The Noite', no SBT.",
+   [
+    "Apresentou o 'Agora É Tarde' (2011–2013) na Band",
+    "Seu livro 'Como se Tornar o Pior Aluno da Escola' (2009) virou filme em 2017"
+   ]
+  ],
+  "en": [
+   "Comedian and TV host",
+   "Stand-up comedian who rose to fame as a reporter on Band's 'CQC' and has hosted the talk show 'The Noite' on SBT since 2014.",
+   [
+    "Hosted 'Agora É Tarde' (2011–2013) on Band",
+    "His book 'Como se Tornar o Pior Aluno da Escola' (2009) was adapted into a 2017 film"
+   ]
+  ],
+  "es": [
+   "Humorista y presentador",
+   "Comediante de stand-up que se hizo famoso como reportero de 'CQC' en Band y conduce desde 2014 el talk show 'The Noite' en SBT.",
+   [
+    "Condujo 'Agora É Tarde' (2011–2013) en Band",
+    "Su libro 'Como se Tornar o Pior Aluno da Escola' (2009) fue llevado al cine en 2017"
+   ]
+  ]
+ },
+ {
+  "slug": "orlando-morais",
+  "name": "Orlando Morais",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "birthDate": "1962-01-22",
+  "birthPlace": "Goiânia, GO",
+  "genres": [
+   "MPB"
+  ],
+  "works": [
+   {
+    "title": "A Rota do Indivíduo",
+    "year": 1991,
+    "kind": "album"
+   },
+   {
+    "title": "Ímpar",
+    "year": 1993,
+    "kind": "album"
+   },
+   {
+    "title": "Abismo Zen",
+    "year": 1995,
+    "kind": "album"
+   },
+   {
+    "title": "Na Paz",
+    "year": 2001,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantor e compositor",
+   "Cantor e compositor goiano de MPB, casado desde 1987 com a atriz Glória Pires, com quem tem três filhos; também é empresário.",
+   [
+    "'Figura' (1993) fez sucesso nas rádios e entrou na trilha de 'Mulheres de Areia'",
+    "'O Que Vem a Ser a Felicidade' integrou a trilha de 'O Rei do Gado'"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "Brazilian MPB singer-songwriter from Goiás, married since 1987 to actress Glória Pires, with whom he has three children; he is also a businessman.",
+   [
+    "'Figura' (1993) became a radio hit and joined the soundtrack of telenovela 'Mulheres de Areia'",
+    "'O Que Vem a Ser a Felicidade' was featured on the 'O Rei do Gado' soundtrack"
+   ]
+  ],
+  "es": [
+   "Cantautor",
+   "Cantautor brasileño de MPB nacido en Goiás, casado desde 1987 con la actriz Glória Pires, con quien tiene tres hijos; también es empresario.",
+   [
+    "'Figura' (1993) fue éxito en la radio y formó parte de la banda sonora de 'Mulheres de Areia'",
+    "'O Que Vem a Ser a Felicidade' integró la banda sonora de 'O Rei do Gado'"
+   ]
+  ]
+ },
+ {
+  "slug": "don-toliver",
+  "name": "Don Toliver",
+  "market": "global",
+  "kinds": [
+   "rapper",
+   "singer"
+  ],
+  "country": "US",
+  "legalName": "Caleb Zackery Toliver",
+  "birthDate": "1994-06-12",
+  "birthPlace": "Houston, Texas/EUA",
+  "activeSince": 2015,
+  "genres": [
+   "hip-hop",
+   "trap",
+   "R&B"
+  ],
+  "works": [
+   {
+    "title": "Heaven or Hell",
+    "year": 2020,
+    "kind": "album"
+   },
+   {
+    "title": "Life of a Don",
+    "year": 2021,
+    "kind": "album"
+   },
+   {
+    "title": "Love Sick",
+    "year": 2023,
+    "kind": "album"
+   },
+   {
+    "title": "Hardstone Psycho",
+    "year": 2024,
+    "kind": "album"
+   },
+   {
+    "title": "Octane",
+    "year": 2026,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Rapper e cantor",
+   "Rapper e cantor de Houston contratado em 2018 pelo selo Cactus Jack, de Travis Scott, conhecido pelo trap melódico e psicodélico.",
+   [
+    "Hits como 'No Idea' (2019) e 'Lemonade' (2020), com Gunna e Nav",
+    "Lançou cinco álbuns de estúdio, de 'Heaven or Hell' (2020) a 'Octane' (2026)"
+   ]
+  ],
+  "en": [
+   "Rapper and singer",
+   "Houston rapper and singer signed in 2018 to Travis Scott's Cactus Jack label, known for melodic, psychedelic trap.",
+   [
+    "Hits include 'No Idea' (2019) and 'Lemonade' (2020) with Gunna and Nav",
+    "Five studio albums, from 'Heaven or Hell' (2020) to 'Octane' (2026)"
+   ]
+  ],
+  "es": [
+   "Rapero y cantante",
+   "Rapero y cantante de Houston fichado en 2018 por el sello Cactus Jack de Travis Scott, conocido por su trap melódico y psicodélico.",
+   [
+    "Éxitos como 'No Idea' (2019) y 'Lemonade' (2020), con Gunna y Nav",
+    "Cinco álbumes de estudio, de 'Heaven or Hell' (2020) a 'Octane' (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "niziu",
+  "name": "NiziU",
+  "market": "kpop",
+  "kinds": [
+   "band"
+  ],
+  "country": "JP",
+  "activeSince": 2020,
+  "genres": [
+   "J-pop",
+   "K-pop"
+  ],
+  "works": [
+   {
+    "title": "Step and a Step",
+    "year": 2020,
+    "kind": "single"
+   },
+   {
+    "title": "U",
+    "year": 2021,
+    "kind": "album"
+   },
+   {
+    "title": "Coconut",
+    "year": 2023,
+    "kind": "album"
+   },
+   {
+    "title": "Heartris",
+    "year": 2023,
+    "kind": "single"
+   },
+   {
+    "title": "New Emotion",
+    "year": 2025,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Girl group",
+   "Grupo japonês de nove integrantes criado no reality 'Nizi Project' (2020), parceria da JYP Entertainment com a Sony Music Japan.",
+   [
+    "O single de estreia 'Step and a Step' (2020) liderou a Oricon e a Billboard Japan Hot 100",
+    "Estreou na Coreia em 2023 e venceu seu primeiro programa musical com 'Heartris'"
+   ]
+  ],
+  "en": [
+   "Girl group",
+   "Nine-member Japanese group created on the 2020 reality show 'Nizi Project', a JYP Entertainment and Sony Music Japan partnership.",
+   [
+    "Debut single 'Step and a Step' (2020) topped Oricon and the Billboard Japan Hot 100",
+    "Debuted in Korea in 2023 and won its first music-show trophy with 'Heartris'"
+   ]
+  ],
+  "es": [
+   "Girl group",
+   "Grupo japonés de nueve integrantes creado en el reality 'Nizi Project' (2020), alianza de JYP Entertainment y Sony Music Japan.",
+   [
+    "Su sencillo debut 'Step and a Step' (2020) lideró Oricon y el Billboard Japan Hot 100",
+    "Debutó en Corea en 2023 y ganó su primer programa musical con 'Heartris'"
+   ]
+  ]
+ },
+ {
+  "slug": "damon-hill",
+  "name": "Damon Hill",
+  "market": "global",
+  "kinds": [
+   "athlete"
+  ],
+  "country": "GB",
+  "legalName": "Damon Graham Devereux Hill",
+  "birthDate": "1960-09-17",
+  "birthPlace": "Hampstead, Londres/Reino Unido",
+  "activeSince": 1992,
+  "genres": [
+   "Fórmula 1"
+  ],
+  "pt": [
+   "Ex-piloto de Fórmula 1",
+   "Piloto britânico campeão mundial de F1 em 1996 pela Williams, primeiro filho de um campeão (Graham Hill) a também conquistar o título.",
+   [
+    "22 vitórias na Fórmula 1 entre 1992 e 1999",
+    "Comentarista da Sky Sports F1 de 2012 a 2024"
+   ]
+  ],
+  "en": [
+   "Former Formula One driver",
+   "British driver who won the 1996 F1 world title with Williams, the first son of a champion (Graham Hill) to also take the crown.",
+   [
+    "22 Formula One wins between 1992 and 1999",
+    "Sky Sports F1 pundit from 2012 to 2024"
+   ]
+  ],
+  "es": [
+   "Expiloto de Fórmula 1",
+   "Piloto británico campeón mundial de F1 en 1996 con Williams, el primer hijo de un campeón (Graham Hill) en ganar también el título.",
+   [
+    "22 victorias en la Fórmula 1 entre 1992 y 1999",
+    "Comentarista de Sky Sports F1 de 2012 a 2024"
+   ]
+  ]
+ },
+ {
+  "slug": "daniel-cady",
+  "name": "Daniel Cady",
+  "market": "brazil",
+  "kinds": [
+   "influencer"
+  ],
+  "country": "BR",
+  "pt": [
+   "Nutricionista e influenciador",
+   "Nutricionista com milhões de seguidores no Instagram, foi casado com Ivete Sangalo de 2011 a 2025 e é pai de Marcelo e das gêmeas Marina e Helena.",
+   [
+    "Juntou-se a Ivete em 2008 e se casou com ela em 2011",
+    "O casal anunciou a separação em novembro de 2025"
+   ]
+  ],
+  "en": [
+   "Nutritionist and influencer",
+   "Nutritionist with millions of Instagram followers, married to Ivete Sangalo from 2011 to 2025 and father of Marcelo and twins Marina and Helena.",
+   [
+    "Got together with Ivete in 2008 and married her in 2011",
+    "The couple announced their separation in November 2025"
+   ]
+  ],
+  "es": [
+   "Nutricionista e influencer",
+   "Nutricionista con millones de seguidores en Instagram, estuvo casado con Ivete Sangalo de 2011 a 2025 y es padre de Marcelo y de las gemelas Marina y Helena.",
+   [
+    "Comenzó la relación con Ivete en 2008 y se casó con ella en 2011",
+    "La pareja anunció su separación en noviembre de 2025"
+   ]
+  ]
+ },
+ {
+  "slug": "amalia-granata",
+  "name": "Amalia Granata",
+  "market": "latin",
+  "kinds": [
+   "presenter"
+  ],
+  "country": "AR",
+  "birthDate": "1981-02-26",
+  "birthPlace": "Rosario, Santa Fe/Argentina",
+  "pt": [
+   "Ex-modelo e deputada",
+   "Ex-modelo e panelista da TV argentina que ficou famosa em 2004 pelo romance com Robbie Williams e é deputada provincial de Santa Fe desde 2019.",
+   [
+    "Participou do reality 'Gran Hermano Famosos' (2007)",
+    "Foi a terceira candidata mais votada de Santa Fe em 2019, com cerca de 290 mil votos"
+   ]
+  ],
+  "en": [
+   "Former model and lawmaker",
+   "Former model and Argentine TV panelist who became famous in 2004 for her fling with Robbie Williams and has been a Santa Fe provincial deputy since 2019.",
+   [
+    "Took part in the reality show 'Gran Hermano Famosos' (2007)",
+    "Was Santa Fe's third most-voted candidate in 2019, with about 290,000 votes"
+   ]
+  ],
+  "es": [
+   "Exmodelo y diputada",
+   "Exmodelo y panelista de la TV argentina que se hizo famosa en 2004 por su romance con Robbie Williams y es diputada provincial de Santa Fe desde 2019.",
+   [
+    "Participó del reality 'Gran Hermano Famosos' (2007)",
+    "Fue la tercera candidata más votada de Santa Fe en 2019, con unos 290.000 votos"
+   ]
+  ]
+ },
+ {
+  "slug": "herson-capri",
+  "name": "Herson Capri",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "birthDate": "1951-11-08",
+  "activeSince": 1975,
+  "works": [
+   {
+    "title": "O Beijo da Mulher Aranha",
+    "year": 1985,
+    "kind": "film"
+   },
+   {
+    "title": "Teresa Batista",
+    "year": 1992,
+    "kind": "series"
+   },
+   {
+    "title": "Renascer",
+    "year": 1993,
+    "kind": "series"
+   },
+   {
+    "title": "Minha Mãe é uma Peça",
+    "year": 2013,
+    "kind": "film"
+   },
+   {
+    "title": "Em Família",
+    "year": 2014,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Ator",
+   "Veterano da TV, do cinema e do teatro, estreou em novelas em 1975 e soma mais de 40 trabalhos na televisão.",
+   [
+    "Viveu o vilão Coronel Teodoro na primeira versão de 'Renascer' (1993)",
+    "Esteve no elenco de 'O Beijo da Mulher Aranha' (1985)"
+   ]
+  ],
+  "en": [
+   "Actor",
+   "TV, film and stage veteran who made his telenovela debut in 1975 and has more than 40 television credits.",
+   [
+    "Played villain Colonel Teodoro in the original 'Renascer' (1993)",
+    "Was in the cast of 'Kiss of the Spider Woman' (1985)"
+   ]
+  ],
+  "es": [
+   "Actor",
+   "Veterano de la TV, el cine y el teatro que debutó en telenovelas en 1975 y suma más de 40 trabajos en televisión.",
+   [
+    "Interpretó al villano Coronel Teodoro en la versión original de 'Renascer' (1993)",
+    "Formó parte del elenco de 'El beso de la mujer araña' (1985)"
+   ]
+  ]
  }
 ]
