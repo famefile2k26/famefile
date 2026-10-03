@@ -444,7 +444,15 @@
   "octane|don toliver": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/00/c1/dd/00c1dd09-3f86-7288-01dc-63b9f4262f57/075679599377.jpg/600x600bb.jpg",
   "u|niziu": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/9f/60/92/9f609210-bb3e-3673-198a-ec5358b00e56/4547366539400.jpg/600x600bb.jpg",
   "coconut|niziu": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/4d/da/3c/4dda3c84-dca1-e932-fbaf-c7878dc654e5/4547366633160.jpg/600x600bb.jpg",
-  "new emotion|niziu": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/fa/42/78fa429e-abb9-3ab8-f25a-9061b957fe4a/4547366786859.jpg/600x600bb.jpg"
+  "new emotion|niziu": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/78/fa/42/78fa429e-abb9-3ab8-f25a-9061b957fe4a/4547366786859.jpg/600x600bb.jpg",
+  "little love|mc cabelinho": "https://cdn-images.dzcdn.net/images/cover/148049a91847bd12d5366d26b31cb92e/1000x1000-000000-80-0-0.jpg",
+  "nao sou santo mas nao sou bandido|mc cabelinho": "https://cdn-images.dzcdn.net/images/cover/60b364059190f08b735c93d1e45f64a6/1000x1000-000000-80-0-0.jpg",
+  "e o tchan do brasil|e o tchan": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0a/1e/b0/0a1eb0af-4a2a-1705-1bdc-a4087b997062/18UMGIM36761.rgb.jpg/600x600bb.jpg",
+  "tropicalia ou panis et circencis|caetano veloso": "https://cdn-images.dzcdn.net/images/artist/466d6b39a0b650f29c961a949de0fac4/1000x1000-000000-80-0-0.jpg",
+  "caetano veloso|caetano veloso": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/ae/2f/0f/ae2f0fd0-6b64-7e2a-ca02-d876f3bb8c8d/00602537449491.rgb.jpg/600x600bb.jpg",
+  "estrangeiro|caetano veloso": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/9e/c4/a2/9ec4a227-89ed-130e-ef52-de898798907c/06UMGIM34797.rgb.jpg/600x600bb.jpg",
+  "a foreign sound|caetano veloso": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/94/47/4f/94474ff3-663a-e5f6-44ee-a908b2379b9e/00602498086216.rgb.jpg/600x600bb.jpg",
+  "ce|caetano veloso": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/0f/3b/c7/0f3bc780-a75e-86a9-b299-0b18b56736ed/00602517049451.rgb.jpg/600x600bb.jpg"
  },
  "articles": {
   "2001": {
@@ -1908,6 +1916,41 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Hersoncapri_rcbr.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "credit": "Foto: Wikimedia Commons",
    "source": "pt.wikipedia.org/wiki/Herson_Capri"
+  },
+  "mc-cabelinho": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/MC_Cabelinho_-_TVZ_2023_%281%29.png/960px-MC_Cabelinho_-_TVZ_2023_%281%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/MC_Cabelinho"
+  },
+  "kerolin-nicoli": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2023-04-11_Fussball%2C_Frauen%2C_L%C3%A4nderspiel%2C_Deutschland_-_Brasilien_1DX_0071_by_Stepro.jpg/960px-2023-04-11_Fussball%2C_Frauen%2C_L%C3%A4nderspiel%2C_Deutschland_-_Brasilien_1DX_0071_by_Stepro.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Kerolin"
+  },
+  "marco-luque": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Marco_Luque1.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Marco_Luque"
+  },
+  "marcos-mion": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Marcos_Mion_2021.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Marcos_Mion"
+  },
+  "e-o-tchan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/%C3%89_o_Tchan_2020.jpg/960px-%C3%89_o_Tchan_2020.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/É_o_Tchan!"
+  },
+  "caetano-veloso": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped%29.jpg/960px-Caetano_Veloso_entrevista_Haddad_%C2%B7_23-06-2022_%C2%B7_S%C3%A3o_Paulo_%28SP%29_%2852433690124%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Caetano_Veloso"
+  },
+  "eduardo-santamarina": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Eduardo-santamarina_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Eduardo_Santamarina"
   }
  }
 }
