@@ -7858,5 +7858,905 @@
     "Consagrada carrera teatral"
    ]
   ]
+ },
+ {
+  "slug": "blackpink",
+  "name": "BLACKPINK",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "KR",
+  "activeSince": 2016,
+  "genres": [
+   "K-pop",
+   "pop"
+  ],
+  "instagram": "blackpinkofficial",
+  "works": [
+   {
+    "title": "Square Up",
+    "year": 2018,
+    "kind": "ep"
+   },
+   {
+    "title": "The Album",
+    "year": 2020,
+    "kind": "album"
+   },
+   {
+    "title": "Born Pink",
+    "year": 2022,
+    "kind": "album"
+   },
+   {
+    "title": "Deadline",
+    "year": 2026,
+    "kind": "ep"
+   }
+  ],
+  "pt": [
+   "Girl group de K-pop",
+   "Quarteto sul-coreano da YG Entertainment formado por Jisoo, Jennie, Rosé e Lisa, que estreou em 2016 e se tornou um dos maiores fenômenos globais do K-pop.",
+   [
+    "Primeiro girl group de K-pop a ser atração principal do Coachella (2023)",
+    "Álbum 'Born Pink' (2022) e EP 'Deadline' (2026)"
+   ]
+  ],
+  "en": [
+   "K-pop girl group",
+   "South Korean quartet from YG Entertainment made up of Jisoo, Jennie, Rosé and Lisa, who debuted in 2016 and became one of K-pop's biggest global phenomena.",
+   [
+    "First K-pop girl group to headline Coachella (2023)",
+    "Album 'Born Pink' (2022) and EP 'Deadline' (2026)"
+   ]
+  ],
+  "es": [
+   "Girl group de K-pop",
+   "Cuarteto surcoreano de YG Entertainment integrado por Jisoo, Jennie, Rosé y Lisa, que debutó en 2016 y se convirtió en uno de los mayores fenómenos globales del K-pop.",
+   [
+    "Primer girl group de K-pop en encabezar Coachella (2023)",
+    "Álbum 'Born Pink' (2022) y EP 'Deadline' (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "lalah-hathaway",
+  "name": "Lalah Hathaway",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "US",
+  "birthPlace": "Chicago, IL",
+  "activeSince": 1990,
+  "genres": [
+   "R&B",
+   "soul",
+   "jazz"
+  ],
+  "works": [
+   {
+    "title": "Lalah Hathaway",
+    "year": 1990,
+    "kind": "album"
+   },
+   {
+    "title": "Vantablack",
+    "year": 2024,
+    "kind": "album"
+   },
+   {
+    "title": "Made in Chicago",
+    "year": 2026,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantora e compositora",
+   "Cantora americana de R&B e soul, filha do lendário Donny Hathaway, conhecida pela voz grave e pela técnica de cantar mais de uma nota ao mesmo tempo.",
+   [
+    "Vencedora de múltiplos Grammys",
+    "Nono álbum, 'Made in Chicago' (2026), homenageia a cidade natal"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "American R&B and soul singer, daughter of the legendary Donny Hathaway, known for her deep voice and her ability to sing more than one note at once.",
+   [
+    "Multiple Grammy winner",
+    "Ninth album, 'Made in Chicago' (2026), pays tribute to her hometown"
+   ]
+  ],
+  "es": [
+   "Cantante y compositora",
+   "Cantante estadounidense de R&B y soul, hija del legendario Donny Hathaway, conocida por su voz grave y por cantar más de una nota a la vez.",
+   [
+    "Ganadora de varios Grammy",
+    "Su noveno álbum, 'Made in Chicago' (2026), homenajea a su ciudad natal"
+   ]
+  ]
+ },
+ {
+  "slug": "karina",
+  "name": "Karina",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "KR",
+  "activeSince": 2020,
+  "genres": [
+   "K-pop"
+  ],
+  "works": [
+   {
+    "title": "Next Level",
+    "year": 2021,
+    "kind": "single"
+   },
+   {
+    "title": "Supernova",
+    "year": 2024,
+    "kind": "single"
+   },
+   {
+    "title": "Synk: Complaexity",
+    "year": 2026,
+    "kind": "tour"
+   }
+  ],
+  "pt": [
+   "Cantora, líder do aespa",
+   "Cantora sul-coreana, líder do girl group aespa, da SM Entertainment, que estreou em 2020 com 'Black Mamba'.",
+   [
+    "Hits como 'Next Level' e 'Supernova' com o aespa",
+    "Turnê mundial 'SYNK : COMPLæXITY' (2026-27)"
+   ]
+  ],
+  "en": [
+   "Singer, aespa leader",
+   "South Korean singer and leader of SM Entertainment girl group aespa, which debuted in 2020 with 'Black Mamba'.",
+   [
+    "Hits such as 'Next Level' and 'Supernova' with aespa",
+    "'SYNK : COMPLæXITY' world tour (2026-27)"
+   ]
+  ],
+  "es": [
+   "Cantante, líder de aespa",
+   "Cantante surcoreana, líder del girl group aespa, de SM Entertainment, que debutó en 2020 con 'Black Mamba'.",
+   [
+    "Éxitos como 'Next Level' y 'Supernova' con aespa",
+    "Gira mundial 'SYNK : COMPLæXITY' (2026-27)"
+   ]
+  ]
+ },
+ {
+  "slug": "renata-del-bianco",
+  "name": "Renata Del Bianco",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "birthPlace": "São Paulo, SP",
+  "activeSince": 1997,
+  "works": [
+   {
+    "title": "Chiquititas",
+    "year": 1997,
+    "kind": "series"
+   },
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Atriz",
+   "Paulistana, ficou conhecida como a Vivi de 'Chiquititas' (SBT, 1997) e estrelou por dez anos o musical 'A Bela e a Fera' em São Paulo. É participante de A Fazenda 18.",
+   [
+    "Vivi em 'Chiquititas'",
+    "Protagonista de 'A Bela e a Fera' no teatro",
+    "Participante de A Fazenda 18"
+   ]
+  ],
+  "en": [
+   "Actress",
+   "Born in São Paulo, she became known as Vivi in 'Chiquititas' (SBT, 1997) and starred for ten years in the stage musical 'Beauty and the Beast' in São Paulo. She is a contestant on A Fazenda 18.",
+   [
+    "Vivi in 'Chiquititas'",
+    "Lead in the stage 'Beauty and the Beast'",
+    "A Fazenda 18 contestant"
+   ]
+  ],
+  "es": [
+   "Actriz",
+   "Nacida en São Paulo, se hizo conocida como Vivi en 'Chiquititas' (SBT, 1997) y protagonizó durante diez años el musical 'La Bella y la Bestia' en São Paulo. Es participante de A Fazenda 18.",
+   [
+    "Vivi en 'Chiquititas'",
+    "Protagonista de 'La Bella y la Bestia' en teatro",
+    "Participante de A Fazenda 18"
+   ]
+  ]
+ },
+ {
+  "slug": "carol-lekker",
+  "name": "Carol Lekker",
+  "market": "brazil",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "works": [
+   {
+    "title": "Link TV",
+    "year": 2026,
+    "kind": "project"
+   }
+  ],
+  "pt": [
+   "Influenciadora e apresentadora",
+   "Trocou o SBT pela Record em setembro de 2026, onde passou a comandar o podcast 'Link TV' e participou da 'Cabine de Descompressão' de A Fazenda 18.",
+   [
+    "Podcast 'Link TV' (Record)",
+    "'Cabine de Descompressão' de A Fazenda 18"
+   ]
+  ],
+  "en": [
+   "Influencer and host",
+   "She moved from SBT to Record in September 2026, where she began hosting the 'Link TV' podcast and took part in A Fazenda 18's 'Decompression Booth'.",
+   [
+    "'Link TV' podcast (Record)",
+    "A Fazenda 18 'Decompression Booth'"
+   ]
+  ],
+  "es": [
+   "Influencer y presentadora",
+   "Pasó de SBT a Record en septiembre de 2026, donde empezó a conducir el pódcast 'Link TV' y participó en la 'Cabina de Descompresión' de A Fazenda 18.",
+   [
+    "Pódcast 'Link TV' (Record)",
+    "'Cabina de Descompresión' de A Fazenda 18"
+   ]
+  ]
+ },
+ {
+  "slug": "michael-schumacher",
+  "name": "Michael Schumacher",
+  "market": "global",
+  "kinds": [
+   "athlete"
+  ],
+  "country": "DE",
+  "birthDate": "1969-01-03",
+  "birthPlace": "Hürth, Alemanha",
+  "activeSince": 1991,
+  "genres": [
+   "Fórmula 1"
+  ],
+  "works": [
+   {
+    "title": "Benetton",
+    "year": 1994,
+    "kind": "club"
+   },
+   {
+    "title": "Ferrari",
+    "year": 1996,
+    "kind": "club"
+   },
+   {
+    "title": "Schumacher '94 — The Birth of a Legend",
+    "year": 2026,
+    "kind": "film"
+   }
+  ],
+  "pt": [
+   "Ex-piloto de Fórmula 1",
+   "Heptacampeão mundial de F1, conquistou o primeiro título em 1994 pela Benetton e mais cinco pela Ferrari.",
+   [
+    "7 títulos mundiais de F1",
+    "Primeiro título em 1994, por um ponto",
+    "Tema do documentário 'Schumacher '94' (Netflix)"
+   ]
+  ],
+  "en": [
+   "Former Formula 1 driver",
+   "A seven-time F1 world champion, he won his first title in 1994 with Benetton and five more with Ferrari.",
+   [
+    "7 F1 world titles",
+    "First title in 1994, by one point",
+    "Subject of Netflix's 'Schumacher '94'"
+   ]
+  ],
+  "es": [
+   "Expiloto de Fórmula 1",
+   "Heptacampeón mundial de F1, ganó su primer título en 1994 con Benetton y cinco más con Ferrari.",
+   [
+    "7 títulos mundiales de F1",
+    "Primer título en 1994, por un punto",
+    "Protagonista del documental 'Schumacher '94' (Netflix)"
+   ]
+  ]
+ },
+ {
+  "slug": "rodrigo-faro",
+  "name": "Rodrigo Faro",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "works": [],
+  "pt": [
+   "Apresentador",
+   "Apresentador de TV que passou 16 anos na Record, de onde saiu em comum acordo em dezembro de 2024. Casado com Vera Viel, também produz conteúdo para o YouTube.",
+   [
+    "16 anos na Record",
+    "Mansão em Alphaville com praia artificial"
+   ]
+  ],
+  "en": [
+   "TV host",
+   "Brazilian TV host who spent 16 years at Record, leaving by mutual agreement in December 2024. Married to Vera Viel, he also produces YouTube content.",
+   [
+    "16 years at Record",
+    "Alphaville mansion with an artificial beach"
+   ]
+  ],
+  "es": [
+   "Presentador",
+   "Presentador brasileño que pasó 16 años en Record, de la que salió de común acuerdo en diciembre de 2024. Casado con Vera Viel, también produce contenido para YouTube.",
+   [
+    "16 años en Record",
+    "Mansión en Alphaville con playa artificial"
+   ]
+  ]
+ },
+ {
+  "slug": "darlin-ferrattry",
+  "name": "Darlin Ferrattry",
+  "market": "brazil",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "birthPlace": "Belém, PA",
+  "works": [
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Empresária e empresária artística",
+   "Paraense radicada no Rio de Janeiro, é mãe e empresária da cantora Lexa e também cuida da carreira da filha caçula, Wenny. Tem longa trajetória no Carnaval carioca e é participante de A Fazenda 18, da Record.",
+   [
+    "Mãe e empresária de Lexa",
+    "Rainha de bateria da União da Ilha do Governador (2026)",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ],
+  "en": [
+   "Businesswoman and talent manager",
+   "Born in Pará and based in Rio de Janeiro, she is the mother and manager of singer Lexa and also handles the career of her youngest daughter, Wenny. A long-time Rio Carnival figure, she is a contestant on Record's A Fazenda 18.",
+   [
+    "Mother and manager of Lexa",
+    "Drum queen of União da Ilha do Governador (2026)",
+    "Contestant on A Fazenda 18 (2026)"
+   ]
+  ],
+  "es": [
+   "Empresaria y mánager artística",
+   "Nacida en Pará y radicada en Río de Janeiro, es madre y mánager de la cantante Lexa y también gestiona la carrera de su hija menor, Wenny. Con larga trayectoria en el Carnaval carioca, participa en A Fazenda 18, de Record.",
+   [
+    "Madre y mánager de Lexa",
+    "Reina de batería de União da Ilha do Governador (2026)",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "maira-charken",
+  "name": "Maíra Charken",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "activeSince": 1999,
+  "works": [
+   {
+    "title": "Babilônia",
+    "year": 2015,
+    "kind": "series"
+   },
+   {
+    "title": "Vídeo Show",
+    "year": 2016,
+    "kind": "series"
+   },
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Atriz e apresentadora",
+   "Nascida na Holanda, começou como bailarina do Domingão do Faustão, foi finalista do Popstars (SBT) e atuou em novelas da Globo como Babilônia. Em 2016 apresentou o Vídeo Show e hoje participa de A Fazenda 18.",
+   [
+    "Bailarina do Domingão do Faustão (1999)",
+    "Vera Morgado em Babilônia (2015)",
+    "Apresentadora do Vídeo Show (2016)",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ],
+  "en": [
+   "Actress and TV host",
+   "Born in the Netherlands, she started as a dancer on Domingão do Faustão, was a Popstars (SBT) finalist and acted in Globo telenovelas such as Babilônia. She hosted Vídeo Show in 2016 and is now a contestant on A Fazenda 18.",
+   [
+    "Dancer on Domingão do Faustão (1999)",
+    "Vera Morgado in Babilônia (2015)",
+    "Host of Vídeo Show (2016)",
+    "Contestant on A Fazenda 18 (2026)"
+   ]
+  ],
+  "es": [
+   "Actriz y presentadora",
+   "Nacida en los Países Bajos, empezó como bailarina en Domingão do Faustão, fue finalista de Popstars (SBT) y actuó en telenovelas de Globo como Babilônia. En 2016 presentó Vídeo Show y hoy participa en A Fazenda 18.",
+   [
+    "Bailarina de Domingão do Faustão (1999)",
+    "Vera Morgado en Babilônia (2015)",
+    "Presentadora de Vídeo Show (2016)",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "murilo-dias",
+  "name": "Murilo Dias",
+  "market": "brazil",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "birthPlace": "Brasília, DF",
+  "works": [
+   {
+    "title": "Soltos em Floripa",
+    "year": 2019,
+    "kind": "series"
+   },
+   {
+    "title": "A Grande Conquista",
+    "year": 2023,
+    "kind": "series"
+   },
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Modelo e influenciador",
+   "Brasiliense, ficou conhecido no reality Soltos em Floripa, do Prime Video, e passou por A Grande Conquista, da Record. Agora é peão de A Fazenda 18.",
+   [
+    "Três temporadas de Soltos em Floripa",
+    "Participante de A Grande Conquista (2023)",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ],
+  "en": [
+   "Model and influencer",
+   "Born in Brasília, he became known on Prime Video's reality show Soltos em Floripa and later joined Record's A Grande Conquista. He is now a contestant on A Fazenda 18.",
+   [
+    "Three seasons of Soltos em Floripa",
+    "Contestant on A Grande Conquista (2023)",
+    "Contestant on A Fazenda 18 (2026)"
+   ]
+  ],
+  "es": [
+   "Modelo e influencer",
+   "Nacido en Brasilia, se hizo conocido en el reality Soltos em Floripa, de Prime Video, y pasó por A Grande Conquista, de Record. Ahora participa en A Fazenda 18.",
+   [
+    "Tres temporadas de Soltos em Floripa",
+    "Participante de A Grande Conquista (2023)",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "rikardo-negro",
+  "name": "Rikardo Negro",
+  "market": "brazil",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "birthPlace": "Niquelândia, GO",
+  "works": [
+   {
+    "title": "Big Brother Brasil 26 (Casa de Vidro)",
+    "year": 2026,
+    "kind": "series"
+   },
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Modelo e influenciador",
+   "Goiano de Niquelândia, é modelo, dançarino e ex-jogador profissional de basquete. Ganhou projeção na Casa de Vidro do BBB 26 e hoje está em A Fazenda 18.",
+   [
+    "Ex-jogador profissional de basquete",
+    "Casa de Vidro do BBB 26",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ],
+  "en": [
+   "Model and influencer",
+   "From Niquelândia, Goiás, he is a model, dancer and former professional basketball player. He gained visibility in BBB 26's Glass House and is now on A Fazenda 18.",
+   [
+    "Former professional basketball player",
+    "BBB 26 Glass House",
+    "Contestant on A Fazenda 18 (2026)"
+   ]
+  ],
+  "es": [
+   "Modelo e influencer",
+   "Originario de Niquelândia, Goiás, es modelo, bailarín y exjugador profesional de baloncesto. Ganó notoriedad en la Casa de Vidrio del BBB 26 y hoy está en A Fazenda 18.",
+   [
+    "Exjugador profesional de baloncesto",
+    "Casa de Vidrio del BBB 26",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "jottape",
+  "name": "Jottapê",
+  "market": "brazil",
+  "kinds": [
+   "actor",
+   "singer"
+  ],
+  "country": "BR",
+  "works": [
+   {
+    "title": "O Menino da Porteira",
+    "year": 2009,
+    "kind": "film"
+   },
+   {
+    "title": "Sintonia",
+    "year": 2019,
+    "kind": "series"
+   },
+   {
+    "title": "A Fazenda 18",
+    "year": 2026,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Ator e cantor",
+   "João Pedro Correia de Carvalho começou como ator mirim em O Menino da Porteira e Chiquititas e ficou famoso como Doni na série Sintonia, da Netflix. Fez carreira no funk como MC Jottapê, migrou para a música gospel após se converter e está em A Fazenda 18.",
+   [
+    "Ator mirim em O Menino da Porteira (2009)",
+    "Doni em Sintonia (Netflix)",
+    "Ex-MC de funk, hoje canta gospel",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ],
+  "en": [
+   "Actor and singer",
+   "Born João Pedro Correia de Carvalho, he started as a child actor in O Menino da Porteira and Chiquititas and rose to fame as Doni in Netflix's Sintonia. He built a funk career as MC Jottapê, switched to gospel music after converting, and is on A Fazenda 18.",
+   [
+    "Child actor in O Menino da Porteira (2009)",
+    "Doni in Sintonia (Netflix)",
+    "Former funk MC, now sings gospel",
+    "Contestant on A Fazenda 18 (2026)"
+   ]
+  ],
+  "es": [
+   "Actor y cantante",
+   "João Pedro Correia de Carvalho empezó como actor infantil en O Menino da Porteira y Chiquititas y se hizo famoso como Doni en la serie Sintonia, de Netflix. Hizo carrera en el funk como MC Jottapê, pasó a la música gospel tras convertirse y está en A Fazenda 18.",
+   [
+    "Actor infantil en O Menino da Porteira (2009)",
+    "Doni en Sintonia (Netflix)",
+    "Ex-MC de funk, hoy canta gospel",
+    "Participante de A Fazenda 18 (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "ingra-soares",
+  "name": "Ingra Soares",
+  "market": "brazil",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "works": [],
+  "pt": [
+   "Empresária e influenciadora",
+   "Empresária e influenciadora com mais de 2 milhões de seguidores no Instagram, foi casada com o cantor Zé Vaqueiro, com quem oficializou a união em 2021 no Ceará e tem filhos. O casal se separou no fim de 2025.",
+   [
+    "Ex-mulher de Zé Vaqueiro",
+    "Mais de 2 milhões de seguidores no Instagram"
+   ]
+  ],
+  "en": [
+   "Businesswoman and influencer",
+   "A businesswoman and influencer with more than 2 million Instagram followers, she was married to singer Zé Vaqueiro, whom she wed in Ceará in 2021 and with whom she has children. The couple split in late 2025.",
+   [
+    "Ex-wife of Zé Vaqueiro",
+    "More than 2 million Instagram followers"
+   ]
+  ],
+  "es": [
+   "Empresaria e influencer",
+   "Empresaria e influencer con más de 2 millones de seguidores en Instagram, estuvo casada con el cantante Zé Vaqueiro, con quien se casó en Ceará en 2021 y tiene hijos. La pareja se separó a fines de 2025.",
+   [
+    "Exesposa de Zé Vaqueiro",
+    "Más de 2 millones de seguidores en Instagram"
+   ]
+  ]
+ },
+ {
+  "slug": "marcos-veras",
+  "name": "Marcos Veras",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "birthDate": "1980-05-09",
+  "birthPlace": "Rio de Janeiro, RJ",
+  "genres": [
+   "comédia"
+  ],
+  "works": [
+   {
+    "title": "Zorra Total",
+    "year": 2009,
+    "kind": "series"
+   },
+   {
+    "title": "Babilônia",
+    "year": 2015,
+    "kind": "series"
+   },
+   {
+    "title": "Pega Pega",
+    "year": 2017,
+    "kind": "series"
+   },
+   {
+    "title": "Verão 90",
+    "year": 2019,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Ator, humorista e apresentador",
+   "Carioca, ganhou projeção no Zorra Total e no Porta dos Fundos, foi repórter do Encontro com Fátima Bernardes e atuou em novelas da Globo como Babilônia, Pega Pega e Verão 90. Tem um filho, Davi, com a atriz Rosanne Mulholland.",
+   [
+    "Zorra Total (2009–2013)",
+    "Porta dos Fundos (2012–2014)",
+    "Novelas Babilônia, Pega Pega e Verão 90"
+   ]
+  ],
+  "en": [
+   "Actor, comedian and TV host",
+   "Born in Rio de Janeiro, he rose to prominence on Zorra Total and Porta dos Fundos, worked on Fátima Bernardes' Encontro and acted in Globo telenovelas such as Babilônia, Pega Pega and Verão 90. He has a son, Davi, with actress Rosanne Mulholland.",
+   [
+    "Zorra Total (2009–2013)",
+    "Porta dos Fundos (2012–2014)",
+    "Telenovelas Babilônia, Pega Pega and Verão 90"
+   ]
+  ],
+  "es": [
+   "Actor, humorista y presentador",
+   "Nacido en Río de Janeiro, ganó notoriedad en Zorra Total y Porta dos Fundos, trabajó en Encontro de Fátima Bernardes y actuó en telenovelas de Globo como Babilônia, Pega Pega y Verão 90. Tiene un hijo, Davi, con la actriz Rosanne Mulholland.",
+   [
+    "Zorra Total (2009–2013)",
+    "Porta dos Fundos (2012–2014)",
+    "Telenovelas Babilônia, Pega Pega y Verão 90"
+   ]
+  ]
+ },
+ {
+  "slug": "rosanne-mulholland",
+  "name": "Rosanne Mulholland",
+  "market": "brazil",
+  "kinds": [
+   "actor"
+  ],
+  "country": "BR",
+  "birthDate": "1980-12-31",
+  "birthPlace": "Brasília, DF",
+  "works": [
+   {
+    "title": "Falsa Loura",
+    "year": 2007,
+    "kind": "film"
+   },
+   {
+    "title": "Carrossel",
+    "year": 2012,
+    "kind": "series"
+   },
+   {
+    "title": "Carrossel 2: O Sumiço de Maria Joaquina",
+    "year": 2016,
+    "kind": "film"
+   },
+   {
+    "title": "Malhação: Toda Forma de Amar",
+    "year": 2019,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Atriz",
+   "Brasiliense, ficou marcada como a professora Helena da novela Carrossel, do SBT, e protagonizou o filme Falsa Loura. Também atuou em Malhação: Toda Forma de Amar e tem um filho, Davi, com o ator Marcos Veras.",
+   [
+    "Professora Helena em Carrossel (2012)",
+    "Protagonista de Falsa Loura (2007)",
+    "Malhação: Toda Forma de Amar (2019)"
+   ]
+  ],
+  "en": [
+   "Actress",
+   "Born in Brasília, she is best known as teacher Helena in SBT's telenovela Carrossel and starred in the film Falsa Loura. She also appeared in Malhação: Toda Forma de Amar and has a son, Davi, with actor Marcos Veras.",
+   [
+    "Teacher Helena in Carrossel (2012)",
+    "Lead in Falsa Loura (2007)",
+    "Malhação: Toda Forma de Amar (2019)"
+   ]
+  ],
+  "es": [
+   "Actriz",
+   "Nacida en Brasilia, es recordada como la maestra Helena de la telenovela Carrossel, de SBT, y protagonizó la película Falsa Loura. También actuó en Malhação: Toda Forma de Amar y tiene un hijo, Davi, con el actor Marcos Veras.",
+   [
+    "Maestra Helena en Carrossel (2012)",
+    "Protagonista de Falsa Loura (2007)",
+    "Malhação: Toda Forma de Amar (2019)"
+   ]
+  ]
+ },
+ {
+  "slug": "tati-zaqui",
+  "name": "Tati Zaqui",
+  "market": "brazil",
+  "kinds": [
+   "singer",
+   "creator"
+  ],
+  "country": "BR",
+  "birthDate": "1994-02-18",
+  "birthPlace": "São Caetano do Sul, SP",
+  "activeSince": 2013,
+  "genres": [
+   "funk"
+  ],
+  "works": [
+   {
+    "title": "Parará Tibum",
+    "year": 2014,
+    "kind": "single"
+   },
+   {
+    "title": "Água na Boca",
+    "year": 2015,
+    "kind": "single"
+   },
+   {
+    "title": "Movimento (com Lexa)",
+    "year": 2017,
+    "kind": "single"
+   },
+   {
+    "title": "A Fazenda 14",
+    "year": 2022,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Cantora e influenciadora",
+   "Tatiane Zaqui estourou no funk paulista com 'Parará Tibum' e gravou 'Movimento' com Lexa. Participou de A Fazenda 14, em 2022, e hoje se dedica sobretudo ao trabalho como influenciadora.",
+   [
+    "Hit 'Parará Tibum' (2014)",
+    "'Movimento', com Lexa (2017)",
+    "Participante de A Fazenda 14 (2022)"
+   ]
+  ],
+  "en": [
+   "Singer and influencer",
+   "Tatiane Zaqui broke out in São Paulo funk with 'Parará Tibum' and recorded 'Movimento' with Lexa. She was a contestant on A Fazenda 14 in 2022 and now focuses mainly on her work as an influencer.",
+   [
+    "Hit 'Parará Tibum' (2014)",
+    "'Movimento', with Lexa (2017)",
+    "Contestant on A Fazenda 14 (2022)"
+   ]
+  ],
+  "es": [
+   "Cantante e influencer",
+   "Tatiane Zaqui despegó en el funk paulista con 'Parará Tibum' y grabó 'Movimento' con Lexa. Participó en A Fazenda 14, en 2022, y hoy se dedica sobre todo a su trabajo como influencer.",
+   [
+    "Éxito 'Parará Tibum' (2014)",
+    "'Movimento', con Lexa (2017)",
+    "Participante de A Fazenda 14 (2022)"
+   ]
+  ]
+ },
+ {
+  "slug": "netinho-de-paula",
+  "name": "Netinho de Paula",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "birthDate": "1970-07-11",
+  "birthPlace": "São Paulo, SP",
+  "genres": [
+   "pagode",
+   "samba"
+  ],
+  "works": [
+   {
+    "title": "Negritude Júnior",
+    "year": 1986,
+    "kind": "project"
+   },
+   {
+    "title": "Domingo da Gente",
+    "year": 2001,
+    "kind": "series"
+   },
+   {
+    "title": "TV da Gente",
+    "year": 2005,
+    "kind": "project"
+   }
+  ],
+  "pt": [
+   "Cantor, apresentador e político",
+   "José de Paula Neto foi vocalista do Negritude Júnior, de sucessos como 'Cohab City' e 'Tanajura', e apresentou programas como o Domingo da Gente. Fundou a TV da Gente e foi vereador de São Paulo.",
+   [
+    "Vocalista do Negritude Júnior (1986–2001)",
+    "Apresentador do Domingo da Gente (2001–2006)",
+    "Fundador da TV da Gente (2005)",
+    "Vereador de São Paulo (eleito em 2008)"
+   ]
+  ],
+  "en": [
+   "Singer, TV host and politician",
+   "Born José de Paula Neto, he fronted pagode group Negritude Júnior, known for hits like 'Cohab City' and 'Tanajura', and hosted shows such as Domingo da Gente. He founded TV da Gente and served as a São Paulo city councilor.",
+   [
+    "Lead singer of Negritude Júnior (1986–2001)",
+    "Host of Domingo da Gente (2001–2006)",
+    "Founder of TV da Gente (2005)",
+    "São Paulo city councilor (elected 2008)"
+   ]
+  ],
+  "es": [
+   "Cantante, presentador y político",
+   "José de Paula Neto fue vocalista de Negritude Júnior, con éxitos como 'Cohab City' y 'Tanajura', y presentó programas como Domingo da Gente. Fundó TV da Gente y fue concejal de São Paulo.",
+   [
+    "Vocalista de Negritude Júnior (1986–2001)",
+    "Presentador de Domingo da Gente (2001–2006)",
+    "Fundador de TV da Gente (2005)",
+    "Concejal de São Paulo (electo en 2008)"
+   ]
+  ]
  }
 ]

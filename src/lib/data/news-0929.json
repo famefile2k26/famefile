@@ -230,7 +230,10 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-28T18:27:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "rikardo-negro",
+   "jottape"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -518,7 +521,9 @@
   "section": "news",
   "publishedAt": "2026-09-27T15:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "tati-zaqui"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3735,7 +3740,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-29T10:16:00Z",
   "breaking": true,
-  "personIds": [],
+  "personIds": [
+   "rikardo-negro"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4282,7 +4289,10 @@
   "section": "news",
   "publishedAt": "2026-09-29T19:38:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "marcos-veras",
+   "rosanne-mulholland"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4874,7 +4884,9 @@
   "section": "music",
   "publishedAt": "2026-09-27T11:40:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "netinho-de-paula"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
