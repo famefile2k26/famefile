@@ -373,7 +373,7 @@
   "rank": 13
  },
  {
-  "collectedAt": "2026-10-03T09:36:30.428Z",
+  "collectedAt": "2026-10-03T16:11:14.541Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -397,7 +397,7 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-03T09:36:30.428Z",
+  "collectedAt": "2026-10-03T16:11:14.541Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -421,7 +421,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-03T09:36:30.428Z",
+  "collectedAt": "2026-10-03T16:11:14.541Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -445,87 +445,171 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-03T09:36:30.428Z",
+  "collectedAt": "2026-10-03T16:11:14.541Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://noticias.r7.com/record-news/news-das-10/video/outubro-sera-marcado-por-uma-serie-de-fenomenos-astronomicos-02102026/",
+  "sourceUrl": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/03/croacia-usara-brecha-da-uefa-para-ter-estadio-cheio-em-jogo-que-deveria-ter-portoes-fechados-entenda.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyo7JcR-18w6YtgEhvpXEku3VNLcLLQlXbERvlqgxFMhpFVQIpimX8n_VEC4c",
-   "credit": "R7"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUxLeliDVWBdOzhSntT7fWDBkvhKWbXz89lRthnm6X0Bd3sq3yohjSnAbOo9k",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "chuva de meteoros",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via R7."
+    "name": "croácia x inglaterra",
+    "note": "Busca em alta no Google (Brasil) — 50000+ buscas · via ge."
    },
    "en": {
-    "name": "chuva de meteoros",
-    "note": "Trending Google search (Brazil) — 500+ searches · via R7."
+    "name": "croácia x inglaterra",
+    "note": "Trending Google search (Brazil) — 50000+ searches · via ge."
    },
    "es": {
-    "name": "chuva de meteoros",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía R7."
+    "name": "croácia x inglaterra",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 50000+ búsquedas · vía ge."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-03T09:36:30.428Z",
+  "collectedAt": "2026-10-03T16:11:14.541Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://robinhood.com/us/en/prediction-markets/tennis/events/alex-de-minaur-vs-andrey-rublev-game-spread-oct-04-2026/",
+  "region": "BR",
+  "rank": 2,
+  "sourceUrl": "https://www.lance.com.br/selecao-brasileira/pedro-do-flamengo-vira-assunto-em-jogo-da-selecao-brasileira-teria-feito.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTPyGfQovhgxaORJnFXRnIFoomKUhK_9xOJDaUP0Vtw8uR7bSavK8HZtZ3LXQ0",
-   "credit": "Robinhood"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU13Q3sm8g_yKFI9riNmGVNcFVaU6xRA2T224NkehQqFwjGFVGJPxOqfTdVYQ",
+   "credit": "LANCE!"
   },
   "t": {
    "pt": {
-    "name": "iva jovic",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Robinhood."
+    "name": "pedro",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via LANCE!."
    },
    "en": {
-    "name": "iva jovic",
-    "note": "Trending Google search (US) — 1000+ searches · via Robinhood."
+    "name": "pedro",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via LANCE!."
    },
    "es": {
-    "name": "iva jovic",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Robinhood."
+    "name": "pedro",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía LANCE!."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-03T09:36:30.428Z",
+  "collectedAt": "2026-10-03T16:11:14.541Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
+  "region": "US",
   "rank": 1,
-  "sourceUrl": "https://elpais.com/cultura/cine/2026-10-02/verity-la-sombra-de-un-engano-intriga-erotica-basura-para-ver-en-el-avion.html",
+  "sourceUrl": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEqwMjRzg7ZI8fcsp8aEzD_dzMGFNs_HsVz2Ac8NtZeTVsP8LBxzHsAWJ1wQ0",
-   "credit": "EL PAÍS"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpnPHMhG3oiDGJ1kguFdBH8iM_lsR56cdaOGiNGhaxuxFXoTqE49pP-8BL1Ms",
+   "credit": "MLB.com"
   },
   "t": {
    "pt": {
-    "name": "verity película",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via EL PAÍS."
+    "name": "white sox vs guardians",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via MLB.com."
    },
    "en": {
-    "name": "verity película",
-    "note": "Trending Google search (Mexico) — 500+ searches · via EL PAÍS."
+    "name": "white sox vs guardians",
+    "note": "Trending Google search (US) — 2000+ searches · via MLB.com."
    },
    "es": {
-    "name": "verity película",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía EL PAÍS."
+    "name": "white sox vs guardians",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía MLB.com."
    }
   },
   "id": "tr19",
   "hue": 246
+ },
+ {
+  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://mutigers.com/news/2026/10/1/no-25-tigers-set-for-115th-annual-homecoming-game-vs-no-8-florida",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA60dSSWSCve-4Gk3gvuHtCelp9QDO3sIiQ4p61B3tSpN-KGz70RmlBEyc_JY",
+   "credit": "Mizzou Athletics"
+  },
+  "t": {
+   "pt": {
+    "name": "desmond howard",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Mizzou Athletics."
+   },
+   "en": {
+    "name": "desmond howard",
+    "note": "Trending Google search (US) — 1000+ searches · via Mizzou Athletics."
+   },
+   "es": {
+    "name": "desmond howard",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Mizzou Athletics."
+   }
+  },
+  "id": "tr20",
+  "hue": 283
+ },
+ {
+  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.puntodebreak.com/en/2026/10/02/zverev-explains-why-he-gets-injured-less-than-alcaraz-or-sinner",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVafSFN1Q1wPe43EuFICYDSgA0jX9LYYdK97hEBTzyqZ7GtWBXR5hFdFX83vU",
+   "credit": "Puntodebreak"
+  },
+  "t": {
+   "pt": {
+    "name": "alexander zverev",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Puntodebreak."
+   },
+   "en": {
+    "name": "alexander zverev",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Puntodebreak."
+   },
+   "es": {
+    "name": "alexander zverev",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Puntodebreak."
+   }
+  },
+  "id": "tr21",
+  "hue": 320
+ },
+ {
+  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://sports.yahoo.com/articles/kartal-wins-again-zverev-sets-152929468.html",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkx5vyp1q9xg0OlNDHCn7Ep6iX5eBAaNEPIrDYX5xm5zk8dFK77ZRqSliK1M0",
+   "credit": "Yahoo Sports"
+  },
+  "t": {
+   "pt": {
+    "name": "alexander zverev",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Yahoo Sports."
+   },
+   "en": {
+    "name": "alexander zverev",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Yahoo Sports."
+   },
+   "es": {
+    "name": "alexander zverev",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Yahoo Sports."
+   }
+  },
+  "id": "tr22",
+  "hue": 357
  }
 ]
