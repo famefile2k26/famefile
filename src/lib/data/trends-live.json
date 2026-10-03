@@ -257,7 +257,7 @@
   }
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -281,7 +281,7 @@
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -305,7 +305,7 @@
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -329,55 +329,55 @@
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://ge.globo.com/ce/futebol/brasileirao-serie-b/jogo/02-10-2026/fortaleza-nautico.ghtml",
+  "sourceUrl": "https://www.dazn.com/it-IT/news/calcio/serie-a-chi-vince-lo-scudetto-secondo-lalgoritmo-una-sorpresa-sul-podio/1lpkg04vu2h471q3mhpu4why9a",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
-   "credit": "ge"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCgCLYMupHgbDsaKLUnHtYGVgP2eAiTfSZTWDqbTOudZiT7slFua0LsA_oiNU",
+   "credit": "DAZN"
   },
   "t": {
    "pt": {
-    "name": "fortaleza x náutico",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via ge."
+    "name": "serie a",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via DAZN."
    },
    "en": {
-    "name": "fortaleza x náutico",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via ge."
+    "name": "serie a",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via DAZN."
    },
    "es": {
-    "name": "fortaleza x náutico",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía ge."
+    "name": "serie a",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía DAZN."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://ge.globo.com/al/futebol/brasileirao-serie-b/jogo/02-10-2026/sao-bernardo-crb.ghtml",
+  "sourceUrl": "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/09/30/briga-pelo-acesso-veja-quem-tem-a-sequencia-mais-dificil-na-serie-b-e-simule.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxiui3Hs4RWMIngkP4l7btcTKBvMZsE2ShIGFuYUqRPqf4Tc30PeWDFCH1GWg",
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHJTbLQVKetl5V2uLk0qUYCa3k0FGC5kt3_nFD2l8JM5CR_2kBOErkM6tedVg",
    "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "crb",
+    "name": "jogos de brasileirão série b",
     "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via ge."
    },
    "en": {
-    "name": "crb",
+    "name": "jogos de brasileirão série b",
     "note": "Trending Google search (Brazil) — 5000+ searches · via ge."
    },
    "es": {
-    "name": "crb",
+    "name": "jogos de brasileirão série b",
     "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ge."
    }
   },
@@ -385,87 +385,59 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://ge.globo.com/futebol/times/vasco/noticia/2026/09/30/vasco-goleia-o-noroeste-em-jogo-treino-em-preparacao-durante-a-data-fifa.ghtml",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://bringmethenews.com/minnesota-sports/eden-prairie-minnetonka-football-game-evacuated-after-shots-fired-2-injured",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdfrlZNp0Wf89U1f4yRbRW5lDgOSZS3tydV2-Dl3V1ghSqlX8CR5QZFMxNiOk",
-   "credit": "ge"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-3AWLVndkZsaqGt9w-q9EIM-D6qfV8LXRvOC9lRUZEULe5VJgyh4C_RWxRwg",
+   "credit": "Bring Me The News"
   },
   "t": {
    "pt": {
-    "name": "são paulo futebol clube x santos futebol clube minuto a minuto",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ge."
+    "name": "eden prairie",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Bring Me The News."
    },
    "en": {
-    "name": "são paulo futebol clube x santos futebol clube minuto a minuto",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via ge."
+    "name": "eden prairie",
+    "note": "Trending Google search (US) — 2000+ searches · via Bring Me The News."
    },
    "es": {
-    "name": "são paulo futebol clube x santos futebol clube minuto a minuto",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ge."
+    "name": "eden prairie",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Bring Me The News."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
+  "collectedAt": "2026-10-03T03:43:13.881Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 4,
-  "sourceUrl": "https://ge.globo.com/rs/futebol/brasileirao-serie-b/jogo/02-10-2026/juventude-operario-pr.ghtml",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.lanacion.com.ar/deportes/canchallena/santos-vencio-2-1-a-sao-paulo-por-el-brasileirao-serie-a-2026-nid02102026/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
-   "credit": "ge"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRemcaG35S7DRDshOgUIhEb3ChbvDYQuoS5WHG6lmumfRwukt3ql180gGfCnvs",
+   "credit": "La Nación"
   },
   "t": {
    "pt": {
-    "name": "juventude x operário",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via ge."
+    "name": "são paulo - santos",
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via La Nación."
    },
    "en": {
-    "name": "juventude x operário",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via ge."
+    "name": "são paulo - santos",
+    "note": "Trending Google search (Argentina) — 5000+ searches · via La Nación."
    },
    "es": {
-    "name": "juventude x operário",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía ge."
+    "name": "são paulo - santos",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía La Nación."
    }
   },
   "id": "tr16",
   "hue": 135
- },
- {
-  "collectedAt": "2026-10-03T00:43:08.774Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.goodhousekeeping.com/entertainment/tv-shows/a73978850/fire-country-season-5-episodes-max-thieriot-preview/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6wWM8xxOg_yVGfOowxSjlbvqGNkgKZYD6fNXKJujeCZmp-xfvQeFjwrq_a3Q",
-   "credit": "Good Housekeeping"
-  },
-  "t": {
-   "pt": {
-    "name": "sheriff country",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Good Housekeeping."
-   },
-   "en": {
-    "name": "sheriff country",
-    "note": "Trending Google search (US) — 1000+ searches · via Good Housekeeping."
-   },
-   "es": {
-    "name": "sheriff country",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Good Housekeeping."
-   }
-  },
-  "id": "tr17",
-  "hue": 172
  }
 ]
