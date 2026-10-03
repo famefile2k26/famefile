@@ -109,7 +109,8 @@
   "fancy|twice": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/03/76/e6/0376e6f9-f6d8-68f7-ae85-1a4ef17002aa/00602508875229_Cover.jpg/600x600bb.jpg",
   "dalla dalla|itzy": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/b5/83/3f/b5833f11-e5e1-3f65-81f0-a69c5fe09499/192641939532_Cover.jpg/600x600bb.jpg",
   "wannabe|itzy": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/40/b0/1a/40b01aff-1aa6-5dda-4263-00384501ae35/192641939570_Cover.jpg/600x600bb.jpg",
-  "redred|cortis": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/5f/47/9b5f4711-dc78-2dea-6721-d06709ea5121/198704992810_Cover.jpg/600x600bb.jpg"
+  "redred|cortis": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9b/5f/47/9b5f4711-dc78-2dea-6721-d06709ea5121/198704992810_Cover.jpg/600x600bb.jpg",
+  "world cup|ishowspeed": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a0/11/11/a011112f-cdac-9cd2-8015-77d3991a4d12/054391728722.jpg/600x600bb.jpg"
  },
  "albums": {
   "the life of a showgirl the encore|taylor swift": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
@@ -396,7 +397,11 @@
   "culture|offset": "https://cdn-images.dzcdn.net/images/artist/976f6f16492eb34ba3119f5db93839e6/1000x1000-000000-80-0-0.jpg",
   "father of 4|offset": "https://cdn-images.dzcdn.net/images/cover/3ef5fde6311ec032e426513330317f4d/1000x1000-000000-80-0-0.jpg",
   "set it off|offset": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/f6/ca/c8/f6cac844-4d88-77a2-6b07-ae0f94e9fa23/23UM1IM01921.rgb.jpg/600x600bb.jpg",
-  "montero|lil nas x": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/600x600bb.jpg"
+  "montero|lil nas x": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/4b/42/21/4b422136-2cfd-222c-ca7c-7573bf23139c/886449537204.jpg/600x600bb.jpg",
+  "spice|victoria beckham": "https://cdn-images.dzcdn.net/images/artist/e80f42a57c4999df74689f5e48fff164/1000x1000-000000-80-0-0.jpg",
+  "victoria beckham|victoria beckham": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/7d/3d/207d3d50-9845-b107-cc90-2e1f56d302d0/00724381119754.jpg/600x600bb.jpg",
+  "the score|lauryn hill": "https://cdn-images.dzcdn.net/images/artist/399c41c06d83bf78345642c464d92265/1000x1000-000000-80-0-0.jpg",
+  "the miseducation of lauryn hill|lauryn hill": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/09/6b/55/096b55c4-ee8f-23bd-df8f-0ca0821f3028/886446727189.jpg/600x600bb.jpg"
  },
  "articles": {
   "2001": {
@@ -1620,6 +1625,31 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Cortis_at_TikTok_Awards_Korea.jpg/960px-Cortis_at_TikTok_Awards_Korea.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "credit": "Foto: Wikimedia Commons",
    "source": "en.wikipedia.org/wiki/Cortis"
+  },
+  "ishowspeed": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg/960px-IShowSpeed_at_Chinatown_%28Portrait%29_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/IShowSpeed"
+  },
+  "victoria-beckham": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/VictoriaBeckham2018-2-Crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Victoria_Beckham"
+  },
+  "david-beckham": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/David_Beckham_UNICEF_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/David_Beckham"
+  },
+  "lauryn-hill": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Lauryn_Hill_Kongsberg_Jazzfestival_2019_%28221758%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Lauryn_Hill"
+  },
+  "renata-sorrah": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Sorrah_2019.jpg/960px-Sorrah_2019.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Renata_Sorrah"
   }
  }
 }
