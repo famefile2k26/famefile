@@ -257,7 +257,7 @@
   }
  },
  {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
+  "collectedAt": "2026-10-03T06:51:03.589Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -281,7 +281,7 @@
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
+  "collectedAt": "2026-10-03T06:51:03.589Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -305,7 +305,7 @@
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
+  "collectedAt": "2026-10-03T06:51:03.589Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -329,35 +329,35 @@
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
+  "collectedAt": "2026-10-03T06:51:03.589Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www.dazn.com/it-IT/news/calcio/serie-a-chi-vince-lo-scudetto-secondo-lalgoritmo-una-sorpresa-sul-podio/1lpkg04vu2h471q3mhpu4why9a",
+  "sourceUrl": "https://onefootball.com/it/notizie/la-lunghissima-lista-dei-giocatori-infortunati-durante-questa-sosta-43541428",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTCgCLYMupHgbDsaKLUnHtYGVgP2eAiTfSZTWDqbTOudZiT7slFua0LsA_oiNU",
-   "credit": "DAZN"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJf4lP7Vpa2kgKId7-aXpxBqZpACymihfGoDP_82AUpvlA0ZcakKuCW0hVq5c",
+   "credit": "OneFootball"
   },
   "t": {
    "pt": {
     "name": "serie a",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via DAZN."
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via OneFootball."
    },
    "en": {
     "name": "serie a",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via DAZN."
+    "note": "Trending Google search (Brazil) — 5000+ searches · via OneFootball."
    },
    "es": {
     "name": "serie a",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía DAZN."
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía OneFootball."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
+  "collectedAt": "2026-10-03T06:51:03.589Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
@@ -385,59 +385,31 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
+  "collectedAt": "2026-10-03T06:51:03.589Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
-  "sourceUrl": "https://bringmethenews.com/minnesota-sports/eden-prairie-minnetonka-football-game-evacuated-after-shots-fired-2-injured",
+  "sourceUrl": "https://robinhood.com/us/en/prediction-markets/tennis/events/carlos-alcaraz-vs-matteo-arnaldi-game-spread-oct-03-2026/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-3AWLVndkZsaqGt9w-q9EIM-D6qfV8LXRvOC9lRUZEULe5VJgyh4C_RWxRwg",
-   "credit": "Bring Me The News"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlzJFsOr2QgX9N-bEsqbq_3J8cVGHLXhincQ-9FLYqIlTQgXS0zOLMgLMlZQo",
+   "credit": "Robinhood"
   },
   "t": {
    "pt": {
-    "name": "eden prairie",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Bring Me The News."
+    "name": "elina svitolina",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Robinhood."
    },
    "en": {
-    "name": "eden prairie",
-    "note": "Trending Google search (US) — 2000+ searches · via Bring Me The News."
+    "name": "elina svitolina",
+    "note": "Trending Google search (US) — 200+ searches · via Robinhood."
    },
    "es": {
-    "name": "eden prairie",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Bring Me The News."
+    "name": "elina svitolina",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Robinhood."
    }
   },
   "id": "tr15",
   "hue": 98
- },
- {
-  "collectedAt": "2026-10-03T03:43:13.881Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.lanacion.com.ar/deportes/canchallena/santos-vencio-2-1-a-sao-paulo-por-el-brasileirao-serie-a-2026-nid02102026/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRemcaG35S7DRDshOgUIhEb3ChbvDYQuoS5WHG6lmumfRwukt3ql180gGfCnvs",
-   "credit": "La Nación"
-  },
-  "t": {
-   "pt": {
-    "name": "são paulo - santos",
-    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via La Nación."
-   },
-   "en": {
-    "name": "são paulo - santos",
-    "note": "Trending Google search (Argentina) — 5000+ searches · via La Nación."
-   },
-   "es": {
-    "name": "são paulo - santos",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía La Nación."
-   }
-  },
-  "id": "tr16",
-  "hue": 135
  }
 ]
