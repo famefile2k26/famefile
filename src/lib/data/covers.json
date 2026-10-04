@@ -132,7 +132,8 @@
   "winter bear|v": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/9a/2f/65/9a2f65a2-75a8-a0e7-7cbd-641bdddd0a64/194491211226_Cover.jpg/600x600bb.jpg",
   "sweet night|v": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/84/c8/7c/84c87c38-7f0b-409c-c3c2-88a3c97e525f/8809717445317.jpg/600x600bb.jpg",
   "christmas tree|v": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/23/73/8a/23738adc-2583-d271-0940-c0fb31278b65/191953153988.jpg/600x600bb.jpg",
-  "fris|v": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/d0/5b/cfd05b16-1638-2b3c-b8fd-7d539bb373dc/196922869839_Cover.jpg/600x600bb.jpg"
+  "fris|v": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cf/d0/5b/cfd05b16-1638-2b3c-b8fd-7d539bb373dc/196922869839_Cover.jpg/600x600bb.jpg",
+  "florentina|tiririca": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/90/98/37/90983726-f9ac-8292-7077-c2376d271518/3615934902817.png/600x600bb.jpg"
  },
  "albums": {
   "the life of a showgirl the encore|taylor swift": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
@@ -2139,6 +2140,31 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Yoo_Jae-suk_%28cropped%29.jpg/960px-Yoo_Jae-suk_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "credit": "Foto: Wikimedia Commons",
    "source": "en.wikipedia.org/wiki/Yoo_Jae-suk"
+  },
+  "john-cena": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/John_Cena_by_Gage_Skidmore.jpg/960px-John_Cena_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/John_Cena"
+  },
+  "will-forte": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Will_Forte_by_Gage_Skidmore_2.jpg/960px-Will_Forte_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Will_Forte"
+  },
+  "mike-flanagan": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/2026_Toronto_International_Film_Festival_-_%22Carrie%22_Premiere_14_%28cropped%29.jpg/960px-2026_Toronto_International_Film_Festival_-_%22Carrie%22_Premiere_14_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Mike_Flanagan_(filmmaker)"
+  },
+  "tiririca": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Tiririca_na_camara.jpg/960px-Tiririca_na_camara.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Tiririca"
+  },
+  "gracyanne-barbosa": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Gracyanne_Barbosa_-_Mesacast_BBB_2025.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Gracyanne_Barbosa"
   }
  }
 }
