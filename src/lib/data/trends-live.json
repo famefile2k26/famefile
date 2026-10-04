@@ -1,89 +1,89 @@
 [
  {
   "id": "tr1",
-  "kind": "sound",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.musicbusinessworldwide.com/tiktok-builds-a-taylor-swift-patient-zero-hub-as-her-video-rollout-keeps-skipping-youtube/",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "video",
+  "platform": "youtube",
+  "region": "US",
+  "sourceUrl": "https://www.justjared.com/2026/10/04/taylor-swift-makes-surprise-appearance-during-dakota-johnsons-saturday-night-live-monologue-watch-now/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Patient Zero', de Taylor Swift",
-    "note": "O TikTok criou um hub para o clipe com bastidores que só destravam quando os fãs postam vídeos com a música, e o som virou trilha de vídeos de casamento."
+    "name": "Taylor Swift invade o monólogo de Dakota Johnson no SNL",
+    "note": "Na estreia de Dakota como apresentadora no sábado (3), Taylor apareceu de surpresa, foi chamada de 'minha terapeuta literal' e as duas brincaram sobre vinho, desabafos e namorar músicos."
    },
    "en": {
-    "name": "Taylor Swift's 'Patient Zero'",
-    "note": "TikTok built an in-app hub for the video with behind-the-scenes clips that unlock as fans post with the song, which is now soundtracking wedding edits."
+    "name": "Taylor Swift crashes Dakota Johnson's SNL monologue",
+    "note": "During Dakota's hosting turn on Saturday (Oct. 3), Taylor showed up unannounced, was introduced as 'my literal therapist,' and the pair joked about wine, oversharing and dating musicians."
    },
    "es": {
-    "name": "'Patient Zero', de Taylor Swift",
-    "note": "TikTok creó un espacio para el videoclip con contenido exclusivo que se desbloquea cuando los fans publican videos con la canción, ya convertida en banda sonora de bodas."
+    "name": "Taylor Swift irrumpe en el monólogo de Dakota Johnson en SNL",
+    "note": "En el debut de Dakota como anfitriona el sábado (3), Taylor apareció por sorpresa, fue presentada como 'mi terapeuta literal' y ambas bromearon sobre vino, confesiones y salir con músicos."
    }
   },
   "rank": 1,
   "image": {
-   "url": "https://www.musicbusinessworldwide.com/files/2026/10/New-Project-2.jpg",
-   "credit": "Foto: Music Business Worldwide"
+   "url": "https://www.justjared.com/wp-content/uploads/2026/10/taylor-dakota.jpg",
+   "credit": "Foto: Reprodução/NBC via Just Jared"
   }
  },
  {
   "id": "tr2",
-  "kind": "format",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://trending.knowyourmeme.com/editorials/guides/what-is-the-tony-stark-looking-meme-how-the-clip-of-iron-man-turning-his-head-in-avengers-endgame-became-a-viral-reaction-explained",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "video",
+  "platform": "x",
+  "region": "BR",
+  "sourceUrl": "https://www.poder360.com.br/poder-eleicoes-2026/videos-de-lula-pulando-em-ato-do-pt-viram-meme-absolute-joelhos/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A olhada de Tony Stark",
-    "note": "A virada de cabeça desconfiada do Homem de Ferro em 'Vingadores: Ultimato' voltou como meme de reação no TikTok e no Instagram com o relançamento do filme."
+    "name": "Lula e os 'absolute joelhos'",
+    "note": "Vídeos do presidente, de 80 anos, pulando em ato de campanha em São Paulo na véspera da eleição viraram meme no X com a expressão 'absolute joelhos'."
    },
    "en": {
-    "name": "The Tony Stark head turn",
-    "note": "Iron Man's smirking side-glance from 'Avengers: Endgame' is back as a go-to reaction meme on TikTok and Instagram amid the film's rerelease."
+    "name": "Lula's 'absolute knees'",
+    "note": "Clips of the 80-year-old Brazilian president jumping at a São Paulo campaign rally on the eve of the vote became an X meme captioned 'absolute joelhos' (absolute knees)."
    },
    "es": {
-    "name": "La mirada de Tony Stark",
-    "note": "El giro de cabeza desconfiado de Iron Man en 'Avengers: Endgame' regresó como meme de reacción en TikTok e Instagram con el reestreno de la película."
+    "name": "Lula y sus 'absolute rodillas'",
+    "note": "Videos del presidente brasileño, de 80 años, saltando en un acto de campaña en São Paulo en la víspera de la elección se volvieron meme en X con la frase 'absolute joelhos'."
    }
   },
   "rank": 2,
   "image": {
-   "url": "https://i.kym-cdn.com/editorials/icons/original/000/017/942/Tony_Stark_Looking_meme_banner.jpg",
-   "credit": "Foto: Reprodução/Know Your Meme"
+   "url": "https://static.poder360.com.br/uploads/2026/10/lula-caminhada-campanha-sp-848x477.jpg",
+   "credit": "Foto: Poder360"
   }
  },
  {
   "id": "tr3",
-  "kind": "format",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://trending.knowyourmeme.com/editorials/guides/what-are-verity-variants-the-falsity-cruelty-and-lovity-characters-and-their-memes-explained",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "topic",
+  "platform": "x",
+  "region": "BR",
+  "sourceUrl": "https://www.poder360.com.br/poder-eleicoes-2026/veja-os-memes-que-marcaram-a-campanha-eleitoral-de-2026/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "As 'variantes de Verity'",
-    "note": "Falsity, Cruelty e Lovity, versões coloridas criadas por fãs da personagem de terror de Minecraft, seguem dominando edits e animações no TikTok."
+    "name": "Os memes da campanha de 2026",
+    "note": "No dia do 1º turno, a web revive os memes da campanha, como Kassab de olhos fechados no debate da Band, as fraldas levadas por Renan Santos e o mascote Pilili do TSE."
    },
    "en": {
-    "name": "The 'Verity variants'",
-    "note": "Falsity, Cruelty and Lovity, fan-made color-coded spins on the Minecraft horror character, keep flooding TikTok edits and animations."
+    "name": "The memes of Brazil's 2026 campaign",
+    "note": "On first-round election day, users are reviving the campaign's memes, from Kassab with his eyes closed at the Band debate to Renan Santos' diapers and the electoral court's mascot Pilili."
    },
    "es": {
-    "name": "Las 'variantes de Verity'",
-    "note": "Falsity, Cruelty y Lovity, versiones de colores creadas por fans del personaje de terror de Minecraft, siguen inundando los edits y animaciones de TikTok."
+    "name": "Los memes de la campaña brasileña de 2026",
+    "note": "En el día de la primera vuelta, las redes reviven los memes de la campaña, como Kassab con los ojos cerrados en el debate de Band, los pañales de Renan Santos y la mascota Pilili del TSE."
    }
   },
   "rank": 3,
   "image": {
-   "url": "https://i.kym-cdn.com/editorials/icons/original/000/017/930/Screenshot_2026-09-30_141714.png",
-   "credit": "Foto: Reprodução/Know Your Meme"
+   "url": "https://static.poder360.com.br/uploads/2026/10/memes-eleicoes-2026-848x477.jpg",
+   "credit": "Foto: Reprodução/Poder360"
   }
  },
  {
@@ -91,318 +91,302 @@
   "kind": "topic",
   "platform": "x",
   "region": "BR",
-  "sourceUrl": "https://www.purepeople.com.br/noticia/a-fazenda-18-na-record-marido-de-adryana-ribeiro-abert-bressan-explode-contra-carol-lekker-apos-cruel-revelacao-sobre-morte-do-cantor-rick_a424889/1",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "sourceUrl": "https://www.metropoles.com/viralizou/deepfakes-de-famosos-acendem-alerta-as-vesperas-das-eleicoes-entenda",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Carol Lekker x Adryana Ribeiro",
-    "note": "O jeito como Carol Lekker contou a Adryana, recém-saída d'A Fazenda 18, sobre a morte do cantor Rick revoltou a web, e o marido dela, Albert Bressan, rebateu em vídeo."
+    "name": "Deepfakes de famosos no dia da eleição",
+    "note": "Vídeos falsos com Virginia, Caetano Veloso, Anitta, Ana Castela e Neymar circularam em perfis anônimos e apps de mensagem na reta final antes do 1º turno."
    },
    "en": {
-    "name": "Carol Lekker vs. Adryana Ribeiro",
-    "note": "The way Carol Lekker told freshly evicted 'A Fazenda 18' contestant Adryana about singer Rick's death outraged viewers, and her husband Albert Bressan hit back in a video."
+    "name": "Celebrity deepfakes on election day",
+    "note": "Fake videos featuring Virginia, Caetano Veloso, Anitta, Ana Castela and Neymar circulated on anonymous accounts and messaging apps in the run-up to Brazil's first round."
    },
    "es": {
-    "name": "Carol Lekker vs. Adryana Ribeiro",
-    "note": "La forma en que Carol Lekker le contó a Adryana, recién salida de 'A Fazenda 18', sobre la muerte del cantante Rick indignó a la red, y su esposo Albert Bressan respondió en un video."
+    "name": "Deepfakes de famosos en el día de la elección",
+    "note": "Videos falsos con Virginia, Caetano Veloso, Anitta, Ana Castela y Neymar circularon en perfiles anónimos y apps de mensajería en la recta final antes de la primera vuelta en Brasil."
    }
   },
   "rank": 4,
-  "image": {
-   "url": "https://static1.purepeople.com.br/uploads/f8/0d/c3/5b/277cbc9845ea0cb6-1200x630-2.jpg",
-   "credit": "Foto: Purepeople"
-  }
- },
- {
-  "id": "tr5",
-  "kind": "topic",
-  "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://www.metropoles.com/viralizou/deepfakes-de-famosos-acendem-alerta-as-vesperas-das-eleicoes-entenda",
-  "collectedAt": "2026-10-03T23:25:04Z",
-  "hue": 88,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Deepfakes de famosos na reta final da eleição",
-    "note": "Vídeos falsos com Virginia, Caetano Veloso, Anitta, Ana Castela e Neymar circulam em perfis anônimos e apps de mensagem às vésperas do 1º turno."
-   },
-   "en": {
-    "name": "Celebrity deepfakes on election eve",
-    "note": "Fake videos of Virginia Fonseca, Caetano Veloso, Anitta, Ana Castela and Neymar are spreading via anonymous profiles and messaging apps ahead of Brazil's first-round vote."
-   },
-   "es": {
-    "name": "Deepfakes de famosos en la recta final electoral",
-    "note": "Videos falsos de Virginia, Caetano Veloso, Anitta, Ana Castela y Neymar circulan en perfiles anónimos y apps de mensajería en vísperas de la primera vuelta en Brasil."
-   }
-  },
-  "rank": 5,
   "image": {
    "url": "https://i.metroimg.com/V8MT5IqUlXyc92MKbm3f8txgzY0saWCWVXuIWYoATL4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/caetano-virginia-ana-castela.jpg",
    "credit": "Foto: Reprodução/Metrópoles"
   }
  },
  {
+  "id": "tr5",
+  "kind": "video",
+  "platform": "youtube",
+  "region": "AR",
+  "sourceUrl": "https://www.infobae.com/tecno/2026/10/04/youtube-en-argentina-la-lista-de-los-10-videos-mas-vistos-este-sabado/",
+  "collectedAt": "2026-10-04T12:16:25Z",
+  "hue": 88,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "'1Amor (en vivo)', de Lali",
+    "note": "A versão ao vivo gravada com Tini no terceiro River lotado de Lali lidera o ranking de vídeos mais vistos do YouTube na Argentina neste sábado."
+   },
+   "en": {
+    "name": "Lali's '1Amor (live)'",
+    "note": "The live version recorded with Tini at Lali's third sold-out River Plate show tops Argentina's most-watched YouTube videos this Saturday."
+   },
+   "es": {
+    "name": "'1Amor (en vivo)', de Lali",
+    "note": "La versión en vivo grabada con Tini en el tercer River agotado de Lali encabeza el ranking de videos más vistos de YouTube en Argentina este sábado."
+   }
+  },
+  "rank": 5,
+  "image": {
+   "url": "https://www.cronica.com.ar/files/image/1716/1716409/6abff43bade58_600_315!.jpg?s=6f71884dcc7106e0169036988cfc5571&d=1790975618",
+   "credit": "Foto: Crónica"
+  }
+ },
+ {
   "id": "tr6",
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "MX",
-  "sourceUrl": "https://www.infobae.com/mexico/2026/10/02/dia-del-novio-en-mexico-2026-por-que-se-celebra-el-3-de-octubre-y-se-regalan-flores-azules-con-carritos-de-juguete/",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "video",
+  "platform": "youtube",
+  "region": "AR",
+  "sourceUrl": "https://www.unoentrerios.com.ar/show/lali-y-tini-ya-se-puede-ver-el-video-oficial-like-virgin-river-n10284547.html",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Dia do Namorado mexicano: flores azuis com carrinhos",
-    "note": "No 3 de outubro, o 'Día del Novio' enche TikTok e Instagram de buquês azuis montados com carrinhos de brinquedo."
+    "name": "Lali, Tini e Marilina em 'Like a Virgin'",
+    "note": "O vídeo oficial do trio vestido de noiva cantando Madonna no River, com o beijo final que agitou as redes, saiu no YouTube e já é o 2º mais visto do país."
    },
    "en": {
-    "name": "Mexico's Boyfriend Day: blue flowers and toy cars",
-    "note": "On October 3, 'Día del Novio' fills TikTok and Instagram with blue bouquets built around toy cars."
+    "name": "Lali, Tini and Marilina's 'Like a Virgin'",
+    "note": "The official video of the trio in bridal looks singing Madonna at River Plate, ending in the kiss that set social media buzzing, is out on YouTube and among Argentina's top views."
    },
    "es": {
-    "name": "Día del Novio: flores azules con carritos",
-    "note": "Cada 3 de octubre, el Día del Novio llena TikTok e Instagram de ramos azules armados con carritos de juguete."
+    "name": "Lali, Tini y Marilina en 'Like a Virgin'",
+    "note": "El video oficial del trío vestido de novia cantando a Madonna en River, con el beso final que hizo estallar las redes, ya está en YouTube y entre lo más visto del país."
    }
   },
   "rank": 6,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/PMQGOZ4UBNEV5IMX4T3M4T4S6A.jpg?auth=0a32de617cd4ef225bfb7f33779e3b84ebc56ee64991ebabf69429ddd57c4357&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Infobae"
+   "url": "https://media.lacapital.com.ar/p/1d280dda39a22ee085c56ca2939f0aa2/adjuntos/205/imagenes/103/441/0103441885/lali-y-tini.jpg",
+   "credit": "Foto: Uno Entre Ríos"
   }
  },
  {
   "id": "tr7",
-  "kind": "format",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://trending.knowyourmeme.com/editorials/guides/what-is-the-al-buqqi-meme-the-viral-hajj-to-buc-ees-memes-explained",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "sound",
+  "platform": "youtube",
+  "region": "AR",
+  "sourceUrl": "https://www.cronica.com.ar/elcanaldelamusica/lanzamientos/asi-es-wanda-nara-la-nueva-cancion-de-la-joaqui-que-vuelve-a-poner-al-rkt-en-el-centro/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O meme 'Al Buqqi'",
-    "note": "Tiktokers tratam as visitas às lojas de beira de estrada Buc-ee's como uma peregrinação sagrada, com bandeira do castor e trilha solene."
+    "name": "'Wanda Nara', de La Joaqui",
+    "note": "O RKT que usa Wanda Nara como símbolo de independência financeira e curtição sem culpa segue entre os vídeos mais vistos do YouTube argentino."
    },
    "en": {
-    "name": "The 'Al Buqqi' meme",
-    "note": "TikTokers frame trips to Buc-ee's travel centers as a holy pilgrimage, complete with a beaver flag and solemn soundtrack."
+    "name": "La Joaqui's 'Wanda Nara'",
+    "note": "The RKT track that turns Wanda Nara into a symbol of financial independence and guilt-free fun keeps ranking among Argentina's most-watched YouTube videos."
    },
    "es": {
-    "name": "El meme 'Al Buqqi'",
-    "note": "Tiktokers presentan sus visitas a las tiendas de carretera Buc-ee's como una peregrinación sagrada, con bandera del castor y música solemne."
+    "name": "'Wanda Nara', de La Joaqui",
+    "note": "El RKT que usa a Wanda Nara como símbolo de independencia económica y disfrute sin culpa sigue entre los videos más vistos de YouTube en Argentina."
    }
   },
   "rank": 7,
   "image": {
-   "url": "https://i.kym-cdn.com/editorials/icons/original/000/017/955/albuc.jpg",
-   "credit": "Foto: Reprodução/Know Your Meme"
+   "url": "https://www.cronica.com.ar/files/image/1712/1712929/6ab55868759ee_600_315!.jpg?s=1d1ba290806ad8694c7fff0422e2d585&d=1790391786",
+   "credit": "Foto: Crónica"
   }
  },
  {
   "id": "tr8",
-  "kind": "format",
-  "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://knowyourmeme.com/editorials/poll/see-the-winner-of-september-2026s-meme-of-the-month",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "video",
+  "platform": "tiktok",
+  "region": "MX",
+  "sourceUrl": "https://infobae.com/mexico/2026/10/03/lady-me-acabo-de-maquillar-joven-se-niega-a-usar-casco-en-viaje-en-moto-para-no-arruinarse-el-maquillaje",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Things to Say', meme do mês",
-    "note": "O formato que junta foto de famoso a listas de coisas que você jamais deveria dizer venceu a votação de meme de setembro do Know Your Meme."
+    "name": "'Lady Me Acabo de Maquillar'",
+    "note": "Passageira de Uber Moto se recusou a usar capacete para não estragar a maquiagem, o motorista e criador Willis en Moto negou a corrida e o vídeo viralizou no TikTok mexicano."
    },
    "en": {
-    "name": "'Things to Say', meme of the month",
-    "note": "The format pairing a celebrity photo with lists of things you should never say won Know Your Meme's September meme of the month vote."
+    "name": "'Lady Me Acabo de Maquillar'",
+    "note": "A Mexican Uber Moto rider refused to wear a helmet so her makeup wouldn't smudge, driver-creator Willis en Moto declined the trip, and the clip went viral on TikTok."
    },
    "es": {
-    "name": "'Things to Say', meme del mes",
-    "note": "El formato que combina la foto de un famoso con listas de cosas que nunca deberías decir ganó la votación del meme de septiembre de Know Your Meme."
+    "name": "'Lady Me Acabo de Maquillar'",
+    "note": "Una pasajera de Uber Moto se negó a usar casco para no arruinar su maquillaje, el conductor y creador Willis en Moto no hizo el viaje y el video se viralizó en TikTok."
    }
   },
   "rank": 8,
   "image": {
-   "url": "https://i.kym-cdn.com/editorials/icons/original/000/017/945/mtmwinnder.jpg",
-   "credit": "Foto: Reprodução/Know Your Meme"
+   "url": "https://www.infobae.com/resizer/v2/TKHF26C5ABFL5ML7ND3ZAYNCQ4.jpg?auth=d5ad8f38b039773861c0459ab9528e0d1b4d3f85cf983542ac834804c569e9d9&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Reprodução/TikTok via Infobae"
   }
  },
  {
   "id": "tr9",
-  "kind": "video",
+  "kind": "sound",
   "platform": "tiktok",
-  "region": "BR",
-  "sourceUrl": "https://www.muvucapopular.com.br/2026/10/02/influencer-viraliza-com-video-de-comida-tipica-de-mt-e-a-classifica-como-a-2a-melhor-do-br/",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "region": "GLOBAL",
+  "sourceUrl": "https://newengen.com/insights/instagram-trends/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Grazi Eats e a Maria Izabel",
-    "note": "A influenciadora provou o prato típico de Mato Grosso com farofa de banana e o elegeu a 2ª melhor culinária regional do Brasil, só atrás do Ceará."
+    "name": "Edits de casamento com 'Patient Zero'",
+    "note": "Noivas montam vídeos do primeiro olhar e da primeira dança com o novo single de Taylor Swift, trend que lidera a lista de virais do Instagram de outubro."
    },
    "en": {
-    "name": "Grazi Eats tries Maria Izabel",
-    "note": "The food creator tasted the traditional Mato Grosso dish with banana farofa and ranked it Brazil's second-best regional cuisine, behind only Ceará."
+    "name": "'Patient Zero' wedding edits",
+    "note": "Brides are cutting first-look and first-dance footage to Taylor Swift's new single, a trend topping October's Instagram viral rankings."
    },
    "es": {
-    "name": "Grazi Eats y la Maria Izabel",
-    "note": "La influencer probó el plato típico de Mato Grosso con farofa de plátano y lo eligió como la segunda mejor cocina regional de Brasil, solo detrás de Ceará."
+    "name": "Edits de boda con 'Patient Zero'",
+    "note": "Novias editan el primer vistazo y el primer baile con el nuevo sencillo de Taylor Swift, tendencia que encabeza los virales de Instagram de octubre."
    }
   },
   "rank": 9,
   "image": {
-   "url": "https://www.muvucapopular.com.br/wp-content/uploads/2026/10/grazi-eats.jpg",
-   "credit": "Foto: Reprodução/Muvuca Popular"
+   "url": "https://www.musicbusinessworldwide.com/files/2026/10/New-Project-2.jpg",
+   "credit": "Foto: Music Business Worldwide"
   }
  },
  {
   "id": "tr10",
-  "kind": "sound",
-  "platform": "tiktok",
-  "region": "MX",
-  "sourceUrl": "https://www.infobae.com/mexico/2026/10/01/maestra-encuentra-la-forma-mas-divertida-de-aprender-las-tablas-de-multiplicar-y-su-cancion-causa-furor-en-tiktok/",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "format",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A música da tabuada da Miss Miriam",
-    "note": "Professora mexicana viraliza com uma canção de tabuada em ordem aleatória, e até adultos admitem nos comentários que ainda travam nas contas."
+    "name": "Desfile 'Ramalama' de fantasias",
+    "note": "Câmera baixa mostra pernas caminhando devagar e arrastando adereços até revelar a fantasia de Halloween inteira, ao som de 'Ramalama (Bang Bang)', de Róisín Murphy."
    },
    "en": {
-    "name": "Miss Miriam's times-tables song",
-    "note": "A Mexican teacher's song quizzing multiplication tables in random order goes viral, with adults admitting in the comments they still struggle."
+    "name": "The 'Ramalama' costume walk",
+    "note": "A low-angle shot of slowly walking legs dragging props zooms out to reveal a full Halloween costume, set to Róisín Murphy's 'Ramalama (Bang Bang)'."
    },
    "es": {
-    "name": "La canción de las tablas de Miss Miriam",
-    "note": "Una maestra mexicana se vuelve viral con una canción de tablas de multiplicar en orden aleatorio, y hasta adultos admiten que todavía se traban."
+    "name": "El desfile 'Ramalama' de disfraces",
+    "note": "Una toma baja de piernas caminando lento y arrastrando accesorios se abre hasta revelar el disfraz de Halloween completo, con 'Ramalama (Bang Bang)' de Róisín Murphy."
    }
   },
-  "rank": 10,
-  "image": {
-   "url": "https://www.infobae.com/resizer/v2/MV4J5D52FBBL7PMIKABM2JZREE.jpg?auth=e3eb2d386a0803366efb7af10433eb77b46efad4e8deeecb0295476b744a626c&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/TikTok @missmiriamheidy"
-  }
+  "rank": 10
  },
  {
   "id": "tr11",
-  "kind": "video",
-  "platform": "x",
-  "region": "AR",
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/01/el-llamativo-video-de-luck-ra-y-tiago-pzk-que-se-viralizo-tras-la-polemica-con-la-joaqui-yo-lo-amo-a-el/",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "format",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 310,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Luck Ra: 'Eu amo ele'",
-    "note": "Volta a circular um trecho do 'La Voz Argentina' em que Luck Ra declara amor a Tiago PZK, que agora namora La Joaqui e negou ser próximo do cantor."
+    "name": "A ilusão da cabeça de abóbora",
+    "note": "Uma abóbora segurada bem perto da lente 'substitui' a cabeça de um amigo enquanto o corpo dança sem parar, uma das trends de Halloween que abrem outubro no TikTok."
    },
    "en": {
-    "name": "Luck Ra: 'I love him'",
-    "note": "A resurfaced 'La Voz Argentina' clip of Luck Ra professing love for Tiago PZK is going around, after Tiago, now dating La Joaqui, denied being close to him."
+    "name": "The pumpkin head illusion",
+    "note": "A real pumpkin held close to the lens hides a friend's head while their body dances wildly below, one of the Halloween trends kicking off October on TikTok."
    },
    "es": {
-    "name": "Luck Ra: 'Yo lo amo a él'",
-    "note": "Resurge un clip de 'La Voz Argentina' en el que Luck Ra le declara su amor a Tiago PZK, que ahora sale con La Joaqui y negó ser cercano al cantante."
+    "name": "La ilusión de la cabeza de calabaza",
+    "note": "Una calabaza sostenida muy cerca de la lente tapa la cabeza de un amigo mientras su cuerpo baila sin parar, una de las tendencias de Halloween que abren octubre en TikTok."
    }
   },
-  "rank": 11,
-  "image": {
-   "url": "https://www.infobae.com/resizer/v2/SLSCH6QEZNC5FIVTVHKLFPIEEY.jpg?auth=11d473247bab472d8c311f8e9a41f859c4f5105a2c158430ffd4e943f1cb4c9b&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Infobae"
-  }
+  "rank": 11
  },
  {
   "id": "tr12",
-  "kind": "video",
+  "kind": "sound",
   "platform": "tiktok",
   "region": "US",
-  "sourceUrl": "https://dailydot.com/absolute-ragebait-architecture-a-bench-with-dividers-was-installed-beneath-an-ad-saying-no-kid-should-ever-sleep-on-the-streets-comment-section-is-not-happy",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 347,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O banco 'ragebait'",
-    "note": "Banco com divisórias anti-mendigo instalado sob um anúncio que diz 'nenhuma criança deveria dormir na rua' viraliza no TikTok como 'arquitetura de raiva'."
+    "name": "'Two Fishes', de Love Island USA",
+    "note": "O áudio de Corbin Mims, do Love Island USA, defendendo uma opinião sensata virou dublagem para quem explica posições impopulares, como economizar em viagens."
    },
    "en": {
-    "name": "The 'ragebait architecture' bench",
-    "note": "A bench with anti-sleeping dividers installed under an ad saying 'no kid should ever sleep on the streets' goes viral on TikTok."
+    "name": "Love Island USA's 'Two Fishes'",
+    "note": "Audio of Love Island USA's Corbin Mims defending a reasonable take has become the lip-sync for explaining unpopular opinions, like saving money on trips."
    },
    "es": {
-    "name": "El banco 'ragebait'",
-    "note": "Un banco con divisores antiindigentes instalado bajo un anuncio que dice 'ningún niño debería dormir en la calle' se viraliza en TikTok."
+    "name": "'Two Fishes', de Love Island USA",
+    "note": "El audio de Corbin Mims, de Love Island USA, defendiendo una opinión sensata se volvió el doblaje para explicar posturas impopulares, como ahorrar en los viajes."
    }
   },
-  "rank": 12,
-  "image": {
-   "url": "https://lede-admin.dailydot.com/wp-content/uploads/sites/69/2026/09/A-public-bench-with-metal-dividers-appears-beneath-an-advertisement-about-helping-unhoused-children.jpg",
-   "credit": "Foto: Reprodução/TikTok @free_your_mind._"
-  }
+  "rank": 12
  },
  {
   "id": "tr13",
-  "kind": "video",
+  "kind": "format",
   "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://aloalobahia.com/noticias/2026/10/03/naomi-campbell-viraliza-nas-redes-apos-ser-flagrada-limpando-bicicleta-em-paris",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "region": "US",
+  "sourceUrl": "https://newengen.com/insights/instagram-trends/",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 24,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Naomi Campbell higieniza a bike",
-    "note": "A supermodelo foi flagrada em Paris de luvas, desinfetando guidão, freios e banco de uma bicicleta compartilhada antes de usar, e o vídeo viralizou."
+    "name": "'Message From A'",
+    "note": "Usuários se filmam em hábitos constrangedores e colam bilhetes sarcásticos imitando a vilã misteriosa de 'Pretty Little Liars', trend em alta no Reels."
    },
    "en": {
-    "name": "Naomi Campbell sanitizes a bike",
-    "note": "The supermodel was caught in Paris wearing gloves and wiping down the handlebars, brakes and seat of a shared bike before riding, and the clip went viral."
+    "name": "'Message From A'",
+    "note": "Users film their embarrassing habits and overlay snarky notes mimicking the mysterious villain from 'Pretty Little Liars', a rising Reels trend."
    },
    "es": {
-    "name": "Naomi Campbell desinfecta la bici",
-    "note": "La supermodelo fue captada en París con guantes, desinfectando manubrio, frenos y asiento de una bicicleta compartida antes de usarla, y el video se viralizó."
+    "name": "'Message From A'",
+    "note": "Usuarios se graban en hábitos vergonzosos y añaden notas sarcásticas imitando a la villana misteriosa de 'Pretty Little Liars', tendencia en alza en Reels."
    }
   },
-  "rank": 13,
-  "image": {
-   "url": "https://aloalobahia.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-17.17.03-1.jpg",
-   "credit": "Foto: Reprodução/Alô Alô Bahia"
-  }
+  "rank": 13
  },
  {
   "id": "tr14",
-  "kind": "topic",
-  "platform": "x",
-  "region": "AR",
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/02/la-revelacion-de-robbie-williams-sobre-su-encuentro-con-una-fan-argentina-me-acoste-con-ella-pero-no-es-la-que-creen/",
-  "collectedAt": "2026-10-03T23:25:04Z",
+  "kind": "video",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://aloalobahia.com/noticias/2026/10/03/naomi-campbell-viraliza-nas-redes-apos-ser-flagrada-limpando-bicicleta-em-paris",
+  "collectedAt": "2026-10-04T12:16:25Z",
   "hue": 61,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Robbie Williams e a 'fã argentina'",
-    "note": "No show em Buenos Aires, Robbie brincou que viu uma fã com quem ficou na última visita, 'mas não é quem vocês pensam', e reacendeu a história com Amalia Granata."
+    "name": "Naomi Campbell higieniza a bike",
+    "note": "A supermodelo foi flagrada em Paris, de luvas, desinfetando guidão, freios e banco de uma bicicleta compartilhada antes de pedalar, e o vídeo segue rodando as redes."
    },
    "en": {
-    "name": "Robbie Williams and the 'Argentine fan'",
-    "note": "At his Buenos Aires show Robbie joked he spotted a fan he slept with last time, 'but not who you think', reviving the Amalia Granata story."
+    "name": "Naomi Campbell sanitizes a bike",
+    "note": "The supermodel was filmed in Paris wearing gloves and disinfecting the handlebars, brakes and seat of a shared bike before riding, and the clip keeps circulating."
    },
    "es": {
-    "name": "Robbie Williams y la 'fan argentina'",
-    "note": "En su show en Buenos Aires, Robbie bromeó con que vio a una fan con la que estuvo en su última visita, 'pero no es la que creen', y revivió la historia con Amalia Granata."
+    "name": "Naomi Campbell desinfecta la bici",
+    "note": "La supermodelo fue captada en París, con guantes, desinfectando manubrio, frenos y asiento de una bicicleta compartida antes de usarla, y el video sigue circulando."
    }
   },
   "rank": 14,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/3LIZLI4EONCN3MH5EBIVHUSIOY.JPG?auth=6fc3845050b8b314afc0cfe2dc47df9f965a3fa76f0bb350981c9dde9fc886cf&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Infobae"
+   "url": "https://aloalobahia.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-17.17.03-1.jpg",
+   "credit": "Foto: Reprodução/Instagram via Alô Alô Bahia"
   }
  },
  {
