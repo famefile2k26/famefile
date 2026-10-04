@@ -406,7 +406,7 @@
   }
  },
  {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "collectedAt": "2026-10-04T03:54:31.384Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -430,7 +430,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "collectedAt": "2026-10-04T03:54:31.384Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -454,7 +454,7 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "collectedAt": "2026-10-04T03:54:31.384Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -478,283 +478,87 @@
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "collectedAt": "2026-10-04T03:54:31.384Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
+  "region": "US",
   "rank": 1,
-  "sourceUrl": "https://ge.globo.com/pe/futebol/brasileirao-serie-c/jogo/03-10-2026/santa-cruz-maringa.ghtml",
+  "sourceUrl": "https://www.nbc.com/nbc-insider/is-snl-new-tonight-october-3-host-musical-guest",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--tuY5DIq0gESFTQ4376CAHvtRceF--1jOf10vW_CJ6BWRFxzRj1uVw-hznI",
-   "credit": "ge"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFMY7NZYaRum0HvrYcarbUl7RFyF9fqhPtcaoNpqvNYsZ2kpL8Z1IoNzaKrdw",
+   "credit": "NBC TV"
   },
   "t": {
    "pt": {
-    "name": "classificações de santa cruz futebol clube x maringá futebol clube",
-    "note": "Busca em alta no Google (Brasil) — 100000+ buscas · via ge."
+    "name": "dakota johnson",
+    "note": "Busca em alta no Google (EUA) — 20000+ buscas · via NBC TV."
    },
    "en": {
-    "name": "classificações de santa cruz futebol clube x maringá futebol clube",
-    "note": "Trending Google search (Brazil) — 100000+ searches · via ge."
+    "name": "dakota johnson",
+    "note": "Trending Google search (US) — 20000+ searches · via NBC TV."
    },
    "es": {
-    "name": "classificações de santa cruz futebol clube x maringá futebol clube",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100000+ búsquedas · vía ge."
+    "name": "dakota johnson",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 20000+ búsquedas · vía NBC TV."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "collectedAt": "2026-10-04T03:54:31.384Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-senado-3-outubro.ghtml",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.pagina12.com.ar/2026/10/02/ricardo-soule-espiritu-en-libertad/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREK0Ep--vD-2Ob2YbHEFM9Fix8vnIqozk-HIMXT25Wp0pUUXD0p5o7wtpFw0o",
-   "credit": "G1"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB1o3tSBp1cIGbWUiBLFQXQew27ht44XBr1khF94cG0YGPbjeV6RoleuSnmHo",
+   "credit": "Página|12"
   },
   "t": {
    "pt": {
-    "name": "alexandre curi",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via G1."
+    "name": "soule",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Página|12."
    },
    "en": {
-    "name": "alexandre curi",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via G1."
+    "name": "soule",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via Página|12."
    },
    "es": {
-    "name": "alexandre curi",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía G1."
+    "name": "soule",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Página|12."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "collectedAt": "2026-10-04T03:54:31.384Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://ge.globo.com/ce/futebol/brasileirao-serie-c/jogo/03-10-2026/floresta-botafogo-pb.ghtml",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.reutersconnect.com/item/nortons-noah-perroti-carries-the-ball-during-a-non-league-game-against-dighton-rehoboth-on-oct-2-2026/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk5ODM0NTQ",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
-   "credit": "ge"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM4w60nFka8LYCdehsDtoYYTUufJA7m5zeT1BQXGXnjBlc6zzXC_Lrkis7KvQ",
+   "credit": "Reuters Connect"
   },
   "t": {
    "pt": {
-    "name": "classificações de floresta esporte clube x botafogo-pb",
-    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via ge."
+    "name": "antonee robinson",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via Reuters Connect."
    },
    "en": {
-    "name": "classificações de floresta esporte clube x botafogo-pb",
-    "note": "Trending Google search (Brazil) — 10000+ searches · via ge."
+    "name": "antonee robinson",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via Reuters Connect."
    },
    "es": {
-    "name": "classificações de floresta esporte clube x botafogo-pb",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía ge."
+    "name": "antonee robinson",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Reuters Connect."
    }
   },
   "id": "tr20",
   "hue": 283
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50085677/lionel-messi-argentina-farewell-match-benin",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPESg61B2NF11pCYC4-R56v9l8jpdLK2xBNZB5kkQTDsxA0f6qXhYjjiEOXU",
-   "credit": "ESPN"
-  },
-  "t": {
-   "pt": {
-    "name": "argentina fc",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via ESPN."
-   },
-   "en": {
-    "name": "argentina fc",
-    "note": "Trending Google search (US) — 1000+ searches · via ESPN."
-   },
-   "es": {
-    "name": "argentina fc",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía ESPN."
-   }
-  },
-  "id": "tr21",
-  "hue": 320
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/03/why-loved-dramatic-tv-divorce-war-the-split-up",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnnhjzqPwmNqNMNmZ3fI9YZ12WPvLcNT3zNo1rmMQg6s3I9g0d7oy9ehEcXTg",
-   "credit": "The Guardian"
-  },
-  "t": {
-   "pt": {
-    "name": "war hbo",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via The Guardian."
-   },
-   "en": {
-    "name": "war hbo",
-    "note": "Trending Google search (US) — 1000+ searches · via The Guardian."
-   },
-   "es": {
-    "name": "war hbo",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía The Guardian."
-   }
-  },
-  "id": "tr22",
-  "hue": 357
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://sports.yahoo.com/college-football/breaking-news/article/colorado-reportedly-set-to-start-isaac-wilson-over-juju-lewis-at-qb-for-game-vs-no-12-texas-tech-172050151.html",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3oyIv3JA0GT1IKGEu9umD7sag84ivrawN37bOTKD1LkzoJLtET0I1z4ZR_Y",
-   "credit": "Yahoo Sports"
-  },
-  "t": {
-   "pt": {
-    "name": "isaac wilson",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Yahoo Sports."
-   },
-   "en": {
-    "name": "isaac wilson",
-    "note": "Trending Google search (US) — 2000+ searches · via Yahoo Sports."
-   },
-   "es": {
-    "name": "isaac wilson",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Yahoo Sports."
-   }
-  },
-  "id": "tr23",
-  "hue": 34
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.clarin.com/espectaculos/rating-miercoles-masterchef-celebrity-futbol-visto-dia_0_J5sAUx3N2z.html",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD9b7A3tXgZsrxXE7n7DT8tsIoxq8BP7s5c-lxHJVcFCjX8MVwjElxyB0fFEI",
-   "credit": "Clarin.com"
-  },
-  "t": {
-   "pt": {
-    "name": "telefe en vivo",
-    "note": "Busca em alta no Google (Argentina) — 10000+ buscas · via Clarin.com."
-   },
-   "en": {
-    "name": "telefe en vivo",
-    "note": "Trending Google search (Argentina) — 10000+ searches · via Clarin.com."
-   },
-   "es": {
-    "name": "telefe en vivo",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 10000+ búsquedas · vía Clarin.com."
-   }
-  },
-  "id": "tr24",
-  "hue": 71
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.a24.com/trends/arrasan-netflix-ricardo-darin-y-diego-peretti-estrenan-la-pelicula-argentina-del-ano-n1602911",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPaAct0BJcRJdCbieH0f_W_EvHhMnEDM_x5ItMfkjki02MFzxbaZlwA6YjqH4",
-   "credit": "A24.com"
-  },
-  "t": {
-   "pt": {
-    "name": "diego peretti",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via A24.com."
-   },
-   "en": {
-    "name": "diego peretti",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via A24.com."
-   },
-   "es": {
-    "name": "diego peretti",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía A24.com."
-   }
-  },
-  "id": "tr25",
-  "hue": 108
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50085677/lionel-messi-argentina-farewell-match-benin",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPESg61B2NF11pCYC4-R56v9l8jpdLK2xBNZB5kkQTDsxA0f6qXhYjjiEOXU",
-   "credit": "ESPN"
-  },
-  "t": {
-   "pt": {
-    "name": "argentina fc",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via ESPN."
-   },
-   "en": {
-    "name": "argentina fc",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via ESPN."
-   },
-   "es": {
-    "name": "argentina fc",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía ESPN."
-   }
-  },
-  "id": "tr26",
-  "hue": 145
- },
- {
-  "collectedAt": "2026-10-04T00:07:30.019Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://silerenonpossum.com/it/gambetti-chieti-nessun-messaggio-teatini/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIaoqrvl5K4x4bMyO8aHptSaRrz8HrkpGx1mhOSQbScwSD_VkUt44uyVoG_qU",
-   "credit": "Silere Non Possum"
-  },
-  "t": {
-   "pt": {
-    "name": "mauro gambetti",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via Silere Non Possum."
-   },
-   "en": {
-    "name": "mauro gambetti",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via Silere Non Possum."
-   },
-   "es": {
-    "name": "mauro gambetti",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Silere Non Possum."
-   }
-  },
-  "id": "tr27",
-  "hue": 182
  }
 ]
