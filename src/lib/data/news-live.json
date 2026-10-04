@@ -1,5 +1,350 @@
 [
  {
+  "id": "2610041206",
+  "section": "streamers",
+  "publishedAt": "2026-10-04T11:30:00Z",
+  "personIds": [
+   "kai-cenat",
+   "shroud"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/thumbnails/_thumbnailLarge/top-20-most-followed-twitch-streamers-ninja-shroud-tfue-myth-dr-disrespect-followers.jpg",
+   "credit": "Imagem: Reprodução/Dexerto"
+  },
+  "sources": [
+   {
+    "name": "Dexerto",
+    "url": "https://www.dexerto.com/entertainment/top-20-most-followed-twitch-streamers-750744/"
+   }
+  ],
+  "hue": 242,
+  "t": {
+   "pt": {
+    "slug": "os-10-streamers-mais-seguidos-da-twitch-outubro-2026",
+    "headline": "Kai Cenat no topo, três hispanofalantes no top 5 e Alanzoka como único brasileiro: os streamers mais seguidos da Twitch em outubro",
+    "summary": "Kai Cenat passou de 21,7 milhões de seguidores e lidera um ranking dominado por criadores que falam espanhol; Alanzoka é o brasileiro mais bem colocado, em 18º.",
+    "body": [
+     "1. Kai Cenat (21,7 milhões) e 2. Ibai (20,3 milhões): o americano ocupa o primeiro lugar da Twitch com 21.776.848 seguidores, segundo levantamento atualizado pela Dexerto em 29 de setembro. O site atribui a arrancada à maratona 'Mafiathon 3', que levou Kai a ultrapassar o espanhol Ibai e encerrou o longo reinado de Ninja. 3. Ninja (19,2 milhões), o rosto do Fortnite, caiu para o terceiro posto.",
+     "4. Auronplay (17,1 milhões), 5. Rubius (16,6 milhões), 6. xQc (12,6 milhões), 7. TheGrefg (12,3 milhões), 8. juansguarnizo (11,7 milhões), 9. Tfue (11,5 milhões) e 10. Jynxzi (11,4 milhões): o meio da tabela mostra a força do público hispânico, com nomes como TheGrefg e o colombiano juansguarnizo. Jynxzi chegou lá jogando Rainbow Six Siege, enquanto xQc e Tfue hoje dividem o tempo com outras plataformas, como a Kick.",
+     "Fora do top 10, o veterano Shroud aparece em 11º, com 11,3 milhões, e ElMariana em 12º. O Brasil tem um só nome na lista dos 20 maiores: Alanzoka, em 18º lugar, com 8.130.483 seguidores, à frente de TimTheTatman e TommyInnit. Completam o ranking ElSpreen, Pokimane, Caseoh, sodapoppin e Clix, do 13º ao 17º."
+    ]
+   },
+   "en": {
+    "slug": "top-10-most-followed-twitch-streamers-october-2026",
+    "headline": "Kai Cenat on top, three Spanish speakers in the top 5 and Alanzoka as the lone Brazilian: Twitch's most-followed streamers in October",
+    "summary": "Kai Cenat has topped 21.7 million followers and leads a ranking dominated by Spanish-speaking creators; Alanzoka is the highest-ranked Brazilian, in 18th.",
+    "body": [
+     "1. Kai Cenat (21.7 million) and 2. Ibai (20.3 million): the American holds first place on Twitch with 21,776,848 followers, according to a ranking updated by Dexerto on September 29. The outlet credits his surge to the 'Mafiathon 3' marathon, which carried Kai past Spain's Ibai and ended Ninja's long reign. 3. Ninja (19.2 million), the face of Fortnite, has slipped to third.",
+     "4. Auronplay (17.1 million), 5. Rubius (16.6 million), 6. xQc (12.6 million), 7. TheGrefg (12.3 million), 8. juansguarnizo (11.7 million), 9. Tfue (11.5 million) and 10. Jynxzi (11.4 million): the middle of the table shows the strength of the Spanish-speaking audience, with names such as TheGrefg and Colombia's juansguarnizo. Jynxzi got there playing Rainbow Six Siege, while xQc and Tfue now split their time with other platforms such as Kick.",
+     "Outside the top 10, veteran Shroud sits 11th with 11.3 million, and ElMariana is 12th. Brazil has just one name among the top 20: Alanzoka, in 18th place with 8,130,483 followers, ahead of TimTheTatman and TommyInnit. ElSpreen, Pokimane, Caseoh, sodapoppin and Clix round out spots 13 through 17."
+    ]
+   },
+   "es": {
+    "slug": "los-10-streamers-mas-seguidos-de-twitch-octubre-2026",
+    "headline": "Kai Cenat en la cima, tres hispanohablantes en el top 5 y Alanzoka como único brasileño: los streamers más seguidos de Twitch en octubre",
+    "summary": "Kai Cenat superó los 21,7 millones de seguidores y lidera un ranking dominado por creadores hispanohablantes; Alanzoka es el brasileño mejor ubicado, en el puesto 18.",
+    "body": [
+     "1. Kai Cenat (21,7 millones) y 2. Ibai (20,3 millones): el estadounidense ocupa el primer lugar de Twitch con 21.776.848 seguidores, según el ranking actualizado por Dexerto el 29 de septiembre. El sitio atribuye su despegue a la maratón 'Mafiathon 3', que llevó a Kai a superar al español Ibai y puso fin al largo reinado de Ninja. 3. Ninja (19,2 millones), el rostro de Fortnite, bajó al tercer puesto.",
+     "4. Auronplay (17,1 millones), 5. Rubius (16,6 millones), 6. xQc (12,6 millones), 7. TheGrefg (12,3 millones), 8. juansguarnizo (11,7 millones), 9. Tfue (11,5 millones) y 10. Jynxzi (11,4 millones): la mitad de la tabla muestra la fuerza del público hispano, con nombres como TheGrefg y el colombiano juansguarnizo. Jynxzi llegó jugando Rainbow Six Siege, mientras que xQc y Tfue hoy reparten su tiempo con otras plataformas como Kick.",
+     "Fuera del top 10, el veterano Shroud aparece 11.º con 11,3 millones, y ElMariana es 12.º. Brasil tiene un solo nombre entre los 20 mayores: Alanzoka, en el puesto 18 con 8.130.483 seguidores, por delante de TimTheTatman y TommyInnit. Completan el ranking ElSpreen, Pokimane, Caseoh, sodapoppin y Clix, del 13.º al 17.º."
+    ]
+   }
+  },
+  "format": "list"
+ },
+ {
+  "id": "2610041204",
+  "section": "streamers",
+  "publishedAt": "2026-10-04T11:00:00Z",
+  "personIds": [],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://static.vzone.gg/news/2026/10/04082425/Darker-of-LOUD-is-seen-onstage-during-VALORANT-Champions-Shanghai-1024x683.jpg",
+   "credit": "Foto: Divulgação/Riot Games via VZone"
+  },
+  "sources": [
+   {
+    "name": "VZone",
+    "url": "https://vzone.gg/noticia/champions-2026-sem-sustos-loud-derrota-a-global-e-avanca-aos-playoffs/"
+   },
+   {
+    "name": "TalkEsport",
+    "url": "https://www.talkesport.com/news/valorant/global-esports-vs-loud-ge-knocked-out-of-valorant-champions-2026-as-loud-reach-playoffs/"
+   }
+  ],
+  "hue": 148,
+  "t": {
+   "pt": {
+    "slug": "loud-vence-global-esports-e-vai-aos-playoffs-do-champions-de-xangai",
+    "headline": "Um dia depois de perder a vaga no Mundial de LoL, LOUD despacha a Global Esports e está nos playoffs do Champions de Xangai",
+    "summary": "Com 46 abates de erde, a LOUD venceu por 2 a 0 o confronto decisivo do Grupo B e segue viva no Mundial de Valorant, que tem playoffs a partir de 7 de outubro.",
+    "body": [
+     "A LOUD não deu chance ao azar na madrugada deste domingo (4). No jogo decisivo do Grupo B do Valorant Champions, em Xangai, a equipe brasileira bateu a Global Esports por 2 a 0, com 13 a 8 na Split, mapa escolhido pelos adversários, e 13 a 9 na Sunset, escolha da LOUD. A vitória chega um dia depois de o time de League of Legends da organização ter sido varrido pela FURIA no CBLOL e perdido a vaga no Mundial de LoL.",
+     "O destaque foi o chileno Roberto 'erde' Lobos, que somou 46 abates nos dois mapas e terminou a série com rating de 1.56, acumulando a função de comandar as chamadas do time. Na Split, a Global Esports chegou a abrir vantagem, mas a LOUD emendou uma sequência de rounds que virou o mapa. Na Sunset, a equipe disparou com 7 a 0 logo no início e foi para o intervalo vencendo por 9 a 3.",
+     "Com o resultado, a LOUD avança junto da Team Vitality, que já havia vencido os brasileiros na fase de grupos. A Global Esports se despede em sua primeira participação no Champions, e a China segue sem nenhum representante no torneio que ela mesma recebe. Os playoffs, em chave dupla com oito times, começam na quarta-feira (7), no Jing'an Sports Center, e a grande final está marcada para 18 de outubro, na Mercedes-Benz Arena, com premiação total de US$ 2,25 milhões."
+    ]
+   },
+   "en": {
+    "slug": "loud-beat-global-esports-reach-valorant-champions-shanghai-playoffs",
+    "headline": "A day after missing out on LoL Worlds, LOUD dispatch Global Esports and reach the Valorant Champions Shanghai playoffs",
+    "summary": "Behind 46 kills from erde, LOUD won Group B's decider 2-0 and stay alive at the Valorant world championship, whose playoffs start on October 7.",
+    "body": [
+     "LOUD left nothing to chance early on Sunday (Oct. 4). In the Group B decider at Valorant Champions in Shanghai, the Brazilian side beat Global Esports 2-0, winning 13-8 on Split, the opponents' pick, and 13-9 on Sunset, LOUD's pick. The win comes a day after the organization's League of Legends team was swept by FURIA in the CBLOL and lost its spot at LoL Worlds.",
+     "The standout was Chile's Roberto 'erde' Lobos, who racked up 46 kills across the two maps and finished the series with a 1.56 rating while also handling his team's in-game calls. On Split, Global Esports built an early lead, but LOUD strung together a run of rounds to flip the map. On Sunset, the team raced out to a 7-0 start and went into halftime up 9-3.",
+     "LOUD advance alongside Team Vitality, who had already beaten the Brazilians in the group stage. Global Esports exit their first-ever Champions, and China remains without a single team at the event it is hosting. The eight-team double-elimination playoffs begin on Wednesday (Oct. 7) at the Jing'an Sports Center, and the grand final is set for October 18 at the Mercedes-Benz Arena, with a total prize pool of $2.25 million."
+    ]
+   },
+   "es": {
+    "slug": "loud-vence-a-global-esports-y-avanza-a-playoffs-del-champions-de-shanghai",
+    "headline": "Un día después de quedarse sin Mundial de LoL, LOUD despacha a Global Esports y está en los playoffs del Champions de Shanghái",
+    "summary": "Con 46 bajas de erde, LOUD ganó 2-0 la serie decisiva del Grupo B y sigue con vida en el Mundial de Valorant, cuyos playoffs arrancan el 7 de octubre.",
+    "body": [
+     "LOUD no dejó nada al azar en la madrugada de este domingo (4). En el partido decisivo del Grupo B del Valorant Champions, en Shanghái, el equipo brasileño venció 2-0 a Global Esports, con 13-8 en Split, mapa elegido por los rivales, y 13-9 en Sunset, elección de LOUD. El triunfo llega un día después de que el equipo de League of Legends de la organización fuera barrido por FURIA en el CBLOL y perdiera su lugar en el Mundial de LoL.",
+     "La figura fue el chileno Roberto 'erde' Lobos, que sumó 46 bajas en los dos mapas y cerró la serie con un rating de 1.56, además de dirigir las llamadas del equipo. En Split, Global Esports llegó a sacar ventaja, pero LOUD encadenó una racha de rondas para darle la vuelta al mapa. En Sunset, el equipo arrancó con un 7-0 y se fue al descanso ganando 9-3.",
+     "LOUD avanza junto a Team Vitality, que ya había vencido a los brasileños en la fase de grupos. Global Esports se despide en su primera participación en el Champions, y China sigue sin ningún representante en el torneo que organiza. Los playoffs, en doble eliminación con ocho equipos, empiezan el miércoles (7) en el Jing'an Sports Center, y la gran final será el 18 de octubre en el Mercedes-Benz Arena, con una bolsa total de US$ 2,25 millones."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610041203",
+  "section": "music",
+  "publishedAt": "2026-10-04T11:00:00Z",
+  "personIds": [
+   "mc-cabelinho",
+   "marina-sena"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://uploads.portalpopline.com.br/2026/09/mc-cabelinho-marina-sena.jpg",
+   "credit": "Foto: Divulgação via POPline"
+  },
+  "sources": [
+   {
+    "name": "Terra",
+    "url": "https://www.terra.com.br/diversao/mc-cabelinho-lanca-album-escorpiao-com-emocao-e-parcerias-de-peso,a18047e5c941144bfba33e2f885df79699575som.html"
+   },
+   {
+    "name": "POPline",
+    "url": "https://portalpopline.com.br/vibe-exala-sexo-mc-cabelinho-marina-sena/"
+   },
+   {
+    "name": "Billboard Brasil",
+    "url": "https://billboard.com.br/lancamentos-nacionais-semana-2-outubro-2026/"
+   }
+  ],
+  "hue": 101,
+  "t": {
+   "pt": {
+    "slug": "analise-escorpiao-mc-cabelinho-album-marina-sena",
+    "headline": "Análise: em 'Escorpião', MC Cabelinho abre o diário amoroso em 9 faixas, acerta com Marina Sena e deixa a internet caçando a 'Escorpiana'",
+    "summary": "Sexto álbum do rapper carioca é curto, coeso e confessional, mas às vezes prefere o clima à canção.",
+    "body": [
+     "Análise. MC Cabelinho chega ao sexto disco com uma tese simples: aquariano com ascendente em Escorpião, ele diz que 'essa mistura fala muito' sobre quem é. 'Escorpião' transforma isso em nove faixas pensadas para serem ouvidas do começo ao fim, de 'Não Me Compare', a abertura sedutora, a 'O Triste Fim'. O produtor Dallass define bem o método: Victor (o nome de batismo) cria 'a partir de uma vivência real', 'como um diário'. É a força do álbum: desejo, ciúme e solidão aparecem sem pose de durão.",
+     "Os melhores momentos estão onde o disco se arrisca. 'Solitário' veste o pós-término com cordas orquestrais e mostra um Cabelinho mais vulnerável do que o do trap de ostentação. 'Veneno', com Marina Sena, abre com um 'nossa vibe exala sexo' e funciona porque cada um mantém a própria identidade — a própria Marina chamou a faixa de a melhor parceria dos dois. 'Rótulos', com Klisman e Alee, fala de relações fora do padrão sem moralismo. E 'Escorpiana', terceira faixa, virou combustível para a fofoca sobre a vida amorosa do rapper, o que diz muito sobre o poder do disco de pautar conversa.",
+     "O tropeço é a uniformidade: com produção de Dallass, Palma, BAMMA e Qually costurando tudo num mesmo clima noturno, algumas faixas do meio, como 'Pontas no Cinzeiro' e 'Jogo Perdido', soam mais como atmosfera do que como canção memorável. Ainda assim, em tempos de álbuns inchados para inflar streams, nove faixas coesas e confessionais são um gesto de maturidade. Nota: 7/10"
+    ]
+   },
+   "en": {
+    "slug": "review-escorpiao-mc-cabelinho-album-marina-sena",
+    "headline": "Review: on 'Escorpião', MC Cabelinho opens his love diary across 9 tracks, nails it with Marina Sena and sends the internet hunting for the 'Escorpiana'",
+    "summary": "The Rio rapper's sixth album is short, cohesive and confessional, though at times it favors mood over songs.",
+    "body": [
+     "Review. MC Cabelinho reaches his sixth album with a simple thesis: an Aquarius with Scorpio rising, he says 'that mix says a lot' about who he is. 'Escorpião' turns that into nine tracks designed to be heard start to finish, from the seductive opener 'Não Me Compare' to 'O Triste Fim'. Producer Dallass sums up the method: Victor (his real name) creates 'from a real experience', 'like a diary'. That is the album's strength: desire, jealousy and loneliness show up without tough-guy posturing.",
+     "The best moments come where the record takes risks. 'Solitário' dresses post-breakup loneliness in orchestral strings and shows a more vulnerable Cabelinho than the flex-trap version. 'Veneno', with Marina Sena, opens with 'our vibe exudes sex' and works because each keeps their own identity — Marina herself called it the pair's best collaboration. 'Rótulos', with Klisman and Alee, tackles non-traditional relationships without moralizing. And 'Escorpiana', track three, has become fuel for gossip about the rapper's love life, which says a lot about the album's power to drive conversation.",
+     "The stumble is sameness: with Dallass, Palma, BAMMA and Qually stitching everything into one nocturnal mood, some mid-album tracks such as 'Pontas no Cinzeiro' and 'Jogo Perdido' feel more like atmosphere than memorable songs. Still, in an era of albums bloated to pump streams, nine cohesive, confessional tracks are a mature move. Score: 7/10"
+    ]
+   },
+   "es": {
+    "slug": "analisis-escorpiao-mc-cabelinho-album-marina-sena",
+    "headline": "Análisis: en 'Escorpião', MC Cabelinho abre su diario amoroso en 9 temas, acierta con Marina Sena y deja a internet buscando a la 'Escorpiana'",
+    "summary": "El sexto álbum del rapero carioca es corto, coherente y confesional, aunque a veces prefiere el clima a la canción.",
+    "body": [
+     "Análisis. MC Cabelinho llega a su sexto disco con una tesis simple: acuariano con ascendente en Escorpio, dice que 'esa mezcla dice mucho' de quién es. 'Escorpião' lo convierte en nueve temas pensados para escucharse de principio a fin, desde la seductora apertura 'Não Me Compare' hasta 'O Triste Fim'. El productor Dallass resume el método: Victor (su nombre real) crea 'a partir de una vivencia real', 'como un diario'. Es la fuerza del álbum: deseo, celos y soledad aparecen sin pose de duro.",
+     "Los mejores momentos están donde el disco arriesga. 'Solitário' viste la soledad tras una ruptura con cuerdas orquestales y muestra a un Cabelinho más vulnerable que el del trap de ostentación. 'Veneno', con Marina Sena, abre con un 'nuestra vibra exhala sexo' y funciona porque cada uno mantiene su identidad: la propia Marina la llamó la mejor colaboración de ambos. 'Rótulos', con Klisman y Alee, habla de relaciones fuera de lo convencional sin moralina. Y 'Escorpiana', tercer tema, se volvió combustible para los rumores sobre la vida amorosa del rapero, lo que dice mucho del poder del disco para marcar conversación.",
+     "El tropiezo es la uniformidad: con Dallass, Palma, BAMMA y Qually hilvanando todo en un mismo clima nocturno, algunos temas del medio, como 'Pontas no Cinzeiro' y 'Jogo Perdido', suenan más a atmósfera que a canción memorable. Aun así, en tiempos de álbumes inflados para sumar streams, nueve temas coherentes y confesionales son un gesto de madurez. Nota: 7/10"
+    ]
+   }
+  },
+  "format": "review"
+ },
+ {
+  "id": "2610041202",
+  "section": "music",
+  "publishedAt": "2026-10-04T08:00:00Z",
+  "personIds": [
+   "ed-sheeran",
+   "isaac-slade",
+   "macklemore"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://pagesix.com/wp-content/uploads/sites/3/2026/10/use-comp-circle-floating-off-143683623.jpg?quality=75&strip=all&w=1200",
+   "credit": "Foto: Reprodução via Page Six"
+  },
+  "sources": [
+   {
+    "name": "Page Six via AOL",
+    "url": "https://www.aol.com/articles/ed-sheeran-enlists-fray-ex-062248000.html"
+   },
+   {
+    "name": "Jingletree",
+    "url": "https://jingletree.com/ed-sheeran-enlists-the-fray-s-ex-frontman-isaac-slade-as-surprise-guest-act-after-openers-ditch-tour-over-macklemore-fiasco-281623.html"
+   }
+  ],
+  "hue": 54,
+  "t": {
+   "pt": {
+    "slug": "ed-sheeran-isaac-slade-the-fray-abertura-atlanta-macklemore",
+    "headline": "Sem Macklemore e abandonado por 4 atrações, Ed Sheeran chama ex-vocalista do The Fray, que canta 'How to Save a Life' e pede 'meio-termo'",
+    "summary": "Isaac Slade abriu o show do britânico em Atlanta depois que Finneas, Lukas Graham, Aaron Rowe e Beoga deixaram a turnê em solidariedade ao rapper.",
+    "body": [
+     "Ed Sheeran encontrou um jeito de não subir sozinho ao palco. No show deste sábado (3) no Mercedes-Benz Stadium, em Atlanta, a abertura surpresa ficou com Isaac Slade, ex-vocalista do The Fray. Ele fez um set curto com os sucessos da banda, entre eles 'How to Save a Life' e 'You Found Me', antes de apresentar o dono da noite.",
+     "O convite vem no meio da maior crise da 'Loop Tour'. Macklemore foi tirado da turnê depois de duas apresentações no MetLife Stadium, em Nova Jersey, nas quais usou um keffiyeh e fez declarações pró-Palestina. Na sequência, quatro atrações de abertura — Finneas, Aaron Rowe, Lukas Graham e Beoga — saíram da turnê em solidariedade ao rapper. No palco, Slade tocou no assunto: 'O que está acontecendo lá é errado, mas, se a gente quiser atravessar isso, vamos precisar de pessoas dispostas a ir para esse lugar do meio'.",
+     "Não é a primeira vez que os dois dividem a noite: Slade já tinha subido ao palco com Sheeran em Toronto, em agosto, e o britânico costuma citar o The Fray como influência no início da carreira. O cantor deixou a banda em 2022 para cuidar da saúde mental. A perna americana da turnê termina em 7 de novembro, em Tampa, e a 'Loop Tour' segue pela América Latina até 11 de dezembro, na Cidade do México."
+    ]
+   },
+   "en": {
+    "slug": "ed-sheeran-isaac-slade-the-fray-opener-atlanta-macklemore",
+    "headline": "Without Macklemore and abandoned by 4 openers, Ed Sheeran calls on The Fray's ex-frontman, who sings 'How to Save a Life' and asks for 'middle ground'",
+    "summary": "Isaac Slade opened the Brit's Atlanta show after Finneas, Lukas Graham, Aaron Rowe and Beoga left the tour in solidarity with the rapper.",
+    "body": [
+     "Ed Sheeran found a way not to take the stage alone. At Saturday's (Oct. 3) show at Mercedes-Benz Stadium in Atlanta, the surprise opener was Isaac Slade, former frontman of The Fray. He played a short set of the band's hits, including 'How to Save a Life' and 'You Found Me', before introducing the headliner.",
+     "The invitation comes amid the biggest crisis of the 'Loop Tour'. Macklemore was removed from the tour after two shows at New Jersey's MetLife Stadium in which he wore a keffiyeh and made pro-Palestine statements. Four opening acts — Finneas, Aaron Rowe, Lukas Graham and Beoga — then left the tour in solidarity with the rapper. Onstage, Slade addressed it: 'What's happening over there is wrong, but if we're going to get through it, we're going to need people to step into that middle place.'",
+     "It is not the first time the two have shared a night: Slade had joined Sheeran onstage in Toronto in August, and the British star often cites The Fray as an early influence. The singer left the band in 2022 to focus on his mental health. The U.S. leg wraps on Nov. 7 in Tampa, and the 'Loop Tour' then heads through Latin America until Dec. 11 in Mexico City."
+    ]
+   },
+   "es": {
+    "slug": "ed-sheeran-isaac-slade-the-fray-telonero-atlanta-macklemore",
+    "headline": "Sin Macklemore y abandonado por 4 teloneros, Ed Sheeran llama al exvocalista de The Fray, que canta 'How to Save a Life' y pide 'un punto medio'",
+    "summary": "Isaac Slade abrió el show del británico en Atlanta después de que Finneas, Lukas Graham, Aaron Rowe y Beoga dejaran la gira en solidaridad con el rapero.",
+    "body": [
+     "Ed Sheeran encontró la forma de no subir solo al escenario. En el show de este sábado (3) en el Mercedes-Benz Stadium de Atlanta, el telonero sorpresa fue Isaac Slade, exvocalista de The Fray. Hizo un set corto con los éxitos de la banda, entre ellos 'How to Save a Life' y 'You Found Me', antes de presentar al protagonista de la noche.",
+     "La invitación llega en plena crisis del 'Loop Tour'. Macklemore fue apartado de la gira tras dos presentaciones en el MetLife Stadium, en Nueva Jersey, en las que usó una kufiya e hizo declaraciones propalestinas. Luego, cuatro teloneros —Finneas, Aaron Rowe, Lukas Graham y Beoga— dejaron la gira en solidaridad con el rapero. En el escenario, Slade tocó el tema: 'Lo que está pasando allá está mal, pero si vamos a superarlo, vamos a necesitar gente dispuesta a ir a ese lugar del medio'.",
+     "No es la primera vez que comparten la noche: Slade ya había subido al escenario con Sheeran en Toronto, en agosto, y el británico suele citar a The Fray como influencia de sus inicios. El cantante dejó la banda en 2022 para cuidar su salud mental. La etapa estadounidense termina el 7 de noviembre en Tampa, y el 'Loop Tour' sigue por América Latina hasta el 11 de diciembre, en Ciudad de México."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610041205",
+  "section": "streamers",
+  "publishedAt": "2026-10-04T03:00:00Z",
+  "personIds": [],
+  "confidence": "reported",
+  "risk": "yellow",
+  "image": {
+   "url": "https://www.gta6-news.net/wp-content/uploads/2026/10/22.jpg",
+   "credit": "Imagem: Rockstar Games/Reprodução via GTA6-News"
+  },
+  "sources": [
+   {
+    "name": "GTA6-News",
+    "url": "https://www.gta6-news.net/gta6-map-world/gta-6-quietly-reveals-new-open-world-gameplay-details-through-its-age-rating/"
+   },
+   {
+    "name": "Tech Insider",
+    "url": "https://tech-insider.org/gta-6-quietly-reveals-open-world-gameplay-details-2026/"
+   }
+  ],
+  "hue": 195,
+  "t": {
+   "pt": {
+    "slug": "gta-6-classificacao-indicativa-pegi-18-revela-detalhes-de-gameplay",
+    "headline": "Desmembramento, mais de 170 espécies de animais e drogas no inventário: classificação etária de GTA 6 entrega detalhes do jogo, dizem sites",
+    "summary": "Segundo sites especializados, a ficha de classificação PEGI 18 de GTA 6 revela novidades de gameplay que a Rockstar ainda não mostrou em trailer.",
+    "body": [
+     "A 46 dias do lançamento, marcado para 19 de novembro, GTA 6 teve detalhes de gameplay expostos por um caminho pouco glamouroso: a documentação de classificação etária. De acordo com sites especializados, que repercutem informações publicadas pelo GameRant no sábado (3), o jogo recebeu classificação PEGI 18 na Europa, e a descrição do conteúdo adianta mecânicas que a Rockstar ainda não mostrou oficialmente.",
+     "Entre os pontos citados estão drogas ilegais que poderiam ser carregadas e usadas direto do inventário do personagem, a possibilidade de ferir e matar animais selvagens, com mais de 170 espécies espalhadas pelo estado fictício de Leonida, e violência mais gráfica que a de GTA 5, com desmembramento e decapitação quando certas armas são usadas. Os clubes de striptease, presença tradicional da série, também voltam.",
+     "A Rockstar não comentou os detalhes, e um dos sites que repercutem o caso ressalta que é preciso separar o que é confirmado de material requentado de vazamentos antigos, por isso as informações devem ser tratadas com cautela até a divulgação oficial. A leitura geral é que GTA 6 investe menos em uma grande revolução e mais em vários sistemas menores e interligados, como inventário e interação com o ambiente, para deixar o mundo aberto mais vivo."
+    ]
+   },
+   "en": {
+    "slug": "gta-6-pegi-18-age-rating-reveals-gameplay-details",
+    "headline": "Dismemberment, 170-plus animal species and drugs in your inventory: GTA 6's age rating spills game details, sites report",
+    "summary": "According to specialist sites, GTA 6's PEGI 18 rating description reveals gameplay details Rockstar has yet to show in a trailer.",
+    "body": [
+     "Forty-six days before its November 19 launch, GTA 6 had gameplay details exposed through an unglamorous channel: its age-rating paperwork. According to specialist sites echoing a GameRant report published on Saturday (Oct. 3), the game was rated PEGI 18 in Europe, and the content description previews mechanics Rockstar has not yet officially shown.",
+     "Among the points cited are illegal drugs that can reportedly be carried and used straight from the character's inventory, the ability to injure and kill wildlife, with more than 170 species spread across the fictional state of Leonida, and more graphic violence than GTA 5, including dismemberment and decapitation with certain weapons. Strip clubs, a series staple, also return.",
+     "Rockstar has not commented on the details, and one of the outlets covering the story stresses the need to separate confirmed information from recycled leak material, so the claims should be treated with caution until official confirmation. The overall takeaway is that GTA 6 leans less on one big revolution and more on many smaller, interconnected systems, such as inventory and environmental interaction, to make its open world feel more alive."
+    ]
+   },
+   "es": {
+    "slug": "gta-6-clasificacion-pegi-18-revela-detalles-de-jugabilidad",
+    "headline": "Desmembramiento, más de 170 especies de animales y drogas en el inventario: la clasificación por edad de GTA 6 revela detalles del juego, según sitios especializados",
+    "summary": "Según sitios especializados, la ficha de clasificación PEGI 18 de GTA 6 adelanta detalles de jugabilidad que Rockstar aún no mostró en un tráiler.",
+    "body": [
+     "A 46 días de su lanzamiento, previsto para el 19 de noviembre, GTA 6 tuvo detalles de jugabilidad expuestos por una vía poco glamurosa: la documentación de clasificación por edad. De acuerdo con sitios especializados, que retoman información publicada por GameRant el sábado (3), el juego recibió la clasificación PEGI 18 en Europa, y la descripción del contenido adelanta mecánicas que Rockstar todavía no mostró oficialmente.",
+     "Entre los puntos citados están drogas ilegales que podrían llevarse y usarse directamente desde el inventario del personaje, la posibilidad de herir y matar animales salvajes, con más de 170 especies repartidas por el estado ficticio de Leonida, y una violencia más gráfica que la de GTA 5, con desmembramiento y decapitación al usar ciertas armas. Los clubes de striptease, clásicos de la saga, también regresan.",
+     "Rockstar no comentó los detalles, y uno de los sitios que cubren el caso subraya que hay que separar lo confirmado del material reciclado de filtraciones antiguas, por lo que la información debe tomarse con cautela hasta su divulgación oficial. La lectura general es que GTA 6 se centra menos por una gran revolución y más por varios sistemas pequeños e interconectados, como el inventario y la interacción con el entorno, para que su mundo abierto se sienta más vivo."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610041201",
+  "section": "music",
+  "publishedAt": "2026-10-03T23:15:00Z",
+  "personIds": [
+   "shakira",
+   "dua-lipa"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://estaticos.elcolombiano.com/binrepository/1280x734/0c7/1280d720/none/11101/TVOE/whatsapp-image-2026-10-03-at-3-44_51795315_20261003155951.jpg",
+   "credit": "Foto: Reprodução via El Colombiano"
+  },
+  "sources": [
+   {
+    "name": "Infobae (EFE)",
+    "url": "https://www.infobae.com/america/agencias/2026/10/03/shakira-sube-a-dua-lipa-al-escenario-en-su-octavo-concierto-en-madrid-para-cantar-antologia/"
+   },
+   {
+    "name": "El Colombiano",
+    "url": "https://www.elcolombiano.com/tendencias/dua-lipa-shakira-antologia-duo-concierto-madrid-GE41890107"
+   }
+  ],
+  "hue": 7,
+  "t": {
+   "pt": {
+    "slug": "shakira-dua-lipa-antologia-madri-dueto",
+    "headline": "'Me declaro oficialmente sua fã': Shakira chama Dua Lipa ao palco em Madri e as duas cantam 'Antologia' na noite transmitida para o mundo",
+    "summary": "Um ano depois de a britânica homenagear a colombiana em Bogotá, as duas finalmente dividiram a balada de 1995 ao vivo.",
+    "body": [
+     "A oitava noite da residência 'Las Mujeres Ya No Lloran', no Iberdrola Music, em Madri, teve a convidada mais esperada até agora. Passava das 22h30 deste sábado (3), no horário local, quando Shakira apresentou Dua Lipa: 'Para mim é uma honra e um luxo cantar esta canção que significa tanto para mim, com essa mulher tão admirada e querida no mundo inteiro e por mim pessoalmente, porque me declaro oficialmente sua fã'.",
+     "As duas cantaram juntas 'Antología', faixa de 'Pies Descalzos', disco de 1995. O dueto fecha um ciclo: em 2025, durante a turnê 'Radical Optimism', Dua Lipa cantou a música em espanhol no estádio El Campín, em Bogotá, e Shakira reagiu emocionada nas redes. Segundo o jornal El Colombiano, a parceria começou a ser combinada depois que as duas se encontraram em Paris no início deste ano.",
+     "O show foi o primeiro da residência transmitido na íntegra para o mundo, via Amazon Music, Prime Video e Twitch. Antes de Dua, já haviam passado pelo palco madrilenho Laura Pausini, Alejandro Sanz e Manuel Turizo. De acordo com a agência EFE, a temporada deve reunir mais de 600 mil pessoas em 12 datas, até 11 de outubro, e a turnê já ultrapassou 6 milhões de espectadores."
+    ]
+   },
+   "en": {
+    "slug": "shakira-dua-lipa-antologia-madrid-duet",
+    "headline": "'I officially declare myself her fan': Shakira brings Dua Lipa onstage in Madrid to sing 'Antología' on the night streamed worldwide",
+    "summary": "A year after the British star paid tribute to the Colombian in Bogotá, the two finally shared the 1995 ballad live.",
+    "body": [
+     "The eighth night of the 'Las Mujeres Ya No Lloran' residency at Iberdrola Music in Madrid brought its most anticipated guest yet. It was past 10:30 p.m. local time on Saturday (Oct. 3) when Shakira introduced Dua Lipa: 'For me it is an honor and a luxury to sing this song that means so much to me, with this woman so admired and loved around the world and by me personally, because I officially declare myself her fan.'",
+     "The two sang 'Antología', a track from 1995's 'Pies Descalzos'. The duet closes a loop: in 2025, on her 'Radical Optimism' tour, Dua Lipa sang the song in Spanish at Bogotá's El Campín stadium, and Shakira reacted emotionally on social media. According to Colombian newspaper El Colombiano, the collaboration began to take shape after the two met in Paris earlier this year.",
+     "The show was the first of the residency streamed in full worldwide, via Amazon Music, Prime Video and Twitch. Before Dua, Laura Pausini, Alejandro Sanz and Manuel Turizo had already joined Shakira on the Madrid stage. According to news agency EFE, the run is expected to draw more than 600,000 people over 12 dates through Oct. 11, and the tour has already passed 6 million spectators."
+    ]
+   },
+   "es": {
+    "slug": "shakira-dua-lipa-antologia-madrid-duo",
+    "headline": "'Me declaro oficialmente su fan': Shakira sube a Dua Lipa al escenario en Madrid y cantan 'Antología' en la noche transmitida al mundo",
+    "summary": "Un año después de que la británica homenajeara a la colombiana en Bogotá, ambas por fin compartieron en vivo la balada de 1995.",
+    "body": [
+     "La octava noche de la residencia 'Las Mujeres Ya No Lloran', en el Iberdrola Music de Madrid, tuvo a la invitada más esperada hasta ahora. Pasadas las 22:30 de este sábado (3), hora local, Shakira presentó a Dua Lipa: 'Para mí es un honor y un lujo cantar esta canción que significa tanto para mí, con esta mujer tan admirada y querida en el mundo entero y por mí personalmente, porque me declaro oficialmente su fan'.",
+     "Ambas interpretaron 'Antología', tema de 'Pies Descalzos', disco de 1995. El dúo cierra un círculo: en 2025, durante su gira 'Radical Optimism', Dua Lipa cantó la canción en español en el estadio El Campín de Bogotá, y Shakira reaccionó emocionada en redes. Según el diario El Colombiano, la colaboración empezó a gestarse después de que ambas se encontraran en París a comienzos de este año.",
+     "El show fue el primero de la residencia transmitido íntegramente al mundo, por Amazon Music, Prime Video y Twitch. Antes de Dua ya habían pasado por el escenario madrileño Laura Pausini, Alejandro Sanz y Manuel Turizo. Según la agencia EFE, la temporada reunirá a más de 600.000 personas en 12 fechas, hasta el 11 de octubre, y la gira ya superó los 6 millones de espectadores."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610032321",
   "section": "music",
   "publishedAt": "2026-10-03T23:00:00Z",

@@ -12095,5 +12095,831 @@
     "'Thrift Shop' llegó al n.º 1 del Billboard Hot 100 sin una gran discográfica"
    ]
   ]
+ },
+ {
+  "slug": "isaac-slade",
+  "name": "Isaac Slade",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "US",
+  "birthDate": "1981-04-26",
+  "birthPlace": "Boulder, Colorado, EUA",
+  "activeSince": 2002,
+  "genres": [
+   "pop rock",
+   "piano rock"
+  ],
+  "aliases": [
+   "The Fray"
+  ],
+  "works": [
+   {
+    "title": "How to Save a Life",
+    "year": 2005,
+    "kind": "album"
+   },
+   {
+    "title": "The Fray",
+    "year": 2009,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantor e compositor",
+   "Cofundador e ex-vocalista do The Fray, banda de 'How to Save a Life' e 'You Found Me'. Deixou o grupo em 2022 e seguiu em carreira solo.",
+   [
+    "Voz de 'How to Save a Life'",
+    "Ex-vocalista do The Fray"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "Co-founder and former frontman of The Fray, the band behind 'How to Save a Life' and 'You Found Me'. He left the group in 2022 and went solo.",
+   [
+    "Voice of 'How to Save a Life'",
+    "Former frontman of The Fray"
+   ]
+  ],
+  "es": [
+   "Cantante y compositor",
+   "Cofundador y exvocalista de The Fray, la banda de 'How to Save a Life' y 'You Found Me'. Dejó el grupo en 2022 y siguió como solista.",
+   [
+    "Voz de 'How to Save a Life'",
+    "Exvocalista de The Fray"
+   ]
+  ]
+ },
+ {
+  "slug": "marina-sena",
+  "name": "Marina Sena",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "birthDate": "1996-08-26",
+  "birthPlace": "Taiobeiras, Minas Gerais",
+  "genres": [
+   "pop",
+   "MPB"
+  ],
+  "works": [
+   {
+    "title": "De Primeira",
+    "year": 2021,
+    "kind": "album"
+   },
+   {
+    "title": "Vício Inerente",
+    "year": 2023,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantora",
+   "Cantora e compositora mineira que estourou com o álbum 'De Primeira' (2021) e o hit 'Por Supuesto', referência do novo pop brasileiro.",
+   [
+    "Álbum 'De Primeira' (2021)",
+    "Hit 'Por Supuesto'"
+   ]
+  ],
+  "en": [
+   "Singer",
+   "Singer-songwriter from Minas Gerais who broke through with the album 'De Primeira' (2021) and the hit 'Por Supuesto', a reference in new Brazilian pop.",
+   [
+    "Album 'De Primeira' (2021)",
+    "Hit 'Por Supuesto'"
+   ]
+  ],
+  "es": [
+   "Cantante",
+   "Cantautora de Minas Gerais que explotó con el álbum 'De Primeira' (2021) y el hit 'Por Supuesto', referente del nuevo pop brasileño.",
+   [
+    "Álbum 'De Primeira' (2021)",
+    "Hit 'Por Supuesto'"
+   ]
+  ]
+ },
+ {
+  "slug": "scarlett-johansson",
+  "name": "Scarlett Johansson",
+  "market": "global",
+  "kinds": [
+   "actor"
+  ],
+  "country": "US",
+  "birthDate": "1984-11-22",
+  "birthPlace": "Manhattan, Nova York/EUA",
+  "activeSince": 1994,
+  "genres": [
+   "drama",
+   "ação",
+   "comédia"
+  ],
+  "aliases": [
+   "ScarJo"
+  ],
+  "works": [
+   {
+    "title": "Encontros e Desencontros (Lost in Translation)",
+    "year": 2003,
+    "kind": "film"
+   },
+   {
+    "title": "Homem de Ferro 2",
+    "year": 2010,
+    "kind": "film"
+   },
+   {
+    "title": "Ela (Her)",
+    "year": 2013,
+    "kind": "film"
+   },
+   {
+    "title": "História de um Casamento",
+    "year": 2019,
+    "kind": "film"
+   },
+   {
+    "title": "Jojo Rabbit",
+    "year": 2019,
+    "kind": "film"
+   },
+   {
+    "title": "Viúva Negra",
+    "year": 2021,
+    "kind": "film"
+   },
+   {
+    "title": "Eleanor the Great",
+    "year": 2025,
+    "kind": "film"
+   }
+  ],
+  "pt": [
+   "Atriz e diretora",
+   "Nova-iorquina que começou no cinema ainda criança em 1994, virou estrela com 'Encontros e Desencontros' e ganhou o mundo como a Viúva Negra da Marvel.",
+   [
+    "Venceu o BAFTA de melhor atriz por 'Encontros e Desencontros' e o Tony por 'A View from the Bridge' (2010)",
+    "Indicada a dois Oscars no mesmo ano, por 'História de um Casamento' e 'Jojo Rabbit'",
+    "Estreou na direção com 'Eleanor the Great' (2025)"
+   ]
+  ],
+  "en": [
+   "Actress and director",
+   "New York native who started acting as a child in 1994, broke out with 'Lost in Translation' and went global as Marvel's Black Widow.",
+   [
+    "Won the BAFTA for Best Actress for 'Lost in Translation' and a Tony for 'A View from the Bridge' (2010)",
+    "Earned two Oscar nominations in the same year, for 'Marriage Story' and 'Jojo Rabbit'",
+    "Made her directorial debut with 'Eleanor the Great' (2025)"
+   ]
+  ],
+  "es": [
+   "Actriz y directora",
+   "Neoyorquina que empezó a actuar de niña en 1994, despegó con 'Lost in Translation' y conquistó el mundo como la Viuda Negra de Marvel.",
+   [
+    "Ganó el BAFTA a mejor actriz por 'Lost in Translation' y un Tony por 'A View from the Bridge' (2010)",
+    "Recibió dos nominaciones al Óscar el mismo año, por 'Historia de un matrimonio' y 'Jojo Rabbit'",
+    "Debutó como directora con 'Eleanor the Great' (2025)"
+   ]
+  ]
+ },
+ {
+  "slug": "gloria-perez",
+  "name": "Gloria Perez",
+  "market": "brazil",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "birthDate": "1948-09-25",
+  "birthPlace": "Rio de Janeiro, RJ",
+  "activeSince": 1979,
+  "genres": [
+   "novela"
+  ],
+  "aliases": [
+   "Glória Perez",
+   "Glória Maria Rebelo Ferrante"
+  ],
+  "works": [
+   {
+    "title": "Barriga de Aluguel",
+    "year": 1990,
+    "kind": "series"
+   },
+   {
+    "title": "Explode Coração",
+    "year": 1995,
+    "kind": "series"
+   },
+   {
+    "title": "O Clone",
+    "year": 2001,
+    "kind": "series"
+   },
+   {
+    "title": "América",
+    "year": 2005,
+    "kind": "series"
+   },
+   {
+    "title": "Caminho das Índias",
+    "year": 2009,
+    "kind": "series"
+   },
+   {
+    "title": "Salve Jorge",
+    "year": 2012,
+    "kind": "series"
+   },
+   {
+    "title": "A Força do Querer",
+    "year": 2017,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Autora de novelas",
+   "Uma das autoras mais populares da TV brasileira, assinou sucessos da Globo como 'O Clone', 'América', 'Caminho das Índias' e 'A Força do Querer'.",
+   [
+    "'Caminho das Índias' ganhou o Emmy Internacional de melhor telenovela em 2009",
+    "Começou na TV em 1979, escrevendo a sinopse de 'Malu Mulher'"
+   ]
+  ],
+  "en": [
+   "Telenovela writer",
+   "One of Brazilian TV's most popular writers, behind Globo hits such as 'O Clone', 'América', 'Caminho das Índias' and 'A Força do Querer'.",
+   [
+    "'Caminho das Índias' won the International Emmy for Best Telenovela in 2009",
+    "Started in TV in 1979, writing the synopsis for 'Malu Mulher'"
+   ]
+  ],
+  "es": [
+   "Autora de telenovelas",
+   "Una de las autoras más populares de la TV brasileña, firmó éxitos de Globo como 'El Clon', 'América', 'India, una historia de amor' y 'A Força do Querer'.",
+   [
+    "'Caminho das Índias' ganó el Emmy Internacional a mejor telenovela en 2009",
+    "Empezó en la TV en 1979, escribiendo la sinopsis de 'Malu Mulher'"
+   ]
+  ]
+ },
+ {
+  "slug": "turnstile",
+  "name": "Turnstile",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "US",
+  "birthPlace": "Baltimore, Maryland/EUA",
+  "activeSince": 2010,
+  "genres": [
+   "hardcore punk",
+   "hardcore melódico",
+   "rock alternativo"
+  ],
+  "aliases": [
+   "Brendan Yates"
+  ],
+  "works": [
+   {
+    "title": "Nonstop Feeling",
+    "year": 2015,
+    "kind": "album"
+   },
+   {
+    "title": "Time & Space",
+    "year": 2018,
+    "kind": "album"
+   },
+   {
+    "title": "Glow On",
+    "year": 2021,
+    "kind": "album"
+   },
+   {
+    "title": "New Heart Designs (com BadBadNotGood)",
+    "year": 2023,
+    "kind": "ep"
+   },
+   {
+    "title": "Never Enough",
+    "year": 2025,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Banda de hardcore",
+   "Banda de Baltimore formada em 2010 que levou o hardcore punk ao grande público, liderada pelo vocalista Brendan Yates.",
+   [
+    "Venceu os Grammys de melhor álbum de rock e melhor performance de metal em 2026, com 'Never Enough'",
+    "Primeira banda indicada em rock, alternativo e metal no mesmo ano",
+    "'Glow On' (2021) rendeu três indicações ao Grammy"
+   ]
+  ],
+  "en": [
+   "Hardcore band",
+   "Baltimore band formed in 2010 that brought hardcore punk to the mainstream, fronted by vocalist Brendan Yates.",
+   [
+    "Won the 2026 Grammys for Best Rock Album and Best Metal Performance with 'Never Enough'",
+    "First band nominated in rock, alternative and metal in the same year",
+    "'Glow On' (2021) earned three Grammy nominations"
+   ]
+  ],
+  "es": [
+   "Banda de hardcore",
+   "Banda de Baltimore formada en 2010 que llevó el hardcore punk al gran público, liderada por el vocalista Brendan Yates.",
+   [
+    "Ganó los Grammy 2026 a mejor álbum de rock y mejor interpretación de metal con 'Never Enough'",
+    "Primera banda nominada en rock, alternativo y metal el mismo año",
+    "'Glow On' (2021) obtuvo tres nominaciones al Grammy"
+   ]
+  ]
+ },
+ {
+  "slug": "karla-sofia-gascon",
+  "name": "Karla Sofía Gascón",
+  "market": "latin",
+  "kinds": [
+   "actor"
+  ],
+  "country": "ES",
+  "birthDate": "1972-03-31",
+  "birthPlace": "Alcobendas, Espanha",
+  "activeSince": 1995,
+  "genres": [
+   "drama",
+   "telenovela"
+  ],
+  "aliases": [
+   "Karla Sofia Gascon"
+  ],
+  "works": [
+   {
+    "title": "Corazón salvaje",
+    "year": 2009,
+    "kind": "series"
+   },
+   {
+    "title": "Nosotros los Nobles",
+    "year": 2013,
+    "kind": "film"
+   },
+   {
+    "title": "El Señor de los Cielos",
+    "year": 2014,
+    "kind": "series"
+   },
+   {
+    "title": "Rebelde",
+    "year": 2022,
+    "kind": "series"
+   },
+   {
+    "title": "Emilia Pérez",
+    "year": 2024,
+    "kind": "film"
+   }
+  ],
+  "pt": [
+   "Atriz",
+   "Atriz espanhola que fez carreira em novelas e séries no México e estourou no mundo como protagonista de 'Emilia Pérez'.",
+   [
+    "Dividiu o prêmio de melhor atriz em Cannes 2024, primeira atriz abertamente trans premiada no festival",
+    "Primeira atriz abertamente trans indicada ao Oscar de melhor atriz (2025)",
+    "Ganhou o Prêmio do Cinema Europeu de melhor atriz por 'Emilia Pérez'"
+   ]
+  ],
+  "en": [
+   "Actress",
+   "Spanish actress who built her career in Mexican telenovelas and series and broke out worldwide as the lead of 'Emilia Pérez'.",
+   [
+    "Shared Best Actress at Cannes 2024, the first openly trans actor to win a major prize there",
+    "First openly trans actress nominated for the Best Actress Oscar (2025)",
+    "Won the European Film Award for Best Actress for 'Emilia Pérez'"
+   ]
+  ],
+  "es": [
+   "Actriz",
+   "Actriz española que hizo carrera en telenovelas y series en México y saltó a la fama mundial como protagonista de 'Emilia Pérez'.",
+   [
+    "Compartió el premio a mejor actriz en Cannes 2024, la primera actriz abiertamente trans premiada en el festival",
+    "Primera actriz abiertamente trans nominada al Óscar a mejor actriz (2025)",
+    "Ganó el Premio del Cine Europeo a mejor actriz por 'Emilia Pérez'"
+   ]
+  ]
+ },
+ {
+  "slug": "almudena-cid",
+  "name": "Almudena Cid",
+  "market": "latin",
+  "kinds": [
+   "athlete"
+  ],
+  "country": "ES",
+  "birthDate": "1980-06-15",
+  "birthPlace": "Vitoria, Espanha",
+  "activeSince": 1987,
+  "genres": [
+   "ginástica rítmica"
+  ],
+  "aliases": [
+   "Almudena Cid Tostado"
+  ],
+  "works": [],
+  "pt": [
+   "Ginasta e comentarista",
+   "Lenda da ginástica rítmica espanhola, competiu de 1987 a 2008 e hoje é comentarista esportiva e autora de livros infantis.",
+   [
+    "Única ginasta rítmica a disputar quatro finais olímpicas seguidas (1996, 2000, 2004 e 2008)",
+    "Tem um elemento com seu nome no código da modalidade, o 'Cid Tostado' com bola",
+    "Ouro no individual geral dos Jogos do Mediterrâneo de 2005"
+   ]
+  ],
+  "en": [
+   "Gymnast and commentator",
+   "Spanish rhythmic gymnastics legend who competed from 1987 to 2008 and is now a sports commentator and children's author.",
+   [
+    "Only rhythmic gymnast to reach four consecutive Olympic finals (1996, 2000, 2004 and 2008)",
+    "Has an element named after her, the 'Cid Tostado' with the ball",
+    "All-around gold at the 2005 Mediterranean Games"
+   ]
+  ],
+  "es": [
+   "Gimnasta y comentarista",
+   "Leyenda de la gimnasia rítmica española, compitió de 1987 a 2008 y hoy es comentarista deportiva y autora de libros infantiles.",
+   [
+    "Única gimnasta rítmica en disputar cuatro finales olímpicas seguidas (1996, 2000, 2004 y 2008)",
+    "Tiene un elemento con su nombre, el 'Cid Tostado' con pelota",
+    "Oro en el concurso general de los Juegos Mediterráneos de 2005"
+   ]
+  ]
+ },
+ {
+  "slug": "xyno",
+  "name": "Xyno",
+  "market": "brazil",
+  "kinds": [
+   "streamer"
+  ],
+  "country": "BR",
+  "birthDate": "2007-03-04",
+  "genres": [
+   "league of legends",
+   "esports"
+  ],
+  "aliases": [
+   "Carlos Felipe Ferreira",
+   "xyno",
+   "Fonix"
+  ],
+  "works": [
+   {
+    "title": "FURIA Academy",
+    "year": 2023,
+    "kind": "club"
+   },
+   {
+    "title": "Vivo Keyd Stars Academy",
+    "year": 2025,
+    "kind": "club"
+   },
+   {
+    "title": "LOUD",
+    "year": 2026,
+    "kind": "club"
+   }
+  ],
+  "pt": [
+   "Jogador de LoL (top laner)",
+   "Carlos Felipe Ferreira é um jovem top laner brasileiro de League of Legends que chegou à LOUD por empréstimo para a temporada 2026 do CBLOL.",
+   [
+    "Revelado na FURIA Academy, passou pela Vivo Keyd Stars Academy",
+    "Começou como atirador (AD Carry) antes de migrar para o topo"
+   ]
+  ],
+  "en": [
+   "LoL pro player (top laner)",
+   "Carlos Felipe Ferreira is a young Brazilian League of Legends top laner who joined LOUD on loan for the 2026 CBLOL season.",
+   [
+    "Came up through FURIA Academy and played for Vivo Keyd Stars Academy",
+    "Started as an AD Carry before switching to top lane"
+   ]
+  ],
+  "es": [
+   "Jugador de LoL (top laner)",
+   "Carlos Felipe Ferreira es un joven top laner brasileño de League of Legends que llegó a LOUD a préstamo para la temporada 2026 del CBLOL.",
+   [
+    "Surgió en FURIA Academy y pasó por Vivo Keyd Stars Academy",
+    "Empezó como tirador (AD Carry) antes de pasar a la línea superior"
+   ]
+  ]
+ },
+ {
+  "slug": "rm",
+  "name": "RM",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "KR",
+  "birthDate": "1994-09-12",
+  "birthPlace": "Seul, Coreia do Sul",
+  "activeSince": 2013,
+  "genres": [
+   "hip hop",
+   "k-pop"
+  ],
+  "aliases": [
+   "Kim Namjoon",
+   "Kim Nam-joon",
+   "Rap Monster",
+   "RM do BTS"
+  ],
+  "instagram": "rkive",
+  "works": [
+   {
+    "title": "RM",
+    "year": 2015,
+    "kind": "project"
+   },
+   {
+    "title": "Mono",
+    "year": 2018,
+    "kind": "project"
+   },
+   {
+    "title": "Indigo",
+    "year": 2022,
+    "kind": "album"
+   },
+   {
+    "title": "Right Place, Wrong Person",
+    "year": 2024,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Rapper, líder do BTS",
+   "Kim Namjoon é o líder e principal rapper do BTS, com quem estreou em 2013, e tem carreira solo de destaque.",
+   [
+    "'Indigo' chegou ao 3º lugar da Billboard 200, a melhor posição de um solista coreano na época",
+    "Aprendeu inglês praticamente sozinho, assistindo à série 'Friends'",
+    "Trocou o nome artístico de Rap Monster para RM em 2017"
+   ]
+  ],
+  "en": [
+   "Rapper, BTS leader",
+   "Kim Namjoon is the leader and main rapper of BTS, which debuted in 2013, and has a standout solo career.",
+   [
+    "'Indigo' reached No. 3 on the Billboard 200, a record for a Korean soloist at the time",
+    "Largely taught himself English by watching 'Friends'",
+    "Changed his stage name from Rap Monster to RM in 2017"
+   ]
+  ],
+  "es": [
+   "Rapero, líder de BTS",
+   "Kim Namjoon es el líder y rapero principal de BTS, que debutó en 2013, y tiene una destacada carrera solista.",
+   [
+    "'Indigo' llegó al n.º 3 del Billboard 200, récord para un solista coreano en ese momento",
+    "Aprendió inglés casi solo viendo la serie 'Friends'",
+    "Cambió su nombre artístico de Rap Monster a RM en 2017"
+   ]
+  ]
+ },
+ {
+  "slug": "v-bts",
+  "name": "V",
+  "market": "global",
+  "kinds": [
+   "singer",
+   "actor"
+  ],
+  "country": "KR",
+  "birthDate": "1995-12-30",
+  "birthPlace": "Daegu, Coreia do Sul",
+  "activeSince": 2013,
+  "genres": [
+   "k-pop",
+   "r&b",
+   "jazz"
+  ],
+  "aliases": [
+   "Kim Taehyung",
+   "Kim Tae-hyung",
+   "V do BTS",
+   "Taehyung"
+  ],
+  "instagram": "thv",
+  "works": [
+   {
+    "title": "Hwarang: The Poet Warrior Youth",
+    "year": 2016,
+    "kind": "series"
+   },
+   {
+    "title": "Winter Bear",
+    "year": 2019,
+    "kind": "single"
+   },
+   {
+    "title": "Sweet Night",
+    "year": 2020,
+    "kind": "single"
+   },
+   {
+    "title": "Christmas Tree",
+    "year": 2021,
+    "kind": "single"
+   },
+   {
+    "title": "Layover",
+    "year": 2023,
+    "kind": "ep"
+   },
+   {
+    "title": "Fri(end)s",
+    "year": 2024,
+    "kind": "single"
+   }
+  ],
+  "pt": [
+   "Cantor do BTS",
+   "Kim Taehyung é vocalista do BTS desde 2013 e estreou solo em 2023 com o EP 'Layover', além de ter atuado no drama 'Hwarang'.",
+   [
+    "'Layover' vendeu 2,1 milhões de cópias na 1ª semana, recorde para solista de K-pop, e estreou em 2º na Billboard 200",
+    "Gravou trilhas de sucesso como 'Sweet Night' ('Itaewon Class') e 'Christmas Tree'",
+    "Serviu no Exército de dezembro de 2023 a junho de 2025"
+   ]
+  ],
+  "en": [
+   "BTS singer",
+   "Kim Taehyung has been a BTS vocalist since 2013 and made his solo debut in 2023 with the EP 'Layover', having also acted in the drama 'Hwarang'.",
+   [
+    "'Layover' sold 2.1 million copies in its first week, a record for a K-pop soloist, and debuted at No. 2 on the Billboard 200",
+    "Recorded hit soundtracks such as 'Sweet Night' ('Itaewon Class') and 'Christmas Tree'",
+    "Served in the military from December 2023 to June 2025"
+   ]
+  ],
+  "es": [
+   "Cantante de BTS",
+   "Kim Taehyung es vocalista de BTS desde 2013 y debutó como solista en 2023 con el EP 'Layover'; también actuó en el drama 'Hwarang'.",
+   [
+    "'Layover' vendió 2,1 millones de copias en su primera semana, récord para un solista de K-pop, y debutó en el n.º 2 del Billboard 200",
+    "Grabó bandas sonoras exitosas como 'Sweet Night' ('Itaewon Class') y 'Christmas Tree'",
+    "Hizo el servicio militar de diciembre de 2023 a junio de 2025"
+   ]
+  ]
+ },
+ {
+  "slug": "tiffany-young",
+  "name": "Tiffany Young",
+  "market": "global",
+  "kinds": [
+   "singer",
+   "actor"
+  ],
+  "country": "US",
+  "birthDate": "1989-08-01",
+  "birthPlace": "San Francisco, Califórnia/EUA",
+  "activeSince": 2007,
+  "genres": [
+   "k-pop",
+   "pop"
+  ],
+  "aliases": [
+   "Tiffany",
+   "Stephanie Young Hwang",
+   "Tiffany do Girls' Generation"
+  ],
+  "instagram": "xolovestephi",
+  "works": [
+   {
+    "title": "I Just Wanna Dance",
+    "year": 2016,
+    "kind": "ep"
+   },
+   {
+    "title": "Lips on Lips",
+    "year": 2019,
+    "kind": "ep"
+   },
+   {
+    "title": "Reborn Rich",
+    "year": 2022,
+    "kind": "series"
+   },
+   {
+    "title": "Uncle Samsik",
+    "year": 2024,
+    "kind": "series"
+   },
+   {
+    "title": "Edge of Calm",
+    "year": 2026,
+    "kind": "ep"
+   }
+  ],
+  "pt": [
+   "Cantora e atriz",
+   "Americana de San Francisco, Tiffany estreou em 2007 no Girls' Generation, um dos maiores girl groups do K-pop, e hoje concilia música, musicais e séries.",
+   [
+    "Integrou também a subunidade Girls' Generation-TTS",
+    "Viveu Roxie Hart no musical 'Chicago' na Coreia",
+    "Casou-se com o ator Byun Yo-han em 2026"
+   ]
+  ],
+  "en": [
+   "Singer and actress",
+   "Born in San Francisco, Tiffany debuted in 2007 with Girls' Generation, one of K-pop's biggest girl groups, and now balances music, musicals and TV.",
+   [
+    "Also part of the subunit Girls' Generation-TTS",
+    "Played Roxie Hart in the Korean production of 'Chicago'",
+    "Married actor Byun Yo-han in 2026"
+   ]
+  ],
+  "es": [
+   "Cantante y actriz",
+   "Nacida en San Francisco, Tiffany debutó en 2007 con Girls' Generation, uno de los mayores grupos femeninos del K-pop, y hoy combina música, musicales y series.",
+   [
+    "También integró la subunidad Girls' Generation-TTS",
+    "Interpretó a Roxie Hart en el musical 'Chicago' en Corea",
+    "Se casó con el actor Byun Yo-han en 2026"
+   ]
+  ]
+ },
+ {
+  "slug": "yoo-jae-suk",
+  "name": "Yoo Jae-suk",
+  "market": "global",
+  "kinds": [
+   "actor"
+  ],
+  "country": "KR",
+  "birthDate": "1972-08-14",
+  "birthPlace": "Seul, Coreia do Sul",
+  "activeSince": 1991,
+  "genres": [
+   "variedades",
+   "humor"
+  ],
+  "aliases": [
+   "Yoo Jae Suk",
+   "Nation's MC",
+   "Yoo San-seul",
+   "Yu-Doragon"
+  ],
+  "works": [
+   {
+    "title": "Infinite Challenge",
+    "year": 2005,
+    "kind": "series"
+   },
+   {
+    "title": "Running Man",
+    "year": 2010,
+    "kind": "series"
+   },
+   {
+    "title": "You Quiz on the Block",
+    "year": 2018,
+    "kind": "series"
+   },
+   {
+    "title": "Hangout with Yoo",
+    "year": 2019,
+    "kind": "series"
+   }
+  ],
+  "pt": [
+   "Apresentador e humorista",
+   "Chamado de 'MC da Nação', é o apresentador de variedades mais famoso da Coreia do Sul, à frente de 'Running Man' e 'Hangout with Yoo'.",
+   [
+    "Comandou o 'Infinite Challenge' de 2005 a 2018",
+    "Criou alter egos como o cantor de trot Yoo San-seul",
+    "Fez participação no clipe de 'Gangnam Style', como o 'cara do terno amarelo'"
+   ]
+  ],
+  "en": [
+   "TV host and comedian",
+   "Known as the 'Nation's MC', he is South Korea's most famous variety host, fronting 'Running Man' and 'Hangout with Yoo'.",
+   [
+    "Led 'Infinite Challenge' from 2005 to 2018",
+    "Created alter egos such as trot singer Yoo San-seul",
+    "Cameoed in the 'Gangnam Style' video as the 'yellow suit guy'"
+   ]
+  ],
+  "es": [
+   "Presentador y humorista",
+   "Llamado el 'MC de la Nación', es el presentador de variedades más famoso de Corea del Sur, al frente de 'Running Man' y 'Hangout with Yoo'.",
+   [
+    "Condujo 'Infinite Challenge' de 2005 a 2018",
+    "Creó alter egos como el cantante de trot Yoo San-seul",
+    "Apareció en el video de 'Gangnam Style' como el 'tipo del traje amarillo'"
+   ]
+  ]
  }
 ]
