@@ -406,7 +406,7 @@
   }
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -430,7 +430,7 @@
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -454,7 +454,7 @@
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -478,171 +478,283 @@
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/03/croacia-usara-brecha-da-uefa-para-ter-estadio-cheio-em-jogo-que-deveria-ter-portoes-fechados-entenda.ghtml",
+  "sourceUrl": "https://ge.globo.com/pe/futebol/brasileirao-serie-c/jogo/03-10-2026/santa-cruz-maringa.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTUxLeliDVWBdOzhSntT7fWDBkvhKWbXz89lRthnm6X0Bd3sq3yohjSnAbOo9k",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ--tuY5DIq0gESFTQ4376CAHvtRceF--1jOf10vW_CJ6BWRFxzRj1uVw-hznI",
    "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "croácia x inglaterra",
-    "note": "Busca em alta no Google (Brasil) — 50000+ buscas · via ge."
+    "name": "classificações de santa cruz futebol clube x maringá futebol clube",
+    "note": "Busca em alta no Google (Brasil) — 100000+ buscas · via ge."
    },
    "en": {
-    "name": "croácia x inglaterra",
-    "note": "Trending Google search (Brazil) — 50000+ searches · via ge."
+    "name": "classificações de santa cruz futebol clube x maringá futebol clube",
+    "note": "Trending Google search (Brazil) — 100000+ searches · via ge."
    },
    "es": {
-    "name": "croácia x inglaterra",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 50000+ búsquedas · vía ge."
+    "name": "classificações de santa cruz futebol clube x maringá futebol clube",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100000+ búsquedas · vía ge."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://www.lance.com.br/selecao-brasileira/pedro-do-flamengo-vira-assunto-em-jogo-da-selecao-brasileira-teria-feito.html",
+  "sourceUrl": "https://g1.globo.com/pr/parana/eleicoes/2026/noticia/2026/10/03/quaest-parana-senado-3-outubro.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU13Q3sm8g_yKFI9riNmGVNcFVaU6xRA2T224NkehQqFwjGFVGJPxOqfTdVYQ",
-   "credit": "LANCE!"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREK0Ep--vD-2Ob2YbHEFM9Fix8vnIqozk-HIMXT25Wp0pUUXD0p5o7wtpFw0o",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "pedro",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via LANCE!."
+    "name": "alexandre curi",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via G1."
    },
    "en": {
-    "name": "pedro",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via LANCE!."
+    "name": "alexandre curi",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via G1."
    },
    "es": {
-    "name": "pedro",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía LANCE!."
+    "name": "alexandre curi",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía G1."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.mlb.com/news/white-sox-vs-guardians-alds-game-1-starting-lineups-pitching-matchup-2026",
+  "region": "BR",
+  "rank": 3,
+  "sourceUrl": "https://ge.globo.com/ce/futebol/brasileirao-serie-c/jogo/03-10-2026/floresta-botafogo-pb.ghtml",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpnPHMhG3oiDGJ1kguFdBH8iM_lsR56cdaOGiNGhaxuxFXoTqE49pP-8BL1Ms",
-   "credit": "MLB.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "white sox vs guardians",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via MLB.com."
+    "name": "classificações de floresta esporte clube x botafogo-pb",
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via ge."
    },
    "en": {
-    "name": "white sox vs guardians",
-    "note": "Trending Google search (US) — 2000+ searches · via MLB.com."
+    "name": "classificações de floresta esporte clube x botafogo-pb",
+    "note": "Trending Google search (Brazil) — 10000+ searches · via ge."
    },
    "es": {
-    "name": "white sox vs guardians",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía MLB.com."
+    "name": "classificações de floresta esporte clube x botafogo-pb",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía ge."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://mutigers.com/news/2026/10/1/no-25-tigers-set-for-115th-annual-homecoming-game-vs-no-8-florida",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50085677/lionel-messi-argentina-farewell-match-benin",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRA60dSSWSCve-4Gk3gvuHtCelp9QDO3sIiQ4p61B3tSpN-KGz70RmlBEyc_JY",
-   "credit": "Mizzou Athletics"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPESg61B2NF11pCYC4-R56v9l8jpdLK2xBNZB5kkQTDsxA0f6qXhYjjiEOXU",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "desmond howard",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Mizzou Athletics."
+    "name": "argentina fc",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via ESPN."
    },
    "en": {
-    "name": "desmond howard",
-    "note": "Trending Google search (US) — 1000+ searches · via Mizzou Athletics."
+    "name": "argentina fc",
+    "note": "Trending Google search (US) — 1000+ searches · via ESPN."
    },
    "es": {
-    "name": "desmond howard",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Mizzou Athletics."
+    "name": "argentina fc",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.puntodebreak.com/en/2026/10/02/zverev-explains-why-he-gets-injured-less-than-alcaraz-or-sinner",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/03/why-loved-dramatic-tv-divorce-war-the-split-up",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQVafSFN1Q1wPe43EuFICYDSgA0jX9LYYdK97hEBTzyqZ7GtWBXR5hFdFX83vU",
-   "credit": "Puntodebreak"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnnhjzqPwmNqNMNmZ3fI9YZ12WPvLcNT3zNo1rmMQg6s3I9g0d7oy9ehEcXTg",
+   "credit": "The Guardian"
   },
   "t": {
    "pt": {
-    "name": "alexander zverev",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Puntodebreak."
+    "name": "war hbo",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via The Guardian."
    },
    "en": {
-    "name": "alexander zverev",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Puntodebreak."
+    "name": "war hbo",
+    "note": "Trending Google search (US) — 1000+ searches · via The Guardian."
    },
    "es": {
-    "name": "alexander zverev",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Puntodebreak."
+    "name": "war hbo",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía The Guardian."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-03T16:11:14.541Z",
+  "collectedAt": "2026-10-04T00:07:30.019Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://sports.yahoo.com/articles/kartal-wins-again-zverev-sets-152929468.html",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://sports.yahoo.com/college-football/breaking-news/article/colorado-reportedly-set-to-start-isaac-wilson-over-juju-lewis-at-qb-for-game-vs-no-12-texas-tech-172050151.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSkx5vyp1q9xg0OlNDHCn7Ep6iX5eBAaNEPIrDYX5xm5zk8dFK77ZRqSliK1M0",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF3oyIv3JA0GT1IKGEu9umD7sag84ivrawN37bOTKD1LkzoJLtET0I1z4ZR_Y",
    "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "alexander zverev",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Yahoo Sports."
+    "name": "isaac wilson",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "alexander zverev",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Yahoo Sports."
+    "name": "isaac wilson",
+    "note": "Trending Google search (US) — 2000+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "alexander zverev",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Yahoo Sports."
+    "name": "isaac wilson",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr23",
   "hue": 34
+ },
+ {
+  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.clarin.com/espectaculos/rating-miercoles-masterchef-celebrity-futbol-visto-dia_0_J5sAUx3N2z.html",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD9b7A3tXgZsrxXE7n7DT8tsIoxq8BP7s5c-lxHJVcFCjX8MVwjElxyB0fFEI",
+   "credit": "Clarin.com"
+  },
+  "t": {
+   "pt": {
+    "name": "telefe en vivo",
+    "note": "Busca em alta no Google (Argentina) — 10000+ buscas · via Clarin.com."
+   },
+   "en": {
+    "name": "telefe en vivo",
+    "note": "Trending Google search (Argentina) — 10000+ searches · via Clarin.com."
+   },
+   "es": {
+    "name": "telefe en vivo",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 10000+ búsquedas · vía Clarin.com."
+   }
+  },
+  "id": "tr24",
+  "hue": 71
+ },
+ {
+  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.a24.com/trends/arrasan-netflix-ricardo-darin-y-diego-peretti-estrenan-la-pelicula-argentina-del-ano-n1602911",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPaAct0BJcRJdCbieH0f_W_EvHhMnEDM_x5ItMfkjki02MFzxbaZlwA6YjqH4",
+   "credit": "A24.com"
+  },
+  "t": {
+   "pt": {
+    "name": "diego peretti",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via A24.com."
+   },
+   "en": {
+    "name": "diego peretti",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via A24.com."
+   },
+   "es": {
+    "name": "diego peretti",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía A24.com."
+   }
+  },
+  "id": "tr25",
+  "hue": 108
+ },
+ {
+  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50085677/lionel-messi-argentina-farewell-match-benin",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiPESg61B2NF11pCYC4-R56v9l8jpdLK2xBNZB5kkQTDsxA0f6qXhYjjiEOXU",
+   "credit": "ESPN"
+  },
+  "t": {
+   "pt": {
+    "name": "argentina fc",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via ESPN."
+   },
+   "en": {
+    "name": "argentina fc",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via ESPN."
+   },
+   "es": {
+    "name": "argentina fc",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía ESPN."
+   }
+  },
+  "id": "tr26",
+  "hue": 145
+ },
+ {
+  "collectedAt": "2026-10-04T00:07:30.019Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://silerenonpossum.com/it/gambetti-chieti-nessun-messaggio-teatini/",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIaoqrvl5K4x4bMyO8aHptSaRrz8HrkpGx1mhOSQbScwSD_VkUt44uyVoG_qU",
+   "credit": "Silere Non Possum"
+  },
+  "t": {
+   "pt": {
+    "name": "mauro gambetti",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via Silere Non Possum."
+   },
+   "en": {
+    "name": "mauro gambetti",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via Silere Non Possum."
+   },
+   "es": {
+    "name": "mauro gambetti",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Silere Non Possum."
+   }
+  },
+  "id": "tr27",
+  "hue": 182
  }
 ]
