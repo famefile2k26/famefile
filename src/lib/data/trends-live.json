@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -32,15 +32,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#cornell7",
+    "name": "#iamjanedoe",
     "note": "Hashtag em alta no TikTok (global) — #2 na semana."
    },
    "en": {
-    "name": "#cornell7",
+    "name": "#iamjanedoe",
     "note": "Trending TikTok hashtag (global) — #2 this week."
    },
    "es": {
-    "name": "#cornell7",
+    "name": "#iamjanedoe",
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -56,15 +56,15 @@
   "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
   "t": {
    "pt": {
-    "name": "#liveiseasy",
+    "name": "#october3rd",
     "note": "Hashtag em alta no TikTok (global) — #3 na semana."
    },
    "en": {
-    "name": "#liveiseasy",
+    "name": "#october3rd",
     "note": "Trending TikTok hashtag (global) — #3 this week."
    },
    "es": {
-    "name": "#liveiseasy",
+    "name": "#october3rd",
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
@@ -72,919 +72,815 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "rank": 2,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 1,
+  "sourceUrl": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/06/vai-ter-segundo-turno-por-que-garotinho-e-decisivo-quando-havera-definicao-veja-perguntas-e-respostas-sobre-impasse-no-rio.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhJH4RwpW8sPGqHdyFSnRXCiJZCYKuJkkK7-9X382Uge2wwPhS9fWAzN3IXH0",
+   "credit": "O GLOBO"
+  },
   "t": {
    "pt": {
-    "name": "#iamjanedoe",
-    "note": "Hashtag em alta no TikTok (global) — #2 na semana."
+    "name": "vai ter segundo turno para governador rj",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via O GLOBO."
    },
    "en": {
-    "name": "#iamjanedoe",
-    "note": "Trending TikTok hashtag (global) — #2 this week."
+    "name": "vai ter segundo turno para governador rj",
+    "note": "Trending Google search (Brazil) — 100+ searches · via O GLOBO."
    },
    "es": {
-    "name": "#iamjanedoe",
-    "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
+    "name": "vai ter segundo turno para governador rj",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía O GLOBO."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 2,
+  "sourceUrl": "https://www.infomoney.com.br/mercados/bbas3-bbdc4-jpmorgan-rebaixa-banco-do-brasil-para-venda-e-eleva-bradesco-a-compra-apos-rali-acoes-reagem/",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSch8owVDD9NCbBYRGzAqbVUzA8Ncpvju9WF2hhKroengdvqiTHLkPyLbkP6DI",
+   "credit": "InfoMoney"
+  },
   "t": {
    "pt": {
-    "name": "#october3rd",
-    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
+    "name": "bbas3",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via InfoMoney."
    },
    "en": {
-    "name": "#october3rd",
-    "note": "Trending TikTok hashtag (global) — #3 this week."
+    "name": "bbas3",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via InfoMoney."
    },
    "es": {
-    "name": "#october3rd",
-    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
+    "name": "bbas3",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía InfoMoney."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 1,
-  "sourceUrl": "https://g1.globo.com/politica/eleicoes/2026/noticia/2026/10/06/eleicoes-2026-posso-votar-no-segundo-turno-se-faltei-no-primeiro.ghtml",
+  "rank": 3,
+  "sourceUrl": "https://www.meioemensagem.com.br/midia/os-planos-de-netflix-e-youtube-por-esportes-ao-vivo",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKqPdnXCuF2hErZ6o2wHDGNO-rH-4GAdhEyrpgpuwmCYbDoqCvGN6sllBItN8",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ7HEYnHffuUgh0RILH9gwuLXn9lGfhInzsdKsqA-VVHkV6abThr8JLgn6JmG0",
+   "credit": "Meio e Mensagem"
   },
   "t": {
    "pt": {
-    "name": "justificativa eleitoral",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "esportes",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Meio e Mensagem."
    },
    "en": {
-    "name": "justificativa eleitoral",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "esportes",
+    "note": "Trending Google search (Brazil) — 500+ searches · via Meio e Mensagem."
    },
    "es": {
-    "name": "justificativa eleitoral",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "esportes",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Meio e Mensagem."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://quatrorodas.abril.com.br/noticias/novo-honda-wr-v-ganha-grade-iluminada-e-equipamentos-de-carros-mais-caros/",
+  "rank": 4,
+  "sourceUrl": "https://apnews.com/article/argentina-lionel-messi-soccer-world-cup-champion-diego-maradona-scaloni-d399457f18032c45a996ef953565d535",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSSUEudPnfDVbIUGjzIQoHQeBH3JB1YPKKAm9J3d0wkhDLgyAoSHjrGsJg6aMc",
-   "credit": "Quatro Rodas"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgIMetCtTmO9yEA_uyh2XU1PLJ0oBUmzz_MGlNoQhjd51YTIQ_c3x6EWeRr3w",
+   "credit": "AP News"
   },
   "t": {
    "pt": {
-    "name": "honda wr-v",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Quatro Rodas."
+    "name": "argentina vs",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via AP News."
    },
    "en": {
-    "name": "honda wr-v",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Quatro Rodas."
+    "name": "argentina vs",
+    "note": "Trending Google search (Brazil) — 200+ searches · via AP News."
    },
    "es": {
-    "name": "honda wr-v",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Quatro Rodas."
+    "name": "argentina vs",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía AP News."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://elpais.com/gente/2026-10-06/shakira-pide-a-pique-que-sea-el-quien-se-traslade-a-miami-a-ver-a-sus-hijos-para-proteger-su-bienestar-emocional-fisico-y-academico.html",
+  "rank": 5,
+  "sourceUrl": "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/06/presidente-executivo-do-goias-renuncia-ao-cargo-veja-quem-assume-o-clube.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRREFA3PCc2QNla0L5l-5azX6QsP1sXdLq2jDg5M743mU0irXzDaczhxzjf9XM",
-   "credit": "EL PAÍS"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4BWeLcKq8C3NJ5eeeIB-Z85xtzQtFs9gUXvTnAGO4mIRvwy4QcLg5eqYELeI",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "gerard piqué",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via EL PAÍS."
+    "name": "goiás esporte clube",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via ge."
    },
    "en": {
-    "name": "gerard piqué",
-    "note": "Trending Google search (Brazil) — 200+ searches · via EL PAÍS."
+    "name": "goiás esporte clube",
+    "note": "Trending Google search (Brazil) — 100+ searches · via ge."
    },
    "es": {
-    "name": "gerard piqué",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía EL PAÍS."
+    "name": "goiás esporte clube",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía ge."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 4,
-  "sourceUrl": "https://www.espn.com.br/futebol/artigo/_/id/17345056/cristiano-ronaldo-decide-nao-voltar-a-selecao-com-jorge-jesus-divergencia-em-lista-de-orientacoes-motivou-abandono",
+  "rank": 6,
+  "sourceUrl": "https://www.tweaktown.com/news/113929/gta-v-was-briefly-playable-in-a-web-browser-and-it-reportedly-ran-smoothly-but-its-now-been-taken-down/index.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTp4QnklIfktnDRwHHcpzXcxigLW49W4WdA2imhRGF7ckdePHeLH8DnPli0mVk",
-   "credit": "ESPN Brasil"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZfecEyNTbiyfzxQgfhBR42hjGUGv2rD6O-0K9RSQu_foVgDhiN_NaOlp934E",
+   "credit": "TweakTown"
   },
   "t": {
    "pt": {
-    "name": "jorge jesus cristiano ronaldo",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via ESPN Brasil."
+    "name": "grand theft auto",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via TweakTown."
    },
    "en": {
-    "name": "jorge jesus cristiano ronaldo",
-    "note": "Trending Google search (Brazil) — 500+ searches · via ESPN Brasil."
+    "name": "grand theft auto",
+    "note": "Trending Google search (Brazil) — 200+ searches · via TweakTown."
    },
    "es": {
-    "name": "jorge jesus cristiano ronaldo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía ESPN Brasil."
+    "name": "grand theft auto",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía TweakTown."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 5,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt",
+  "rank": 7,
+  "sourceUrl": "https://ge.globo.com/sp/santos-e-regiao/futebol/times/santos/noticia/2026/10/06/santos-x-flamengo-veja-precos-e-como-comprar-ingressos.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCY2T2xCYTWWvkpluhZO89cCKM9r-TsHAuAwDl_9Sfl1sm8uNV4-kRbOEE1y4",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSa50pyn-feU5kdk3RvPG-Yv1qMbd1yZ3tvDzWFRqeafMvY1uT-YSHIXE7Zg4",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "england vs czechia",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via BBC."
+    "name": "flamengo x santos",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via ge."
    },
    "en": {
-    "name": "england vs czechia",
-    "note": "Trending Google search (Brazil) — 500+ searches · via BBC."
+    "name": "flamengo x santos",
+    "note": "Trending Google search (Brazil) — 500+ searches · via ge."
    },
    "es": {
-    "name": "england vs czechia",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía BBC."
+    "name": "flamengo x santos",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía ge."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 6,
-  "sourceUrl": "https://as.com/futbol/seleccion/croacia-espana-hoy-en-directo-grupo-c-de-nations-league-ultima-hora-f202610-d/",
+  "rank": 8,
+  "sourceUrl": "https://www.bbc.com/portuguese/articles/crq5xnxqw29lo",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR57y9LMgLsc5xNt0TA_nhz1rv68d_JwLBtwWeOHN-RoelppbEo9yMxADICZIw",
-   "credit": "Diario AS"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvYOwi_muNtkGJ86MskqfEL1ETLKWbSMwBdVc4Bul-d7LK9ZV-u2diDz54GY",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "croacia - españa",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Diario AS."
+    "name": "super el nino",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via BBC."
    },
    "en": {
-    "name": "croacia - españa",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Diario AS."
+    "name": "super el nino",
+    "note": "Trending Google search (Brazil) — 200+ searches · via BBC."
    },
    "es": {
-    "name": "croacia - españa",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Diario AS."
+    "name": "super el nino",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía BBC."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 7,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cm9w4w2vn711t",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.sportsline.com/insiders/southern-miss-vs-troy-odds-2026-college-football-picks-week-6-predictions-from-proven-model/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTtQ_2_C-ZP9aFbzWRWQqFzT9KQYwIMvvNl4iE4DWRdL5KA162MmrchEDZ5E7w",
+   "credit": "SportsLine"
   },
   "t": {
    "pt": {
-    "name": "croatia vs spain",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via BBC."
+    "name": "troy football",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via SportsLine."
    },
    "en": {
-    "name": "croatia vs spain",
-    "note": "Trending Google search (Brazil) — 500+ searches · via BBC."
+    "name": "troy football",
+    "note": "Trending Google search (US) — 1000+ searches · via SportsLine."
    },
    "es": {
-    "name": "croatia vs spain",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía BBC."
+    "name": "troy football",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía SportsLine."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://www.espn.com.br/futebol/artigo/_/id/17341739/nations-league-confissao-zagueiro-croata-prestes-encarar-lamine-yamal-e-o-que-assistir-disney",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/17340982/colombia-vs-peru-fecha-fifa-equipo-fecha-hora-y-tv-en-vivo",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgZDuFzQzFvW1-q03KJOl25nvzMZqi6sgIAGtuAvrVf2xT3NVicn0nL-H4DE",
-   "credit": "ESPN Brasil"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1_Qjul465TQ07SF_brkK-KKcGmU_OGjVXssHhuzYwtyzaKwVFkvNhHIdv0tc",
+   "credit": "ESPN Deportes"
   },
   "t": {
    "pt": {
-    "name": "croácia x espanha",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via ESPN Brasil."
+    "name": "colombia vs peru",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via ESPN Deportes."
    },
    "en": {
-    "name": "croácia x espanha",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via ESPN Brasil."
+    "name": "colombia vs peru",
+    "note": "Trending Google search (US) — 2000+ searches · via ESPN Deportes."
    },
    "es": {
-    "name": "croácia x espanha",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía ESPN Brasil."
+    "name": "colombia vs peru",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía ESPN Deportes."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://es.finance.yahoo.com/noticias/eia-revisa-alza-previsiones-precio-170604130.html",
+  "rank": 3,
+  "sourceUrl": "https://www.washingtonpost.com/education/2026/10/05/thousands-public-servants-are-stuck-waiting-student-loan-forgiveness/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTVTRw2jHHJ-ub6XBzSUfITYs2EzOVIBxQmD-Hv97PsGOQMMbYfju19H1zDQfM",
-   "credit": "Yahoo"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwJHsRFwa76Zj4IB2C9yg8-WpoPTIq5rlr1kcuCKb9aD5Jy46xD9N0nDcAXfM",
+   "credit": "The Washington Post"
   },
   "t": {
    "pt": {
-    "name": "petróleo",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo."
+    "name": "public loan forgiveness",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via The Washington Post."
    },
    "en": {
-    "name": "petróleo",
-    "note": "Trending Google search (US) — 500+ searches · via Yahoo."
+    "name": "public loan forgiveness",
+    "note": "Trending Google search (US) — 500+ searches · via The Washington Post."
    },
    "es": {
-    "name": "petróleo",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo."
+    "name": "public loan forgiveness",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía The Washington Post."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/ck05r5y1vvd9t",
+  "rank": 4,
+  "sourceUrl": "https://www.foxnews.com/us/delta-air-lines-jet-clips-air-canada-plane-los-angeles-international-airport-tarmac",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQk0WeGwz1epq-gczTEH19jPUKYsiFVPfmVl9tBWkS6UnQbPNWzPOBIB9pIdL8",
+   "credit": "Fox News"
   },
   "t": {
    "pt": {
-    "name": "estonia vs iceland",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via BBC."
+    "name": "lax",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Fox News."
    },
    "en": {
-    "name": "estonia vs iceland",
-    "note": "Trending Google search (US) — 200+ searches · via BBC."
+    "name": "lax",
+    "note": "Trending Google search (US) — 2000+ searches · via Fox News."
    },
    "es": {
-    "name": "estonia vs iceland",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía BBC."
+    "name": "lax",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Fox News."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.telegraph.co.uk/news/2026/10/06/andrew-tate-sexualised-video-child-uk-prosecutors-claim/",
+  "rank": 5,
+  "sourceUrl": "https://www.allure.com/story/gigi-hadid-zig-zag-headband-paris-fashion-week",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLww90iVxR_r3deTVnTkzvewPLH7tf2swRf15tpO3QJBVyfmxgSZYyfVMeAxc",
-   "credit": "The Telegraph"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqggFDavptOnHtA2tFlneeOk8f3ewwxpdzI28da9adOX_puaYo64MUSaFfgdE",
+   "credit": "Allure"
   },
   "t": {
    "pt": {
-    "name": "andrew tate",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via The Telegraph."
+    "name": "vogue france",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Allure."
    },
    "en": {
-    "name": "andrew tate",
-    "note": "Trending Google search (US) — 1000+ searches · via The Telegraph."
+    "name": "vogue france",
+    "note": "Trending Google search (US) — 200+ searches · via Allure."
    },
    "es": {
-    "name": "andrew tate",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía The Telegraph."
+    "name": "vogue france",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Allure."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://pagesix.com/2026/10/05/society/infuriated-cbs-staff-still-cant-get-through-to-bari-weiss-after-scandals-and-ratings-collapse/",
+  "rank": 6,
+  "sourceUrl": "https://www.yahoo.com/entertainment/tv/articles/reasonable-doubt-emayatzy-corinealdi-teases-153353415.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX-8zgjxh_0vysgtJ7C2D3pPWue7sbbYSjzcwV0XtErmcoCuioRRS8QmVUDno",
-   "credit": "Page Six"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT535ghIKQrkMh0UpjRQDPE3I_-eeGTrt6SZZ78W_3Frxq8-UYDBqM6I5csmXM",
+   "credit": "Yahoo"
   },
   "t": {
    "pt": {
-    "name": "cbs news",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Page Six."
+    "name": "reasonable doubt season 4",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo."
    },
    "en": {
-    "name": "cbs news",
-    "note": "Trending Google search (US) — 1000+ searches · via Page Six."
+    "name": "reasonable doubt season 4",
+    "note": "Trending Google search (US) — 500+ searches · via Yahoo."
    },
    "es": {
-    "name": "cbs news",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Page Six."
+    "name": "reasonable doubt season 4",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/ckj060gedd73t",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.tycsports.com/seleccion-argentina/angel-di-maria-seleccion-argentina-despedida-lionel-messi-id764547.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8RDRJE4fVanq0m8LWctYtMw12DlOkv257uN3SdzwtbXDOselwM4Bzu9cWYT8",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "albania vs san marino",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via BBC."
+    "name": "ángel di maría",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "albania vs san marino",
-    "note": "Trending Google search (US) — 500+ searches · via BBC."
+    "name": "ángel di maría",
+    "note": "Trending Google search (Argentina) — 200+ searches · via TyC Sports."
    },
    "es": {
-    "name": "albania vs san marino",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía BBC."
+    "name": "ángel di maría",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://people.com/second-lady-usha-vance-almost-falls-off-helicopter-stairs-while-holding-infant-son-12160326",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://atepba.org.ar/nota/20514/ate-moviliza-a-la-legislatura-por-los-pases-a-planta-permanente",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7cYX2sgSWdFz1Da1j1VaW622wHCNohWEfJnFhYusgK-tha6Nh0OzW_bZ_9BQ",
-   "credit": "People.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLi0G25CJejfJpaov9y0jPyH3WOWflxtMujM98ysOJ9eiYvk4jfGPDjI_X7fg",
+   "credit": "ATE PBA"
   },
   "t": {
    "pt": {
-    "name": "infant",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via People.com."
+    "name": "asociación trabajadores del estado",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via ATE PBA."
    },
    "en": {
-    "name": "infant",
-    "note": "Trending Google search (US) — 2000+ searches · via People.com."
+    "name": "asociación trabajadores del estado",
+    "note": "Trending Google search (Argentina) — 100+ searches · via ATE PBA."
    },
    "es": {
-    "name": "infant",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía People.com."
+    "name": "asociación trabajadores del estado",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía ATE PBA."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://es-us.noticias.yahoo.com/cae-zapopan-tanque-operador-regional-073151201.html",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://www.clarin.com/sociedad/murio-nena-8-anos-club-general-villegas-practicaba-patin_0_8XJLFd4bWC.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Tch8CjQl0PPCK0n2C56OFKHTcRqh8WNW6iU1sW8FuOEYOjH377LM-ZJrsGw",
-   "credit": "Yahoo"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQT0Mqje4Z3uo8uQHELJR8T63nK38mGbm9N3IYuUZfoyWXPWXTH5g1LX5XI2Hg",
+   "credit": "Clarin.com"
   },
   "t": {
    "pt": {
-    "name": "cártel de jalisco nueva generación",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo."
+    "name": "patín",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Clarin.com."
    },
    "en": {
-    "name": "cártel de jalisco nueva generación",
-    "note": "Trending Google search (US) — 500+ searches · via Yahoo."
+    "name": "patín",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Clarin.com."
    },
    "es": {
-    "name": "cártel de jalisco nueva generación",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo."
+    "name": "patín",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Clarin.com."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com.ar/futbol/selecciones/nota/_/id/17345911/mexico-vs-chile-final-del-cuento-de-hadas-mundialista",
+  "rank": 4,
+  "sourceUrl": "https://www.infobae.com/deportes/2026/10/06/un-ex-combatiente-de-malvinas-cantara-el-himno-en-la-despedida-de-messi-con-la-bandera-del-mundial-su-primicia-sobre-el-show-sorpresa/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFfOKE1L4aMs_xlsOmG0YawXqFvZ04uCq2um9_4VosSN4i9eQ7q1ORGJXWe-o",
-   "credit": "ESPN Argentina"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmEXbHxZXHs81dK7UmfLapF4lJ5f5b2Q9Do3ZvHa__UQdgrmtv6dDrPcXokb0",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "méxico",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via ESPN Argentina."
+    "name": "sergio torres",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Infobae."
    },
    "en": {
-    "name": "méxico",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via ESPN Argentina."
+    "name": "sergio torres",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Infobae."
    },
    "es": {
-    "name": "méxico",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía ESPN Argentina."
+    "name": "sergio torres",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Infobae."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://abcnews.com/US/caleb-flynn-former-american-idol-contestant-murder-trial-wife-closing-arguments/story?id=136849417",
+  "rank": 5,
+  "sourceUrl": "https://www.lanacion.com.ar/deportes/canchallena/suiza-vencio-3-0-a-north-macedonia-por-la-liga-de-naciones-2026-nid06102026/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnxMzLdXVb0kkdQMuQnH8zgHlS3M2ICQwMW39Fbea2qFtnpiem7V0Zg9nI5IY",
-   "credit": "ABC News - Breaking News, Latest News and Videos"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwWcC33d5MeYjJUrcI9GfLmfY2Cgy9CE8tv88gFZIR_Acv-R1borfQZHPuITE",
+   "credit": "La Nación"
   },
   "t": {
    "pt": {
-    "name": "american idol",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via ABC News - Breaking News, Latest News and Videos."
+    "name": "suiza vs",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nación."
    },
    "en": {
-    "name": "american idol",
-    "note": "Trending Google search (Argentina) — 200+ searches · via ABC News - Breaking News, Latest News and Videos."
+    "name": "suiza vs",
+    "note": "Trending Google search (Argentina) — 200+ searches · via La Nación."
    },
    "es": {
-    "name": "american idol",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía ABC News - Breaking News, Latest News and Videos."
+    "name": "suiza vs",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.infobae.com/sociedad/2026/10/06/paro-de-subte-la-empresa-explico-el-motivo-del-descuento-a-trabajadores-y-apunto-contra-el-gremio/",
+  "rank": 6,
+  "sourceUrl": "https://www.lanacion.com.ar/deportes/canchallena/eslovenia-vencio-2-1-a-escocia-por-la-liga-de-naciones-nid06102026/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1dUX4vqiY33Pnpno2-_b_RLRMxOd1-fWb0gQXxMn9HIQXtWGaX33kQtgBVjM",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTny11Da82yANzJ7loLg95k-wELauFTx8sm8EC-_9X998on9bQ6xySoj2qNEjE",
+   "credit": "La Nación"
   },
   "t": {
    "pt": {
-    "name": "subte a",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Infobae."
+    "name": "escocia vs",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nación."
    },
    "en": {
-    "name": "subte a",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Infobae."
+    "name": "escocia vs",
+    "note": "Trending Google search (Argentina) — 200+ searches · via La Nación."
    },
    "es": {
-    "name": "subte a",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Infobae."
+    "name": "escocia vs",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.tycsports.com/amistosos-de-selecciones/jordania-vs-venezuela-en-vivo-donde-ver-por-tv-y-online-id764242.html",
+  "rank": 7,
+  "sourceUrl": "https://www.bbc.com/sport/football/live/ckj060gedd73t",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPdu-PJMKUjoRmtiyjL5YyuKwJz-8hfD55zpS6VnILoEGljQN4HeKzbFBSiwc",
-   "credit": "TyC Sports"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "venezuela vs",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via TyC Sports."
+    "name": "san marino vs",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via BBC."
    },
    "en": {
-    "name": "venezuela vs",
-    "note": "Trending Google search (Argentina) — 100+ searches · via TyC Sports."
+    "name": "san marino vs",
+    "note": "Trending Google search (Argentina) — 200+ searches · via BBC."
    },
    "es": {
-    "name": "venezuela vs",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TyC Sports."
+    "name": "san marino vs",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía BBC."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.rionegro.com.ar/sociedad/radio-en-vivo-musica-y-poesia-el-hospital-de-cipolletti-abre-sus-puertas-para-celebrar-la-salud-mental-4749395/",
+  "rank": 8,
+  "sourceUrl": "https://exitoina.perfil.com/noticias/television/hija-mario-pergolini-hablo-sobre-decision-abandonar-popstars-me-dio-mucha-lastima.phtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPGqgqASp7O0P7ANJBGDnvky0eoPpWYvpEsy9VHoGUs1BkEOmTk9fZUG1ClHU",
-   "credit": "Diario Río Negro"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwcZ8GQl1y7uTNREdvJzL5-OmeN2A-dAq5L5ACPWShp1qb8MuQp0Geepoantg",
+   "credit": "Exitoina"
   },
   "t": {
    "pt": {
-    "name": "cipolletti",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Diario Río Negro."
+    "name": "valentina pergolini",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Exitoina."
    },
    "en": {
-    "name": "cipolletti",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Diario Río Negro."
+    "name": "valentina pergolini",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Exitoina."
    },
    "es": {
-    "name": "cipolletti",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Diario Río Negro."
+    "name": "valentina pergolini",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Exitoina."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.lanacion.com.ar/economia/el-gobierno-pagara-con-bonos-deuda-por-obra-publica-y-concentrara-los-vencimientos-en-2027-nid06102026/",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://realeconomy.rsmus.com/market-minute-bond-rout-doing-feds-work-as-financial-conditions-tighten/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvp7dM-S-IVhWzs_TWx40aGR3Vhw84BbdPClswuHUU-F_EbBwqaFe2lZ3Blc",
-   "credit": "La Nación"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTapKfu5Yd3___-KGM00w5EV2TkGEunlMPqAEOLw5xzACVg3W7ZFnpIiXyKBHU",
+   "credit": "The Real Economy Blog"
   },
   "t": {
    "pt": {
-    "name": "obra pública",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via La Nación."
+    "name": "vix index",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via The Real Economy Blog."
    },
    "en": {
-    "name": "obra pública",
-    "note": "Trending Google search (Argentina) — 100+ searches · via La Nación."
+    "name": "vix index",
+    "note": "Trending Google search (Mexico) — 200+ searches · via The Real Economy Blog."
    },
    "es": {
-    "name": "obra pública",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía La Nación."
+    "name": "vix index",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía The Real Economy Blog."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.eldia.com/policiales/hallaron-un-cadaver-flotando-en-el-rio-de-la-plata-policiales_1791262774",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/06/festival-internacional-del-globo-llega-hoy-a-cdmx-asi-sera-la-noche-magica-en-el-monumento-a-la-revolucion/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSW0jLNTlJHT0e9NkLWCOxyk8MWADsrPBesCuX3Fj55Dwws2jEmuKZKll7TD6I",
-   "credit": "Diario El Día de La Plata"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8eb_q70e5KxahxL8B52cX8OUWSxLXhS7Ye8GzsWuMGEJQFojjXOZlyfj0ic4",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "río de la plata",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Diario El Día de La Plata."
+    "name": "festival internacional del globo",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Infobae."
    },
    "en": {
-    "name": "río de la plata",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Diario El Día de La Plata."
+    "name": "festival internacional del globo",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Infobae."
    },
    "es": {
-    "name": "río de la plata",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Diario El Día de La Plata."
+    "name": "festival internacional del globo",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Infobae."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://as.com/futbol/seleccion/croacia-espana-hoy-en-directo-grupo-c-de-nations-league-ultima-hora-f202610-d/",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://www.nytimes.com/2026/10/05/books/jeffrey-archer-dead.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR57y9LMgLsc5xNt0TA_nhz1rv68d_JwLBtwWeOHN-RoelppbEo9yMxADICZIw",
-   "credit": "Diario AS"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSbOtETs7IlkPvY5bQ-3oIcBhEdAGSJ34YCpvPs5y2oNOyRjgs7aCdPc_J5JVw",
+   "credit": "The New York Times"
   },
   "t": {
    "pt": {
-    "name": "croacia - españa",
-    "note": "Busca em alta no Google (Argentina) — 10000+ buscas · via Diario AS."
+    "name": "jeffrey archer",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via The New York Times."
    },
    "en": {
-    "name": "croacia - españa",
-    "note": "Trending Google search (Argentina) — 10000+ searches · via Diario AS."
+    "name": "jeffrey archer",
+    "note": "Trending Google search (Mexico) — 200+ searches · via The New York Times."
    },
    "es": {
-    "name": "croacia - españa",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 10000+ búsquedas · vía Diario AS."
+    "name": "jeffrey archer",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía The New York Times."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/06/mundo/atentado-a-cubana-de-aviacion-50-anos-de-impunidad",
+  "rank": 4,
+  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/06/politica/sheinbaum-llama-al-bdem-a-revisar-altas-pensiones-de-sus-ex-funcionarios",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ98-iBH3r2PKl2dKk91ed93gzjMQ18vQP-4be0RKumA2ehhMcwpyWxhyKQt0",
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAC5QGznQRofKiTdTO1S9xWQ83TXxeCYyvYeXSqyDGVWxA7tSu0DNqdPlKaig",
    "credit": "La Jornada"
   },
   "t": {
    "pt": {
-    "name": "cubana de aviación",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via La Jornada."
+    "name": "luisa maría alcalde luján",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via La Jornada."
    },
    "en": {
-    "name": "cubana de aviación",
-    "note": "Trending Google search (Mexico) — 200+ searches · via La Jornada."
+    "name": "luisa maría alcalde luján",
+    "note": "Trending Google search (Mexico) — 100+ searches · via La Jornada."
    },
    "es": {
-    "name": "cubana de aviación",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía La Jornada."
+    "name": "luisa maría alcalde luján",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía La Jornada."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/c6wyzy1lz241t",
+  "rank": 5,
+  "sourceUrl": "https://9to5mac.com/2026/10/06/ios-27-2-gives-apple-books-new-design-updates-as-iphone-duo-nears/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLTnkLSxQlvqf_-H7ZnJQf9xAcIu_3_Nl04nx7yiOma_DJDRg8rPzFHZdJSw",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS9qRS97MRt5vWuauj9-4KWdO9YjeCiolHFoSrSFJgHEYg2XdeqsopZCMrwKTs",
+   "credit": "9to5Mac"
   },
   "t": {
    "pt": {
-    "name": "albania - san marino",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via BBC."
+    "name": "ios 27.2 beta 3",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via 9to5Mac."
    },
    "en": {
-    "name": "albania - san marino",
-    "note": "Trending Google search (Mexico) — 500+ searches · via BBC."
+    "name": "ios 27.2 beta 3",
+    "note": "Trending Google search (Mexico) — 200+ searches · via 9to5Mac."
    },
    "es": {
-    "name": "albania - san marino",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía BBC."
+    "name": "ios 27.2 beta 3",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía 9to5Mac."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.sportytrader.com/es/pronosticos/escocia-eslovenia-376961/",
+  "rank": 6,
+  "sourceUrl": "https://www.marca.com/mx/futbol/seleccion-mx/2026/10/06/peligro-carrera-edson-alvarez-tri-volver-vestir-playera-seleccion-mexicana.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIHtAIPpKPAcTMtFNOZSL3zCTcGcnN8Az__q1S4v4odwkKD0EKLUpCY2HK97k",
-   "credit": "SportyTrader"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcBo8H6rIgtPOjGIvm61y9En5rSkg-6g9_LFl6cA6q_fN6lEVjJwGgzrobo1U",
+   "credit": "MARCA"
   },
   "t": {
    "pt": {
-    "name": "escocia vs eslovenia",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via SportyTrader."
+    "name": "edson álvarez",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via MARCA."
    },
    "en": {
-    "name": "escocia vs eslovenia",
-    "note": "Trending Google search (Mexico) — 200+ searches · via SportyTrader."
+    "name": "edson álvarez",
+    "note": "Trending Google search (Mexico) — 500+ searches · via MARCA."
    },
    "es": {
-    "name": "escocia vs eslovenia",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía SportyTrader."
+    "name": "edson álvarez",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía MARCA."
    }
   },
   "id": "tr31",
   "hue": 330
  },
  {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.leicestermercury.co.uk/sport/football/football-news/leicester-city-stevenage-predicted-lineup-11185147",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxrZWjmK_sWl52CHFA8EljnI8iaRwpyNcfEtriFNa4szlGs-kOUvOHA3iNGkI",
-   "credit": "Leicester Mercury"
-  },
-  "t": {
-   "pt": {
-    "name": "stevenage f. c. - leicester city",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Leicester Mercury."
-   },
-   "en": {
-    "name": "stevenage f. c. - leicester city",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Leicester Mercury."
-   },
-   "es": {
-    "name": "stevenage f. c. - leicester city",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Leicester Mercury."
-   }
-  },
-  "id": "tr32",
-  "hue": 7
- },
- {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://as.com/futbol/seleccion/croacia-espana-hoy-en-directo-grupo-c-de-nations-league-ultima-hora-f202610-d/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR57y9LMgLsc5xNt0TA_nhz1rv68d_JwLBtwWeOHN-RoelppbEo9yMxADICZIw",
-   "credit": "Diario AS"
-  },
-  "t": {
-   "pt": {
-    "name": "croacia - españa",
-    "note": "Busca em alta no Google (México) — 20000+ buscas · via Diario AS."
-   },
-   "en": {
-    "name": "croacia - españa",
-    "note": "Trending Google search (Mexico) — 20000+ searches · via Diario AS."
-   },
-   "es": {
-    "name": "croacia - españa",
-    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía Diario AS."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://es-us.noticias.yahoo.com/deportes/d%C3%B3nde-vivo-gratis-inglaterra-vs-073001346.html",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzFb8n8VFskvuvh2Kzzkis8DYgGT79I_BPDj_T_belahArlvSOIqnOCG7LMWk",
-   "credit": "Yahoo"
-  },
-  "t": {
-   "pt": {
-    "name": "inglaterra - chequia",
-    "note": "Busca em alta no Google (México) — 20000+ buscas · via Yahoo."
-   },
-   "en": {
-    "name": "inglaterra - chequia",
-    "note": "Trending Google search (Mexico) — 20000+ searches · via Yahoo."
-   },
-   "es": {
-    "name": "inglaterra - chequia",
-    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía Yahoo."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
- },
- {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
+  "collectedAt": "2026-10-06T21:36:35.102Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 7,
-  "sourceUrl": "https://www.vavel.com/en/international-football/2026/10/06/1274180-modric-believes-his-side-can-show-a-completely-different-croatia.html",
+  "sourceUrl": "https://www.mlb.com/news/dodgers-vs-braves-nlds-game-3-starting-lineups-and-pitching-matchup",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3pluYS2fI3erKbzR3RT8sPJcQ271Lf8tEWpzPvf-qBDtOS71dHs0c05d8z34",
-   "credit": "VAVEL.com"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRJTWSo66fv0xw0RCcYjtw2ghDtcVvUzlbzx7GHLoIzOCVws_GWmYcX1CjpWE",
+   "credit": "MLB.com"
   },
   "t": {
    "pt": {
-    "name": "croatia vs spain",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via VAVEL.com."
+    "name": "braves - dodgers",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via MLB.com."
    },
    "en": {
-    "name": "croatia vs spain",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via VAVEL.com."
+    "name": "braves - dodgers",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via MLB.com."
    },
    "es": {
-    "name": "croatia vs spain",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía VAVEL.com."
+    "name": "braves - dodgers",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía MLB.com."
    }
   },
-  "id": "tr35",
-  "hue": 118
- },
- {
-  "collectedAt": "2026-10-06T18:42:33.006Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 8,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cm0qxqyp35jyt",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQCY2T2xCYTWWvkpluhZO89cCKM9r-TsHAuAwDl_9Sfl1sm8uNV4-kRbOEE1y4",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "england vs czechia",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via BBC."
-   },
-   "en": {
-    "name": "england vs czechia",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via BBC."
-   },
-   "es": {
-    "name": "england vs czechia",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía BBC."
-   }
-  },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr32",
+  "hue": 7
  }
 ]
