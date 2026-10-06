@@ -1,396 +1,6 @@
 [
  {
-  "id": "tr1",
-  "kind": "video",
-  "platform": "youtube",
-  "region": "US",
-  "sourceUrl": "https://www.justjared.com/2026/10/04/taylor-swift-makes-surprise-appearance-during-dakota-johnsons-saturday-night-live-monologue-watch-now/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 300,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Taylor Swift invade o monólogo de Dakota Johnson no SNL",
-    "note": "Na estreia de Dakota como apresentadora no sábado (3), Taylor apareceu de surpresa, foi chamada de 'minha terapeuta literal' e as duas brincaram sobre vinho, desabafos e namorar músicos."
-   },
-   "en": {
-    "name": "Taylor Swift crashes Dakota Johnson's SNL monologue",
-    "note": "During Dakota's hosting turn on Saturday (Oct. 3), Taylor showed up unannounced, was introduced as 'my literal therapist,' and the pair joked about wine, oversharing and dating musicians."
-   },
-   "es": {
-    "name": "Taylor Swift irrumpe en el monólogo de Dakota Johnson en SNL",
-    "note": "En el debut de Dakota como anfitriona el sábado (3), Taylor apareció por sorpresa, fue presentada como 'mi terapeuta literal' y ambas bromearon sobre vino, confesiones y salir con músicos."
-   }
-  },
-  "rank": 1,
-  "image": {
-   "url": "https://www.justjared.com/wp-content/uploads/2026/10/taylor-dakota.jpg",
-   "credit": "Foto: Reprodução/NBC via Just Jared"
-  }
- },
- {
-  "id": "tr2",
-  "kind": "video",
-  "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://www.poder360.com.br/poder-eleicoes-2026/videos-de-lula-pulando-em-ato-do-pt-viram-meme-absolute-joelhos/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 337,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Lula e os 'absolute joelhos'",
-    "note": "Vídeos do presidente, de 80 anos, pulando em ato de campanha em São Paulo na véspera da eleição viraram meme no X com a expressão 'absolute joelhos'."
-   },
-   "en": {
-    "name": "Lula's 'absolute knees'",
-    "note": "Clips of the 80-year-old Brazilian president jumping at a São Paulo campaign rally on the eve of the vote became an X meme captioned 'absolute joelhos' (absolute knees)."
-   },
-   "es": {
-    "name": "Lula y sus 'absolute rodillas'",
-    "note": "Videos del presidente brasileño, de 80 años, saltando en un acto de campaña en São Paulo en la víspera de la elección se volvieron meme en X con la frase 'absolute joelhos'."
-   }
-  },
-  "rank": 2,
-  "image": {
-   "url": "https://static.poder360.com.br/uploads/2026/10/lula-caminhada-campanha-sp-848x477.jpg",
-   "credit": "Foto: Poder360"
-  }
- },
- {
-  "id": "tr3",
-  "kind": "topic",
-  "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://www.poder360.com.br/poder-eleicoes-2026/veja-os-memes-que-marcaram-a-campanha-eleitoral-de-2026/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 14,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Os memes da campanha de 2026",
-    "note": "No dia do 1º turno, a web revive os memes da campanha, como Kassab de olhos fechados no debate da Band, as fraldas levadas por Renan Santos e o mascote Pilili do TSE."
-   },
-   "en": {
-    "name": "The memes of Brazil's 2026 campaign",
-    "note": "On first-round election day, users are reviving the campaign's memes, from Kassab with his eyes closed at the Band debate to Renan Santos' diapers and the electoral court's mascot Pilili."
-   },
-   "es": {
-    "name": "Los memes de la campaña brasileña de 2026",
-    "note": "En el día de la primera vuelta, las redes reviven los memes de la campaña, como Kassab con los ojos cerrados en el debate de Band, los pañales de Renan Santos y la mascota Pilili del TSE."
-   }
-  },
-  "rank": 3,
-  "image": {
-   "url": "https://static.poder360.com.br/uploads/2026/10/memes-eleicoes-2026-848x477.jpg",
-   "credit": "Foto: Reprodução/Poder360"
-  }
- },
- {
-  "id": "tr4",
-  "kind": "topic",
-  "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://www.metropoles.com/viralizou/deepfakes-de-famosos-acendem-alerta-as-vesperas-das-eleicoes-entenda",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 51,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Deepfakes de famosos no dia da eleição",
-    "note": "Vídeos falsos com Virginia, Caetano Veloso, Anitta, Ana Castela e Neymar circularam em perfis anônimos e apps de mensagem na reta final antes do 1º turno."
-   },
-   "en": {
-    "name": "Celebrity deepfakes on election day",
-    "note": "Fake videos featuring Virginia, Caetano Veloso, Anitta, Ana Castela and Neymar circulated on anonymous accounts and messaging apps in the run-up to Brazil's first round."
-   },
-   "es": {
-    "name": "Deepfakes de famosos en el día de la elección",
-    "note": "Videos falsos con Virginia, Caetano Veloso, Anitta, Ana Castela y Neymar circularon en perfiles anónimos y apps de mensajería en la recta final antes de la primera vuelta en Brasil."
-   }
-  },
-  "rank": 4,
-  "image": {
-   "url": "https://i.metroimg.com/V8MT5IqUlXyc92MKbm3f8txgzY0saWCWVXuIWYoATL4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/caetano-virginia-ana-castela.jpg",
-   "credit": "Foto: Reprodução/Metrópoles"
-  }
- },
- {
-  "id": "tr5",
-  "kind": "video",
-  "platform": "youtube",
-  "region": "AR",
-  "sourceUrl": "https://www.infobae.com/tecno/2026/10/04/youtube-en-argentina-la-lista-de-los-10-videos-mas-vistos-este-sabado/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 88,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "'1Amor (en vivo)', de Lali",
-    "note": "A versão ao vivo gravada com Tini no terceiro River lotado de Lali lidera o ranking de vídeos mais vistos do YouTube na Argentina neste sábado."
-   },
-   "en": {
-    "name": "Lali's '1Amor (live)'",
-    "note": "The live version recorded with Tini at Lali's third sold-out River Plate show tops Argentina's most-watched YouTube videos this Saturday."
-   },
-   "es": {
-    "name": "'1Amor (en vivo)', de Lali",
-    "note": "La versión en vivo grabada con Tini en el tercer River agotado de Lali encabeza el ranking de videos más vistos de YouTube en Argentina este sábado."
-   }
-  },
-  "rank": 5,
-  "image": {
-   "url": "https://www.cronica.com.ar/files/image/1716/1716409/6abff43bade58_600_315!.jpg?s=6f71884dcc7106e0169036988cfc5571&d=1790975618",
-   "credit": "Foto: Crónica"
-  }
- },
- {
-  "id": "tr6",
-  "kind": "video",
-  "platform": "youtube",
-  "region": "AR",
-  "sourceUrl": "https://www.unoentrerios.com.ar/show/lali-y-tini-ya-se-puede-ver-el-video-oficial-like-virgin-river-n10284547.html",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 125,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Lali, Tini e Marilina em 'Like a Virgin'",
-    "note": "O vídeo oficial do trio vestido de noiva cantando Madonna no River, com o beijo final que agitou as redes, saiu no YouTube e já é o 2º mais visto do país."
-   },
-   "en": {
-    "name": "Lali, Tini and Marilina's 'Like a Virgin'",
-    "note": "The official video of the trio in bridal looks singing Madonna at River Plate, ending in the kiss that set social media buzzing, is out on YouTube and among Argentina's top views."
-   },
-   "es": {
-    "name": "Lali, Tini y Marilina en 'Like a Virgin'",
-    "note": "El video oficial del trío vestido de novia cantando a Madonna en River, con el beso final que hizo estallar las redes, ya está en YouTube y entre lo más visto del país."
-   }
-  },
-  "rank": 6,
-  "image": {
-   "url": "https://media.lacapital.com.ar/p/1d280dda39a22ee085c56ca2939f0aa2/adjuntos/205/imagenes/103/441/0103441885/lali-y-tini.jpg",
-   "credit": "Foto: Uno Entre Ríos"
-  }
- },
- {
-  "id": "tr7",
-  "kind": "sound",
-  "platform": "youtube",
-  "region": "AR",
-  "sourceUrl": "https://www.cronica.com.ar/elcanaldelamusica/lanzamientos/asi-es-wanda-nara-la-nueva-cancion-de-la-joaqui-que-vuelve-a-poner-al-rkt-en-el-centro/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 162,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "'Wanda Nara', de La Joaqui",
-    "note": "O RKT que usa Wanda Nara como símbolo de independência financeira e curtição sem culpa segue entre os vídeos mais vistos do YouTube argentino."
-   },
-   "en": {
-    "name": "La Joaqui's 'Wanda Nara'",
-    "note": "The RKT track that turns Wanda Nara into a symbol of financial independence and guilt-free fun keeps ranking among Argentina's most-watched YouTube videos."
-   },
-   "es": {
-    "name": "'Wanda Nara', de La Joaqui",
-    "note": "El RKT que usa a Wanda Nara como símbolo de independencia económica y disfrute sin culpa sigue entre los videos más vistos de YouTube en Argentina."
-   }
-  },
-  "rank": 7,
-  "image": {
-   "url": "https://www.cronica.com.ar/files/image/1712/1712929/6ab55868759ee_600_315!.jpg?s=1d1ba290806ad8694c7fff0422e2d585&d=1790391786",
-   "credit": "Foto: Crónica"
-  }
- },
- {
-  "id": "tr8",
-  "kind": "video",
-  "platform": "tiktok",
-  "region": "MX",
-  "sourceUrl": "https://infobae.com/mexico/2026/10/03/lady-me-acabo-de-maquillar-joven-se-niega-a-usar-casco-en-viaje-en-moto-para-no-arruinarse-el-maquillaje",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 199,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "'Lady Me Acabo de Maquillar'",
-    "note": "Passageira de Uber Moto se recusou a usar capacete para não estragar a maquiagem, o motorista e criador Willis en Moto negou a corrida e o vídeo viralizou no TikTok mexicano."
-   },
-   "en": {
-    "name": "'Lady Me Acabo de Maquillar'",
-    "note": "A Mexican Uber Moto rider refused to wear a helmet so her makeup wouldn't smudge, driver-creator Willis en Moto declined the trip, and the clip went viral on TikTok."
-   },
-   "es": {
-    "name": "'Lady Me Acabo de Maquillar'",
-    "note": "Una pasajera de Uber Moto se negó a usar casco para no arruinar su maquillaje, el conductor y creador Willis en Moto no hizo el viaje y el video se viralizó en TikTok."
-   }
-  },
-  "rank": 8,
-  "image": {
-   "url": "https://www.infobae.com/resizer/v2/TKHF26C5ABFL5ML7ND3ZAYNCQ4.jpg?auth=d5ad8f38b039773861c0459ab9528e0d1b4d3f85cf983542ac834804c569e9d9&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/TikTok via Infobae"
-  }
- },
- {
-  "id": "tr9",
-  "kind": "sound",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://newengen.com/insights/instagram-trends/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 236,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Edits de casamento com 'Patient Zero'",
-    "note": "Noivas montam vídeos do primeiro olhar e da primeira dança com o novo single de Taylor Swift, trend que lidera a lista de virais do Instagram de outubro."
-   },
-   "en": {
-    "name": "'Patient Zero' wedding edits",
-    "note": "Brides are cutting first-look and first-dance footage to Taylor Swift's new single, a trend topping October's Instagram viral rankings."
-   },
-   "es": {
-    "name": "Edits de boda con 'Patient Zero'",
-    "note": "Novias editan el primer vistazo y el primer baile con el nuevo sencillo de Taylor Swift, tendencia que encabeza los virales de Instagram de octubre."
-   }
-  },
-  "rank": 9,
-  "image": {
-   "url": "https://www.musicbusinessworldwide.com/files/2026/10/New-Project-2.jpg",
-   "credit": "Foto: Music Business Worldwide"
-  }
- },
- {
-  "id": "tr10",
-  "kind": "format",
-  "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 273,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Desfile 'Ramalama' de fantasias",
-    "note": "Câmera baixa mostra pernas caminhando devagar e arrastando adereços até revelar a fantasia de Halloween inteira, ao som de 'Ramalama (Bang Bang)', de Róisín Murphy."
-   },
-   "en": {
-    "name": "The 'Ramalama' costume walk",
-    "note": "A low-angle shot of slowly walking legs dragging props zooms out to reveal a full Halloween costume, set to Róisín Murphy's 'Ramalama (Bang Bang)'."
-   },
-   "es": {
-    "name": "El desfile 'Ramalama' de disfraces",
-    "note": "Una toma baja de piernas caminando lento y arrastrando accesorios se abre hasta revelar el disfraz de Halloween completo, con 'Ramalama (Bang Bang)' de Róisín Murphy."
-   }
-  },
-  "rank": 10
- },
- {
-  "id": "tr11",
-  "kind": "format",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 310,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "A ilusão da cabeça de abóbora",
-    "note": "Uma abóbora segurada bem perto da lente 'substitui' a cabeça de um amigo enquanto o corpo dança sem parar, uma das trends de Halloween que abrem outubro no TikTok."
-   },
-   "en": {
-    "name": "The pumpkin head illusion",
-    "note": "A real pumpkin held close to the lens hides a friend's head while their body dances wildly below, one of the Halloween trends kicking off October on TikTok."
-   },
-   "es": {
-    "name": "La ilusión de la cabeza de calabaza",
-    "note": "Una calabaza sostenida muy cerca de la lente tapa la cabeza de un amigo mientras su cuerpo baila sin parar, una de las tendencias de Halloween que abren octubre en TikTok."
-   }
-  },
-  "rank": 11
- },
- {
-  "id": "tr12",
-  "kind": "sound",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://newengen.com/insights/october-tiktok-trends/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 347,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "'Two Fishes', de Love Island USA",
-    "note": "O áudio de Corbin Mims, do Love Island USA, defendendo uma opinião sensata virou dublagem para quem explica posições impopulares, como economizar em viagens."
-   },
-   "en": {
-    "name": "Love Island USA's 'Two Fishes'",
-    "note": "Audio of Love Island USA's Corbin Mims defending a reasonable take has become the lip-sync for explaining unpopular opinions, like saving money on trips."
-   },
-   "es": {
-    "name": "'Two Fishes', de Love Island USA",
-    "note": "El audio de Corbin Mims, de Love Island USA, defendiendo una opinión sensata se volvió el doblaje para explicar posturas impopulares, como ahorrar en los viajes."
-   }
-  },
-  "rank": 12
- },
- {
-  "id": "tr13",
-  "kind": "format",
-  "platform": "instagram",
-  "region": "US",
-  "sourceUrl": "https://newengen.com/insights/instagram-trends/",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 24,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "'Message From A'",
-    "note": "Usuários se filmam em hábitos constrangedores e colam bilhetes sarcásticos imitando a vilã misteriosa de 'Pretty Little Liars', trend em alta no Reels."
-   },
-   "en": {
-    "name": "'Message From A'",
-    "note": "Users film their embarrassing habits and overlay snarky notes mimicking the mysterious villain from 'Pretty Little Liars', a rising Reels trend."
-   },
-   "es": {
-    "name": "'Message From A'",
-    "note": "Usuarios se graban en hábitos vergonzosos y añaden notas sarcásticas imitando a la villana misteriosa de 'Pretty Little Liars', tendencia en alza en Reels."
-   }
-  },
-  "rank": 13
- },
- {
-  "id": "tr14",
-  "kind": "video",
-  "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://aloalobahia.com/noticias/2026/10/03/naomi-campbell-viraliza-nas-redes-apos-ser-flagrada-limpando-bicicleta-em-paris",
-  "collectedAt": "2026-10-04T12:16:25Z",
-  "hue": 61,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Naomi Campbell higieniza a bike",
-    "note": "A supermodelo foi flagrada em Paris, de luvas, desinfetando guidão, freios e banco de uma bicicleta compartilhada antes de pedalar, e o vídeo segue rodando as redes."
-   },
-   "en": {
-    "name": "Naomi Campbell sanitizes a bike",
-    "note": "The supermodel was filmed in Paris wearing gloves and disinfecting the handlebars, brakes and seat of a shared bike before riding, and the clip keeps circulating."
-   },
-   "es": {
-    "name": "Naomi Campbell desinfecta la bici",
-    "note": "La supermodelo fue captada en París, con guantes, desinfectando manubrio, frenos y asiento de una bicicleta compartida antes de usarla, y el video sigue circulando."
-   }
-  },
-  "rank": 14,
-  "image": {
-   "url": "https://aloalobahia.com/wp-content/uploads/2026/10/Screenshot-2026-10-03-at-17.17.03-1.jpg",
-   "credit": "Foto: Reprodução/Instagram via Alô Alô Bahia"
-  }
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -410,11 +20,11 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
-  "id": "tr15",
-  "hue": 98
+  "id": "tr1",
+  "hue": 300
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -434,11 +44,11 @@
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
-  "id": "tr16",
-  "hue": 135
+  "id": "tr2",
+  "hue": 337
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -458,43 +68,155 @@
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
-  "id": "tr17",
-  "hue": 172
+  "id": "tr3",
+  "hue": 14
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://g1.globo.com/mg/minas-gerais/eleicoes/2026/noticia/2026/10/05/veja-quem-sao-os-20-deputados-federais-mais-votados-de-minas-gerais.ghtml",
+  "sourceUrl": "https://www.goal.com/en-om/news/how-to-buy-philadelphia-76ers-vs-new-york-knicks-nba-dates-ticket-prices-and-more/blt7058b86e124f3f84",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYkQ93ymFYtL4mZal0jGUg1mQJYuOy5PwoHJc59Pws3Nqs75tvdLGbqjpZD4A",
-   "credit": "G1"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSS9wzOVaTA9AONF3Y8nIIS52en6Bv2VIBRmlbJNsV_XJlrs7tIkxnuX8q0j54",
+   "credit": "Goal.com"
   },
   "t": {
    "pt": {
-    "name": "eleições eleitos",
-    "note": "Busca em alta no Google (Brasil) — 200000+ buscas · via G1."
+    "name": "nba",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Goal.com."
    },
    "en": {
-    "name": "eleições eleitos",
-    "note": "Trending Google search (Brazil) — 200000+ searches · via G1."
+    "name": "nba",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via Goal.com."
    },
    "es": {
-    "name": "eleições eleitos",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200000+ búsquedas · vía G1."
+    "name": "nba",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Goal.com."
    }
   },
-  "id": "tr18",
-  "hue": 209
+  "id": "tr4",
+  "hue": 51
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
+  "sourceUrl": "https://tecnoblog.net/noticias/funcionarios-da-comissao-europeia-criticam-alternativa-ao-microsoft-teams/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQsjfhdI7IcqTrccbtsd3SQ7bsuzs8TZKBJrKz6hcxFfYxEtF7713OgfojwcyE",
+   "credit": "Tecnoblog"
+  },
+  "t": {
+   "pt": {
+    "name": "tecnoblog",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Tecnoblog."
+   },
+   "en": {
+    "name": "tecnoblog",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via Tecnoblog."
+   },
+   "es": {
+    "name": "tecnoblog",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Tecnoblog."
+   }
+  },
+  "id": "tr5",
+  "hue": 88
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 3,
+  "sourceUrl": "https://noticias.uol.com.br/ultimas-noticias/agencia-estado/2026/10/05/cupula-do-pt-responsabiliza-sidonio-por-erros-na-campanha-de-lula-e-quer-guinada-na-comunicacao.htm",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaaNbPB89DlfLgD1sIIPygguS57Kgkqtt_TOlMFc4b9T4JkxMzEa-aPBXojDY",
+   "credit": "UOL Notícias"
+  },
+  "t": {
+   "pt": {
+    "name": "camilo santana",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via UOL Notícias."
+   },
+   "en": {
+    "name": "camilo santana",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via UOL Notícias."
+   },
+   "es": {
+    "name": "camilo santana",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía UOL Notícias."
+   }
+  },
+  "id": "tr6",
+  "hue": 125
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 4,
+  "sourceUrl": "https://g1.globo.com/ms/mato-grosso-do-sul/noticia/2026/10/05/militares-mortos-em-batida-na-br-163-tinham-19-anos-e-haviam-acabado-de-entrar-no-exercito.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb1bq5lPiubK1S7EtmyEkcSwVPJ25I2TIqpdW5qhD56L3ai5TGm9hMqQCjvZk",
+   "credit": "G1"
+  },
+  "t": {
+   "pt": {
+    "name": "br-163",
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via G1."
+   },
+   "en": {
+    "name": "br-163",
+    "note": "Trending Google search (Brazil) — 10000+ searches · via G1."
+   },
+   "es": {
+    "name": "br-163",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía G1."
+   }
+  },
+  "id": "tr7",
+  "hue": 162
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 5,
+  "sourceUrl": "https://www1.folha.uol.com.br/mercado/2026/10/novo-valor-do-bolsa-familia-comeca-a-ser-pago-dia-19-veja-calendario-e-reajuste-por-pessoa.shtml",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR9TT7eilwDPo2iVEMMLmlhE63VtlgkW2oHxPab3RmY8FzoaOwTwWNJ7rEnJZI",
+   "credit": "Folha de S.Paulo"
+  },
+  "t": {
+   "pt": {
+    "name": "bolsa família",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Folha de S.Paulo."
+   },
+   "en": {
+    "name": "bolsa família",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via Folha de S.Paulo."
+   },
+   "es": {
+    "name": "bolsa família",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Folha de S.Paulo."
+   }
+  },
+  "id": "tr8",
+  "hue": 199
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 6,
   "sourceUrl": "https://www.bbc.com/portuguese/articles/cm209062n3wgo",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2DZHBZtpKRsdyOt_C4Bc4v5ZtPu8LmIwMmiYyq37XKkZqbt1MTSbLOzOXKDQ",
@@ -502,447 +224,335 @@
   },
   "t": {
    "pt": {
-    "name": "pesquisa segundo turno presidente 2026",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via BBC."
+    "name": "datafolha 2 turno",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via BBC."
    },
    "en": {
-    "name": "pesquisa segundo turno presidente 2026",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via BBC."
+    "name": "datafolha 2 turno",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via BBC."
    },
    "es": {
-    "name": "pesquisa segundo turno presidente 2026",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía BBC."
+    "name": "datafolha 2 turno",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía BBC."
+   }
+  },
+  "id": "tr9",
+  "hue": 236
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/mlb/game/_/gameId/401907986/yankees-rays",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQayxUxevwCIYKwpkTho9aNf8R908c-ZN_Fw-nqAxWpywUkHHjro8ltQVqZF6w",
+   "credit": "ESPN"
+  },
+  "t": {
+   "pt": {
+    "name": "yankees",
+    "note": "Busca em alta no Google (EUA) — 50000+ buscas · via ESPN."
+   },
+   "en": {
+    "name": "yankees",
+    "note": "Trending Google search (US) — 50000+ searches · via ESPN."
+   },
+   "es": {
+    "name": "yankees",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 50000+ búsquedas · vía ESPN."
+   }
+  },
+  "id": "tr10",
+  "hue": 273
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.mlb.com/news/yandy-diaz-jonathan-aranda-junior-caminero-rays-offense-alds-2026",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQm-HzKW4hCJJjdhb2bno1aTHZO-LG8nU2RAullhKUUqJSyiZiPxl8aBV8TFdY",
+   "credit": "MLB.com"
+  },
+  "t": {
+   "pt": {
+    "name": "yandy diaz",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via MLB.com."
+   },
+   "en": {
+    "name": "yandy diaz",
+    "note": "Trending Google search (US) — 1000+ searches · via MLB.com."
+   },
+   "es": {
+    "name": "yandy diaz",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía MLB.com."
+   }
+  },
+  "id": "tr11",
+  "hue": 310
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://fansided.com/nfl/emergency-colts-saints-trade-proposal-to-keep-daniel-jones-from-tanking-indy-s-season",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRvxrOBaGkAER9TR5C0r7uXdSdCv5UhrrGRw7klKOJl02T-qGETAZh41MAiFKk",
+   "credit": "FanSided"
+  },
+  "t": {
+   "pt": {
+    "name": "spencer rattler",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via FanSided."
+   },
+   "en": {
+    "name": "spencer rattler",
+    "note": "Trending Google search (US) — 500+ searches · via FanSided."
+   },
+   "es": {
+    "name": "spencer rattler",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía FanSided."
+   }
+  },
+  "id": "tr12",
+  "hue": 347
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 4,
+  "sourceUrl": "https://heavy.com/sports/mlb/new-york-yankees/jazz-chisholm-personal-announcement-travel-problems/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRn45OldLjmQyS37Zx-Od_D1-Ac66sC9alP2LoE-CzcpZYUn-h5OuqrVcoSHBo",
+   "credit": "Heavy.com"
+  },
+  "t": {
+   "pt": {
+    "name": "jazz chisholm jr",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Heavy.com."
+   },
+   "en": {
+    "name": "jazz chisholm jr",
+    "note": "Trending Google search (US) — 1000+ searches · via Heavy.com."
+   },
+   "es": {
+    "name": "jazz chisholm jr",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Heavy.com."
+   }
+  },
+  "id": "tr13",
+  "hue": 24
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 5,
+  "sourceUrl": "https://sports.yahoo.com/articles/milwaukee-bucks-open-preseason-vs-230104669.html",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9SHQw9bpNsVDBxmkBXPzqKsBPNF-vGLnkL95GlsgnePVMI8e9ckMLhBDpRbI",
+   "credit": "Yahoo Sports"
+  },
+  "t": {
+   "pt": {
+    "name": "timberwolves game",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo Sports."
+   },
+   "en": {
+    "name": "timberwolves game",
+    "note": "Trending Google search (US) — 500+ searches · via Yahoo Sports."
+   },
+   "es": {
+    "name": "timberwolves game",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo Sports."
+   }
+  },
+  "id": "tr14",
+  "hue": 61
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 6,
+  "sourceUrl": "https://www.bgr.com/2272742/how-watch-youtube-tv-google-home-display-kitchen/",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ05JOmKJvxSCR4RuB1Gq7aRO4I4QgU9N0NlUd4-I03_Yh3IJK6FdCACsk-QVg",
+   "credit": "BGR"
+  },
+  "t": {
+   "pt": {
+    "name": "youtube tv",
+    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via BGR."
+   },
+   "en": {
+    "name": "youtube tv",
+    "note": "Trending Google search (US) — 10000+ searches · via BGR."
+   },
+   "es": {
+    "name": "youtube tv",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía BGR."
+   }
+  },
+  "id": "tr15",
+  "hue": 98
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com.ar/futbol/colombia/nota/_/id/17340905/medellin-vs-santa-fe-fecha-13-liga-betplay-equipo-fecha-hora-y-tv-en-vivo",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeGwjaPX_apnnP6WfIVxYaoWyDaetoKj8be8I03_2bvc-iER-rBWKPrC5pTwU",
+   "credit": "ESPN Argentina"
+  },
+  "t": {
+   "pt": {
+    "name": "medellín - santa fe",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via ESPN Argentina."
+   },
+   "en": {
+    "name": "medellín - santa fe",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via ESPN Argentina."
+   },
+   "es": {
+    "name": "medellín - santa fe",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía ESPN Argentina."
+   }
+  },
+  "id": "tr16",
+  "hue": 135
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://rosariocentral.com/noticia/central-visitara-a-banfield/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYBHW0kf3RgxqPTZ8YZWh9Jaa7Hm57BS9MhA0XgTOrrGFlP6DICsiVz_C199w",
+   "credit": "Rosario Central"
+  },
+  "t": {
+   "pt": {
+    "name": "banfield - rosario central",
+    "note": "Busca em alta no Google (Argentina) — 20000+ buscas · via Rosario Central."
+   },
+   "en": {
+    "name": "banfield - rosario central",
+    "note": "Trending Google search (Argentina) — 20000+ searches · via Rosario Central."
+   },
+   "es": {
+    "name": "banfield - rosario central",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 20000+ búsquedas · vía Rosario Central."
+   }
+  },
+  "id": "tr17",
+  "hue": 172
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-velez-vs-platense-fecha-11-id764240.html",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpq2qax8scG-pQRIGmHpU0tgU2HdhljY8ZRL-yIesIeLO3mOWwhxAYi3sOt8",
+   "credit": "TyC Sports"
+  },
+  "t": {
+   "pt": {
+    "name": "velez",
+    "note": "Busca em alta no Google (Argentina) — 10000+ buscas · via TyC Sports."
+   },
+   "en": {
+    "name": "velez",
+    "note": "Trending Google search (Argentina) — 10000+ searches · via TyC Sports."
+   },
+   "es": {
+    "name": "velez",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 10000+ búsquedas · vía TyC Sports."
+   }
+  },
+  "id": "tr18",
+  "hue": 209
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 4,
+  "sourceUrl": "https://www.eltrecetv.com.ar/videos/la-cocina-rebelde/2026/10/05/claudia-villafane-conto-por-que-su-hija-dalma-maradona-fue-su-peor-clienta-me-la-pasaba-llorando/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQUj4jYD-Fr2mhvCzAoXQxD2lVSbYiklnTlsyCDXRV6T8d9MV9Nm7l7vARdtog",
+   "credit": "eltrecetv"
+  },
+  "t": {
+   "pt": {
+    "name": "claudia villafañe",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via eltrecetv."
+   },
+   "en": {
+    "name": "claudia villafañe",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via eltrecetv."
+   },
+   "es": {
+    "name": "claudia villafañe",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía eltrecetv."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://veja.abril.com.br/brasil/michel-temer-declara-voto-em-flavio-bolsonaro-sociedade-quer-um-caminho-diferente/",
+  "region": "AR",
+  "rank": 5,
+  "sourceUrl": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-estudiantes-vs-gimnasia-mendoza-fecha-11-id764239.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTECezcT1UUkuMm99r2-3DKDyRN1XGcQnOqTKdacQxvjVr7oWCiNz_7uvf0YQQ",
-   "credit": "VEJA"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsBBOUVEPC2GMW0xR72kziPDGn6cMGURlLMB2oNPD0pvXDqor7CVJ8hAVcoh0",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "michel temer",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via VEJA."
+    "name": "estudiantes - gimnasia y esgrima",
+    "note": "Busca em alta no Google (Argentina) — 20000+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "michel temer",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via VEJA."
+    "name": "estudiantes - gimnasia y esgrima",
+    "note": "Trending Google search (Argentina) — 20000+ searches · via TyC Sports."
    },
    "es": {
-    "name": "michel temer",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía VEJA."
+    "name": "estudiantes - gimnasia y esgrima",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 20000+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 4,
-  "sourceUrl": "https://forbes.com.br/forbes-life/forbes-sport/2026/10/tom-brady-biografia-revela-bastidores-da-carreira-e-do-divorcio-com-gisele-bundchen/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThG0dcCXZG5lSxVrDCLRieYGq0hq_sy7aZpXSJ8s99MhpO1rW2U1nvRw1pAUU",
-   "credit": "Forbes Brasil"
-  },
-  "t": {
-   "pt": {
-    "name": "gisele bündchen",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Forbes Brasil."
-   },
-   "en": {
-    "name": "gisele bündchen",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via Forbes Brasil."
-   },
-   "es": {
-    "name": "gisele bündchen",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Forbes Brasil."
-   }
-  },
-  "id": "tr21",
-  "hue": 320
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 5,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/c6wyzyjez0n4t",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFUK8W-QCfuTbKLRNhEZyeJFPeFCvLtFCWxQmj8AugfmVYEk-oqDKHj2JDy8",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "france vs belgium",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via BBC."
-   },
-   "en": {
-    "name": "france vs belgium",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via BBC."
-   },
-   "es": {
-    "name": "france vs belgium",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía BBC."
-   }
-  },
-  "id": "tr22",
-  "hue": 357
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 6,
-  "sourceUrl": "https://www1.folha.uol.com.br/mercado/2026/10/lula-avalia-anunciar-alckmin-como-ministro-da-fazenda-em-novo-mandato-se-for-reeleito-diz-agencia.shtml",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThyXPOdNzmOQm_OoG6Fy27HIJ3DsKRCcnl4makjlkY7tIwtdxYrtG9o_t6soI",
-   "credit": "Folha de S.Paulo"
-  },
-  "t": {
-   "pt": {
-    "name": "geraldo alckmin",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Folha de S.Paulo."
-   },
-   "en": {
-    "name": "geraldo alckmin",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via Folha de S.Paulo."
-   },
-   "es": {
-    "name": "geraldo alckmin",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Folha de S.Paulo."
-   }
-  },
-  "id": "tr23",
-  "hue": 34
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 7,
-  "sourceUrl": "https://ge.globo.com/ba/borassa/noticia/2026/10/05/bora-run-prova-de-corrida-encerra-movimento-em-salvador-veja-como-participar.ghtml",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhS4lvA7ylX7peDM3PruiWpRF8mBhh7jve9GrmECTJvRX8Q9kRkGfHdQPdKX8",
-   "credit": "ge"
-  },
-  "t": {
-   "pt": {
-    "name": "ivete sangalo",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ge."
-   },
-   "en": {
-    "name": "ivete sangalo",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via ge."
-   },
-   "es": {
-    "name": "ivete sangalo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ge."
-   }
-  },
-  "id": "tr24",
-  "hue": 71
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/pai-do-menino-henry-leniel-borel-consegue-vaga-na-camara-dos-deputados.ghtml",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhpkMZ46SSkNQEXmwQucv2DE9vPlo2F9yPXC63VTlRwuGv1mJSGChRfvYZH40",
-   "credit": "O GLOBO"
-  },
-  "t": {
-   "pt": {
-    "name": "henry borel",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via O GLOBO."
-   },
-   "en": {
-    "name": "henry borel",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via O GLOBO."
-   },
-   "es": {
-    "name": "henry borel",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía O GLOBO."
-   }
-  },
-  "id": "tr25",
-  "hue": 108
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com/mlb/recap/_/gameId/401907896",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7IOgMrI7XJjCpKG5sC62kaUoPbXDfEP4vZOO-y1gN6OjXdRZPtgOWrmr53yM",
-   "credit": "ESPN"
-  },
-  "t": {
-   "pt": {
-    "name": "sean newcomb",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via ESPN."
-   },
-   "en": {
-    "name": "sean newcomb",
-    "note": "Trending Google search (US) — 500+ searches · via ESPN."
-   },
-   "es": {
-    "name": "sean newcomb",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ESPN."
-   }
-  },
-  "id": "tr26",
-  "hue": 145
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.cnbc.com/2026/10/04/stock-market-today-live-updates.html",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9ZXrhGzhTogqZXA3lXHrGN345gbfrzJVvO1Uh_5TyQw5tSmWFBHDoqzMjzXU",
-   "credit": "CNBC"
-  },
-  "t": {
-   "pt": {
-    "name": "s&amp;p 500",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via CNBC."
-   },
-   "en": {
-    "name": "s&amp;p 500",
-    "note": "Trending Google search (US) — 2000+ searches · via CNBC."
-   },
-   "es": {
-    "name": "s&amp;p 500",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía CNBC."
-   }
-  },
-  "id": "tr27",
-  "hue": 182
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.fubo.tv/news/concacaf-nations-league/martinique-vs-el-salvador-live-stream-how-to-watch-concacaf-nations-league/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSSMiIv1kFkqDiYFCrG4H_oeX4XRxz-0H_cupf1Pu6hyy9EVOUTvZk7IMTweTc",
-   "credit": "Fubo"
-  },
-  "t": {
-   "pt": {
-    "name": "martinique vs el salvador",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Fubo."
-   },
-   "en": {
-    "name": "martinique vs el salvador",
-    "note": "Trending Google search (US) — 1000+ searches · via Fubo."
-   },
-   "es": {
-    "name": "martinique vs el salvador",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Fubo."
-   }
-  },
-  "id": "tr28",
-  "hue": 219
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://www.bbc.com/news/articles/c80095q7p7jo",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzjkHw1V5HLcZ6NYv6kKt6VjRZilrCFc6kALkrscK_XA3e0S0Qmhu9M2Q0t1A",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "jeffrey archer",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via BBC."
-   },
-   "en": {
-    "name": "jeffrey archer",
-    "note": "Trending Google search (US) — 500+ searches · via BBC."
-   },
-   "es": {
-    "name": "jeffrey archer",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía BBC."
-   }
-  },
-  "id": "tr29",
-  "hue": 256
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/eagles-rb-tank-bigsby-to-have-surgery-on-a-core-muscle-injury",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYHimHbU2LA0jUE7Qdxj9C9uS7G5X-1Y4HgFd-vA1Ai6e04vBQNOTrdwlMaeg",
-   "credit": "NBC Sports"
-  },
-  "t": {
-   "pt": {
-    "name": "tank bigsby",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via NBC Sports."
-   },
-   "en": {
-    "name": "tank bigsby",
-    "note": "Trending Google search (US) — 1000+ searches · via NBC Sports."
-   },
-   "es": {
-    "name": "tank bigsby",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía NBC Sports."
-   }
-  },
-  "id": "tr30",
-  "hue": 293
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://weather.com/2026/10/05/storms/hurricane/tropical-storm-isaias-could-form-in-gulf",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGpla6t_NkVPRkSYAHiXRh2W1EpLHK3CgstkvkJXQsMveq9k9Beyb9_ccB52E",
-   "credit": "The Weather Channel"
-  },
-  "t": {
-   "pt": {
-    "name": "gulf coast tropical storm forecast",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via The Weather Channel."
-   },
-   "en": {
-    "name": "gulf coast tropical storm forecast",
-    "note": "Trending Google search (US) — 5000+ searches · via The Weather Channel."
-   },
-   "es": {
-    "name": "gulf coast tropical storm forecast",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía The Weather Channel."
-   }
-  },
-  "id": "tr31",
-  "hue": 330
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://people.com/justin-timberlake-and-jessica-biel-celebrate-14th-wedding-anniversary-12159809",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSL0bSFnb90c153TwcsCpoaEJPSXfaHaX__Xie40zAq9wVwDTiYEnvHrhsgtc8",
-   "credit": "People.com"
-  },
-  "t": {
-   "pt": {
-    "name": "jessica biel",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via People.com."
-   },
-   "en": {
-    "name": "jessica biel",
-    "note": "Trending Google search (US) — 500+ searches · via People.com."
-   },
-   "es": {
-    "name": "jessica biel",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía People.com."
-   }
-  },
-  "id": "tr32",
-  "hue": 7
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.justsecurity.org/159224/working-backwards-trump-doj-civil-rights-enforcement/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR51oLF1a1i1r4ZZDT6zyhiuVIJ_-HeAYfNm4jeHM_QjOHZ84fpKg9DW9Q3sLM",
-   "credit": "Just Security"
-  },
-  "t": {
-   "pt": {
-    "name": "united states department of justice",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Just Security."
-   },
-   "en": {
-    "name": "united states department of justice",
-    "note": "Trending Google search (US) — 500+ searches · via Just Security."
-   },
-   "es": {
-    "name": "united states department of justice",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Just Security."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-estudiantes-vs-gimnasia-mendoza-fecha-11-id764239.html",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPEGgZtiCCPfE_9rLImYiPlpbb4ACKRm6wLOFq4jh8JCpPSXys6zRo80gW5Gk",
-   "credit": "TyC Sports"
-  },
-  "t": {
-   "pt": {
-    "name": "estudiantes - gimnasia y esgrima",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via TyC Sports."
-   },
-   "en": {
-    "name": "estudiantes - gimnasia y esgrima",
-    "note": "Trending Google search (Argentina) — 500+ searches · via TyC Sports."
-   },
-   "es": {
-    "name": "estudiantes - gimnasia y esgrima",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía TyC Sports."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 2,
+  "rank": 6,
   "sourceUrl": "https://actc.org.ar/tc/noticias/venta-de-entradas-para-la-plata",
   "image": {
    "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqSO7ZYCZLNcv-x0rsLcFIY6XME6zYryr_k41USi1EI_rpf9ot4R_tn9Adgt8",
@@ -951,54 +561,54 @@
   "t": {
    "pt": {
     "name": "la plata",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via ACTC."
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via ACTC."
    },
    "en": {
     "name": "la plata",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via ACTC."
+    "note": "Trending Google search (Argentina) — 2000+ searches · via ACTC."
    },
    "es": {
     "name": "la plata",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía ACTC."
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía ACTC."
    }
   },
-  "id": "tr35",
-  "hue": 118
+  "id": "tr21",
+  "hue": 320
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.infobae.com/deportes/2026/10/02/el-recibimiento-a-zidane-en-el-empate-entre-francia-y-los-golazos-de-de-bruyne-y-lewandoski-las-perlitas-de-la-nations-league/",
+  "rank": 7,
+  "sourceUrl": "https://www.tycsports.com/uefa-nations-league/partidos-de-la-nations-league-de-hoy-lunes-5-de-octubre-hora-donde-ver-en-vivo-y-resultados-op-id764267.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ2uGKtQZwxEP-fpm72VdVeXmpUboxgxBFudVoVNXtjC1Ui5-s0tXqiigFagV0",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnYhemW6FELZB7g4631RtLPh8hr0cCRtFFw00nxVCuHF3gav-ALfu2IWBvgjk",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
     "name": "italia vs",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Infobae."
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via TyC Sports."
    },
    "en": {
     "name": "italia vs",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Infobae."
+    "note": "Trending Google search (Argentina) — 500+ searches · via TyC Sports."
    },
    "es": {
     "name": "italia vs",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Infobae."
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía TyC Sports."
    }
   },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr22",
+  "hue": 357
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
+  "rank": 8,
   "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/05/nva-chicago-vs-d-maipu-en-vivo-por-la-fecha-32-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4tQIE6u-_HTaBa-KRmU-Aj57UNTD6Pysb8aC3WRY2ifELZOILuf18PG6fhHI",
@@ -1007,242 +617,214 @@
   "t": {
    "pt": {
     "name": "nueva chicago - deportivo maipú",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via TN."
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via TN."
    },
    "en": {
     "name": "nueva chicago - deportivo maipú",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via TN."
+    "note": "Trending Google search (Argentina) — 5000+ searches · via TN."
    },
    "es": {
     "name": "nueva chicago - deportivo maipú",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía TN."
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía TN."
    }
   },
-  "id": "tr37",
-  "hue": 192
+  "id": "tr23",
+  "hue": 34
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.espn.com.ar/futbol/argentina/nota/_/id/17343234/video-gol-tiro-libre-milton-celiz-deportivo-riestra-vs-central-cordoba-torneo-clausura-2026",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihf0x81qMOOT5a-EGq0y1IxZ82NVOBjPBFRUph2_gi1Up7b1Iysfp3PPtNO4",
-   "credit": "ESPN Argentina"
-  },
-  "t": {
-   "pt": {
-    "name": "deportivo riestra - central córdoba",
-    "note": "Busca em alta no Google (Argentina) — 20000+ buscas · via ESPN Argentina."
-   },
-   "en": {
-    "name": "deportivo riestra - central córdoba",
-    "note": "Trending Google search (Argentina) — 20000+ searches · via ESPN Argentina."
-   },
-   "es": {
-    "name": "deportivo riestra - central córdoba",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 20000+ búsquedas · vía ESPN Argentina."
-   }
-  },
-  "id": "tr38",
-  "hue": 229
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.meteored.com.ar/noticias/prediccion/se-viene-un-miercoles-de-extremos-frio-tormentas-granizo-y-mas-de-1-metro-de-nieve-en-argentina-donde-y-cuando.html",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6BzMWpvuMOVKJzYeeZoMcX_4iHuB8rwXUHz7UsrNs9S9_MRnc0PXLSUKJtPA",
-   "credit": "Meteored Argentina"
-  },
-  "t": {
-   "pt": {
-    "name": "tormenta",
-    "note": "Busca em alta no Google (Argentina) — 10000+ buscas · via Meteored Argentina."
-   },
-   "en": {
-    "name": "tormenta",
-    "note": "Trending Google search (Argentina) — 10000+ searches · via Meteored Argentina."
-   },
-   "es": {
-    "name": "tormenta",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 10000+ búsquedas · vía Meteored Argentina."
-   }
-  },
-  "id": "tr39",
-  "hue": 266
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 1,
-  "sourceUrl": "https://www.theguardian.com/football/live/2026/oct/05/france-v-belgium-italy-v-turkey-northern-ireland-v-georgia-nations-league-live",
+  "sourceUrl": "https://www.espn.com/mlb/game/_/gameId/401907986/yankees-rays",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvfHpfTtHWTlrV_k_ahDt0RpCS0fyMmf6DKyxFpyh7HNz0l_tq_V8pTdpPJWc",
-   "credit": "The Guardian"
-  },
-  "t": {
-   "pt": {
-    "name": "michael olise",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via The Guardian."
-   },
-   "en": {
-    "name": "michael olise",
-    "note": "Trending Google search (Mexico) — 500+ searches · via The Guardian."
-   },
-   "es": {
-    "name": "michael olise",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía The Guardian."
-   }
-  },
-  "id": "tr40",
-  "hue": 303
- },
- {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.espn.com/mlb/game/_/gameId/401907991/white-sox-guardians",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkcHxNkeh-fvrc7rM_QSSwEgBfLI53EkWqmdRFD9F-n0DlLaZXaGR_NtmnkfU",
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQayxUxevwCIYKwpkTho9aNf8R908c-ZN_Fw-nqAxWpywUkHHjro8ltQVqZF6w",
    "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "guardians - white sox",
+    "name": "yankees",
     "note": "Busca em alta no Google (México) — 1000+ buscas · via ESPN."
    },
    "en": {
-    "name": "guardians - white sox",
+    "name": "yankees",
     "note": "Trending Google search (Mexico) — 1000+ searches · via ESPN."
    },
    "es": {
-    "name": "guardians - white sox",
+    "name": "yankees",
     "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía ESPN."
    }
   },
-  "id": "tr41",
-  "hue": 340
+  "id": "tr24",
+  "hue": 71
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.espn.com.mx/futbol/mundial/nota/_/id/17342766/benin-jugador-tijani-espera-disfrutar-despedida-messi-argentina-amistoso",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu83tdQ4ICJfVa7JgIUTd3nlTkuLB8wD0Ks3yvdE2O4LrhUBq2uq-AH1V1-g",
+   "credit": "ESPN México"
+  },
+  "t": {
+   "pt": {
+    "name": "argentina vs benin",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via ESPN México."
+   },
+   "en": {
+    "name": "argentina vs benin",
+    "note": "Trending Google search (Mexico) — 500+ searches · via ESPN México."
+   },
+   "es": {
+    "name": "argentina vs benin",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía ESPN México."
+   }
+  },
+  "id": "tr25",
+  "hue": 108
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 3,
-  "sourceUrl": "https://www.telemundodallas.com/noticias/local/inmigracion-armas-votacion-agenda-corte-suprema/2607134/",
+  "sourceUrl": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/17343266/mexico-vs-chile-luis-romo-baja-lesion-rafael-marquez",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR403zAz30BiNcVzmFpwBOXsD0Tztbd2IrNYGSltG_ImYLdioFh3evvhgRLJPQ",
-   "credit": "Telemundo Dallas"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnznCj2AkA9Gvv0Q7wrqUTUxuFh1nCLfcMipDUYpk_sQPGkII4z6NO4iVt0LM",
+   "credit": "ESPN México"
   },
   "t": {
    "pt": {
-    "name": "corte suprema",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Telemundo Dallas."
+    "name": "mexico vs chile",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via ESPN México."
    },
    "en": {
-    "name": "corte suprema",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Telemundo Dallas."
+    "name": "mexico vs chile",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via ESPN México."
    },
    "es": {
-    "name": "corte suprema",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Telemundo Dallas."
+    "name": "mexico vs chile",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía ESPN México."
    }
   },
-  "id": "tr42",
-  "hue": 17
+  "id": "tr26",
+  "hue": 145
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 4,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/c6wyzyjez0n4t",
+  "sourceUrl": "https://fomoera.com/nolo-categoria-3-atolones-hawai/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuFUK8W-QCfuTbKLRNhEZyeJFPeFCvLtFCWxQmj8AugfmVYEk-oqDKHj2JDy8",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuOdl_82LPKztE0d6yvPB6TmYd1POC2UgCg2FyhEeRT09nmzcyxMAqU4TKfHQ",
+   "credit": "https://fomoera.com/"
   },
   "t": {
    "pt": {
-    "name": "france vs belgium",
-    "note": "Busca em alta no Google (México) — 5000+ buscas · via BBC."
+    "name": "huracán nolo",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via https://fomoera.com/."
    },
    "en": {
-    "name": "france vs belgium",
-    "note": "Trending Google search (Mexico) — 5000+ searches · via BBC."
+    "name": "huracán nolo",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via https://fomoera.com/."
    },
    "es": {
-    "name": "france vs belgium",
-    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía BBC."
+    "name": "huracán nolo",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía https://fomoera.com/."
    }
   },
-  "id": "tr43",
-  "hue": 54
+  "id": "tr27",
+  "hue": 182
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 5,
-  "sourceUrl": "https://www.mediotiempo.com/futbol/liga-de-las-naciones-de-la-uefa/a-que-hora-juega-bosnia-vs-polonia-horario-y-canal-partido-uefa-nations-league-2026",
+  "sourceUrl": "https://www.espn.com.mx/futbol/guatemala/nota/_/id/17317589/jesus-chucho-lopez-convocado-seleccion-guatemala-duelos-surinam-liga-de-naciones-concacaf",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSFKsIBh9zSnnNOyZFXQsKUV1EOxrqjM8nUOIDl4CU6-HcE0ztJgXriZS4MLpY",
-   "credit": "Mediotiempo"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdhvDWifoYmUraR4T7722Uoff-YLy2BD6vfMVd3VOOCSkH7Fchc-9iD_7sa2c",
+   "credit": "ESPN México"
   },
   "t": {
    "pt": {
-    "name": "bosnia y herzegovina - polonia",
-    "note": "Busca em alta no Google (México) — 5000+ buscas · via Mediotiempo."
+    "name": "guatemala - surinam",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via ESPN México."
    },
    "en": {
-    "name": "bosnia y herzegovina - polonia",
-    "note": "Trending Google search (Mexico) — 5000+ searches · via Mediotiempo."
+    "name": "guatemala - surinam",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via ESPN México."
    },
    "es": {
-    "name": "bosnia y herzegovina - polonia",
-    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía Mediotiempo."
+    "name": "guatemala - surinam",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía ESPN México."
    }
   },
-  "id": "tr44",
-  "hue": 91
+  "id": "tr28",
+  "hue": 219
  },
  {
-  "collectedAt": "2026-10-05T21:38:48.899Z",
+  "collectedAt": "2026-10-06T00:47:57.867Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 6,
-  "sourceUrl": "https://www.record.com.mx/historia/canelo-alvarez-pierde-apuesta-millonaria-por-culpa-de-la-seleccion-mexicana-cuanto-dinero-perdio-2026100423243655835",
+  "sourceUrl": "https://www.mlb.com/news/yankees-vs-rays-alds-game-2-starting-lineups-and-pitching-matchup",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTl9JjMAaKuX74OFEZMOq_bGCZfl24R-40JZVAXLgr_Qf7BGDMOZlDLO0cGF88",
-   "credit": "Récord"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtk3A7hY1MtSLWnEEvaJW92IHTdnOaMQAKoMGukAmhgE57E3vbjhwR2HfMKTM",
+   "credit": "MLB.com"
   },
   "t": {
    "pt": {
-    "name": "canelo álvarez",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Récord."
+    "name": "rays - yankees",
+    "note": "Busca em alta no Google (México) — 5000+ buscas · via MLB.com."
    },
    "en": {
-    "name": "canelo álvarez",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Récord."
+    "name": "rays - yankees",
+    "note": "Trending Google search (Mexico) — 5000+ searches · via MLB.com."
    },
    "es": {
-    "name": "canelo álvarez",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Récord."
+    "name": "rays - yankees",
+    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía MLB.com."
    }
   },
-  "id": "tr45",
-  "hue": 128
+  "id": "tr29",
+  "hue": 256
+ },
+ {
+  "collectedAt": "2026-10-06T00:47:57.867Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 7,
+  "sourceUrl": "https://www.bbc.com/mundo/articles/c933xvxpdlveo",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQYV8pfr-mcNtTOcpNQqjHmgVrUP1ThJHMTVvgqmz2fPkGEAOpp1tFS9fBJVA",
+   "credit": "BBC"
+  },
+  "t": {
+   "pt": {
+    "name": "pozo",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via BBC."
+   },
+   "en": {
+    "name": "pozo",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via BBC."
+   },
+   "es": {
+    "name": "pozo",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía BBC."
+   }
+  },
+  "id": "tr30",
+  "hue": 293
  }
 ]
