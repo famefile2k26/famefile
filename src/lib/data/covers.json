@@ -139,7 +139,8 @@
   "i can t get enough|benny blanco": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/3c/7a/a6/3c7aa662-5068-b267-d2cc-bb4a72d9499d/19UMGIM15670.rgb.jpg/600x600bb.jpg",
   "uma e quinze da manha|natanzinho lima": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d4/f4/94/d4f4940a-3ee7-1e73-cf2a-a03d6e8aa4f5/5034644883786.jpg/600x600bb.jpg",
   "mentira estampada|natanzinho lima": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/69/62/d3/6962d343-9967-8401-c731-bf2b62d22e91/8721093847557.jpg/600x600bb.jpg",
-  "pilantra e meio|natanzinho lima": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/6e/e8/466ee8b5-f28a-5b2c-6f00-396157f121fc/5034644224947.jpg/600x600bb.jpg"
+  "pilantra e meio|natanzinho lima": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/46/6e/e8/466ee8b5-f28a-5b2c-6f00-396157f121fc/5034644224947.jpg/600x600bb.jpg",
+  "meu namorado e o maior otario|mc carol": "https://cdn-images.dzcdn.net/images/artist/a71fb2a29860bb531719099f279ee437/1000x1000-000000-80-0-0.jpg"
  },
  "albums": {
   "the life of a showgirl the encore|taylor swift": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
@@ -2254,6 +2255,96 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Volodymyr_Klychko_%28Vladimir_Klitschko%29_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_%28cropped%29.jpg/960px-Volodymyr_Klychko_%28Vladimir_Klitschko%29_of_Ukraine_at_the_59th_Munich_Security_Conference_in_Munich_on_17_February_2023_-_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "credit": "Foto: Wikimedia Commons",
    "source": "en.wikipedia.org/wiki/Wladimir_Klitschko"
+  },
+  "mc-carol": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Cisheterofobia_Existe_-_A_FESTA_-_MC_Linn_da_Quebrada_%26_MC_Carol_-_01.04.2017_-_%28RJ%29_%2833416465070%29.jpg/960px-Cisheterofobia_Existe_-_A_FESTA_-_MC_Linn_da_Quebrada_%26_MC_Carol_-_01.04.2017_-_%28RJ%29_%2833416465070%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/MC_Carol"
+  },
+  "brittany-snow": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Brittany_Snow_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Brittany_Snow"
+  },
+  "malin-akerman": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Malin_%C3%85kerman_Eurovision_Song_Contest_2024_Final_Malm%C3%B6.jpg/960px-Malin_%C3%85kerman_Eurovision_Song_Contest_2024_Final_Malm%C3%B6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Malin_Akerman"
+  },
+  "ibai-llanos": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Ibai_Llanos"
+  },
+  "pedro-rezende": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Pedro_Rezende_2022.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Rezende_(youtuber)"
+  },
+  "fallen": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/FalleN_IEM_Chicago_%2848353708812%29_%28cropped%29.jpg/960px-FalleN_IEM_Chicago_%2848353708812%29_%28cropped%29.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/FalleN"
+  },
+  "mel-maia": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Mel_Maia%2C_ArteBlitz%2C_Fev.2023_-_02.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Mel_Maia"
+  },
+  "fausto-silva": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Faustosilva.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Faustão"
+  },
+  "joe-manganiello": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Joe_Manganiello_by_Gage_Skidmore_2.jpg/960px-Joe_Manganiello_by_Gage_Skidmore_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Joe_Manganiello"
+  },
+  "paul-bettany": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/PaulBettany-byPhilipRomano.jpg/960px-PaulBettany-byPhilipRomano.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Paul_Bettany"
+  },
+  "james-spader": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/James_Spader_by_Gage_Skidmore.jpg/960px-James_Spader_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/James_Spader"
+  },
+  "jeremy-strong": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Jeremy_Strong_Springsteen-48.jpg/960px-Jeremy_Strong_Springsteen-48.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Jeremy_Strong"
+  },
+  "mikey-madison": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Mikey_Madison_at_the_2024_New_York_Film_Festival_2_%28cropped_4%29.jpg/960px-Mikey_Madison_at_the_2024_New_York_Film_Festival_2_%28cropped_4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Mikey_Madison"
+  },
+  "tata-werneck": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Tat%C3%A1_Werneck_at_Lady_Night_in_2023.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Tatá_Werneck"
+  },
+  "maya-massafera": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Maya_Massafera_-_Stories_da_Mans%C3%A3o_2026.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Maya_Massafera"
+  },
+  "kris-jenner": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kris_Jenner_by_Gage_Skidmore.jpg/960px-Kris_Jenner_by_Gage_Skidmore.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Kris_Jenner"
+  },
+  "kourtney-kardashian": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Kourtney_Kardashian_2_2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Kourtney_Kardashian"
+  },
+  "bruce-willis": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/960px-Bruce_Willis_by_Gage_Skidmore_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Bruce_Willis"
   }
  }
 }
