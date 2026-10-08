@@ -15194,5 +15194,1049 @@
     "Diagnosticado con demencia frontotemporal, anunciado por su familia en 2023"
    ]
   ]
+ },
+ {
+  "slug": "matue",
+  "name": "Matuê",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "legalName": "Matheus Brasileiro Aguiar",
+  "birthPlace": "Fortaleza, CE",
+  "genres": [
+   "trap",
+   "rap"
+  ],
+  "works": [
+   {
+    "title": "Máquina do Tempo",
+    "year": 2020,
+    "kind": "album"
+   },
+   {
+    "title": "333",
+    "year": 2024,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "O nome mais forte do trap brasileiro",
+   "Rapper cearense à frente do selo 30PRAUM, Matuê lidera a cena do trap no Brasil com álbuns que batem recordes de streaming.",
+   [
+    "Álbum de estreia 'Máquina do Tempo' (2020)",
+    "Lançou o álbum '333' (2024)",
+    "Fundador do selo 30PRAUM"
+   ]
+  ],
+  "en": [
+   "Brazilian trap's biggest name",
+   "A rapper from Ceará who runs the 30PRAUM label, Matuê leads Brazil's trap scene with record-breaking streaming albums.",
+   [
+    "Debut album 'Máquina do Tempo' (2020)",
+    "Released the album '333' (2024)",
+    "Founder of the 30PRAUM label"
+   ]
+  ],
+  "es": [
+   "El nombre más fuerte del trap brasileño",
+   "Rapero de Ceará al frente del sello 30PRAUM, Matuê lidera la escena del trap en Brasil con álbumes que baten récords de streaming.",
+   [
+    "Álbum debut 'Máquina do Tempo' (2020)",
+    "Lanzó el álbum '333' (2024)",
+    "Fundador del sello 30PRAUM"
+   ]
+  ]
+ },
+ {
+  "slug": "claudette-soares",
+  "name": "Claudette Soares",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "birthDate": "1935-10-31",
+  "genres": [
+   "MPB",
+   "bossa nova"
+  ],
+  "works": [
+   {
+    "title": "Bem Feliz",
+    "year": 2026,
+    "kind": "single"
+   },
+   {
+    "title": "O Mundo É Ruim pra Quem Não Sabe Esperar",
+    "year": 2026,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Oito décadas de música brasileira",
+   "Cantora que começou profissionalmente aos 10 anos em programas infantis de rádio e, aos 90, prepara seu primeiro álbum só de inéditas.",
+   [
+    "Carreira iniciada no rádio aos 10 anos",
+    "Single 'Bem Feliz' (2026), de Zé Manoel e Ronaldo Bastos",
+    "Álbum de inéditas 'O Mundo É Ruim pra Quem Não Sabe Esperar' (2026)"
+   ]
+  ],
+  "en": [
+   "Eight decades of Brazilian music",
+   "A singer who began performing professionally at 10 on children's radio shows and, at 90, is preparing her first album of all-new songs.",
+   [
+    "Career began on radio at age 10",
+    "Single 'Bem Feliz' (2026), by Zé Manoel and Ronaldo Bastos",
+    "Album of new songs 'O Mundo É Ruim pra Quem Não Sabe Esperar' (2026)"
+   ]
+  ],
+  "es": [
+   "Ocho décadas de música brasileña",
+   "Cantante que empezó a actuar profesionalmente a los 10 años en programas infantiles de radio y, a los 90, prepara su primer álbum de canciones inéditas.",
+   [
+    "Carrera iniciada en la radio a los 10 años",
+    "Sencillo 'Bem Feliz' (2026), de Zé Manoel y Ronaldo Bastos",
+    "Álbum de inéditas 'O Mundo É Ruim pra Quem Não Sabe Esperar' (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "celine-dion",
+  "name": "Céline Dion",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "CA",
+  "birthDate": "1968-03-30",
+  "birthPlace": "Charlemagne, Quebec",
+  "activeSince": 1981,
+  "genres": [
+   "pop",
+   "soft rock"
+  ],
+  "works": [
+   {
+    "title": "Falling into You",
+    "year": 1996,
+    "kind": "album"
+   },
+   {
+    "title": "Let's Talk About Love",
+    "year": 1997,
+    "kind": "album"
+   },
+   {
+    "title": "My Heart Will Go On",
+    "year": 1997,
+    "kind": "single"
+   },
+   {
+    "title": "S'il suffisait d'aimer",
+    "year": 1998,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "A voz de 'My Heart Will Go On'",
+   "Cantora canadense de Quebec, uma das artistas mais vendidas da história, que voltou aos palcos em 2026 após o diagnóstico de síndrome da pessoa rígida.",
+   [
+    "Tema de 'Titanic', 'My Heart Will Go On' (1997)",
+    "Residência em Paris marca sua volta aos shows completos em 2026"
+   ]
+  ],
+  "en": [
+   "The voice of 'My Heart Will Go On'",
+   "Canadian singer from Quebec, one of the best-selling artists in history, who returned to the stage in 2026 after her stiff-person syndrome diagnosis.",
+   [
+    "'Titanic' theme 'My Heart Will Go On' (1997)",
+    "Paris residency marks her return to full-length shows in 2026"
+   ]
+  ],
+  "es": [
+   "La voz de 'My Heart Will Go On'",
+   "Cantante canadiense de Quebec, una de las artistas más vendidas de la historia, que volvió a los escenarios en 2026 tras su diagnóstico de síndrome de la persona rígida.",
+   [
+    "Tema de 'Titanic', 'My Heart Will Go On' (1997)",
+    "Su residencia en París marca su regreso a los shows completos en 2026"
+   ]
+  ],
+  "ig": "celinedion"
+ },
+ {
+  "slug": "n-flying",
+  "name": "N.Flying",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "KR",
+  "activeSince": 2015,
+  "genres": [
+   "k-pop",
+   "rock"
+  ],
+  "works": [
+   {
+    "title": "Rooftop",
+    "year": 2019,
+    "kind": "single"
+   },
+   {
+    "title": "Still",
+    "year": 2026,
+    "kind": "ep"
+   }
+  ],
+  "pt": [
+   "Banda de rock do K-pop",
+   "Banda sul-coreana da FNC Entertainment formada por Lee Seung Hyub, Cha Hun, Kim Jae Hyun, Seo Dong Sung e Yoo Hwe Seung, que estreou na Coreia em 2015.",
+   [
+    "Hit 'Rooftop' (2019)",
+    "Nono mini-álbum, 'Still' (2026), todo composto por Lee Seung Hyub"
+   ]
+  ],
+  "en": [
+   "K-pop rock band",
+   "South Korean band from FNC Entertainment made up of Lee Seung Hyub, Cha Hun, Kim Jae Hyun, Seo Dong Sung and Yoo Hwe Seung, which debuted in Korea in 2015.",
+   [
+    "Hit 'Rooftop' (2019)",
+    "Ninth mini-album 'Still' (2026), entirely written by Lee Seung Hyub"
+   ]
+  ],
+  "es": [
+   "Banda de rock del K-pop",
+   "Banda surcoreana de FNC Entertainment integrada por Lee Seung Hyub, Cha Hun, Kim Jae Hyun, Seo Dong Sung y Yoo Hwe Seung, que debutó en Corea en 2015.",
+   [
+    "Éxito 'Rooftop' (2019)",
+    "Noveno mini álbum 'Still' (2026), compuesto íntegramente por Lee Seung Hyub"
+   ]
+  ]
+ },
+ {
+  "slug": "yuqi",
+  "name": "Yuqi",
+  "legalName": "Song Yuqi",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "CN",
+  "birthDate": "1999-09-23",
+  "birthPlace": "Pequim",
+  "activeSince": 2018,
+  "genres": [
+   "k-pop"
+  ],
+  "aliases": [
+   "Song Yuqi"
+  ],
+  "works": [
+   {
+    "title": "YUQ1",
+    "year": 2024,
+    "kind": "ep"
+   },
+   {
+    "title": "27",
+    "year": 2026,
+    "kind": "ep"
+   }
+  ],
+  "pt": [
+   "Estrela chinesa do i-dle",
+   "Cantora chinesa nascida em Pequim, integrante do girl group i-dle, da Cube Entertainment, desde a estreia em 2018, e com carreira solo paralela.",
+   [
+    "Integrante do i-dle desde 2018",
+    "Mini-álbuns solo 'YUQ1' (2024) e '27' (2026)"
+   ]
+  ],
+  "en": [
+   "i-dle's Chinese star",
+   "Beijing-born Chinese singer, member of Cube Entertainment girl group i-dle since its 2018 debut, with a parallel solo career.",
+   [
+    "i-dle member since 2018",
+    "Solo mini-albums 'YUQ1' (2024) and '27' (2026)"
+   ]
+  ],
+  "es": [
+   "La estrella china de i-dle",
+   "Cantante china nacida en Pekín, integrante del girl group i-dle, de Cube Entertainment, desde su debut en 2018, con una carrera solista paralela.",
+   [
+    "Integrante de i-dle desde 2018",
+    "Mini álbumes solistas 'YUQ1' (2024) y '27' (2026)"
+   ]
+  ]
+ },
+ {
+  "slug": "j-y-park",
+  "name": "J.Y. Park",
+  "legalName": "Park Jin-young",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "KR",
+  "birthDate": "1971-12-13",
+  "birthPlace": "Seul",
+  "activeSince": 1994,
+  "genres": [
+   "k-pop"
+  ],
+  "aliases": [
+   "Park Jin-young",
+   "JYP"
+  ],
+  "works": [],
+  "pt": [
+   "O fundador da JYP",
+   "Cantor, compositor e produtor sul-coreano que fundou a JYP Entertainment, agência de grupos como TWICE e Stray Kids.",
+   [
+    "Fundador da JYP Entertainment (1997)",
+    "Estreou como cantor em 1994"
+   ]
+  ],
+  "en": [
+   "The founder of JYP",
+   "South Korean singer, songwriter and producer who founded JYP Entertainment, the agency behind groups such as TWICE and Stray Kids.",
+   [
+    "Founder of JYP Entertainment (1997)",
+    "Debuted as a singer in 1994"
+   ]
+  ],
+  "es": [
+   "El fundador de JYP",
+   "Cantante, compositor y productor surcoreano que fundó JYP Entertainment, la agencia de grupos como TWICE y Stray Kids.",
+   [
+    "Fundador de JYP Entertainment (1997)",
+    "Debutó como cantante en 1994"
+   ]
+  ]
+ },
+ {
+  "slug": "lana-del-rey",
+  "name": "Lana Del Rey",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "US",
+  "ig": null,
+  "legalName": "Elizabeth Woolridge Grant",
+  "birthDate": "1985-06-21",
+  "birthPlace": "New York City, New York",
+  "activeSince": 2005,
+  "genres": [
+   "pop",
+   "dream pop",
+   "indie"
+  ],
+  "aliases": [
+   "Lizzy Grant"
+  ],
+  "works": [
+   {
+    "title": "Born to Die",
+    "year": 2012,
+    "kind": "album"
+   },
+   {
+    "title": "Video Games",
+    "year": 2011,
+    "kind": "single"
+   },
+   {
+    "title": "Norman Fucking Rockwell!",
+    "year": 2019,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantora e compositora",
+   "Cantora americana que estourou com 'Video Games' e o álbum 'Born to Die', e virou referência do pop melancólico e cinematográfico.",
+   [
+    "Hit 'Video Games' (2011)",
+    "Apresentadora da rádio country Back Country Radio em GTA 6"
+   ]
+  ],
+  "en": [
+   "Singer-songwriter",
+   "American singer who broke through with 'Video Games' and the album 'Born to Die', becoming a touchstone of melancholic, cinematic pop.",
+   [
+    "Hit 'Video Games' (2011)",
+    "Host of country station Back Country Radio in GTA 6"
+   ]
+  ],
+  "es": [
+   "Cantante y compositora",
+   "Cantante estadounidense que despegó con 'Video Games' y el álbum 'Born to Die', y se convirtió en referencia del pop melancólico y cinematográfico.",
+   [
+    "Éxito 'Video Games' (2011)",
+    "Locutora de la radio country Back Country Radio en GTA 6"
+   ]
+  ]
+ },
+ {
+  "slug": "burna-boy",
+  "name": "Burna Boy",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "NG",
+  "ig": null,
+  "legalName": "Damini Ebunoluwa Ogulu",
+  "birthDate": "1991-07-02",
+  "birthPlace": "Port Harcourt, Nigeria",
+  "activeSince": 2010,
+  "genres": [
+   "afrobeats",
+   "afro-fusion",
+   "dancehall"
+  ],
+  "aliases": [
+   "Burna"
+  ],
+  "works": [
+   {
+    "title": "Twice as Tall",
+    "year": 2020,
+    "kind": "album"
+   },
+   {
+    "title": "African Giant",
+    "year": 2019,
+    "kind": "album"
+   },
+   {
+    "title": "Last Last",
+    "year": 2022,
+    "kind": "single"
+   }
+  ],
+  "pt": [
+   "Astro do afrobeats",
+   "Cantor nigeriano que levou o afrobeats às maiores arenas do mundo e venceu o Grammy com 'Twice as Tall'.",
+   [
+    "Grammy de Melhor Álbum de Música Global por 'Twice as Tall'",
+    "Apresentador da AfroBank FM em GTA 6"
+   ]
+  ],
+  "en": [
+   "Afrobeats star",
+   "Nigerian singer who took afrobeats to the world's biggest arenas and won a Grammy for 'Twice as Tall'.",
+   [
+    "Grammy for Best Global Music Album for 'Twice as Tall'",
+    "Host of AfroBank FM in GTA 6"
+   ]
+  ],
+  "es": [
+   "Estrella del afrobeats",
+   "Cantante nigeriano que llevó el afrobeats a los mayores estadios del mundo y ganó el Grammy con 'Twice as Tall'.",
+   [
+    "Grammy al Mejor Álbum de Música Global por 'Twice as Tall'",
+    "Locutor de AfroBank FM en GTA 6"
+   ]
+  ]
+ },
+ {
+  "slug": "dr-disrespect",
+  "name": "Dr Disrespect",
+  "market": "global",
+  "kinds": [
+   "streamer"
+  ],
+  "country": "US",
+  "ig": null,
+  "legalName": "Herschel Beahm IV",
+  "birthDate": "1982-03-10",
+  "birthPlace": null,
+  "activeSince": 2010,
+  "genres": [
+   "games",
+   "FPS"
+  ],
+  "aliases": [
+   "Guy Beahm",
+   "The Doc"
+  ],
+  "works": [
+   {
+    "title": "Midnight Society",
+    "year": 2021,
+    "kind": "project"
+   }
+  ],
+  "pt": [
+   "Streamer de jogos de tiro",
+   "Guy Beahm, o Dr Disrespect, ficou famoso pelo personagem de peruca e óculos escuros nas lives de FPS; foi banido da Twitch em 2020 sem explicação pública.",
+   [
+    "Ex-designer de níveis da Sledgehammer Games, de Call of Duty",
+    "Banimento permanente da Twitch em junho de 2020"
+   ]
+  ],
+  "en": [
+   "Shooter-game streamer",
+   "Guy Beahm, known as Dr Disrespect, became famous for his wig-and-sunglasses persona on FPS streams; he was banned from Twitch in 2020 with no public explanation.",
+   [
+    "Former level designer at Call of Duty studio Sledgehammer Games",
+    "Permanently banned from Twitch in June 2020"
+   ]
+  ],
+  "es": [
+   "Streamer de juegos de disparos",
+   "Guy Beahm, conocido como Dr Disrespect, se hizo famoso por su personaje de peluca y gafas oscuras en streams de FPS; fue baneado de Twitch en 2020 sin explicación pública.",
+   [
+    "Exdiseñador de niveles en Sledgehammer Games, estudio de Call of Duty",
+    "Baneo permanente de Twitch en junio de 2020"
+   ]
+  ]
+ },
+ {
+  "slug": "maria-bethania",
+  "name": "Maria Bethânia",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "ig": null,
+  "legalName": "Maria Bethânia Viana Teles Veloso",
+  "birthDate": "1946-06-18",
+  "birthPlace": "Santo Amaro, Bahia",
+  "activeSince": 1965,
+  "genres": [
+   "MPB"
+  ],
+  "aliases": [
+   "Bethânia"
+  ],
+  "works": [
+   {
+    "title": "Drama – Luz da Noite",
+    "year": 1973,
+    "kind": "album"
+   },
+   {
+    "title": "Pássaro da Manhã",
+    "year": 1977,
+    "kind": "album"
+   },
+   {
+    "title": "Álibi",
+    "year": 1978,
+    "kind": "album"
+   },
+   {
+    "title": "As Canções Que Você Fez Pra Mim",
+    "year": 1994,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantora, a voz maior da MPB",
+   "Baiana de Santo Amaro, irmã de Caetano Veloso, estourou em 1965 com 'Carcará' e virou uma das intérpretes mais importantes da história da música brasileira.",
+   [
+    "'Álibi' (1978) passou de 1 milhão de cópias vendidas",
+    "Mais de 26 milhões de discos vendidos e 50 álbuns de estúdio"
+   ]
+  ],
+  "en": [
+   "Singer, the great voice of MPB",
+   "Born in Santo Amaro, Bahia, and Caetano Veloso's sister, she broke through in 1965 with 'Carcará' and became one of the most important interpreters in Brazilian music history.",
+   [
+    "'Álibi' (1978) sold more than 1 million copies",
+    "More than 26 million records sold and 50 studio albums"
+   ]
+  ],
+  "es": [
+   "Cantante, la gran voz de la MPB",
+   "Nacida en Santo Amaro, Bahía, y hermana de Caetano Veloso, despegó en 1965 con 'Carcará' y se convirtió en una de las intérpretes más importantes de la música brasileña.",
+   [
+    "'Álibi' (1978) superó el millón de copias vendidas",
+    "Más de 26 millones de discos vendidos y 50 álbumes de estudio"
+   ]
+  ]
+ },
+ {
+  "slug": "chico-buarque",
+  "name": "Chico Buarque",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "ig": null,
+  "legalName": "Francisco Buarque de Hollanda",
+  "birthDate": "1944-06-19",
+  "birthPlace": "Rio de Janeiro, Rio de Janeiro",
+  "activeSince": 1964,
+  "genres": [
+   "MPB",
+   "samba"
+  ],
+  "aliases": [
+   "Chico"
+  ],
+  "works": [
+   {
+    "title": "Chico Buarque de Hollanda",
+    "year": 1966,
+    "kind": "album"
+   },
+   {
+    "title": "Construção",
+    "year": 1971,
+    "kind": "album"
+   },
+   {
+    "title": "Ópera do Malandro",
+    "year": 1979,
+    "kind": "album"
+   },
+   {
+    "title": "Caravanas",
+    "year": 2017,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantor, compositor e escritor",
+   "Carioca autor de clássicos como 'Construção', Chico Buarque é um dos maiores compositores do Brasil e também romancista premiado.",
+   [
+    "Prêmio Camões de 2019",
+    "Prêmio Jabuti pelo romance 'Budapeste'"
+   ]
+  ],
+  "en": [
+   "Singer, songwriter and novelist",
+   "Rio-born author of classics such as 'Construção', Chico Buarque is one of Brazil's greatest songwriters and an award-winning novelist.",
+   [
+    "2019 Camões Prize",
+    "Jabuti Prize for the novel 'Budapeste'"
+   ]
+  ],
+  "es": [
+   "Cantante, compositor y escritor",
+   "Nacido en Río de Janeiro y autor de clásicos como 'Construção', Chico Buarque es uno de los mayores compositores de Brasil y novelista premiado.",
+   [
+    "Premio Camões 2019",
+    "Premio Jabuti por la novela 'Budapeste'"
+   ]
+  ]
+ },
+ {
+  "slug": "zeze-di-camargo",
+  "name": "Zezé Di Camargo",
+  "market": "brazil",
+  "kinds": [
+   "singer"
+  ],
+  "country": "BR",
+  "ig": null,
+  "legalName": "Mirosmar José de Camargo",
+  "birthDate": "1962-08-17",
+  "birthPlace": "Pirenópolis, Goiás",
+  "activeSince": 1991,
+  "genres": [
+   "sertanejo"
+  ],
+  "aliases": [
+   "Zezé Di Camargo & Luciano"
+  ],
+  "works": [
+   {
+    "title": "Zezé Di Camargo & Luciano",
+    "year": 1991,
+    "kind": "album"
+   },
+   {
+    "title": "2 Filhos de Francisco",
+    "year": 2005,
+    "kind": "film"
+   }
+  ],
+  "pt": [
+   "Cantor sertanejo",
+   "Goiano de Pirenópolis, forma com o irmão Luciano uma das duplas mais populares do sertanejo, lançada em 1991 com o estouro de 'É o Amor'.",
+   [
+    "'É o Amor' foi a música mais tocada de 1991",
+    "Sua história virou o filme '2 Filhos de Francisco' (2005)"
+   ]
+  ],
+  "en": [
+   "Sertanejo singer",
+   "Born in Pirenópolis, Goiás, he and his brother Luciano form one of sertanejo's most popular duos, launched in 1991 with the smash 'É o Amor'.",
+   [
+    "'É o Amor' was the most popular song of 1991 in Brazil",
+    "His story became the film '2 Filhos de Francisco' (2005)"
+   ]
+  ],
+  "es": [
+   "Cantante sertanejo",
+   "Nacido en Pirenópolis, Goiás, forma con su hermano Luciano uno de los dúos más populares del sertanejo, lanzado en 1991 con el éxito 'É o Amor'.",
+   [
+    "'É o Amor' fue la canción más popular de 1991 en Brasil",
+    "Su historia se convirtió en la película '2 Filhos de Francisco' (2005)"
+   ]
+  ]
+ },
+ {
+  "slug": "manoel-gomes",
+  "name": "Manoel Gomes",
+  "market": "brazil",
+  "kinds": [
+   "creator",
+   "singer"
+  ],
+  "country": "BR",
+  "ig": null,
+  "legalName": "Manoel Jardim Gomes",
+  "birthDate": "1969-12-02",
+  "birthPlace": "Balsas, Maranhão",
+  "activeSince": 2019,
+  "genres": [
+   "brega"
+  ],
+  "aliases": [
+   "Caneta Azul"
+  ],
+  "works": [
+   {
+    "title": "Caneta Azul",
+    "year": 2019,
+    "kind": "single"
+   }
+  ],
+  "pt": [
+   "Cantor e fenômeno da internet",
+   "Maranhense de Balsas, virou meme nacional em 2019 com 'Caneta Azul', regravada por Wesley Safadão e Simone Mendes.",
+   [
+    "'Caneta Azul' viralizou em todo o Brasil em 2019",
+    "Voltou a bombar no TikTok em 2022"
+   ]
+  ],
+  "en": [
+   "Singer and internet phenomenon",
+   "From Balsas, Maranhão, he became a national meme in 2019 with 'Caneta Azul', later covered by Wesley Safadão and Simone Mendes.",
+   [
+    "'Caneta Azul' went viral across Brazil in 2019",
+    "Blew up again on TikTok in 2022"
+   ]
+  ],
+  "es": [
+   "Cantante y fenómeno de internet",
+   "Nacido en Balsas, Maranhão, se volvió meme nacional en 2019 con 'Caneta Azul', regrabada por Wesley Safadão y Simone Mendes.",
+   [
+    "'Caneta Azul' se viralizó en todo Brasil en 2019",
+    "Volvió a explotar en TikTok en 2022"
+   ]
+  ]
+ },
+ {
+  "slug": "laura-pausini",
+  "name": "Laura Pausini",
+  "market": "global",
+  "kinds": [
+   "singer"
+  ],
+  "country": "IT",
+  "ig": "laurapausini",
+  "legalName": null,
+  "birthDate": "1974-05-16",
+  "birthPlace": "Faenza, Itália",
+  "activeSince": 1993,
+  "genres": [
+   "pop"
+  ],
+  "aliases": [],
+  "works": [
+   {
+    "title": "Laura Pausini",
+    "year": 1993,
+    "kind": "album"
+   },
+   {
+    "title": "La mia risposta",
+    "year": 1998,
+    "kind": "album"
+   },
+   {
+    "title": "Resta in ascolto",
+    "year": 2004,
+    "kind": "album"
+   },
+   {
+    "title": "Escucha",
+    "year": 2004,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantora pop italiana",
+   "Venceu a categoria de novatos de Sanremo em 1993 com 'La solitudine' e virou estrela em italiano e espanhol, com enorme público na América Latina.",
+   [
+    "Grammy de Melhor Álbum Pop Latino com 'Escucha' (2006)",
+    "Globo de Ouro de Melhor Canção Original com 'Io sì (Seen)' (2021)"
+   ]
+  ],
+  "en": [
+   "Italian pop singer",
+   "She won Sanremo's newcomers section in 1993 with 'La solitudine' and became a star in Italian and Spanish, with a huge following in Latin America.",
+   [
+    "Grammy for Best Latin Pop Album with 'Escucha' (2006)",
+    "Golden Globe for Best Original Song with 'Io sì (Seen)' (2021)"
+   ]
+  ],
+  "es": [
+   "Cantante pop italiana",
+   "Ganó la sección de nuevos artistas de Sanremo en 1993 con 'La solitudine' y se volvió estrella en italiano y español, con enorme público en América Latina.",
+   [
+    "Grammy al Mejor Álbum Pop Latino con 'Escucha' (2006)",
+    "Globo de Oro a la Mejor Canción Original con 'Io sì (Seen)' (2021)"
+   ]
+  ]
+ },
+ {
+  "slug": "alejandro-sanz",
+  "name": "Alejandro Sanz",
+  "market": "latin",
+  "kinds": [
+   "singer"
+  ],
+  "country": "ES",
+  "ig": "alejandrosanz",
+  "legalName": "Alejandro Sánchez Pizarro",
+  "birthDate": "1968-12-18",
+  "birthPlace": "Madri, Espanha",
+  "activeSince": 1989,
+  "genres": [
+   "pop latino",
+   "flamenco pop"
+  ],
+  "aliases": [],
+  "works": [
+   {
+    "title": "Más",
+    "year": 1997,
+    "kind": "album"
+   },
+   {
+    "title": "El Alma al Aire",
+    "year": 2000,
+    "kind": "album"
+   },
+   {
+    "title": "No Es lo Mismo",
+    "year": 2003,
+    "kind": "album"
+   },
+   {
+    "title": "Paraíso Express",
+    "year": 2009,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Cantor e compositor espanhol",
+   "Madrilenho que estourou com o álbum 'Más' (1997), é um dos nomes mais premiados da música em espanhol.",
+   [
+    "4 Grammys e 24 Grammys Latinos",
+    "Estreou em 1989 com o disco 'Los Chulos Son Pa' Cuidarlos', como Alejandro Magno"
+   ]
+  ],
+  "en": [
+   "Spanish singer-songwriter",
+   "Madrid-born star who broke through with the album 'Más' (1997), he is one of the most awarded names in Spanish-language music.",
+   [
+    "4 Grammys and 24 Latin Grammys",
+    "Debuted in 1989 with 'Los Chulos Son Pa' Cuidarlos', billed as Alejandro Magno"
+   ]
+  ],
+  "es": [
+   "Cantautor español",
+   "Madrileño que despegó con el álbum 'Más' (1997), es uno de los nombres más premiados de la música en español.",
+   [
+    "4 Grammy y 24 Grammy Latinos",
+    "Debutó en 1989 con 'Los Chulos Son Pa' Cuidarlos', como Alejandro Magno"
+   ]
+  ]
+ },
+ {
+  "slug": "dolly-parton",
+  "name": "Dolly Parton",
+  "market": "global",
+  "kinds": [
+   "actor",
+   "singer"
+  ],
+  "country": "US",
+  "ig": "dollyparton",
+  "legalName": "Dolly Rebecca Parton",
+  "birthDate": "1946-01-19",
+  "birthPlace": "Pittman Center, Tennessee",
+  "activeSince": 1956,
+  "genres": [
+   "country"
+  ],
+  "aliases": [],
+  "works": [
+   {
+    "title": "Coat of Many Colors",
+    "year": 1971,
+    "kind": "single"
+   },
+   {
+    "title": "Jolene",
+    "year": 1973,
+    "kind": "single"
+   },
+   {
+    "title": "9 to 5",
+    "year": 1980,
+    "kind": "film"
+   },
+   {
+    "title": "Rockstar",
+    "year": 2023,
+    "kind": "album"
+   }
+  ],
+  "pt": [
+   "Lenda do country",
+   "Cantora, compositora e atriz do Tennessee, autora de 'Jolene' e '9 to 5', é um dos maiores ícones da música americana.",
+   [
+    "11 prêmios Grammy",
+    "Coproprietária do parque temático Dollywood"
+   ]
+  ],
+  "en": [
+   "Country legend",
+   "Tennessee singer, songwriter and actress behind 'Jolene' and '9 to 5', she is one of the greatest icons of American music.",
+   [
+    "11 Grammy Awards",
+    "Co-owner of the Dollywood theme park"
+   ]
+  ],
+  "es": [
+   "Leyenda del country",
+   "Cantante, compositora y actriz de Tennessee, autora de 'Jolene' y '9 to 5', es uno de los mayores íconos de la música estadounidense.",
+   [
+    "11 premios Grammy",
+    "Copropietaria del parque temático Dollywood"
+   ]
+  ]
+ },
+ {
+  "slug": "lewis-hamilton",
+  "name": "Lewis Hamilton",
+  "market": "global",
+  "kinds": [
+   "athlete"
+  ],
+  "country": "GB",
+  "ig": "lewishamilton",
+  "legalName": "Lewis Carl Davidson Hamilton",
+  "birthDate": "1985-01-07",
+  "birthPlace": "Stevenage, Inglaterra",
+  "activeSince": 2007,
+  "genres": [
+   "Fórmula 1"
+  ],
+  "aliases": [
+   "Sir Lewis Hamilton"
+  ],
+  "works": [
+   {
+    "title": "McLaren",
+    "year": 2007,
+    "kind": "club"
+   },
+   {
+    "title": "Mercedes",
+    "year": 2013,
+    "kind": "club"
+   },
+   {
+    "title": "Ferrari",
+    "year": 2025,
+    "kind": "club"
+   }
+  ],
+  "pt": [
+   "Heptacampeão da Fórmula 1",
+   "Piloto britânico que estreou na F1 em 2007, divide com Michael Schumacher o recorde de sete títulos mundiais e defende a Ferrari desde 2025.",
+   [
+    "7 títulos mundiais (2008, 2014, 2015, 2017, 2018, 2019 e 2020)",
+    "Recordista de vitórias (106) e pole positions (104)"
+   ]
+  ],
+  "en": [
+   "Seven-time Formula 1 champion",
+   "British driver who debuted in F1 in 2007, he shares the record of seven world titles with Michael Schumacher and has raced for Ferrari since 2025.",
+   [
+    "7 world titles (2008, 2014, 2015, 2017, 2018, 2019 and 2020)",
+    "Record holder for wins (106) and pole positions (104)"
+   ]
+  ],
+  "es": [
+   "Heptacampeón de la Fórmula 1",
+   "Piloto británico que debutó en la F1 en 2007, comparte con Michael Schumacher el récord de siete títulos mundiales y corre para Ferrari desde 2025.",
+   [
+    "7 títulos mundiales (2008, 2014, 2015, 2017, 2018, 2019 y 2020)",
+    "Récord de victorias (106) y pole positions (104)"
+   ]
+  ]
+ },
+ {
+  "slug": "adriana-lima",
+  "name": "Adriana Lima",
+  "market": "global",
+  "kinds": [
+   "creator"
+  ],
+  "country": "BR",
+  "ig": "adrianalima",
+  "legalName": null,
+  "birthDate": "1981-06-12",
+  "birthPlace": "Salvador, Bahia",
+  "activeSince": 1996,
+  "genres": [
+   "Moda"
+  ],
+  "aliases": [],
+  "works": [
+   {
+    "title": "Victoria's Secret Angel",
+    "year": 2000,
+    "kind": "project"
+   }
+  ],
+  "pt": [
+   "Supermodelo brasileira",
+   "Baiana que venceu o concurso Supermodel of Brazil da Ford aos 15 anos e foi Angel da Victoria's Secret de 2000 a 2018.",
+   [
+    "Uma das modelos mais bem pagas do mundo segundo a Forbes nos anos 2010",
+    "Voltou à passarela da Victoria's Secret em 2024"
+   ]
+  ],
+  "en": [
+   "Brazilian supermodel",
+   "From Salvador, Bahia, she won Ford's Supermodel of Brazil contest at 15 and was a Victoria's Secret Angel from 2000 to 2018.",
+   [
+    "Among the world's highest-paid models on Forbes lists in the 2010s",
+    "Returned to the Victoria's Secret runway in 2024"
+   ]
+  ],
+  "es": [
+   "Supermodelo brasileña",
+   "Nacida en Salvador, Bahía, ganó el concurso Supermodel of Brazil de Ford a los 15 años y fue Ángel de Victoria's Secret de 2000 a 2018.",
+   [
+    "Entre las modelos mejor pagadas del mundo según Forbes en los años 2010",
+    "Volvió a la pasarela de Victoria's Secret en 2024"
+   ]
+  ]
  }
 ]
