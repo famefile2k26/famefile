@@ -1,321 +1,408 @@
 [
  {
   "id": "tr1",
-  "kind": "video",
-  "platform": "x",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.soapcentral.com/entertainment/news-i-guess-wasn-t-abel-sing-hilarious-memes-erupt-jennie-ends-song-the-weeknd-asking-sing",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "kind": "sound",
+  "platform": "tiktok",
+  "region": "MX",
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/09/te-perdi-entre-la-multitud-el-trend-de-tiktok-que-conquista-las-redes-asi-puedes-hacerlo-paso-a-paso/",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O \"SING!\" de The Weeknd para Jennie",
-    "note": "No show na Coreia, The Weeknd gritou para Jennie cantar no fim de \"One of the Girls\", ela só agradeceu e encerrou a música, e o X virou fábrica de memes (\"ela não foi ABEL de cantar\")."
+    "name": "\"Te perdí entre la multitud\" toma o TikTok",
+    "note": "Edits de suspense que simulam procurar alguém na balada ou no show, ao som de \"La tormenta de arena\", da banda Dorian, com reviravolta no final."
    },
    "en": {
-    "name": "The Weeknd's \"SING!\" to Jennie",
-    "note": "At his Korea show, The Weeknd yelled for Jennie to sing at the end of \"One of the Girls\"; she just thanked him and ended the song, and X turned it into a meme factory (\"she wasn't ABEL to sing\")."
+    "name": "\"Te perdí entre la multitud\" takes over TikTok",
+    "note": "Suspense edits fake a search for someone in a crowded club or concert, set to Dorian's \"La tormenta de arena\", with a twist at the end."
    },
    "es": {
-    "name": "El \"SING!\" de The Weeknd a Jennie",
-    "note": "En su show en Corea, The Weeknd le gritó a Jennie que cantara al final de \"One of the Girls\"; ella solo agradeció y cerró la canción, y X se llenó de memes (\"no fue ABEL de cantar\")."
+    "name": "\"Te perdí entre la multitud\" arrasa en TikTok",
+    "note": "Edits de suspenso que simulan buscar a alguien entre la multitud de un antro o concierto, con \"La tormenta de arena\" de Dorian y giro final."
    }
   },
   "rank": 1,
   "image": {
-   "url": "https://statico.soapcentral.com/editor/2026/10/6263a-17915407528014-1920.jpg",
-   "credit": "Foto: Reprodução/Soapcentral"
+   "url": "https://www.infobae.com/resizer/v2/GGYQZEWRY5BW3AHFFCZXH4RKE4.jpg?auth=afb4032a990a5db381f77f1e53b567ab0706d7dff40b660c2d158bcfd25a06e3&smart=true&width=1200&height=630&quality=85",
+   "credit": "Ilustração: Jovani Pérez/Infobae"
   }
  },
  {
   "id": "tr2",
-  "kind": "format",
+  "kind": "topic",
   "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.otempo.com.br/tecnologia-e-games/2026/10/8/jean-phil-viraliza-com-videos-de-ia-e-levanta-suspeita-de-esquema-com-criptomoedas",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "region": "AR",
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/08/la-china-suarez-celebro-el-divorcio-de-mauro-icardi-y-wanda-nara-las-duras-criticas-que-recibio/",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Jean Phil, o \"boxeador\" de Paris",
-    "note": "Personagem de terno xadrez e franja loira que dá socos no ar por Paris passa de 35,9 milhões de views no vídeo mais visto, e a web suspeita que é IA criada para promover a criptomoeda $JEANPHIL."
+    "name": "China Suárez dança após divórcio de Icardi",
+    "note": "Ela postou vídeo dançando com a legenda \"Cuando miras a tu novio\" depois da sentença que encerrou o casamento de Icardi e Wanda Nara, e choveram críticas."
    },
    "en": {
-    "name": "Jean Phil, the Paris shadowboxer",
-    "note": "A checked-suit, blond-bangs character punching the air around Paris has passed 35.9 million views on his top video, and the internet suspects he is AI built to promote the $JEANPHIL token."
+    "name": "China Suárez dances after Icardi divorce",
+    "note": "She posted a dance video captioned \"Cuando miras a tu novio\" after the ruling ending Icardi and Wanda Nara's marriage, and the backlash poured in."
    },
    "es": {
-    "name": "Jean Phil, el boxeador de París",
-    "note": "Un personaje de traje a cuadros y flequillo rubio que lanza golpes al aire por París supera los 35,9 millones de vistas en su video más visto, y las redes sospechan que es IA para promover el token $JEANPHIL."
+    "name": "La China Suárez baila tras el divorcio de Icardi",
+    "note": "Publicó un video bailando con \"Cuando miras a tu novio\" tras el fallo que terminó el matrimonio de Icardi y Wanda Nara, y llovieron las críticas."
    }
   },
   "rank": 2,
   "image": {
-   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/tecnologia%20e%20games/2026/10/8/tecnologia%20e%20games-inteligencia_artificial-ia-criptomoedas-1791481535.png",
-   "credit": "Foto: Reprodução/Redes sociais/O Tempo"
+   "url": "https://www.infobae.com/resizer/v2/V62NQC5W3FGKHFZ4VBYQU22UAI.png?auth=04e10ef3887c064bb951bd53ad3be181b022cb46c03b16b6fa2fcf42aaf69e67&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Reprodução/Instagram"
   }
  },
  {
   "id": "tr3",
   "kind": "video",
-  "platform": "youtube",
-  "region": "US",
-  "sourceUrl": "https://earlygame.com/news/influencers/four-contestants-spent-202-days-in-a-grocery-store-for-mrbeasts-1-million-challenge",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "platform": "x",
+  "region": "GLOBAL",
+  "sourceUrl": "https://larepublica.pe/entretenimiento/2026/10/08/bts-en-peru-perrito-army-se-roba-todas-las-miradas-en-concierto-en-estadio-san-marcos-pero-es-retirado-por-miembros-de-seguridad-548024",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "MrBeast e o mercado de US$ 1 milhão",
-    "note": "Vídeo em que quatro finalistas passam 202 dias esvaziando um supermercado virou a maior estreia de MrBeast, com mais de 70 milhões de views nas primeiras 24 horas."
+    "name": "Cachorro \"ARMY\" invade show do BTS em Lima",
+    "note": "Um cãozinho entrou no primeiro show do BTS no Peru, no Estádio San Marcos, foi retirado pela segurança e virou o \"ARMY de quatro patas\" nas redes."
    },
    "en": {
-    "name": "MrBeast's $1 million grocery store",
-    "note": "The video of four finalists spending 202 days clearing out a supermarket became MrBeast's biggest debut ever, with more than 70 million views in its first 24 hours."
+    "name": "\"ARMY\" dog crashes BTS concert in Lima",
+    "note": "A small dog got into BTS's first Peru show at Estadio San Marcos, was escorted out by security and became the internet's \"four-legged ARMY\"."
    },
    "es": {
-    "name": "MrBeast y el súper de US$ 1 millón",
-    "note": "El video de cuatro finalistas que pasan 202 días vaciando un supermercado se volvió el mayor estreno de MrBeast, con más de 70 millones de vistas en sus primeras 24 horas."
+    "name": "Perrito \"ARMY\" se cuela en el show de BTS en Lima",
+    "note": "Un perrito entró al primer concierto de BTS en Perú, en el Estadio San Marcos, fue retirado por seguridad y las redes lo bautizaron \"ARMY de cuatro patas\"."
    }
   },
   "rank": 3,
   "image": {
-   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/05/mrbeassttt.jpg",
-   "credit": "Foto: YouTube/MrBeast"
+   "url": "https://imgmedia.larepublica.pe/1200x735/larepublica/original/2026/10/08/6ac7bc489e17e11ebb0bee72.jpg",
+   "credit": "Foto: Composição La República/Reprodução X"
   }
  },
  {
   "id": "tr4",
-  "kind": "format",
-  "platform": "instagram",
+  "kind": "topic",
+  "platform": "x",
   "region": "BR",
-  "sourceUrl": "https://metropoles.com/distrito-federal/na-mira/ana-bafo-de-rola-a-candidata-fake-nas-eleicoes-que-virou-febre-nas-redes",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "sourceUrl": "https://www.otempo.com.br/entretenimento/realities/a-fazenda/2026/10/8/web-se-revolta-com-fala-de-rene-para-serginho-hondjakoff-em-a-fazenda-18-ameaca-declarada",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Ana Bafo de Rola, a candidata fake",
-    "note": "Personagem do humorista baiano Ney Lima \"comemora\" eleição imaginária para deputada federal com o número 24024, em vídeos que parodiam a propaganda eleitoral após o 1º turno."
+    "name": "Fala de Renê a Serginho revolta web",
+    "note": "Em A Fazenda 18, Renê disse que poria \"a mangueira na boca\" de Serginho se ele estivesse se afogando; internautas no X viram ameaça e pediram punição."
    },
    "en": {
-    "name": "Ana Bafo de Rola, the fake candidate",
-    "note": "A character by Bahia comedian Ney Lima \"celebrates\" an imaginary win for federal deputy under number 24024, in videos spoofing campaign ads after Brazil's first round."
+    "name": "Renê's remark to Serginho sparks outrage",
+    "note": "On Brazil's A Fazenda 18, Renê said he'd shove a hose in Serginho's mouth if he were drowning; users on X called it a threat and demanded action."
    },
    "es": {
-    "name": "Ana Bafo de Rola, la candidata falsa",
-    "note": "Un personaje del humorista bahiano Ney Lima \"celebra\" una elección imaginaria como diputada federal con el número 24024, en videos que parodian la propaganda electoral tras la 1ª vuelta en Brasil."
+    "name": "Frase de Renê a Serginho indigna a la web",
+    "note": "En A Fazenda 18, Renê dijo que le metería una manguera en la boca a Serginho si se ahogaba; en X lo tomaron como amenaza y pidieron sanción."
    }
   },
   "rank": 4,
   "image": {
-   "url": "https://i.metroimg.com/_2CVWlkWLzqWakBWJ3fjbKF2T1KZ7rFlB-D1B0SAtf4/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/humorista-registrou-voto.jpg",
-   "credit": "Foto: Reprodução/Redes sociais/Metrópoles"
+   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/a%20fazenda%2018/2026/10/8/a%20fazenda%2018-a_fazenda-polemica-sergio_hondjakoff-1791474486.jpg",
+   "credit": "Foto: Reprodução/Record TV"
   }
  },
  {
   "id": "tr5",
-  "kind": "video",
+  "kind": "sound",
   "platform": "tiktok",
   "region": "MX",
-  "sourceUrl": "https://www.elgrafico.mx/espectaculos/2026/10/08/sale-brava-lupita-tiktok-rechaza-tomarse-fotos-sin-que-le-paguen-una-lana/",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/07/el-audio-de-paola-suarez-que-se-volvio-viral-para-contar-desgracias-en-redes-sociales/",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 88,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Lupita TikTok cobra 30 pesos por foto",
-    "note": "Influenciadora de Monterrey só aceitou posar com duas fãs depois de receber 30 pesos e reclamou \"não zombe\" quando riram, e o vídeo dividiu o México."
+    "name": "Áudio de Paola Suárez vira trilha de desgraças",
+    "note": "Trecho de uma live de Paola Suárez, de Las Perdidas, sobre \"buñuelos y tamales Belén y Juanito\" virou desfecho cômico para relatos de fora, demissão e dívida."
    },
    "en": {
-    "name": "Lupita TikTok charges 30 pesos a photo",
-    "note": "The Monterrey influencer only agreed to pose with two fans after getting 30 pesos and snapped \"don't make fun of me\" when they laughed, and the clip split Mexico."
+    "name": "Paola Suárez audio becomes the misfortune sound",
+    "note": "A clip from a Las Perdidas member's livestream about \"buñuelos y tamales Belén y Juanito\" is now the punchline for breakup, firing and debt stories."
    },
    "es": {
-    "name": "Lupita TikTok cobra 30 pesos por foto",
-    "note": "La influencer regiomontana solo aceptó posar con dos fans tras recibir 30 pesos y reclamó \"no se burle\" cuando se rieron, y el video dividió a México."
+    "name": "El audio de Paola Suárez para contar desgracias",
+    "note": "Un fragmento del live de Paola Suárez, de Las Perdidas, sobre \"buñuelos y tamales Belén y Juanito\" remata historias de rupturas, despidos y deudas."
    }
   },
   "rank": 5,
   "image": {
-   "url": "https://tribuna-media.s3.mx-central-1.amazonaws.com/uploads/2026/10/Lupita-TikTok-se-vuelve-viral-por-cobrar-30-pesos-por-una-foto-video-desata-criticas-en-redes.jpg",
-   "credit": "Foto: Tribuna"
+   "url": "https://www.infobae.com/resizer/v2/53U65573TJHINA5HFVE5RRSDTM.png?auth=8726ea9a0fa30d20381f159647eb41f7dd1244e06676a2a03972b57b42fba347&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Reprodução/Infobae"
   }
  },
  {
   "id": "tr6",
   "kind": "video",
   "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://caras.com.br/atualidades/rafaella-santos-se-pronuncia-apos-video-de-suposta-bronca-em-gabigol-viralizar-estava.phtml",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "region": "MX",
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/09/lady-me-van-a-descontar-mujer-se-vuelve-viral-por-atacar-a-motociclista-afectado-por-camion-que-le-choco/",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A \"bronca\" de Rafaella em Gabigol",
-    "note": "Leitura labial de um vídeo na saída da festa de Mavie sugeriu uma bronca de Rafaella Santos em Gabigol; ela negou, disse ser \"zero brava\" e culpou o salto alto."
+    "name": "\"Lady Me Van a Descontar\" vira meme",
+    "note": "Passageira de ônibus discute com motociclista que teve o retrovisor quebrado por um caminhão porque temia perder 300 pesos por chegar atrasada ao trabalho."
    },
    "en": {
-    "name": "Rafaella's \"scolding\" of Gabigol",
-    "note": "A lip-reading of a clip leaving Mavie's party suggested Rafaella Santos scolded Gabigol; she denied it, said she is \"zero brava\" and blamed her high heels."
+    "name": "\"Lady Me Van a Descontar\" goes viral",
+    "note": "A bus passenger confronts a motorcyclist whose mirror was broken by a truck because she feared losing 300 pesos in pay for arriving late to work."
    },
    "es": {
-    "name": "El \"regaño\" de Rafaella a Gabigol",
-    "note": "Una lectura de labios de un video a la salida de la fiesta de Mavie sugirió que Rafaella Santos regañó a Gabigol; ella lo negó, dijo ser \"zero brava\" y culpó a los tacones."
+    "name": "\"Lady Me Van a Descontar\" se hace viral",
+    "note": "Una pasajera discute con un motociclista al que un camión le rompió el espejo porque temía que le descontaran 300 pesos por llegar tarde al trabajo."
    }
   },
   "rank": 6,
   "image": {
-   "url": "https://caras.com.br/wp-content/uploads/2026/10/r1.jpg",
-   "credit": "Foto: Instagram/Caras Brasil"
+   "url": "https://www.infobae.com/resizer/v2/7L5PZA4C25GXRCB4TJHR6VW4HE.jpg?auth=5732d45206e5d3680bb569b97043147869ff6ecb5d9f4bdddc9a580e7090b3ee&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Reprodução/redes sociais"
   }
  },
  {
   "id": "tr7",
   "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "sourceUrl": "https://complex.com/pop-culture/a/jose-martinez/jamie-foxx-show-reboot-ishowspeed",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://www.vozmt.com.br/ate-zunil/bolsonaro-da-shopee-viraliza-nas-redes-mas-passa-longe-de-uma-vaga-na-camara/",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "IShowSpeed no reboot de Jamie Foxx",
-    "note": "Jamie Foxx disse que, se \"The Jamie Foxx Show\" voltar, quer IShowSpeed no papel principal: \"Esse cara é muito maneiro\"."
+    "name": "\"Bolsonaro da Shopee\": fama não virou voto",
+    "note": "Sósia do ex-presidente com mais de 176 mil seguidores no Instagram, Vilmar Rigo teve só 2.142 votos para deputado federal em Mato Grosso."
    },
    "en": {
-    "name": "IShowSpeed for the Jamie Foxx reboot",
-    "note": "Jamie Foxx said that if \"The Jamie Foxx Show\" comes back, he wants IShowSpeed in the lead: \"That dude right there, he is so cool.\""
+    "name": "\"Shopee Bolsonaro\": fame didn't mean votes",
+    "note": "The ex-president's lookalike Vilmar Rigo has over 176,000 Instagram followers but got only 2,142 votes for Congress in Mato Grosso."
    },
    "es": {
-    "name": "IShowSpeed en el reboot de Jamie Foxx",
-    "note": "Jamie Foxx dijo que, si \"The Jamie Foxx Show\" vuelve, quiere a IShowSpeed como protagonista: \"Ese tipo es muy genial\"."
+    "name": "\"Bolsonaro de Shopee\": fama sin votos",
+    "note": "El doble del expresidente, Vilmar Rigo, tiene más de 176 mil seguidores en Instagram pero sacó solo 2.142 votos para diputado en Mato Grosso."
    }
   },
   "rank": 7,
   "image": {
-   "url": "https://images.complex.com/complex/image/upload/c_crop,h_1079,w_1919,x_0,y_0/g_auto:aoi_771_168_384_216,ar_1.91,c_fill,q_auto,w_1200/sanity-new/vg1f8rkiwg8bdtj88uxi",
-   "credit": "Foto: Reprodução/Complex"
+   "url": "https://www.vozmt.com.br/wp-content/uploads/2026/10/1-13-e1791557872753.png",
+   "credit": "Foto: Reprodução/VOZ MT"
   }
  },
  {
   "id": "tr8",
-  "kind": "format",
+  "kind": "topic",
   "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://www.metropoles.com/colunas/fabia-oliveira/influencer-envolvida-em-polemica-de-ze-vaqueiro-e-ingra-ironiza-paz",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "region": "AR",
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/08/el-particular-mensaje-de-luck-ra-que-reavivo-la-tension-con-la-joaqui-esos-ojos-apagados/",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Milca refaz a trend: \"Mudei, paz\"",
-    "note": "Depois do \"shipp\" com Zé Vaqueiro que irritou Ingra Soares, a influencer Milca repostou a mesma trend sem a música do cantor e legendou \"Mudei a trend, paz\"."
+    "name": "Luck Ra e a indireta \"ojos apagados\"",
+    "note": "Story enigmático do cantor foi lido como recado para a ex, La Joaqui, que acaba de voltar de Medellín com Tiago PZK; fãs especulam até música nova."
    },
    "en": {
-    "name": "Milca redoes the trend: \"Changed it, peace\"",
-    "note": "After the online \"ship\" with Zé Vaqueiro that angered Ingra Soares, influencer Milca reposted the same trend without the singer's song, captioned \"Changed the trend, peace.\""
+    "name": "Luck Ra's cryptic \"ojos apagados\" story",
+    "note": "The singer's cryptic Story was read as a jab at ex La Joaqui, just back from Medellín with Tiago PZK; some fans think it teases a new song."
    },
    "es": {
-    "name": "Milca rehace la trend: \"Cambié, paz\"",
-    "note": "Tras el \"shippeo\" con Zé Vaqueiro que molestó a Ingra Soares, la influencer Milca volvió a subir la misma trend sin la canción del cantante, con la leyenda \"Cambié la trend, paz\"."
+    "name": "Luck Ra y la indirecta de los \"ojos apagados\"",
+    "note": "Su historia enigmática se leyó como mensaje a La Joaqui, recién llegada de Medellín con Tiago PZK; otros fans creen que adelanta una canción."
    }
   },
   "rank": 8,
   "image": {
-   "url": "https://i.metroimg.com/qmpUza7PhCW98LGLQB5q0TVoXGKHx2pD4aRQaHmfWLs/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/influecer-ze-vaqueiro-ingra-paz.jpg",
-   "credit": "Foto: Reprodução/Redes sociais/Metrópoles"
+   "url": "https://www.infobae.com/resizer/v2/N26DI4XT5VF3TKYW3VT56RGYFM.jpg?auth=30ec9bab1b2ebaae76684d5e438966543ce44ebb017d817627647551acb410f3&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Reprodução/Infobae"
   }
  },
  {
   "id": "tr9",
   "kind": "video",
   "platform": "tiktok",
-  "region": "MX",
-  "sourceUrl": "https://infobae.com/mexico/2026/10/07/antro-o-falla-electrica-luces-de-una-avenida-en-cdmx-crean-un-extrano-espectaculo-que-se-vuelve-viral",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "region": "US",
+  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-9-2026-toddlers-birthday-gift-gives-her-mom-a-hilarious-headache-3536287",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A avenida-balada da CDMX",
-    "note": "Postes de uma avenida da Cidade do México piscando sem parar viraram \"balada grátis\" no TikTok e no X: \"Só falta o DJ e cobrarem a entrada\"."
+    "name": "Microfone de presente vira pesadelo da mãe",
+    "note": "Mãe agradece \"a todos, menos a quem deu um microfone\" para a filha pequena, que berra no aparelho; tias já pediram a ideia nos comentários."
    },
    "en": {
-    "name": "Mexico City's nightclub avenue",
-    "note": "Street lights flickering nonstop on a Mexico City avenue became a \"free nightclub\" on TikTok and X: \"All it needs is a DJ and a cover charge.\""
+    "name": "Toddler's birthday mic is mom's nightmare",
+    "note": "A mom greets everyone \"except the person who got my daughter a microphone\" as her toddler yells into it; aunts are taking notes in the comments."
    },
    "es": {
-    "name": "La avenida-antro de la CDMX",
-    "note": "Luces de una avenida de la Ciudad de México parpadeando sin parar se volvieron un \"antro gratis\" en TikTok y X: \"Falta el DJ y que cobren el cover\"."
+    "name": "El micrófono de cumpleaños que agobia a mamá",
+    "note": "Una mamá saluda a todos \"excepto a quien le regaló un micrófono a mi hija\", que grita sin parar; las tías ya toman nota en los comentarios."
    }
   },
   "rank": 9,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/NBTNSWNCYZCHNHRGV3YPCQD7KE.jpg?auth=e985e615ceb7ee22b469cb965b9ed6aae059fe924b8ce76574347de85bea86cd&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/Infobae"
+   "url": "https://media.tag24.com/1200x800/o/n/onptz3emst2v8ew7scegmouikd7qhgdw.jpg",
+   "credit": "Foto: Reprodução/TikTok/@givingmumvibes"
   }
  },
  {
   "id": "tr10",
-  "kind": "topic",
-  "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://www.terra.com.br/diversao/gente/yasmin-brunet-volta-ao-instagram-apos-aparecer-no-caso-vorcaro-e-detalhe-chama-a-atencao,e538a76a7dc55b3cfb56cb7439aabe25w4h8whye.html",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "kind": "video",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-8-2026-mom-takes-hilarious-tumble-while-walking-home-with-kids-im-sad-about-my-pop-3536286",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A volta de Yasmin Brunet ao feed",
-    "note": "Após ter o nome citado em mensagens de Daniel Vorcaro reveladas pela imprensa, Yasmin Brunet voltou ao Instagram com um publi de body splash e limitou as interações no post."
+    "name": "Mãe cai e só lamenta o refrigerante",
+    "note": "Ela tropeça na entrada de casa com os filhos, os refrigerantes voam e, já de pé, a única reclamação é: \"estou triste pelo meu refri\"."
    },
    "en": {
-    "name": "Yasmin Brunet's return to her feed",
-    "note": "After her name came up in Daniel Vorcaro messages revealed by the press, Yasmin Brunet returned to Instagram with a body splash ad and limited interactions on the post."
+    "name": "Mom falls, only mourns her soda",
+    "note": "She trips in the driveway with her kids, two sodas go flying, and her only complaint once she's up is \"I'm sad about my pop!\""
    },
    "es": {
-    "name": "El regreso de Yasmin Brunet al feed",
-    "note": "Tras aparecer su nombre en mensajes de Daniel Vorcaro revelados por la prensa, Yasmin Brunet volvió a Instagram con un anuncio de body splash y limitó las interacciones en la publicación."
+    "name": "Mamá se cae y solo llora su refresco",
+    "note": "Tropieza en la entrada con sus hijos, los refrescos salen volando y su única queja al levantarse es: \"estoy triste por mi refresco\"."
    }
   },
   "rank": 10,
   "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/08/captura-de-tela-2026-10-08-163446-ts575dr5m2jp.png",
-   "credit": "Foto: Reprodução/Instagram"
+   "url": "https://media.tag24.com/1200x800/i/v/ivz3ndh4r4xzd5otu4xdt7mt20grpxdu.jpg",
+   "credit": "Foto: Reprodução/TikTok/@girlydailyedit"
   }
  },
  {
   "id": "tr11",
-  "kind": "topic",
+  "kind": "video",
   "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://www.folhamax.com/mundo/influencer-ataca-nordestinos-apos-resultado-das-eleicoes/576395",
-  "collectedAt": "2026-10-09T17:18:56Z",
+  "region": "US",
+  "sourceUrl": "https://www.cibercuba.com/noticias/2026-10-09-u1-e129488-s27061-nid342400-soy-tanque-pelea-multitudinaria-embarcadero-sur",
+  "collectedAt": "2026-10-09T23:22:31Z",
   "hue": 310,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Xenofobia contra nordestinos pós-eleição",
-    "note": "Vídeos de influenciadores atacando nordestinos após o 1º turno geraram revolta, perfil fechado e uma força-tarefa do Ministério Público da Bahia para apurar possíveis crimes."
+    "name": "\"Yo soy un tanque!\": briga em píer na Flórida",
+    "note": "Pancadaria entre vários homens num barco e numa rampa no sul da Flórida virou piada pelo grito \"sou um tanque\"; contexto e envolvidos seguem sem confirmação."
    },
    "en": {
-    "name": "Post-election xenophobia against Northeasterners",
-    "note": "Influencer videos attacking people from Brazil's Northeast after the first round sparked outrage, a locked profile and a Bahia prosecutors' task force to probe possible crimes."
+    "name": "\"Yo soy un tanque!\": Florida dock brawl",
+    "note": "A multi-person fight on a boat and ramp in South Florida became a meme over one man's \"I'm a tank!\" shout; the context and those involved remain unconfirmed."
    },
    "es": {
-    "name": "Xenofobia contra nordestinos tras la elección",
-    "note": "Videos de influencers atacando a los nordestinos tras la 1ª vuelta en Brasil generaron indignación, un perfil cerrado y un grupo especial de la Fiscalía de Bahía para investigar posibles delitos."
+    "name": "\"¡Yo soy un tanque!\": pelea en un muelle de Florida",
+    "note": "Una pelea entre varios hombres en una lancha y una rampa del sur de Florida se volvió burla por el grito \"soy un tanque\"; el contexto sigue sin confirmarse."
    }
   },
   "rank": 11,
   "image": {
-   "url": "https://www.folhamax.com/storage/webdisco/2026/10/08/810x519/6af5040346f9d8238151a048bdcbf3d6.jpg",
-   "credit": "Foto: Reprodução/Folhamax"
+   "url": "https://cdn0.celebritax.com/sites/default/files/styles/watermark_100/public/1791575413-viral-aparatosa-pelea-bordo-lancha-sur-florida.jpg",
+   "credit": "Foto: Reprodução/Instagram/Univision 23"
+  }
+ },
+ {
+  "id": "tr12",
+  "kind": "video",
+  "platform": "tiktok",
+  "region": "MX",
+  "sourceUrl": "https://www.poresto.com/yucatan/2026/10/9/jovenes-viven-tremendo-susto-grabar-presunto-waay-buctzotz-video-vuelve-viral.html",
+  "collectedAt": "2026-10-09T23:22:31Z",
+  "hue": 347,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Jovens filmam suposto \"wáay\" em Yucatán",
+    "note": "Grupo de Buctzotz gravou de madrugada um vulto que acredita ser um wáay, feiticeiro que muda de forma no folclore maia, e pergunta no TikTok: verdade ou mentira?"
+   },
+   "en": {
+    "name": "Teens film an alleged \"wáay\" in Yucatán",
+    "note": "A group in Buctzotz filmed a dawn figure they believe is a wáay, a Maya folklore shapeshifter, and asked TikTok: real or fake?"
+   },
+   "es": {
+    "name": "Jóvenes graban a un presunto \"wáay\" en Yucatán",
+    "note": "Un grupo de Buctzotz grabó de madrugada una figura que creen que es un wáay, el brujo que cambia de forma del folclor maya, y preguntan en TikTok si es real."
+   }
+  },
+  "rank": 12,
+  "image": {
+   "url": "https://www.poresto.com/crop/0-0-1200-675O1F0x0D1200x675Ca51643aadb28bf9240cbe79fb63835b3/media/2026/10/9/graban-presunto-waay-buctzotz_MASTER.jpg@.webp",
+   "credit": "Foto: Especial/Por Esto!"
+  }
+ },
+ {
+  "id": "tr13",
+  "kind": "video",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://www.sonoticiaboa.com.br/2026/10/07/folha-taioba-guarda-chuva-rocinha",
+  "collectedAt": "2026-10-09T23:22:31Z",
+  "hue": 24,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Folha de taioba vira guarda-chuva na Rocinha",
+    "note": "Idoso atravessa a rua sob chuva forte usando uma folha gigante de taioba; a web comparou a cena a \"Vida de Inseto\": \"Rio não é para amadores\"."
+   },
+   "en": {
+    "name": "Giant leaf umbrella in Rio's Rocinha",
+    "note": "An older man crosses the street in heavy rain under a giant taioba leaf; viewers compared it to \"A Bug's Life\": \"Rio isn't for amateurs\"."
+   },
+   "es": {
+    "name": "Una hoja gigante como paraguas en Rocinha",
+    "note": "Un señor cruza la calle bajo fuerte lluvia usando una hoja gigante de taioba; la web lo comparó con \"Bichos\": \"Río no es para aficionados\"."
+   }
+  },
+  "rank": 13,
+  "image": {
+   "url": "https://d281e75zdqqlon.cloudfront.net/wp-content/uploads/2026/10/WhatsApp-Image-2026-10-07-at-11.03.33.jpeg",
+   "credit": "Foto: Reprodução/Instagram/@rockycria"
+  }
+ },
+ {
+  "id": "tr14",
+  "kind": "video",
+  "platform": "x",
+  "region": "MX",
+  "sourceUrl": "https://losnoticieristas.com/nacional/2026/10/video-viral-piropos-para-harfuch-llega-el-secretario-a-comparecer-a-la-camara-de-diputados-y-asi-lo-reciben-1144691/",
+  "collectedAt": "2026-10-09T23:22:31Z",
+  "hue": 61,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Piropos para Harfuch na Câmara",
+    "note": "Funcionários da Câmara dos Deputados receberam o secretário Omar García Harfuch com celulares em punho e gritos de \"queremos darle un beso\"."
+   },
+   "en": {
+    "name": "Catcalls for Harfuch at Congress",
+    "note": "Staffers at Mexico's Chamber of Deputies greeted security secretary Omar García Harfuch with phones out and shouts of \"we want to give you a kiss\"."
+   },
+   "es": {
+    "name": "Piropos para Harfuch en San Lázaro",
+    "note": "Trabajadores de la Cámara de Diputados recibieron al secretario Omar García Harfuch con celulares y gritos de \"¡queremos darle un beso!\"."
+   }
+  },
+  "rank": 14,
+  "image": {
+   "url": "https://losnoticieristas.com/wp-content/uploads/2026/10/omar-garcia-harfuch-en-comparecencia-en-la-camara-de-diputados.jpg",
+   "credit": "Foto: Cortesia/Los Noticieristas"
   }
  },
  {
@@ -339,8 +426,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
-  "id": "tr12",
-  "hue": 347
+  "id": "tr15",
+  "hue": 98
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -363,8 +450,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
-  "id": "tr13",
-  "hue": 24
+  "id": "tr16",
+  "hue": 135
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -387,8 +474,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
-  "id": "tr14",
-  "hue": 61
+  "id": "tr17",
+  "hue": 172
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -415,8 +502,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía UOL."
    }
   },
-  "id": "tr15",
-  "hue": 98
+  "id": "tr18",
+  "hue": 209
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -443,8 +530,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía UOL."
    }
   },
-  "id": "tr16",
-  "hue": 135
+  "id": "tr19",
+  "hue": 246
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -471,8 +558,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Estadão."
    }
   },
-  "id": "tr17",
-  "hue": 172
+  "id": "tr20",
+  "hue": 283
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -499,8 +586,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía G1."
    }
   },
-  "id": "tr18",
-  "hue": 209
+  "id": "tr21",
+  "hue": 320
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -527,8 +614,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía G1."
    }
   },
-  "id": "tr19",
-  "hue": 246
+  "id": "tr22",
+  "hue": 357
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -555,8 +642,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Banda B."
    }
   },
-  "id": "tr20",
-  "hue": 283
+  "id": "tr23",
+  "hue": 34
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -583,8 +670,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
    }
   },
-  "id": "tr21",
-  "hue": 320
+  "id": "tr24",
+  "hue": 71
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -611,8 +698,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Yahoo Finance."
    }
   },
-  "id": "tr22",
-  "hue": 357
+  "id": "tr25",
+  "hue": 108
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -639,8 +726,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía The Oklahoman."
    }
   },
-  "id": "tr23",
-  "hue": 34
+  "id": "tr26",
+  "hue": 145
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -667,8 +754,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía BBC."
    }
   },
-  "id": "tr24",
-  "hue": 71
+  "id": "tr27",
+  "hue": 182
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -695,8 +782,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Africa Intelligence."
    }
   },
-  "id": "tr25",
-  "hue": 108
+  "id": "tr28",
+  "hue": 219
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -723,8 +810,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía The Washington Post."
    }
   },
-  "id": "tr26",
-  "hue": 145
+  "id": "tr29",
+  "hue": 256
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -751,8 +838,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía People.com."
    }
   },
-  "id": "tr27",
-  "hue": 182
+  "id": "tr30",
+  "hue": 293
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -779,8 +866,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía WVTM Channel 13."
    }
   },
-  "id": "tr28",
-  "hue": 219
+  "id": "tr31",
+  "hue": 330
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -807,8 +894,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Sports Illustrated Swimsuit."
    }
   },
-  "id": "tr29",
-  "hue": 256
+  "id": "tr32",
+  "hue": 7
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -835,8 +922,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 10000+ búsquedas · vía Página|12."
    }
   },
-  "id": "tr30",
-  "hue": 293
+  "id": "tr33",
+  "hue": 44
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -863,8 +950,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía TyC Sports."
    }
   },
-  "id": "tr31",
-  "hue": 330
+  "id": "tr34",
+  "hue": 81
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -891,8 +978,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr32",
-  "hue": 7
+  "id": "tr35",
+  "hue": 118
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -919,8 +1006,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr33",
-  "hue": 44
+  "id": "tr36",
+  "hue": 155
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -947,8 +1034,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr37",
+  "hue": 192
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -975,8 +1062,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Página|12."
    }
   },
-  "id": "tr35",
-  "hue": 118
+  "id": "tr38",
+  "hue": 229
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1003,8 +1090,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr39",
+  "hue": 266
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1031,8 +1118,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía A Bola."
    }
   },
-  "id": "tr37",
-  "hue": 192
+  "id": "tr40",
+  "hue": 303
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1059,8 +1146,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía ESPN Deportes."
    }
   },
-  "id": "tr38",
-  "hue": 229
+  "id": "tr41",
+  "hue": 340
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1087,8 +1174,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía ESPN México."
    }
   },
-  "id": "tr39",
-  "hue": 266
+  "id": "tr42",
+  "hue": 17
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1115,8 +1202,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía N+."
    }
   },
-  "id": "tr40",
-  "hue": 303
+  "id": "tr43",
+  "hue": 54
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1143,8 +1230,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Unomásuno."
    }
   },
-  "id": "tr41",
-  "hue": 340
+  "id": "tr44",
+  "hue": 91
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1171,8 +1258,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Sim Notícias."
    }
   },
-  "id": "tr42",
-  "hue": 17
+  "id": "tr45",
+  "hue": 128
  },
  {
   "collectedAt": "2026-10-09T21:38:23.114Z",
@@ -1199,7 +1286,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Backfire News."
    }
   },
-  "id": "tr43",
-  "hue": 54
+  "id": "tr46",
+  "hue": 165
  }
 ]
