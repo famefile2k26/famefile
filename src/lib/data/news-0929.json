@@ -687,7 +687,9 @@
   "section": "news",
   "publishedAt": "2026-09-27T20:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "xanddy"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -2869,7 +2871,9 @@
   "section": "news",
   "publishedAt": "2026-09-29T13:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "alejandra-onieva"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3636,7 +3640,9 @@
   "section": "news",
   "publishedAt": "2026-09-29T17:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "gigi-hadid"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3967,7 +3973,10 @@
   "section": "music",
   "publishedAt": "2026-09-28T13:56:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "marilyn-manson",
+   "slipknot"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4344,7 +4353,9 @@
   "section": "music",
   "publishedAt": "2026-09-29T18:10:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "mc-marcinho"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
