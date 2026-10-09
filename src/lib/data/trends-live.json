@@ -2,116 +2,116 @@
  {
   "id": "tr1",
   "kind": "video",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.infobae.com/colombia/2026/10/08/bts-saco-los-prohibidos-y-bailaron-al-ritmo-de-bby-wow-de-karol-g-asi-fue-el-momento-que-se-hizo-viral/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "platform": "instagram",
+  "region": "US",
+  "sourceUrl": "https://www.soapcentral.com/entertainment/news-this-funny-just-kept-going-internet-reacts-noah-schnapp-goes-viral-eating-fruits-without-peeling",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "J-Hope e Jimin dançam \"Bby Wow\"",
-    "note": "J-Hope postou um vídeo ensinando a Jimin a coreografia viral de \"Bby Wow\", de Karol G, e o clipe passou de 21 milhões de views em 24 horas no TikTok."
+    "name": "Noah Schnapp come fruta com casca",
+    "note": "Zoado pelo TMZ por comer morango com folhas, o ator de \"Stranger Things\" respondeu com um vídeo no mercado mordendo banana, laranja e melancia com casca, e o clipe explodiu no X."
    },
    "en": {
-    "name": "J-Hope and Jimin dance \"Bby Wow\"",
-    "note": "J-Hope posted a clip teaching Jimin the viral choreography to Karol G's \"Bby Wow,\" and it passed 21 million views in 24 hours on TikTok."
+    "name": "Noah Schnapp eats fruit unpeeled",
+    "note": "Mocked by TMZ for eating a strawberry with the leaves on, the \"Stranger Things\" actor answered with a grocery-store video biting into a banana, an orange and a watermelon, peel and all, and the clip blew up on X."
    },
    "es": {
-    "name": "J-Hope y Jimin bailan \"Bby Wow\"",
-    "note": "J-Hope publicó un video enseñándole a Jimin la coreografía viral de \"Bby Wow\" de Karol G, y superó los 21 millones de vistas en 24 horas en TikTok."
+    "name": "Noah Schnapp come fruta con cáscara",
+    "note": "Tras las burlas de TMZ por comer una fresa con hojas, el actor de \"Stranger Things\" respondió con un video en el súper mordiendo plátano, naranja y sandía con cáscara, y el clip estalló en X."
    }
   },
   "rank": 1,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/VARZCBTK25FLRCIWBDU3YBUHUY.png?auth=452317c0f28b6501af83f41d47f1c24045eb07fbe1c7128c8ef4a9653d99a810&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/Infobae"
+   "url": "https://statico.soapcentral.com/editor/2026/10/c89ac-17914658950927-1920.jpg",
+   "credit": "Foto: Reprodução/Soapcentral"
   }
  },
  {
   "id": "tr2",
-  "kind": "topic",
-  "platform": "x",
-  "region": "US",
-  "sourceUrl": "https://www.elimparcial.com/mundo/2026/10/08/quien-era-la-mujer-de-rojo-junto-a-trump-susan-dell-se-vuelve-viral-por-su-apariencia/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "kind": "format",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.otempo.com.br/tecnologia-e-games/2026/10/8/jean-phil-viraliza-com-videos-de-ia-e-levanta-suspeita-de-esquema-com-criptomoedas",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A \"mulher de vermelho\" atrás de Trump",
-    "note": "Susan Dell, mulher do fundador da Dell, apareceu atrás de Trump num evento na Casa Branca e suas expressões viraram meme e alvo de teorias no X."
+    "name": "Jean Phil, o \"boxeador\" de Paris",
+    "note": "Personagem de terno xadrez, franja loira e bigode torcido que dá socos no ar pelas ruas de Paris soma dezenas de milhões de views, e a internet discute se ele é real ou feito por IA."
    },
    "en": {
-    "name": "The \"woman in red\" behind Trump",
-    "note": "Susan Dell, wife of Dell's founder, stood behind Trump at a White House event, and her expressions turned into memes and conspiracy theories on X."
+    "name": "Jean Phil, Paris's shadowboxer",
+    "note": "A silent character in a checked suit, blond bangs and twirled mustache shadowboxing around Paris has racked up tens of millions of views, and the internet is debating whether he is real or AI."
    },
    "es": {
-    "name": "La \"mujer de rojo\" detrás de Trump",
-    "note": "Susan Dell, esposa del fundador de Dell, apareció detrás de Trump en un evento en la Casa Blanca y sus gestos se volvieron meme y blanco de teorías en X."
+    "name": "Jean Phil, el boxeador de París",
+    "note": "Un personaje de traje a cuadros, flequillo rubio y bigote retorcido que lanza golpes al aire por París suma decenas de millones de vistas, y las redes debaten si es real o hecho con IA."
    }
   },
   "rank": 2,
   "image": {
-   "url": "https://www.elimparcial.com/resizer/v2/3ZZ7KQ2K2BCWNJE3XAEG5AS5QY.jpg?auth=f9e75077c5f9ae8095e666c43100bda0250525e0bf0e3a2969c635769c6241f1&smart=true&width=1200&height=630&quality=70",
-   "credit": "Foto: Reprodução/El Imparcial"
+   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/tecnologia%20e%20games/2026/10/8/tecnologia%20e%20games-inteligencia_artificial-ia-criptomoedas-1791481535.png",
+   "credit": "Foto: Reprodução/O Tempo"
   }
  },
  {
   "id": "tr3",
-  "kind": "topic",
+  "kind": "video",
   "platform": "x",
-  "region": "US",
-  "sourceUrl": "https://www.infobae.com/entretenimiento/2026/10/07/que-paso-con-el-rostro-de-megan-fox-la-verdad-detras-del-video-que-desconcerto-a-internet/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "region": "BR",
+  "sourceUrl": "https://www.metropoles.com/celebridades/rafaella-se-pronuncia-apos-bronca-em-gabigol-na-festa-da-filha-de-neymar",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O rosto de Megan Fox no Letterboxd",
-    "note": "Um vídeo de Megan Fox para o Letterboxd gerou piadas e especulação sobre procedimentos estéticos no X, com montagens alteradas circulando junto."
+    "name": "A \"bronca\" de Rafaella em Gabigol",
+    "note": "Uma leitura labial no X sugeriu que Rafaella Santos deu um sermão em Gabigol na saída do aniversário de Mavie, filha de Neymar; ela respondeu que é \"zero brava\" e culpou o salto alto."
    },
    "en": {
-    "name": "Megan Fox's face in the Letterboxd video",
-    "note": "A Letterboxd video with Megan Fox sparked jokes and cosmetic-surgery speculation on X, with doctored comparison images spreading alongside it."
+    "name": "Rafaella's \"scolding\" of Gabigol",
+    "note": "A lip-reading clip on X suggested Rafaella Santos lectured Gabigol as they left Neymar's daughter Mavie's birthday party; she replied she is \"zero brava\" and blamed her high heels."
    },
    "es": {
-    "name": "El rostro de Megan Fox en Letterboxd",
-    "note": "Un video de Megan Fox para Letterboxd desató burlas y especulaciones sobre retoques estéticos en X, con imágenes alteradas circulando a la par."
+    "name": "El \"regaño\" de Rafaella a Gabigol",
+    "note": "Una lectura de labios en X sugirió que Rafaella Santos regañó a Gabigol al salir del cumpleaños de Mavie, hija de Neymar; ella respondió que es \"zero brava\" y culpó a los tacones."
    }
   },
   "rank": 3,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/MTURN2PIHBHN7OVYSXZBMPT4SM.jpg?auth=ff4454e6bcf4f62c01caaaad0ac9e6f60676f6c7271e44643971d6902884b7de&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/Infobae"
+   "url": "https://i.metroimg.com/TbNTREXXu1y2Jmso-Ngeo4nIVwvHOyPqQ2W2hAlDKnA/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/rafaella-gabigol-festa-mavie.jpg",
+   "credit": "Foto: Reprodução/Metrópoles"
   }
  },
  {
   "id": "tr4",
-  "kind": "format",
-  "platform": "x",
-  "region": "AR",
-  "sourceUrl": "https://www.infobae.com/deportes/2026/10/07/los-memes-que-dejo-la-despedida-de-messi-de-la-seleccion-argentina-la-sole-el-papu-gomez-y-el-show-de-drones-los-elegidos/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "kind": "sound",
+  "platform": "tiktok",
+  "region": "MX",
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/07/el-audio-de-paola-suarez-que-se-volvio-viral-para-contar-desgracias-en-redes-sociales/",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Memes da La Sole na despedida de Messi",
-    "note": "O show de Soledad Pastorutti na despedida de Messi virou formato de meme no X, ao lado de piadas com a ausência do Papu Gómez."
+    "name": "O áudio dos \"buñuelos y tamales\"",
+    "note": "Um trecho de live de Paola Suárez, de Las Perdidas, virou trilha para contar desgraças: a pessoa narra um término ou demissão e fecha com a frase sem sentido sobre \"buñuelos y tamales\"."
    },
    "en": {
-    "name": "La Sole memes from Messi's farewell",
-    "note": "Soledad Pastorutti's performance at Messi's farewell became a meme format on X, alongside jokes about Papu Gómez not being invited."
+    "name": "The \"buñuelos y tamales\" audio",
+    "note": "A clip from a livestream by Paola Suárez of Las Perdidas became the soundtrack for sharing misfortunes: people describe a breakup or a firing and cap it with her random line about \"buñuelos y tamales.\""
    },
    "es": {
-    "name": "Memes de La Sole en la despedida de Messi",
-    "note": "El show de la Sole en la despedida de Messi se volvió formato de meme en X, junto con chistes sobre la ausencia del Papu Gómez."
+    "name": "El audio de \"buñuelos y tamales\"",
+    "note": "Un fragmento de un en vivo de Paola Suárez, de Las Perdidas, se volvió el sonido para contar desgracias: se narra una ruptura o un despido y se remata con su frase sin sentido de \"buñuelos y tamales\"."
    }
   },
   "rank": 4,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/ROPY2NYTXNHEZEALZ3SVZ5Y6G4.jpg?auth=8cf77f65afaf6bfca17fefbb7c5df6e427f8a11a903f1cbb256c7200b0b76329&smart=true&width=1200&height=630&quality=85",
+   "url": "https://www.infobae.com/resizer/v2/53U65573TJHINA5HFVE5RRSDTM.png?auth=8726ea9a0fa30d20381f159647eb41f7dd1244e06676a2a03972b57b42fba347&smart=true&width=1200&height=630&quality=85",
    "credit": "Foto: Reprodução/Infobae"
   }
  },
@@ -120,202 +120,260 @@
   "kind": "video",
   "platform": "instagram",
   "region": "AR",
-  "sourceUrl": "https://www.infobae.com/deportes/2026/10/08/el-conmovedor-testimonio-del-guardia-de-seguridad-al-que-filmaron-llorando-en-la-despedida-de-messi-despedi-una-parte-de-mi-infancia/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "sourceUrl": "https://noticias.perfil.com/noticias/deportes/viral-el-regreso-de-los-simuladores-para-rearmar-la-scaloneta.phtml",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 88,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O segurança que chorou de costas para Messi",
-    "note": "Filmado chorando sem poder se virar durante o discurso de Messi no Monumental, o segurança Brandon Renzi viralizou no Instagram e disse que se despediu de \"uma parte da infância\"."
+    "name": "Scaloni em \"Los Simuladores\"",
+    "note": "Um reel feito com IA pelo criador @eliastopcinema transforma Scaloni e sua comissão técnica nos personagens da série de Damián Szifron, numa missão para \"rearmar\" a seleção argentina."
    },
    "en": {
-    "name": "The guard who cried with his back to Messi",
-    "note": "Filmed in tears while on duty facing away from Messi's farewell speech, security guard Brandon Renzi went viral on Instagram and said he bid farewell to \"a part of my childhood.\""
+    "name": "Scaloni as \"Los Simuladores\"",
+    "note": "An AI-made reel by creator @eliastopcinema turns Scaloni and his coaching staff into the characters of Damián Szifron's series, on a mission to \"rebuild\" Argentina's national team."
    },
    "es": {
-    "name": "El guardia que lloró de espaldas a Messi",
-    "note": "Filmado llorando sin poder darse vuelta durante el discurso de Messi en el Monumental, el guardia Brandon Renzi se viralizó en Instagram y dijo que despidió \"una parte de mi infancia\"."
+    "name": "Scaloni en \"Los Simuladores\"",
+    "note": "Un reel hecho con IA por @eliastopcinema convierte a Scaloni y su cuerpo técnico en los personajes de la serie de Damián Szifron, en una misión para \"rearmar\" la Selección."
    }
   },
   "rank": 5,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/U6K5BC3TKFH6NNKYP2DRMDSVVM.png?auth=54ef7a527181cda6fa1f26d41d8006cdd3e2a06d9cd6e28e5e4ff9cc3be00125&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/Infobae"
+   "url": "https://fotos.perfil.com/2026/10/08/trim/1280/720/scaloni-aimar-samuel-y-ayala-2344379.png",
+   "credit": "Foto: Perfil"
   }
  },
  {
   "id": "tr6",
-  "kind": "format",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.terra.com.br/noticias/mundo/policial-entra-em-batalha-de-aura-durante-manifestacao-de-estudantes-na-franca-e-viraliza-video,9e610836527f30d5339065c5666583b2bqvdw39x.html",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "kind": "video",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://portalrdx.com.br/08/10/2026/video-casal-de-motociclistas-gabarita-destinos-de-musica-e-video-viraliza-nas-redes-sociais/",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Policial entra em \"batalha de aura\"",
-    "note": "Um policial francês entrou numa \"batalha de aura\" com estudantes durante protesto em Mâcon, levando para a rua a trend de \"farmar aura\" das redes."
+    "name": "Casal \"zera\" \"Vou pra Santa Catarina\"",
+    "note": "Os motociclistas William e Bruna visitaram todos os lugares citados na música do Terceira Dimensão, e o vídeo passou de 3,6 milhões de visualizações no Instagram."
    },
    "en": {
-    "name": "Cop joins an \"aura battle\"",
-    "note": "A French police officer joined students in an \"aura battle\" during a protest in Mâcon, taking the \"aura farming\" trend from social media to the street."
+    "name": "Couple completes a song's road trip",
+    "note": "Biker couple William and Bruna visited every place named in Terceira Dimensão's \"Vou pra Santa Catarina,\" and the video topped 3.6 million views on Instagram."
    },
    "es": {
-    "name": "Policía entra en una \"batalla de aura\"",
-    "note": "Un policía francés se sumó a una \"batalla de aura\" con estudiantes en una protesta en Mâcon, llevando a la calle la tendencia de \"farmear aura\"."
+    "name": "Pareja recorre toda una canción",
+    "note": "Los motociclistas William y Bruna visitaron todos los lugares que menciona \"Vou pra Santa Catarina\", de Terceira Dimensão, y el video superó 3,6 millones de vistas en Instagram."
    }
   },
   "rank": 6,
   "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/foto-2026-10-07t154802-938-sknbp0xcpxer.jpg",
-   "credit": "Foto: Reprodução/Terra"
+   "url": "https://portalrdx.com.br/wp-content/uploads/ssi-images/post-127751.jpg?v=1791481538",
+   "credit": "Foto: Reprodução/Instagram @destinoaventura_rs"
   }
  },
  {
   "id": "tr7",
-  "kind": "video",
+  "kind": "topic",
   "platform": "x",
-  "region": "AR",
-  "sourceUrl": "https://www.terra.com.br/esportes/craques/messi/comparacao-entre-reacoes-de-antonella-e-enzo-fernandez-em-despedida-de-messi-viraliza-veja-o-momento,54e9cc177c24a0ab104635b69f839064g8kai48y.html",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "region": "MX",
+  "sourceUrl": "https://tribuna.com.mx/tendencias/2026/10/07/lupita-tiktok-se-vuelve-viral-por-cobrar-30-pesos-por-una-foto-video-desata-criticas-en-redes_699459/",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Antonella aplaude, Enzo Fernández desaba",
-    "note": "A comparação entre Antonella aplaudindo e Enzo Fernández aos prantos no discurso de despedida de Messi viralizou e dividiu a torcida no X."
+    "name": "Lupita TikTok cobra por foto",
+    "note": "A influenciadora de Monterrey foi filmada cobrando 30 pesos de dois fãs para tirar uma foto, e o vídeo reacendeu o debate sobre criadores que cobram do próprio público."
    },
    "en": {
-    "name": "Antonella claps, Enzo Fernández sobs",
-    "note": "A side-by-side of Antonella applauding and Enzo Fernández in tears during Messi's farewell speech went viral and split fans on X."
+    "name": "Lupita TikTok charges for selfies",
+    "note": "The Monterrey influencer was filmed charging two fans 30 pesos for a photo, reigniting the debate over creators charging their own audience."
    },
    "es": {
-    "name": "Antonella aplaude, Enzo Fernández llora",
-    "note": "La comparación entre Antonela aplaudiendo y Enzo Fernández llorando en el discurso de despedida de Messi se viralizó y dividió a los hinchas en X."
+    "name": "Lupita TikTok cobra por foto",
+    "note": "La influencer regiomontana fue grabada cobrando 30 pesos a dos fans por una foto, y el video reavivó el debate sobre creadores que le cobran a su público."
    }
   },
   "rank": 7,
   "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/antonella-enzo-fernandez-1jefhipyp2koj.png",
-   "credit": "Foto: Reprodução/Terra"
+   "url": "https://tribuna-media.s3.mx-central-1.amazonaws.com/uploads/2026/10/Lupita-TikTok-se-vuelve-viral-por-cobrar-30-pesos-por-una-foto-video-desata-criticas-en-redes.jpg",
+   "credit": "Foto: Reprodução/Tribuna"
   }
  },
  {
   "id": "tr8",
-  "kind": "topic",
-  "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://www.metropoles.com/colunas/fabia-oliveira/influencer-envolvida-em-polemica-de-ze-vaqueiro-e-ingra-ironiza-paz",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "kind": "video",
+  "platform": "youtube",
+  "region": "MX",
+  "sourceUrl": "https://la-lista.com/mexico/ya-guey-edgar-el-joven-que-se-hizo-viral-por-su-caida-a-un-rio-hace-20-anos-se-va-a-casar-video",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A trend de Milca e Zé Vaqueiro",
-    "note": "Uma trend de dança fez a web \"shippar\" a influenciadora Milca e Zé Vaqueiro, o cantor reclamou do uso da imagem do filho em montagens de IA e a ex, Ingra Soares, entrou na briga."
+    "name": "Edgar, do \"¡Ya, güey!\", vai casar",
+    "note": "Vinte anos depois do clássico do YouTube em que caiu num riacho, Edgar Martínez se casa com a arquiteta Valeria Bermea neste sábado (10), e o vídeo voltou a circular."
    },
    "en": {
-    "name": "The Milca and Zé Vaqueiro trend",
-    "note": "A dance trend got fans shipping influencer Milca and singer Zé Vaqueiro; he objected to AI images using his son, and his ex Ingra Soares joined the feud."
+    "name": "\"Edgar's Fall\" star is getting married",
+    "note": "Twenty years after the YouTube classic where he tumbled into a creek, Edgar Martínez marries architect Valeria Bermea this Saturday (Oct. 10), and the old clip is circulating again."
    },
    "es": {
-    "name": "La trend de Milca y Zé Vaqueiro",
-    "note": "Una trend de baile hizo que la web emparejara a la influencer Milca con el cantante Zé Vaqueiro; él se quejó de montajes con IA de su hijo y su ex, Ingra Soares, entró en la pelea."
+    "name": "Edgar, el del \"¡Ya, güey!\", se casa",
+    "note": "Veinte años después del clásico de YouTube en el que cayó al río, Edgar Martínez se casa con la arquitecta Valeria Bermea este sábado 10, y el video volvió a circular."
    }
   },
   "rank": 8,
   "image": {
-   "url": "https://i.metroimg.com/qmpUza7PhCW98LGLQB5q0TVoXGKHx2pD4aRQaHmfWLs/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/influecer-ze-vaqueiro-ingra-paz.jpg",
-   "credit": "Foto: Reprodução/Metrópoles"
+   "url": "https://assets.ejecentral.com.mx/dims4/default/098fc04/2147483647/strip/true/crop/1200x630+0+35/resize/1200x630!/quality/90/?url=https%3A%2F%2Fk3-prod-ejecentral.s3.us-west-2.amazonaws.com%2Fbrightspot%2Fa3%2F65%2Fe2d89be346bd91c75c038e704d5f%2Fedgar-boda-video-viral.jpg",
+   "credit": "Foto: Reprodução/La-Lista"
   }
  },
  {
   "id": "tr9",
-  "kind": "video",
+  "kind": "format",
   "platform": "tiktok",
-  "region": "MX",
-  "sourceUrl": "https://www.infobae.com/mexico/2026/10/07/antro-o-falla-electrica-luces-de-una-avenida-en-cdmx-crean-un-extrano-espectaculo-que-se-vuelve-viral/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.que.es/2026/10/09/tendencia-acubi-estetica-seul-tiktok/",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A \"rua balada\" da Cidade do México",
-    "note": "Postes de uma avenida da CDMX piscando em sincronia como luz estroboscópica viraram a \"calle antro\" no TikTok e no X: \"só falta o DJ\"."
+    "name": "Estética Acubi",
+    "note": "O estilo de rua de Seul que mistura Y2K, grunge e minimalismo coreano, com peças largas contra justas e cores apagadas, virou febre da geração Z no TikTok."
    },
    "en": {
-    "name": "Mexico City's \"club street\"",
-    "note": "Streetlights on a Mexico City avenue flickering in sync like strobes became the \"calle antro\" on TikTok and X: \"all it needs is a DJ.\""
+    "name": "Acubi aesthetic",
+    "note": "Seoul's street style blending Y2K, grunge and Korean minimalism, with baggy-versus-fitted proportions and muted colors, has become a Gen Z obsession on TikTok."
    },
    "es": {
-    "name": "La \"calle antro\" de la CDMX",
-    "note": "Las luminarias de una avenida de la CDMX parpadeando al unísono como estrobos se volvieron la \"calle antro\" en TikTok y X: \"falta el DJ y que cobren el cover\"."
+    "name": "Estética Acubi",
+    "note": "El estilo urbano de Seúl que mezcla Y2K, grunge y minimalismo coreano, con prendas holgadas contra ajustadas y colores apagados, se volvió furor de la Gen Z en TikTok."
    }
   },
   "rank": 9,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/NBTNSWNCYZCHNHRGV3YPCQD7KE.jpg?auth=e985e615ceb7ee22b469cb965b9ed6aae059fe924b8ce76574347de85bea86cd&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/Infobae"
+   "url": "https://static.que.es/wp-content/uploads/2026/06/Generacion-Z-.webp",
+   "credit": "Foto: Que.es"
   }
  },
  {
   "id": "tr10",
   "kind": "topic",
-  "platform": "x",
-  "region": "MX",
-  "sourceUrl": "https://www.infobae.com/mexico/2026/10/08/quien-es-heydee-hofmann-la-esposa-de-un-integrante-de-molotov-que-confundieron-con-ines-gomez-mont/",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.metropoles.com/vida-e-estilo/influenciadora-e-desclassificada-em-maratona-por-trapacear-e-usar-bicicleta",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "\"Inés Gómez Mont\" na festa de Galilea Montijo",
-    "note": "Uma foto da festa de Galilea Montijo viralizou no X porque a web confundiu Heydee Hofmann, mulher do baixista do Molotov, com a foragida Inés Gómez Mont."
+    "name": "Influencer de bike na maratona",
+    "note": "A influenciadora fitness chinesa Sun Yuanyuan foi desclassificada da Maratona de Berlim após ser flagrada de bicicleta entre os km 35 e 40, e perdeu o patrocínio da Brooks."
    },
    "en": {
-    "name": "\"Inés Gómez Mont\" at Galilea Montijo's party",
-    "note": "A photo from Galilea Montijo's party went viral on X after users mistook Heydee Hofmann, wife of Molotov's bassist, for fugitive ex-host Inés Gómez Mont."
+    "name": "Marathon influencer caught on a bike",
+    "note": "Chinese fitness influencer Sun Yuanyuan was disqualified from the Berlin Marathon after being photographed on a bicycle between km 35 and 40, and Brooks dropped her sponsorship."
    },
    "es": {
-    "name": "\"Inés Gómez Mont\" en la fiesta de Galilea Montijo",
-    "note": "Una foto del GaliFest se viralizó en X porque usuarios confundieron a Heydee Hofmann, esposa del bajista de Molotov, con Inés Gómez Mont."
+    "name": "Influencer en bici en el maratón",
+    "note": "La influencer fitness china Sun Yuanyuan fue descalificada del Maratón de Berlín tras ser captada en bicicleta entre los km 35 y 40, y Brooks le retiró el patrocinio."
    }
   },
   "rank": 10,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/GKRSBSQ65FCR5IYD56TLQKV6CI.jpg?auth=3943697c1114de9e0c15e8057f267f0447d7364020d8c6f24781d13831da5c8d&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/Infobae"
+   "url": "https://i.metroimg.com/N9QSDruhvCYE0U6z4FCR1sQC_xGgqHA5aZuar97ONmI/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/maratona.png",
+   "credit": "Foto: Reprodução/Instagram"
   }
  },
  {
   "id": "tr11",
-  "kind": "video",
-  "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://www.terra.com.br/diversao/gente/daniella-cicarelli-viraliza-ao-expor-perrengue-intimo-com-marido-em-trailer-pra-fora,82d79132f582ecc95b790855e55eaa0ap0t8028d.html",
-  "collectedAt": "2026-10-08T23:18:32Z",
+  "kind": "topic",
+  "platform": "x",
+  "region": "US",
+  "sourceUrl": "https://www.soapcentral.com/entertainment/news-elon-musk-is-crashing-out-over-the-movie-musk-internet-reacts-space-x-founder-slams-doc-director-viral-tweet",
+  "collectedAt": "2026-10-09T12:15:04Z",
   "hue": 310,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O trailer apertado de Daniella Cicarelli",
-    "note": "Cicarelli mostrou no Instagram o trailer minúsculo em que viaja com o marido pela Califórnia, com os pés para fora da cama, e brincou que o perrengue testa qualquer casamento."
+    "name": "Musk ataca o documentário \"Musk\"",
+    "note": "Elon Musk chamou Alex Gibney de \"crackpot\" no X às vésperas da estreia do documentário sobre ele, que chega aos cinemas nesta sexta (9), e a reação virou meme."
    },
    "en": {
-    "name": "Daniella Cicarelli's cramped trailer",
-    "note": "Cicarelli showed on Instagram the tiny trailer she shares with her husband in California, feet hanging off the bed, joking that it tests any marriage."
+    "name": "Musk lashes out at \"Musk\" doc",
+    "note": "Elon Musk called Alex Gibney a \"crackpot\" on X ahead of the documentary about him, which hits theaters this Friday (Oct. 9), and the outburst turned into a meme."
    },
    "es": {
-    "name": "El tráiler apretado de Daniella Cicarelli",
-    "note": "Cicarelli mostró en Instagram el diminuto tráiler en el que viaja con su esposo por California, con los pies fuera de la cama, y bromeó que pone a prueba cualquier matrimonio."
+    "name": "Musk arremete contra el documental \"Musk\"",
+    "note": "Elon Musk llamó \"chiflado\" a Alex Gibney en X antes del estreno del documental sobre él, que llega a cines este viernes 9, y su reacción se volvió meme."
    }
   },
   "rank": 11,
   "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/07/1294172640-daniella-cicarelli.jpg",
-   "credit": "Foto: Reprodução/Terra"
+   "url": "https://statico.soapcentral.com/editor/2026/10/c0d0c-17913561621629-1920.jpg",
+   "credit": "Foto: Reprodução/Soapcentral"
+  }
+ },
+ {
+  "id": "tr12",
+  "kind": "video",
+  "platform": "x",
+  "region": "BR",
+  "sourceUrl": "https://www.centraldatoca.com.br/entrevistas/2026/10/08/ze-lucas-do-cruzeiro-revela-mensagem-de-felipe-morais-apos-video-viralizar-nas-redes",
+  "collectedAt": "2026-10-09T12:15:04Z",
+  "hue": 347,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "A dancinha de Zé Lucas aos 8 anos",
+    "note": "Depois de marcar seu primeiro gol pelo Cruzeiro, o meia viu torcedores resgatarem um vídeo dele dançando com amigos aos oito anos, e levou na esportiva."
+   },
+   "en": {
+    "name": "Zé Lucas's childhood dance",
+    "note": "After scoring his first goal for Cruzeiro, the midfielder saw fans dig up a clip of him dancing with friends at age eight, and he took it in stride."
+   },
+   "es": {
+    "name": "El bailecito de Zé Lucas a los 8",
+    "note": "Tras marcar su primer gol con Cruzeiro, el volante vio a hinchas rescatar un video suyo bailando con amigos a los ocho años, y se lo tomó con humor."
+   }
+  },
+  "rank": 12,
+  "image": {
+   "url": "https://static.centraldatoca.com/2026/10/FotoJet-2026-10-08T195130.328.jpg",
+   "credit": "Foto: Central da Toca"
+  }
+ },
+ {
+  "id": "tr13",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "sourceUrl": "https://portaldemocrata.com.br/2026/10/09/inglesa-viraliza-como-fatfluencer-e-enfrenta-ataques-nas-redes/",
+  "collectedAt": "2026-10-09T12:15:04Z",
+  "hue": 24,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "A \"fatfluencer\" do sutiã 44KK",
+    "note": "A britânica Marianne Bain, 39, passou de 1,5 milhão de views com a resenha de um sutiã para seios grandes e virou referência plus size, apesar dos ataques sobre seu peso."
+   },
+   "en": {
+    "name": "The 44KK bra \"fatfluencer\"",
+    "note": "Britain's Marianne Bain, 39, passed 1.5 million views with a review of a bra for large busts and became a plus-size go-to, despite attacks over her weight."
+   },
+   "es": {
+    "name": "La \"fatfluencer\" del brasier 44KK",
+    "note": "La británica Marianne Bain, de 39 años, superó 1,5 millones de vistas con la reseña de un brasier para busto grande y se volvió referente plus size pese a los ataques por su peso."
+   }
+  },
+  "rank": 13,
+  "image": {
+   "url": "https://portaldemocrata.com.br/wp-content/uploads/2026/10/blog-bain.avif",
+   "credit": "Foto: Reprodução/TikTok"
   }
  },
  {
@@ -339,8 +397,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
-  "id": "tr12",
-  "hue": 347
+  "id": "tr14",
+  "hue": 61
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -363,8 +421,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
-  "id": "tr13",
-  "hue": 24
+  "id": "tr15",
+  "hue": 98
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -387,8 +445,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
-  "id": "tr14",
-  "hue": 61
+  "id": "tr16",
+  "hue": 135
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -415,8 +473,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Blog Gran Cursos Online."
    }
   },
-  "id": "tr15",
-  "hue": 98
+  "id": "tr17",
+  "hue": 172
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -443,8 +501,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía UOL Notícias."
    }
   },
-  "id": "tr16",
-  "hue": 135
+  "id": "tr18",
+  "hue": 209
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -471,8 +529,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Prefeitura de São José do Rio Preto (SP)."
    }
   },
-  "id": "tr17",
-  "hue": 172
+  "id": "tr19",
+  "hue": 246
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -499,8 +557,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
    }
   },
-  "id": "tr18",
-  "hue": 209
+  "id": "tr20",
+  "hue": 283
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -527,8 +585,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía InfoMoney."
    }
   },
-  "id": "tr19",
-  "hue": 246
+  "id": "tr21",
+  "hue": 320
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -555,8 +613,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía VEJA."
    }
   },
-  "id": "tr20",
-  "hue": 283
+  "id": "tr22",
+  "hue": 357
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -583,8 +641,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Seeking Alpha."
    }
   },
-  "id": "tr21",
-  "hue": 320
+  "id": "tr23",
+  "hue": 34
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -611,8 +669,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía AFP.com."
    }
   },
-  "id": "tr22",
-  "hue": 357
+  "id": "tr24",
+  "hue": 71
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -639,8 +697,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
    }
   },
-  "id": "tr23",
-  "hue": 34
+  "id": "tr25",
+  "hue": 108
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -667,8 +725,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ATP Tour."
    }
   },
-  "id": "tr24",
-  "hue": 71
+  "id": "tr26",
+  "hue": 145
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -695,8 +753,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Reuters."
    }
   },
-  "id": "tr25",
-  "hue": 108
+  "id": "tr27",
+  "hue": 182
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -723,8 +781,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía CBS Sports."
    }
   },
-  "id": "tr26",
-  "hue": 145
+  "id": "tr28",
+  "hue": 219
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -751,8 +809,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía ABC News - Breaking News, Latest News and Videos."
    }
   },
-  "id": "tr27",
-  "hue": 182
+  "id": "tr29",
+  "hue": 256
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -779,8 +837,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Politico."
    }
   },
-  "id": "tr28",
-  "hue": 219
+  "id": "tr30",
+  "hue": 293
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -807,8 +865,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía HHS.gov."
    }
   },
-  "id": "tr29",
-  "hue": 256
+  "id": "tr31",
+  "hue": 330
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -835,8 +893,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía qz.com."
    }
   },
-  "id": "tr30",
-  "hue": 293
+  "id": "tr32",
+  "hue": 7
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -863,8 +921,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía ESPN Argentina."
    }
   },
-  "id": "tr31",
-  "hue": 330
+  "id": "tr33",
+  "hue": 44
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -891,8 +949,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr32",
-  "hue": 7
+  "id": "tr34",
+  "hue": 81
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -919,8 +977,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Variety."
    }
   },
-  "id": "tr33",
-  "hue": 44
+  "id": "tr35",
+  "hue": 118
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -947,8 +1005,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Sitio Oficial del Municipio de General Pueyrredon."
    }
   },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr36",
+  "hue": 155
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -975,8 +1033,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
    }
   },
-  "id": "tr35",
-  "hue": 118
+  "id": "tr37",
+  "hue": 192
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1003,8 +1061,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr38",
+  "hue": 229
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1031,8 +1089,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr37",
-  "hue": 192
+  "id": "tr39",
+  "hue": 266
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1059,8 +1117,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La 100."
    }
   },
-  "id": "tr38",
-  "hue": 229
+  "id": "tr40",
+  "hue": 303
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1087,8 +1145,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía NNC.MX."
    }
   },
-  "id": "tr39",
-  "hue": 266
+  "id": "tr41",
+  "hue": 340
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1115,8 +1173,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía ESPN México."
    }
   },
-  "id": "tr40",
-  "hue": 303
+  "id": "tr42",
+  "hue": 17
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1143,8 +1201,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía TUDN."
    }
   },
-  "id": "tr41",
-  "hue": 340
+  "id": "tr43",
+  "hue": 54
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1171,8 +1229,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía VoetbalPrimeur."
    }
   },
-  "id": "tr42",
-  "hue": 17
+  "id": "tr44",
+  "hue": 91
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1199,8 +1257,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía BBC."
    }
   },
-  "id": "tr43",
-  "hue": 54
+  "id": "tr45",
+  "hue": 128
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1227,8 +1285,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Yahoo en Español Vida y Estilo."
    }
   },
-  "id": "tr44",
-  "hue": 91
+  "id": "tr46",
+  "hue": 165
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1255,8 +1313,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Gobierno del Estado de Nuevo León."
    }
   },
-  "id": "tr45",
-  "hue": 128
+  "id": "tr47",
+  "hue": 202
  },
  {
   "collectedAt": "2026-10-09T09:40:37.559Z",
@@ -1283,7 +1341,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Mediotiempo."
    }
   },
-  "id": "tr46",
-  "hue": 165
+  "id": "tr48",
+  "hue": 239
  }
 ]
