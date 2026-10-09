@@ -153,7 +153,9 @@
   "menina solta|giulia be": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/90/bd/16/90bd16b0-f0bf-e580-372c-d4df3f8d5189/190296831652.jpg/600x600bb.jpg",
   "seven|jung kook": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f2/54/08/f254081d-c7e2-6cd6-f7c5-dedb56fd95bd/196922710582_Cover.jpg/600x600bb.jpg",
   "standing next to you|jung kook": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/86/78/b4/8678b4b3-2341-7239-b6cb-bcfdaef0e4e0/196922656545_Cover.jpg/600x600bb.jpg",
-  "dreamers|jung kook": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/c2/c0/03c2c0d5-bb76-e143-847f-52ff6c4c808f/197089992972.png/600x600bb.jpg"
+  "dreamers|jung kook": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/03/c2/c0/03c2c0d5-bb76-e143-847f-52ff6c4c808f/197089992972.png/600x600bb.jpg",
+  "botella tras botella|christian nodal": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/3f/d4/7c/3fd47cca-c704-7c5b-dba0-deebb606ef6f/00602438235018_Cover.jpg/600x600bb.jpg",
+  "dime como quieres|angela aguilar": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/fd/f0/f4/fdf0f477-a292-aba5-11c7-b0d7ea2d5f6e/20UMGIM96677.rgb.jpg/600x600bb.jpg"
  },
  "albums": {
   "the life of a showgirl the encore|taylor swift": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
@@ -588,7 +590,10 @@
   "everything i thought it was|justin timberlake": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/66/bf/33/66bf3383-c668-88ed-6d72-732a253d577b/196871926942.jpg/600x600bb.jpg",
   "long live asap|a ap rocky": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/1000x1000-000000-80-0-0.jpg",
   "at long last asap|a ap rocky": "https://cdn-images.dzcdn.net/images/artist/5eebb137c5f4d0eb8fb5f9227e1b6288/1000x1000-000000-80-0-0.jpg",
-  "testing|a ap rocky": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/91/9c/d3919c54-3426-07a2-91a4-b4e46b2a8d34/886447076453.jpg/600x600bb.jpg"
+  "testing|a ap rocky": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d3/91/9c/d3919c54-3426-07a2-91a4-b4e46b2a8d34/886447076453.jpg/600x600bb.jpg",
+  "me deje llevar|christian nodal": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/ca/70/a4/ca70a457-5d72-0e11-87a8-fb8dba93e204/17UM1IM16287.rgb.jpg/600x600bb.jpg",
+  "ahora|christian nodal": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/03/b1/4f/03b14f40-2cf6-120a-09ae-4f1cf6d6101f/19UMGIM35897.rgb.jpg/600x600bb.jpg",
+  "ayayay|christian nodal": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/35/07/3d/35073dfd-3e91-9c1e-7a6e-2d5fc29a4621/21UMGIM13994.rgb.jpg/600x600bb.jpg"
  },
  "articles": {
   "2001": {
@@ -2607,6 +2612,51 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Christopher_Abbott_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg/960px-Christopher_Abbott_at_the_2024_Toronto_International_Film_Festival_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
    "credit": "Foto: Wikimedia Commons",
    "source": "en.wikipedia.org/wiki/Christopher_Abbott"
+  },
+  "angelica": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Ang%C3%A9lica_Rivera_in_France_-_2017_%2835633555171%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Angélica_Rivera"
+  },
+  "joao-vitor-silva": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Jo%C3%A3o_V%C3%ADtor_Silva-6463.jpg/960px-Jo%C3%A3o_V%C3%ADtor_Silva-6463.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/João_Vitor_Silva"
+  },
+  "zeca-camargo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Zecacamargo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Zeca_Camargo"
+  },
+  "chay-suede": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Chay_Suede_%28cropped%29.jpg/960px-Chay_Suede_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Chay_Suede"
+  },
+  "christian-nodal": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Nodal.jpg/960px-Nodal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Christian_Nodal"
+  },
+  "angela-aguilar": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/%C3%81ngela_Aguilar_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Ángela_Aguilar"
+  },
+  "marrone": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Emma_%28Oct_2023%29_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Emma_Marrone"
+  },
+  "mc-mirella": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Mirella_-_TVZ_2023_%283%29.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Mirella"
+  },
+  "charlie-cox": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Charlie_Cox_at_MCM_Brum_26_04.jpg/960px-Charlie_Cox_at_MCM_Brum_26_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Charlie_Cox"
   }
  }
 }
