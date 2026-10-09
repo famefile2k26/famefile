@@ -800,7 +800,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-29T02:23:00Z",
   "breaking": true,
-  "personIds": [],
+  "personIds": [
+   "dennis-haskins"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -1173,7 +1175,10 @@
   "section": "news",
   "publishedAt": "2026-09-28T18:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "barbara-palvin",
+   "dylan-sprouse"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -1678,7 +1683,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-29T06:40:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "la-joaqui"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -2542,7 +2549,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-27T14:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "jon-watts"
+  ],
   "confidence": "reported",
   "risk": "yellow",
   "image": {
@@ -2763,7 +2772,10 @@
   "section": "news",
   "publishedAt": "2026-09-29T14:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "tom-brady",
+   "gisele-bundchen"
+  ],
   "confidence": "reported",
   "risk": "yellow",
   "image": {
@@ -2819,7 +2831,10 @@
   "section": "news",
   "publishedAt": "2026-09-28T20:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "hayden-panettiere",
+   "wladimir-klitschko"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3037,7 +3052,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-28T16:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "sandra-huller"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3536,7 +3553,9 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-29T16:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "matthew-perry"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -3694,7 +3713,11 @@
   "section": "news",
   "publishedAt": "2026-09-28T09:00:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "byun-yo-han",
+   "tiffany-young",
+   "yoo-jae-suk"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4086,7 +4109,9 @@
   "section": "news",
   "publishedAt": "2026-09-29T19:10:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "bruno-gagliasso"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4138,7 +4163,10 @@
   "section": "news",
   "publishedAt": "2026-09-29T18:03:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "poliana-rocha",
+   "bruna-biancardi"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4407,7 +4435,9 @@
   "section": "news",
   "publishedAt": "2026-09-29T17:45:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "sabrina-sato"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4627,7 +4657,10 @@
   "section": "movies-tv",
   "publishedAt": "2026-09-29T06:53:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "wanda-nara",
+   "luck-ra"
+  ],
   "confidence": "confirmed",
   "risk": "green",
   "image": {
@@ -4789,7 +4822,9 @@
   "section": "news",
   "publishedAt": "2026-09-29T13:38:00Z",
   "breaking": false,
-  "personIds": [],
+  "personIds": [
+   "caua-reymond"
+  ],
   "confidence": "reported",
   "risk": "yellow",
   "image": {
