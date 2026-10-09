@@ -319,7 +319,7 @@
   }
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -343,7 +343,7 @@
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -367,7 +367,7 @@
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -391,343 +391,599 @@
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=MX&period=7",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 1,
+  "sourceUrl": "https://blog.grancursosonline.com.br/concurso-cgu-edital-publicado-2026/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa81CDtJPGD9GnRQihfHHE5xFz6nKKvxrOfmeGUAK6eTX9SpiuAvmSCCCkyJA",
+   "credit": "Blog Gran Cursos Online"
+  },
   "t": {
    "pt": {
-    "name": "#complexcon",
-    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
+    "name": "edital cgu",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Blog Gran Cursos Online."
    },
    "en": {
-    "name": "#complexcon",
-    "note": "Trending TikTok hashtag (global) — #3 this week."
+    "name": "edital cgu",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Blog Gran Cursos Online."
    },
    "es": {
-    "name": "#complexcon",
-    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
+    "name": "edital cgu",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Blog Gran Cursos Online."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 1,
-  "sourceUrl": "https://www.cnnbrasil.com.br/politica/incendio-na-ufpe-nao-foi-causado-pela-direita-diz-thiago-medina-a-cnn/",
+  "rank": 2,
+  "sourceUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/09/linhas-1-3-e-5-operam-com-velocidade-reduzida-na-manha-de-hoje.ghtm",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQTnrNK0yjMG-SaOG2TwqPgiPSp-lKGwYbP2FA9sUFz4dlhaHblS71WCx2_8dQ",
-   "credit": "CNN Brasil"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSo2pYxYinDLwsFAUei2oSNkZoXng-iFP-zUAoj1STgNlf06Zjck9Snv0ewRck",
+   "credit": "UOL Notícias"
   },
   "t": {
    "pt": {
-    "name": "veja",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via CNN Brasil."
+    "name": "linha azul",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via UOL Notícias."
    },
    "en": {
-    "name": "veja",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via CNN Brasil."
+    "name": "linha azul",
+    "note": "Trending Google search (Brazil) — 200+ searches · via UOL Notícias."
    },
    "es": {
-    "name": "veja",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía CNN Brasil."
+    "name": "linha azul",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía UOL Notícias."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 2,
-  "sourceUrl": "https://www.metropoles.com/colunas/lucas-pasin/malevola-detona-mc-mirella-por-apoiar-flavio-bolsonaro-toma-vergonha",
+  "rank": 3,
+  "sourceUrl": "https://www.riopreto.sp.gov.br/noticias/curso-gratuito-de-cuidador-de-idosos-abre-inscricoes-para-nova-turma",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-KCUXvyTdfgvua2VtJqsErQg6Rjyy5pzyLAxBYbyJaX9jbcZLejUTY0N3Mu0",
-   "credit": "Metrópoles"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRujiUt3SRynuzaOAlpwKtfb1xdjxUCwSzuRiyLQWN3pC0a1uCh8Gt0WXecFp0",
+   "credit": "Prefeitura de São José do Rio Preto (SP)"
   },
   "t": {
    "pt": {
-    "name": "mc mirella",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Metrópoles."
+    "name": "cuidador",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Prefeitura de São José do Rio Preto (SP)."
    },
    "en": {
-    "name": "mc mirella",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Metrópoles."
+    "name": "cuidador",
+    "note": "Trending Google search (Brazil) — 100+ searches · via Prefeitura de São José do Rio Preto (SP)."
    },
    "es": {
-    "name": "mc mirella",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Metrópoles."
+    "name": "cuidador",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Prefeitura de São José do Rio Preto (SP)."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 3,
-  "sourceUrl": "https://www.tvinsider.com/1295445/carrie-ending-mike-flanagan-dark-tower-connection/",
+  "rank": 4,
+  "sourceUrl": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/08/parana-sob-alerta-de-tempestade.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe2T-SAuJ6WOOTnO85PKyqtjDu_R5_JF80KRcbQbvDGrDH72UI6qB4nm83QDs",
-   "credit": "TV Insider"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT997jlUTMzyVrzFe0U-Ti-lgEcXmco15tPt5U5LlTrLkJ_FQoWf5hwHYF0a7I",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "mike flanagan",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via TV Insider."
+    "name": "previsão do tempo londrina",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
    },
    "en": {
-    "name": "mike flanagan",
-    "note": "Trending Google search (Brazil) — 100+ searches · via TV Insider."
+    "name": "previsão do tempo londrina",
+    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
    },
    "es": {
-    "name": "mike flanagan",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía TV Insider."
+    "name": "previsão do tempo londrina",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 4,
-  "sourceUrl": "https://g1.globo.com/ba/bahia/noticia/2026/10/08/desvio-de-carne-de-primeira-qualidade-de-supermercado-em-vitoria-da-conquista.ghtml",
+  "rank": 5,
+  "sourceUrl": "https://www.infomoney.com.br/onde-investir/carteira-recomendada-fiis-outubro-2026/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9VUfbPiTVSVVgP63LWziV7MTdV-oJ03ruWZbfwIp1woSWYixTHdw9PVCN3AI",
-   "credit": "G1"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaOM3j5CmGVPiaUzBgUk44PypxMVDzDPlUbYFQqLxpr-XNLF4k9Tg5-nshv-g",
+   "credit": "InfoMoney"
   },
   "t": {
    "pt": {
-    "name": "supermercado",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
+    "name": "investidor10",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via InfoMoney."
    },
    "en": {
-    "name": "supermercado",
-    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
+    "name": "investidor10",
+    "note": "Trending Google search (Brazil) — 200+ searches · via InfoMoney."
    },
    "es": {
-    "name": "supermercado",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
+    "name": "investidor10",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía InfoMoney."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
-  "rank": 5,
-  "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/08/influencer-gabriel-spalone-suspeito-de-desviar-r-146-milhoes-do-pix-e-preso-de-novo-em-sp-suspeito-de-extorsao-ameaca-e-associacao-com-o-pcc.ghtml",
+  "rank": 6,
+  "sourceUrl": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQXDYqbes3H489dcewvfAc9CjAAeO7R9m1j8MhLortPh4EyI5iJyt_0uiozlX4",
-   "credit": "G1"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-7Ai0vJCXq6BJT2aWKNID4HXuSJ1ACCzoLmmxOfRwt92-WQFv2x6Cqd0JACY",
+   "credit": "VEJA"
   },
   "t": {
    "pt": {
-    "name": "gabriel spalone",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "walfrido warde",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via VEJA."
    },
    "en": {
-    "name": "gabriel spalone",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "walfrido warde",
+    "note": "Trending Google search (Brazil) — 500+ searches · via VEJA."
    },
    "es": {
-    "name": "gabriel spalone",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "walfrido warde",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía VEJA."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.nba.com/pelicans/videos/yves-missi-interview-pelicans-training-camp-10-1-2026",
+  "region": "BR",
+  "rank": 7,
+  "sourceUrl": "https://seekingalpha.com/article/4952960-mar-vista-us-quality-portfolio-q3-2026-commentary",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7SGhecWLbKtHXrSJtUGj3urs_ai376ambJymJ73rIl0LtCH9KgC8G5bhVqlE",
-   "credit": "NBA.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmTl9NMFQd_Bm8-aS3l49Q8n9uX-LrJoQGOrwcy8N2orPDiIABabpBV6a5u8",
+   "credit": "Seeking Alpha"
   },
   "t": {
    "pt": {
-    "name": "zion williamson",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via NBA.com."
+    "name": "mar",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Seeking Alpha."
    },
    "en": {
-    "name": "zion williamson",
-    "note": "Trending Google search (US) — 200+ searches · via NBA.com."
+    "name": "mar",
+    "note": "Trending Google search (Brazil) — 500+ searches · via Seeking Alpha."
    },
    "es": {
-    "name": "zion williamson",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía NBA.com."
+    "name": "mar",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Seeking Alpha."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.wcax.com/video/2026/10/09/rc-stevens-leads-state-aa-tennis-tournament-after-day-one/",
+  "region": "BR",
+  "rank": 8,
+  "sourceUrl": "https://www.afp.com/en/zverev-churns-out-win-shanghai-masters-opener",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRnaXwrucGsJ6jF3Uk5r_cItvsNb8-WcbjorzHJ1OeIcQiBaLL_n-rnH0w8YAg",
-   "credit": "WCAX"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_F6E0ujamhq9MXaug7Z4gMhD8DUV4Y_ZtJ1Hg5mL7d4c6wwEZc2QYTWXo27w",
+   "credit": "AFP.com"
   },
   "t": {
    "pt": {
-    "name": "tennis",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via WCAX."
+    "name": "alexander zverev",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via AFP.com."
    },
    "en": {
-    "name": "tennis",
-    "note": "Trending Google search (US) — 100+ searches · via WCAX."
+    "name": "alexander zverev",
+    "note": "Trending Google search (Brazil) — 500+ searches · via AFP.com."
    },
    "es": {
-    "name": "tennis",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía WCAX."
+    "name": "alexander zverev",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía AFP.com."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.aboutamazon.com/news/devices/new-amazon-alexa-tablets-alexa-plus",
+  "rank": 1,
+  "sourceUrl": "https://www.espn.com/nfl/story/_/id/50138218/undrafted-rookie-qb-daniels-savors-thursday-night-win-vs-cowboys",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81CNhvkv0T9iJh2c-4w5WBPl8Eyj7FdNzmkdYNtc3AHzyzeSCYIgZ8Lombog",
-   "credit": "About Amazon"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMa1J8T4vGvNP7rJq3rnuz_UmJSyCDi4A0HemcYR53hr5ZbRf6t6gew3VElfE",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "google play store",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via About Amazon."
+    "name": "tnf score",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
    },
    "en": {
-    "name": "google play store",
-    "note": "Trending Google search (US) — 200+ searches · via About Amazon."
+    "name": "tnf score",
+    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
    },
    "es": {
-    "name": "google play store",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía About Amazon."
+    "name": "tnf score",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-dmz-deep-dive-hajin",
+  "rank": 2,
+  "sourceUrl": "https://www.atptour.com/en/news/zverev-shelton-shanghai-2026-report-friday",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJhjCbBR3z-2BvDlVJTXksBpzXlcABOo8JcVQ-H89YYThmp4DIf2I6uajMsNo",
-   "credit": "Call of Duty® | Best-Selling Video Game Franchise"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaqDxKXbcTXVhb4AMeVK7UV_xlHLifiFajsY4cQUFPzbAezBbb9r07ePO39_g",
+   "credit": "ATP Tour"
   },
   "t": {
    "pt": {
-    "name": "mw4 release date",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Call of Duty® | Best-Selling Video Game Franchise."
+    "name": "francisco cerundolo",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via ATP Tour."
    },
    "en": {
-    "name": "mw4 release date",
-    "note": "Trending Google search (US) — 200+ searches · via Call of Duty® | Best-Selling Video Game Franchise."
+    "name": "francisco cerundolo",
+    "note": "Trending Google search (US) — 500+ searches · via ATP Tour."
    },
    "es": {
-    "name": "mw4 release date",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Call of Duty® | Best-Selling Video Game Franchise."
+    "name": "francisco cerundolo",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ATP Tour."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://playbill.com/article/video-krysta-rodriguez-on-delivering-aaron-sorkin-dialogue-you-just-look-so-good",
+  "rank": 3,
+  "sourceUrl": "https://www.reuters.com/world/navanethem-navi-pillay-wins-2026-nobel-peace-prize-2026-10-09/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJEKxH9_O6iLEsgWNxLj86BfYSV2di8JDe-LEzmBNZuseIb_K4EdJjTG_MglQ",
-   "credit": "Playbill"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRD34LQ8n9p9YIb9aV0UoZEUJ37J6c3AsbRApeR1iwr5EwkPzpJ-cBlrAjeDkQ",
+   "credit": "Reuters"
   },
   "t": {
    "pt": {
-    "name": "tom blyth",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Playbill."
+    "name": "navi pillay",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via Reuters."
    },
    "en": {
-    "name": "tom blyth",
-    "note": "Trending Google search (US) — 100+ searches · via Playbill."
+    "name": "navi pillay",
+    "note": "Trending Google search (US) — 5000+ searches · via Reuters."
    },
    "es": {
-    "name": "tom blyth",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Playbill."
+    "name": "navi pillay",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Reuters."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.skysports.com/tennis/watch/8244297859274918112/rolex-shanghai-masters-2026",
+  "rank": 4,
+  "sourceUrl": "https://www.cbssports.com/college-football/news/college-football-playoff-resume-rankings-alabama-texas-georgia/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSV3C5Z1K2Z_shZouFDKogI7OBfmYYUasRladSIsGofh-Q1TssIdbrqPFsfurw",
-   "credit": "Sky Sports"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQocQSYALsMbFt27CG7EoIIYcA0hmY49ELDzZHEX2GW8OFZ4ILaYS4Ltbjx8rM",
+   "credit": "CBS Sports"
   },
   "t": {
    "pt": {
-    "name": "brandon nakashima",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Sky Sports."
+    "name": "georgia-alabama game",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via CBS Sports."
    },
    "en": {
-    "name": "brandon nakashima",
-    "note": "Trending Google search (US) — 500+ searches · via Sky Sports."
+    "name": "georgia-alabama game",
+    "note": "Trending Google search (US) — 200+ searches · via CBS Sports."
    },
    "es": {
-    "name": "brandon nakashima",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Sky Sports."
+    "name": "georgia-alabama game",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía CBS Sports."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 5,
+  "sourceUrl": "https://abcnews.com/Health/vaccines-doctors-respiratory-virus-season/story?id=137002349",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReUUUOGNcqQ5kKPe2lpFAItTkWPOEzQQH1pN3ASdHRKTXDxrZu2fTGCAtlMZI",
+   "credit": "ABC News - Breaking News, Latest News and Videos"
+  },
+  "t": {
+   "pt": {
+    "name": "vaccinations",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via ABC News - Breaking News, Latest News and Videos."
+   },
+   "en": {
+    "name": "vaccinations",
+    "note": "Trending Google search (US) — 2000+ searches · via ABC News - Breaking News, Latest News and Videos."
+   },
+   "es": {
+    "name": "vaccinations",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía ABC News - Breaking News, Latest News and Videos."
+   }
+  },
+  "id": "tr27",
+  "hue": 182
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 6,
+  "sourceUrl": "https://www.politico.com/news/2026/10/08/florida-health-vaccines-ladapo-children-debate-01112300",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIAjBdw3wPvxMqdrClTOwEPHA1EmnSizTBnS36bvHCCXdcVC_FtmGPOTjj0nI",
+   "credit": "Politico"
+  },
+  "t": {
+   "pt": {
+    "name": "immunizations",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Politico."
+   },
+   "en": {
+    "name": "immunizations",
+    "note": "Trending Google search (US) — 1000+ searches · via Politico."
+   },
+   "es": {
+    "name": "immunizations",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Politico."
+   }
+  },
+  "id": "tr28",
+  "hue": 219
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 7,
+  "sourceUrl": "https://www.hhs.gov/press-room/hhs-strengthens-vaccine-injury-research-reporting-patient-care.html",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-g9UrQ5lf5j2FNgjGVTa6OoQDQgPTwMfkAMQP4RQzJDCLFgox4WlnYZfRf5A",
+   "credit": "HHS.gov"
+  },
+  "t": {
+   "pt": {
+    "name": "vaccines",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via HHS.gov."
+   },
+   "en": {
+    "name": "vaccines",
+    "note": "Trending Google search (US) — 1000+ searches · via HHS.gov."
+   },
+   "es": {
+    "name": "vaccines",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía HHS.gov."
+   }
+  },
+  "id": "tr29",
+  "hue": 256
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 8,
+  "sourceUrl": "https://qz.com/states-highest-flu-vaccination-rates",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2yUh7MGNKpy5w4j61hVMyCfGtw9k8JtT90JVwr-NTo2Sql5w_tJYQUyOADeE",
+   "credit": "qz.com"
+  },
+  "t": {
+   "pt": {
+    "name": "flu shots near me",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via qz.com."
+   },
+   "en": {
+    "name": "flu shots near me",
+    "note": "Trending Google search (US) — 1000+ searches · via qz.com."
+   },
+   "es": {
+    "name": "flu shots near me",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía qz.com."
+   }
+  },
+  "id": "tr30",
+  "hue": 293
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 1,
+  "sourceUrl": "https://www.espn.com.ar/tenis/nota/_/id/17353013/baez-tirante-y-ugo-carabelli-levantan-la-vara-albiceleste-en-el-masters-1000-de-shanghai-cerundolo-argentina-china",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTNasHL-WiDkjway8sZxjokf6UK2H5R13bBykTQCdSZQ3c-DatSBUTXe-qkvV0",
+   "credit": "ESPN Argentina"
+  },
+  "t": {
+   "pt": {
+    "name": "francisco cerúndolo",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via ESPN Argentina."
+   },
+   "en": {
+    "name": "francisco cerúndolo",
+    "note": "Trending Google search (Argentina) — 500+ searches · via ESPN Argentina."
+   },
+   "es": {
+    "name": "francisco cerúndolo",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía ESPN Argentina."
+   }
+  },
+  "id": "tr31",
+  "hue": 330
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.clarin.com/informacion-general/clima-hoy-puerto-iguazu-misiones-pronostico-tiempo-viernes-9-octubre-2026_0_TWRWJ3EFwB.html",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSafbmMIoHzGn8ZxOjBiWSAEdp0bFn2AjciBCg_fyKcZlTmUThfVYkqyBPpm_o",
+   "credit": "Clarin.com"
+  },
+  "t": {
+   "pt": {
+    "name": "clima posadas",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Clarin.com."
+   },
+   "en": {
+    "name": "clima posadas",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Clarin.com."
+   },
+   "es": {
+    "name": "clima posadas",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
+   }
+  },
+  "id": "tr32",
+  "hue": 7
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://variety.com/2026/tv/news/marvels-zodiac-sets-2028-release-on-disney-plus-1236904566/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTWNr2a1q0Gb-XMW2LVxNJD_31hd9DgVEJZcNi6HEjvcgRQqnKUxB9u0yQb2fo",
+   "credit": "Variety"
+  },
+  "t": {
+   "pt": {
+    "name": "disney plus",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Variety."
+   },
+   "en": {
+    "name": "disney plus",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Variety."
+   },
+   "es": {
+    "name": "disney plus",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Variety."
+   }
+  },
+  "id": "tr33",
+  "hue": 44
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 4,
+  "sourceUrl": "https://www.mardelplata.gob.ar/Noticias/tras-el-cese-del-alerta-por-tormentas-y-viento-defensa-civil-contin%C3%BAa-moniteoreando-y",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXpBObZnH8LeTmlR0kr1OkN8G72xi3hx6IeExvL9nAQ3qHi-L-qVAPkNs5C7I",
+   "credit": "Sitio Oficial del Municipio de General Pueyrredon"
+  },
+  "t": {
+   "pt": {
+    "name": "mar del plata",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Sitio Oficial del Municipio de General Pueyrredon."
+   },
+   "en": {
+    "name": "mar del plata",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Sitio Oficial del Municipio de General Pueyrredon."
+   },
+   "es": {
+    "name": "mar del plata",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Sitio Oficial del Municipio de General Pueyrredon."
+   }
+  },
+  "id": "tr34",
+  "hue": 81
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 5,
+  "sourceUrl": "https://www.lanacion.com.ar/seguridad/un-condecorado-veterano-de-malvinas-seria-el-candidato-a-asumir-como-director-de-la-escuela-nacional-nid08102026/",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY201yvoTBoYYwTWer5nNm7eMnP-1eU71eu8z3mCIfIGTnNM_ClA85w6m471M",
+   "credit": "La Nación"
+  },
+  "t": {
+   "pt": {
+    "name": "escuela nacional de inteligencia",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nación."
+   },
+   "en": {
+    "name": "escuela nacional de inteligencia",
+    "note": "Trending Google search (Argentina) — 200+ searches · via La Nación."
+   },
+   "es": {
+    "name": "escuela nacional de inteligencia",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
+   }
+  },
+  "id": "tr35",
+  "hue": 118
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 6,
   "sourceUrl": "https://www.infobae.com/teleshow/2026/10/09/dalma-maradona-sorprendio-al-contar-la-unica-eleccion-que-no-le-permite-hacer-a-sus-hijas-todo-menos-eso/",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAT1DvhbmSyqIS5HhcnuTvio_E_qkrddi-8e3aT-sjI_MREvotp37jTagKkQk",
@@ -747,15 +1003,43 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr27",
-  "hue": 182
+  "id": "tr36",
+  "hue": 155
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
+  "rank": 7,
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/08/el-fuerte-cruce-entre-luis-ventura-y-marina-calabro-por-la-presencia-de-claudia-villafane-en-el-juicio-por-la-muerte-de-maradona/",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFKv6fTuonydPG2FQPd9nd9fFxXyfkToM9mctZZpW3JdvFz7oD6rxM0BE2Z00",
+   "credit": "Infobae"
+  },
+  "t": {
+   "pt": {
+    "name": "marina calabró",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Infobae."
+   },
+   "en": {
+    "name": "marina calabró",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via Infobae."
+   },
+   "es": {
+    "name": "marina calabró",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
+   }
+  },
+  "id": "tr37",
+  "hue": 192
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 8,
   "sourceUrl": "https://la100.cienradios.com/espectaculos/famosos/la-pregunta-de-marta-fort-que-dejo-sin-palabras-a-maru-botana-en-masterchef-celebrity/",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSUDpylQiGBHhRs5eZ5sxsSNicCkMwdpmskdocAXtiNi0RnpuRLns5nwJNH1gg",
@@ -775,186 +1059,102 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La 100."
    }
   },
-  "id": "tr28",
-  "hue": 219
+  "id": "tr38",
+  "hue": 229
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://caras.perfil.com/noticias/moda/calu-rivero-sorprendio-look-diferente-vestido-largo-cuero-silueta-entallada.phtml",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS1WbnASsMYrf4HYdZ6lV3AGAgO2u2VFSuTBehSNcqdWmhqqgLhhROd9l0G530",
-   "credit": "Caras"
-  },
-  "t": {
-   "pt": {
-    "name": "calu rivero",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Caras."
-   },
-   "en": {
-    "name": "calu rivero",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Caras."
-   },
-   "es": {
-    "name": "calu rivero",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Caras."
-   }
-  },
-  "id": "tr29",
-  "hue": 256
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://tn.com.ar/videos/show/famosos/2026/10/09/florencia-raggi-llamo-a-nicolas-repetto-en-vivo-y-desmintio-los-rumores-de-separacion-estamos-mejor-que-nunca/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTm7RaNuwaLG6bXbNKVP8wSFILsILzK7UepUZmfsksHoCm-BLlZKAH3_4-T4RE",
-   "credit": "TN"
-  },
-  "t": {
-   "pt": {
-    "name": "florencia raggi",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via TN."
-   },
-   "en": {
-    "name": "florencia raggi",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via TN."
-   },
-   "es": {
-    "name": "florencia raggi",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía TN."
-   }
-  },
-  "id": "tr30",
-  "hue": 293
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.eltrecetv.com.ar/videos/otro-dia-perdido/2026/10/08/no-lo-vean-ahora-la-ironica-reaccion-de-mario-pergolini-al-rating-de-su-programa-contra-messi/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR90ofpQCOHpR97WT_Jd6AxHjZGYR99VoX2hI4DeYdG7JYGqI0w7iGJNsN86Ns",
-   "credit": "eltrecetv"
-  },
-  "t": {
-   "pt": {
-    "name": "pergolini",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via eltrecetv."
-   },
-   "en": {
-    "name": "pergolini",
-    "note": "Trending Google search (Argentina) — 200+ searches · via eltrecetv."
-   },
-   "es": {
-    "name": "pergolini",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía eltrecetv."
-   }
-  },
-  "id": "tr31",
-  "hue": 330
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.mitelefe.com/masterchef-celebrity/noticias/en-masterchef-pensaron-que-una-tortilla-de-a-dos-era-facil-y-terminaron-colgados-en-el-aire-pid2568878",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7-ILKa38Azw4mfgBHazmoDkjV3ZqRTCMYeDA9Ps4BEGyWJ9tSOp-ZMIpuKSg",
-   "credit": "Telefe"
-  },
-  "t": {
-   "pt": {
-    "name": "china ansa",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Telefe."
-   },
-   "en": {
-    "name": "china ansa",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Telefe."
-   },
-   "es": {
-    "name": "china ansa",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Telefe."
-   }
-  },
-  "id": "tr32",
-  "hue": 7
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS9Dd4uYVg5L81-EEGP_bfpdzPtsHQTP_0kVmxwWN4Lw6wF99KXnLg6iEVP7qo",
-   "credit": "MIT News"
-  },
-  "t": {
-   "pt": {
-    "name": "margaret hamilton",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via MIT News."
-   },
-   "en": {
-    "name": "margaret hamilton",
-    "note": "Trending Google search (Argentina) — 200+ searches · via MIT News."
-   },
-   "es": {
-    "name": "margaret hamilton",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía MIT News."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/09/el-accidente-de-rocio-robles-en-masterchef-que-termino-en-un-abrazo-de-damian-betular-una-lloradita-y-a-seguir/",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsotHj3ytmU2xXw0dFClbLqwVI1cwJzSIYl9UFFHBFKIVU59n6GxHkOPo0z3o",
-   "credit": "Infobae"
-  },
-  "t": {
-   "pt": {
-    "name": "rocio robles",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Infobae."
-   },
-   "en": {
-    "name": "rocio robles",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via Infobae."
-   },
-   "es": {
-    "name": "rocio robles",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Infobae."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 1,
-  "sourceUrl": "https://www.voetbalprimeur.nl/videos/2144254/psv-fans-unaniem-over-eerste-spits-tegen-heerenveen.html",
+  "sourceUrl": "https://nnc.mx/articulo/tormenta-electrica-tepic-lluvia-garantizada",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm6m-1gwvkUgZTEyoQIbaBeXr4NbXt1wl3YsHNobbRe5XU5lSMBghhjLprL2A",
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXxkX6jRcvQ3utM8rVQD2tH-MEqQWL4x5EIU0jUn17iSTSWqal6gH1oU2L140",
+   "credit": "NNC.MX"
+  },
+  "t": {
+   "pt": {
+    "name": "clima tepic",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via NNC.MX."
+   },
+   "en": {
+    "name": "clima tepic",
+    "note": "Trending Google search (Mexico) — 100+ searches · via NNC.MX."
+   },
+   "es": {
+    "name": "clima tepic",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía NNC.MX."
+   }
+  },
+  "id": "tr39",
+  "hue": 266
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.espn.com.mx/futbol/espana/nota/_/id/17345943/fichajes-dani-carvajal-cerca-getafe-supera-reconocimiento-medico",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5HIbQlMbzI9aUAcybasJMZAQ0qlBdxST1vidcmQ0jcdFCJYqWgy8Y8c0WiwA",
+   "credit": "ESPN México"
+  },
+  "t": {
+   "pt": {
+    "name": "la liga",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via ESPN México."
+   },
+   "en": {
+    "name": "la liga",
+    "note": "Trending Google search (Mexico) — 100+ searches · via ESPN México."
+   },
+   "es": {
+    "name": "la liga",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía ESPN México."
+   }
+  },
+  "id": "tr40",
+  "hue": 303
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://www.tudn.com/futbol/liga-mx/brian-rodriguez-revela-la-razon-por-la-que-rechazo-al-ajax-para-seguir-en-america",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT7OXEud-FhIijan6kZQMvxz5mu6TkZlGGCsWBdGAfVBAdTOweSihdAbPfPU04",
+   "credit": "TUDN"
+  },
+  "t": {
+   "pt": {
+    "name": "brian rodríguez",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via TUDN."
+   },
+   "en": {
+    "name": "brian rodríguez",
+    "note": "Trending Google search (Mexico) — 100+ searches · via TUDN."
+   },
+   "es": {
+    "name": "brian rodríguez",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía TUDN."
+   }
+  },
+  "id": "tr41",
+  "hue": 340
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 4,
+  "sourceUrl": "https://www.voetbalprimeur.nl/nieuws/2144708/ruben-van-bommel-maakt-indruk-serie-a-club-overweegt-zich-te-melden-bij-psv.html",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxSs23f4DfIi3ABu-fjUvMq0Wgtc0LBzzGunQbuhHKSEaXTdPq5cq03qiu8MI",
    "credit": "VoetbalPrimeur"
   },
   "t": {
@@ -971,15 +1171,43 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía VoetbalPrimeur."
    }
   },
-  "id": "tr35",
-  "hue": 118
+  "id": "tr42",
+  "hue": 17
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
+  "rank": 5,
+  "sourceUrl": "https://www.bbc.com/news/articles/cmy0r96xygx6o",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnvlC5rk-fKcc6eoOWjIHLmHgMfNfTtTKBTEDLtol5btfHRhaxKNzYzcB72Xo",
+   "credit": "BBC"
+  },
+  "t": {
+   "pt": {
+    "name": "fort hood",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via BBC."
+   },
+   "en": {
+    "name": "fort hood",
+    "note": "Trending Google search (Mexico) — 200+ searches · via BBC."
+   },
+   "es": {
+    "name": "fort hood",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía BBC."
+   }
+  },
+  "id": "tr43",
+  "hue": 54
+ },
+ {
+  "collectedAt": "2026-10-09T09:40:37.559Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 6,
   "sourceUrl": "https://es-us.vida-estilo.yahoo.com/luis-llano-critica-uso-imagen-213325369.html",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9TasmbwWYloyWWd-smKs9Oll6m2oPffFnFBjvEjkJXLG__58BgIjtCEapSMc",
@@ -987,83 +1215,55 @@
   },
   "t": {
    "pt": {
-    "name": "sasha sokol",
+    "name": "timbiriche",
     "note": "Busca em alta no Google (México) — 1000+ buscas · via Yahoo en Español Vida y Estilo."
    },
    "en": {
-    "name": "sasha sokol",
+    "name": "timbiriche",
     "note": "Trending Google search (Mexico) — 1000+ searches · via Yahoo en Español Vida y Estilo."
    },
    "es": {
-    "name": "sasha sokol",
+    "name": "timbiriche",
     "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Yahoo en Español Vida y Estilo."
    }
   },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr44",
+  "hue": 91
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.espn.com/nba/story/_/id/50134832/sources-76ers-plan-play-starters-preseason-game-vs-nets",
+  "rank": 7,
+  "sourceUrl": "http://nl.gob.mx/es/boletines/lo-nuevo-si-cumple-consolida-nuevo-leon-el-mejor-sistema-de-salud-de-mexico",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRKKPjxMRYNB1Fd5vR2QEhk71xITpZr8-t4TD_kwSVCfuAJS_tfT_y3AWyoCOQ",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrUvZD2pHiCIjh7Lf6HeIWoCPFd7ZzO0WGv_B2Lo1I6Gl2J6YmsS7Yp3bNtIw",
+   "credit": "Gobierno del Estado de Nuevo León"
   },
   "t": {
    "pt": {
-    "name": "lebron james",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via ESPN."
+    "name": "samuel garcía",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Gobierno del Estado de Nuevo León."
    },
    "en": {
-    "name": "lebron james",
-    "note": "Trending Google search (Mexico) — 200+ searches · via ESPN."
+    "name": "samuel garcía",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Gobierno del Estado de Nuevo León."
    },
    "es": {
-    "name": "lebron james",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía ESPN."
+    "name": "samuel garcía",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Gobierno del Estado de Nuevo León."
    }
   },
-  "id": "tr37",
-  "hue": 192
+  "id": "tr45",
+  "hue": 128
  },
  {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
+  "collectedAt": "2026-10-09T09:40:37.559Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.nba.com/watch/video/game-recap-lakers-114-kings-110?plsrc=nba&amp;collection=2026-27-game-recaps",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJx0DaSg8btVOflPe2s9jJo2jS8wTFprBHL4nT1CUSjm8vujk2S5uUesU0j5Y",
-   "credit": "NBA.com"
-  },
-  "t": {
-   "pt": {
-    "name": "lakers vs",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via NBA.com."
-   },
-   "en": {
-    "name": "lakers vs",
-    "note": "Trending Google search (Mexico) — 100+ searches · via NBA.com."
-   },
-   "es": {
-    "name": "lakers vs",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía NBA.com."
-   }
-  },
-  "id": "tr38",
-  "hue": 229
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 5,
+  "rank": 8,
   "sourceUrl": "https://www.mediotiempo.com/futbol/liga-mx/henry-martin-revela-penso-retiro-ano-lleno-lesiones-america",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR4hDj4qjpZcL3pfVFY7zgXtp8hM9jdiS6n20Cl2OU8v4rtk0_OZvvFwyPAxuI",
@@ -1083,63 +1283,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Mediotiempo."
    }
   },
-  "id": "tr39",
-  "hue": 266
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://sports.yahoo.com/articles/psv-receive-major-injury-boost-151455128.html",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTGjw0iubJLMeLyNlxjARGm1XMbxY7OzBL0tRNkLbB3-6fB-Ni72USH29Z26A",
-   "credit": "Yahoo Sports"
-  },
-  "t": {
-   "pt": {
-    "name": "psv vs",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Yahoo Sports."
-   },
-   "en": {
-    "name": "psv vs",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Yahoo Sports."
-   },
-   "es": {
-    "name": "psv vs",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Yahoo Sports."
-   }
-  },
-  "id": "tr40",
-  "hue": 303
- },
- {
-  "collectedAt": "2026-10-09T06:47:20.703Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.kicker.de/wer-uebertraegt-borussia-dortmund-gegen-sv-werder-bremen-live-im-tv-und-stream-1257283/artikel",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwGEINXkOabLUaecSs1v9mYzzIWGgqOYVqniBEGgbLrNE3qwrP6N5cutqhCZg",
-   "credit": "Kicker"
-  },
-  "t": {
-   "pt": {
-    "name": "bundesliga",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Kicker."
-   },
-   "en": {
-    "name": "bundesliga",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Kicker."
-   },
-   "es": {
-    "name": "bundesliga",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Kicker."
-   }
-  },
-  "id": "tr41",
-  "hue": 340
+  "id": "tr46",
+  "hue": 165
  }
 ]
