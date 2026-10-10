@@ -1,5 +1,294 @@
 [
  {
+  "id": "2610101911",
+  "section": "music",
+  "publishedAt": "2026-10-10T16:52:00Z",
+  "personIds": [
+   "bts"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/XVOQFXXNMVBENFXQ4XOMRC3MEE.jpeg?auth=94a60baa56a9df6e6cfe61fbbe3a7df1f8ebb591409b1421d80fd7e0c0350b92&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Paula Diaz (via Infobae)"
+  },
+  "sources": [
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/peru/2026/10/10/concierto-de-bts-en-lima-2026-en-vivo-ultimo-show-en-el-estadio-san-marcos-previa-y-todo-sobre-la-presentacion-final-de-la-banda-coreana-en-peru/"
+   }
+  ],
+  "hue": 17,
+  "t": {
+   "pt": {
+    "slug": "bts-ultimo-show-lima-filas-12-horas-denuncia-revendedores",
+    "headline": "Filas de mais de 12 horas, denúncia de 'fura-fila' pago e alerta vermelho de calor: o caos na porta do 3º e último show do BTS em Lima",
+    "summary": "Fãs que esperavam desde a madrugada no Estádio San Marcos acusam supostos revendedores de cobrar para enfiar gente na fila, horas antes do adeus do grupo ao Peru.",
+    "body": [
+     "O BTS sobe ao palco do Estádio San Marcos, em Lima, às 20h (hora local) deste sábado (10) para o terceiro e último show da passagem pelo Peru — mas a noite começou tensa do lado de fora. Segundo a cobertura ao vivo do Infobae, havia fãs na fila desde a madrugada, e vídeos registraram esperas de mais de 12 horas.",
+     "Depoimentos colhidos pela emissora Latina Noticias acusam supostos revendedores de cobrar para colocar pessoas na frente da fila. Os denunciantes relatam entradas em massa que deslocaram quem aguardava havia horas, além de empurrões, ameaças, agressões e celulares perdidos. Alguns fãs chegaram a formar cordões humanos para barrar os 'fura-filas', e houve reclamações de que a polícia só agiu quando uma equipe de reportagem apareceu. São relatos de testemunhas, sem confirmação oficial.",
+     "Para piorar, o serviço meteorológico Senamhi emitiu alerta vermelho de calor para o dia do show, e a organização recomenda hidratação e protetor solar. Avenidas no entorno do estádio, como a Venezuela e a Germán Amézaga, têm bloqueios, e a autoridade de transporte de Lima anunciou mais de 80 ônibus extras e o serviço noturno do Metropolitano para a volta.",
+     "O fim de semana fecha uma semana movimentada do grupo na cidade: um show de 150 drones iluminou a Costa Verde com mensagens como 'Perú ama BTS', e RM chegou a pedir pelo Weverse que os fãs deixassem a porta do hotel porque o barulho atrapalhava o sono dos integrantes."
+    ]
+   },
+   "en": {
+    "slug": "bts-final-lima-show-12-hour-queues-scalper-allegations",
+    "headline": "12-hour queues, claims of paid line-cutting and a red heat alert: chaos outside BTS's third and final show in Lima",
+    "summary": "Fans who had waited since dawn at Estadio San Marcos accuse alleged scalpers of charging to slip people into the line, hours before the group's farewell to Peru.",
+    "body": [
+     "BTS take the stage at Lima's Estadio San Marcos at 8 p.m. local time this Saturday (Oct. 10) for the third and final show of their Peru run — but the night got off to a tense start outside. According to Infobae's live coverage, fans had been queuing since dawn, and videos showed waits of more than 12 hours.",
+     "Testimonies gathered by broadcaster Latina Noticias accuse alleged scalpers of charging to put people at the front of the line. The complainants describe mass entries that pushed aside fans who had been waiting for hours, along with shoving, threats, physical aggression and lost phones. Some fans formed human chains to block the line-cutters, and there were complaints that police only stepped in once a news crew showed up. These are witness accounts, not official findings.",
+     "On top of that, weather service Senamhi issued a red heat alert for show day, and organizers are urging hydration and sunscreen. Avenues around the stadium, including Venezuela and Germán Amézaga, have closures, and Lima's transport authority announced more than 80 extra buses plus the Metropolitano's overnight service for the trip home.",
+     "The weekend caps a busy week for the group in the city: a 150-drone show lit up the Costa Verde with messages such as 'Perú ama BTS', and RM even asked fans on Weverse to leave the hotel entrance because the noise was keeping the members from sleeping."
+    ]
+   },
+   "es": {
+    "slug": "bts-ultimo-show-lima-filas-12-horas-denuncia-revendedores",
+    "headline": "Filas de más de 12 horas, denuncias de 'coleros' pagados y alerta roja por calor: el caos en la puerta del 3.er y último show de BTS en Lima",
+    "summary": "Fans que esperaban desde la madrugada en el Estadio San Marcos acusan a presuntos revendedores de cobrar por meter gente en la fila, horas antes de la despedida del grupo en Perú.",
+    "body": [
+     "BTS sube al escenario del Estadio San Marcos, en Lima, a las 20:00 (hora local) de este sábado 10 para el tercer y último concierto de su paso por Perú, pero la noche empezó tensa afuera. Según la cobertura en vivo de Infobae, había fans haciendo fila desde la madrugada, y algunos videos registraron esperas de más de 12 horas.",
+     "Testimonios recogidos por Latina Noticias acusan a presuntos revendedores de cobrar por colocar personas al frente de la fila. Los denunciantes relatan ingresos masivos que desplazaron a quienes esperaban hacía horas, además de empujones, amenazas, agresiones y celulares perdidos. Algunos fans formaron cordones humanos para frenar a los 'coleros', y hubo quejas de que la policía solo intervino cuando llegó un equipo periodístico. Son versiones de testigos, sin confirmación oficial.",
+     "Para colmo, el Senamhi emitió una alerta roja por calor para el día del show, y la organización recomienda hidratación y protector solar. Las avenidas alrededor del estadio, como Venezuela y Germán Amézaga, tienen cierres, y la ATU anunció más de 80 buses adicionales y el servicio nocturno del Metropolitano para el regreso.",
+     "El fin de semana cierra una semana intensa del grupo en la ciudad: un show de 150 drones iluminó la Costa Verde con mensajes como 'Perú ama BTS', y RM llegó a pedir por Weverse que los fans dejaran la puerta del hotel porque el ruido no dejaba dormir a los integrantes."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610101909",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-10T16:30:00Z",
+  "personIds": [
+   "simony"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.areavip.com.br/wp-content/uploads/2026/10/eliana-e-simony-rafaela-urbanin.jpg",
+   "credit": "Foto: Globo/Rafaela Urbanin (via Área VIP)"
+  },
+  "sources": [
+   {
+    "name": "Área VIP",
+    "url": "https://www.areavip.com.br/televisao/eliana-recebe-simony-em-programa-em-homenagem-as-criancas/"
+   },
+   {
+    "name": "CARAS Brasil",
+    "url": "https://caras.com.br/perfil/simony"
+   },
+   {
+    "name": "Itatiaia",
+    "url": "https://www.itatiaia.com.br/entretenimento/simony-anuncia-cura-completa-do-cancer-apos-tres-anos-um-milagre/"
+   }
+  ],
+  "hue": 283,
+  "t": {
+   "pt": {
+    "slug": "historia-simony-balao-magico-eliana",
+    "headline": "Do circo do avô aos 3 anos ao Balão Mágico, de rival da Xuxa no SBT a um câncer de 9 cm vencido: a história de Simony, que canta 'É Tão Lindo' com Eliana neste domingo",
+    "summary": "A ex-estrela mirim volta ao clima dos anos 1980 no 'Em Família com Eliana', dentro da Maratona da Esperança, meses depois de anunciar remissão completa da doença.",
+    "body": [
+     "Neste domingo (11), Simony divide o palco do 'Em Família com Eliana' com a apresentadora para cantar 'É Tão Lindo', sucesso da Turma do Balão Mágico nos anos 1980, numa homenagem ao Dia das Crianças dentro da Maratona da Esperança, da Globo. É um reencontro com o próprio começo: Simony Benelli Galasso, paulistana nascida em 1º de julho de 1976, cresceu numa família de cantores que vivia no circo do avô e, aos 3 anos, já se apresentava no programa de Raul Gil.",
+     "Em 1983 veio o convite para o 'Balão Mágico', na Globo, ao lado de Fofão, Tob, Mike e, depois, Jairzinho — o grupo, ativo de 1982 a 1986, liderava a audiência e emplacou hits como 'Mãe Me Dá um Dinheirinho' e 'Você e Eu'. Quando ela chegou à adolescência, a gravadora a tirou da banda; Jairzinho seguiu com ela, e os dois formaram uma das duplas mais conhecidas dos anos 1980. Em 1989, o SBT lhe deu o 'Show da Simony', pensado para competir com o 'Xou da Xuxa', mas a atração sentiu a crise financeira da emissora no ano seguinte.",
+     "A carreira teve altos e baixos: em 1997 ela se afastou da mídia por cerca de três anos por causa da síndrome do pânico, voltou em 2001 com o CD 'Simplesmente Eu' e, mais tarde, lançou 'Celebração' pelos 25 anos de estrada. Mãe de quatro filhos — Ryan, Aysha, Pyetra e Anthony —, ela também enfrentou o capítulo mais duro da vida em público: um câncer no intestino, com tumor de nove centímetros, que voltou a dar sinais em 2023 e exigiu novo tratamento, com imunoterapia.",
+     "Em 31 de março de 2026, Simony foi às redes comemorar: o oncologista Fernando Maluf confirmou que um exame PET mostrou remissão completa. 'Um câncer de nove centímetros, que não tinha cura', resumiu ela na ocasião. Agora, de volta ao repertório que a tornou conhecida ainda criança, a cantora também integra o júri do quadro 'Show em Família', ao lado de Lucy Ramos e Henrique Barreira, no mesmo programa."
+    ]
+   },
+   "en": {
+    "slug": "story-of-simony-balao-magico-eliana",
+    "headline": "From her grandfather's circus at age 3 to Balão Mágico, from Xuxa's rival on SBT to beating a 9 cm cancer: the story of Simony, who sings 'É Tão Lindo' with Eliana this Sunday",
+    "summary": "The former child star returns to the 1980s mood on 'Em Família com Eliana', as part of Globo's Hope Marathon, months after announcing complete remission.",
+    "body": [
+     "This Sunday (11), Simony joins host Eliana on 'Em Família com Eliana' to sing 'É Tão Lindo', a 1980s hit by Turma do Balão Mágico, in a Children's Day tribute that is part of Globo's Hope Marathon. It is a return to her roots: Simony Benelli Galasso, born in São Paulo on July 1, 1976, grew up in a family of singers who lived in her grandfather's circus, and by age 3 she was already performing on Raul Gil's show.",
+     "In 1983 she was invited to join Globo's 'Balão Mágico' alongside Fofão, Tob, Mike and, later, Jairzinho — the group, active from 1982 to 1986, led the ratings and scored hits such as 'Mãe Me Dá um Dinheirinho' and 'Você e Eu'. When she reached adolescence, the record label removed her from the band; Jairzinho stayed with her, and the two formed one of the best-known duos of the 1980s. In 1989 SBT gave her 'Show da Simony', designed to compete with 'Xou da Xuxa', but the program was hit by the network's financial crisis the following year.",
+     "Her career had ups and downs: in 1997 she stepped away from the spotlight for about three years because of panic disorder, returned in 2001 with the album 'Simplesmente Eu' and later released 'Celebração' to mark 25 years in music. A mother of four — Ryan, Aysha, Pyetra and Anthony — she also faced the hardest chapter of her life in public: bowel cancer, with a nine-centimeter tumor, which showed signs of activity again in 2023 and required new treatment, including immunotherapy.",
+     "On March 31, 2026, Simony celebrated on social media: oncologist Fernando Maluf confirmed that a PET scan showed complete remission. 'A nine-centimeter cancer that had no cure,' she summed up at the time. Now, back to the repertoire that made her famous as a child, the singer is also on the judging panel of the 'Show em Família' segment, alongside Lucy Ramos and Henrique Barreira, on the same program."
+    ]
+   },
+   "es": {
+    "slug": "historia-de-simony-balao-magico-eliana",
+    "headline": "Del circo de su abuelo a los 3 años al Balão Mágico, de rival de Xuxa en SBT a vencer un cáncer de 9 cm: la historia de Simony, que canta 'É Tão Lindo' con Eliana este domingo",
+    "summary": "La exestrella infantil vuelve al ambiente de los años 80 en 'Em Família com Eliana', dentro de la Maratón de la Esperanza, meses después de anunciar la remisión completa de la enfermedad.",
+    "body": [
+     "Este domingo (11), Simony comparte el escenario de 'Em Família com Eliana' con la conductora para cantar 'É Tão Lindo', éxito de Turma do Balão Mágico en los años 80, en un homenaje al Día del Niño dentro de la Maratón de la Esperanza de Globo. Es un reencuentro con sus orígenes: Simony Benelli Galasso, nacida en São Paulo el 1 de julio de 1976, creció en una familia de cantantes que vivía en el circo de su abuelo y, a los 3 años, ya se presentaba en el programa de Raul Gil.",
+     "En 1983 llegó la invitación para 'Balão Mágico', en Globo, junto a Fofão, Tob, Mike y, después, Jairzinho — el grupo, activo de 1982 a 1986, lideraba la audiencia y tuvo éxitos como 'Mãe Me Dá um Dinheirinho' y 'Você e Eu'. Cuando llegó a la adolescencia, la discográfica la sacó de la banda; Jairzinho siguió con ella y ambos formaron uno de los dúos más conocidos de los años 80. En 1989, SBT le dio 'Show da Simony', pensado para competir con 'Xou da Xuxa', pero el programa sufrió la crisis financiera de la cadena al año siguiente.",
+     "Su carrera tuvo altibajos: en 1997 se alejó de los medios por unos tres años a causa del síndrome de pánico, volvió en 2001 con el disco 'Simplesmente Eu' y más tarde lanzó 'Celebração' por sus 25 años de trayectoria. Madre de cuatro hijos — Ryan, Aysha, Pyetra y Anthony —, también enfrentó en público el capítulo más duro de su vida: un cáncer de intestino, con un tumor de nueve centímetros, que volvió a mostrar actividad en 2023 y exigió un nuevo tratamiento, con inmunoterapia.",
+     "El 31 de marzo de 2026, Simony celebró en redes: el oncólogo Fernando Maluf confirmó que un estudio PET mostró remisión completa. 'Un cáncer de nueve centímetros, que no tenía cura', resumió entonces. Ahora, de vuelta al repertorio que la hizo famosa de niña, la cantante también integra el jurado del segmento 'Show em Família', junto a Lucy Ramos y Henrique Barreira, en el mismo programa."
+    ]
+   }
+  },
+  "format": "feature"
+ },
+ {
+  "id": "2610101901",
+  "section": "music",
+  "publishedAt": "2026-10-10T15:14:00Z",
+  "personIds": [
+   "gusttavo-lima"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.tnh1.com.br/media/_versions/2026/08/gusttavo-lima-foto-rubens-cavallari-folhapress_widelg.jpg",
+   "credit": "Foto: Rubens Cavallari/Folhapress (via TNH1)"
+  },
+  "sources": [
+   {
+    "name": "TNH1 / g1",
+    "url": "https://www.tnh1.com.br/noticia/nid/gusttavo-lima-justica-anula-contrato-milionario-de-show-e-cobra-devolucao/"
+   }
+  ],
+  "hue": 267,
+  "t": {
+   "pt": {
+    "slug": "gusttavo-lima-contrato-sao-luis-anulado-devolver-300-mil",
+    "headline": "R$ 1,2 milhão pagos 20 dias antes do show e Petrolina cobrando R$ 900 mil: Justiça anula contrato de Gusttavo Lima em São Luís e manda devolver R$ 300 mil",
+    "summary": "Juiz do Maranhão viu sobrepreço no cachê do show do aniversário de 413 anos da capital e mandou a empresa contratada ressarcir os cofres públicos.",
+    "body": [
+     "A Justiça do Maranhão anulou nesta sexta-feira (9) o contrato de R$ 1,2 milhão firmado pela Prefeitura de São Luís para o show de Gusttavo Lima no aniversário de 413 anos da cidade, realizado em 8 de setembro de 2025. A decisão é do juiz Douglas de Melo Martins, da Vara de Interesses Difusos e Coletivos da capital, e obriga a empresa contratada a devolver R$ 300 mil aos cofres públicos, com correção monetária e juros.",
+     "O valor não foi escolhido por acaso: é exatamente a diferença entre o que São Luís pagou e os R$ 900 mil que Petrolina (PE) desembolsou pelo mesmo artista. Para o magistrado, a secretaria de cultura fez uma pesquisa de preços frágil, baseada em notas de eventos privados em Sairé (PE), Brasília e Rio de Janeiro, e ignorou o contrato pernambucano. Outro ponto que pesou foi o pagamento antecipado: o cachê inteiro foi empenhado, liquidado e mandado pagar em 20 de agosto de 2025, cerca de 20 dias antes do show — a minuta previa metade na assinatura e metade no dia da apresentação.",
+     "O juiz não mandou devolver o valor total porque o show aconteceu e teve público. A ação popular foi movida por dois cidadãos contra o município, a empresa e o prefeito Eduardo Braide, que acabou excluído do processo por falta de conduta individual. Segundo o g1, a Procuradoria-Geral do Município disse ainda não ter sido notificada, e a empresa responsável pelo show não foi localizada."
+    ]
+   },
+   "en": {
+    "slug": "gusttavo-lima-sao-luis-concert-contract-annulled-refund",
+    "headline": "R$1.2 million paid 20 days before the show while Petrolina charged R$900,000: court voids Gusttavo Lima's São Luís contract and orders R$300,000 refund",
+    "summary": "A judge in Maranhão found overpricing in the fee for the concert celebrating the capital's 413th anniversary and ordered the hired company to repay public funds.",
+    "body": [
+     "A court in the Brazilian state of Maranhão on Friday (9) annulled the R$1.2 million contract signed by the City of São Luís for Gusttavo Lima's concert celebrating the city's 413th anniversary, held on September 8, 2025. Judge Douglas de Melo Martins, of the capital's court for diffuse and collective interests, ordered the hired company to return R$300,000 to public coffers, plus inflation adjustment and interest.",
+     "The figure is not random: it is exactly the difference between what São Luís paid and the R$900,000 that Petrolina, in Pernambuco, spent on the same artist. The judge found that the city's culture department ran a weak price survey, relying on invoices from private events in Sairé (PE), Brasília and Rio de Janeiro while ignoring the Pernambuco contract. The early payment also weighed in: the full fee was committed, processed and ordered paid on August 20, 2025, about 20 days before the show, even though the draft contract called for half on signing and half on the day of the performance.",
+     "The judge did not order a full refund because the concert took place and drew an audience. The lawsuit was filed by two citizens against the city, the company and Mayor Eduardo Braide, who was dropped from the case because no individual wrongdoing was tied to him. According to g1, the city's legal office said it had not yet been notified, and the company behind the show could not be reached."
+    ]
+   },
+   "es": {
+    "slug": "gusttavo-lima-contrato-sao-luis-anulado-devolucion",
+    "headline": "R$ 1,2 millones pagados 20 días antes del show y Petrolina cobrando R$ 900.000: la Justicia anula el contrato de Gusttavo Lima en São Luís y ordena devolver R$ 300.000",
+    "summary": "Un juez de Maranhão detectó sobreprecio en el cachet del concierto por el 413.º aniversario de la capital y ordenó a la empresa contratada reembolsar las arcas públicas.",
+    "body": [
+     "La Justicia del estado brasileño de Maranhão anuló este viernes (9) el contrato de R$ 1,2 millones firmado por la Alcaldía de São Luís para el concierto de Gusttavo Lima en el 413.º aniversario de la ciudad, realizado el 8 de septiembre de 2025. La decisión es del juez Douglas de Melo Martins, del juzgado de Intereses Difusos y Colectivos de la capital, y obliga a la empresa contratada a devolver R$ 300.000 a las arcas públicas, con corrección monetaria e intereses.",
+     "La cifra no es casual: es exactamente la diferencia entre lo que pagó São Luís y los R$ 900.000 que Petrolina (Pernambuco) desembolsó por el mismo artista. Para el magistrado, la secretaría de cultura hizo un sondeo de precios débil, basado en facturas de eventos privados en Sairé (PE), Brasilia y Río de Janeiro, e ignoró el contrato pernambucano. También pesó el pago anticipado: el cachet completo se comprometió, liquidó y ordenó pagar el 20 de agosto de 2025, unos 20 días antes del show, cuando el borrador preveía la mitad al firmar y la otra mitad el día de la presentación.",
+     "El juez no ordenó devolver el total porque el concierto se realizó y tuvo público. La acción popular fue presentada por dos ciudadanos contra el municipio, la empresa y el alcalde Eduardo Braide, que quedó fuera del proceso por no atribuírsele conducta individual. Según g1, la Procuraduría del Municipio dijo que aún no había sido notificada, y no se logró contactar a la empresa responsable del show."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610101908",
+  "section": "news",
+  "publishedAt": "2026-10-10T13:52:00Z",
+  "personIds": [
+   "juarez-pontes"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://i.metroimg.com/m1k40-EMlDiAXFp5QQA3RPFkLqz-mgwF-KXQcz_SlE0/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/juarez-pontes-2.jpg",
+   "credit": "Foto: Reprodução/Redes sociais (via Metrópoles)"
+  },
+  "sources": [
+   {
+    "name": "Metrópoles",
+    "url": "https://www.metropoles.com/sao-paulo/juarez-da-tekpix-prima-diz-miocardiopatia-isquemica-causa-morte"
+   },
+   {
+    "name": "Terra",
+    "url": "https://www.terra.com.br/diversao/gente/morre-juarez-da-tekpix-icone-de-propagandas-dos-anos-2000,aafc71afe62382ddbf21411e39d727e7ds1fhuu1.html"
+   }
+  ],
+  "hue": 236,
+  "t": {
+   "pt": {
+    "slug": "juarez-da-tekpix-causa-da-morte-miocardiopatia",
+    "headline": "Três dias sem dar notícias, corpo achado por amigos e um coração que falhou: prima de Juarez da Tekpix revela causa da morte do rosto do 'Vamos falar de coisa boa?'",
+    "summary": "Segundo a família, o documento do IML aponta miocardiopatia isquêmica; o enterro acontece neste sábado (10) no Cemitério de Santo Amaro, em São Paulo.",
+    "body": [
+     "A família de Juarez Pontes, o Juarez da Tekpix, revelou o que causou a morte do vendedor que virou febre nos intervalos da TV nos anos 2000. Em entrevista ao Metrópoles, a prima Eloana Pontes contou que o documento do Instituto Médico Legal entregue aos parentes aponta miocardiopatia isquêmica, uma doença do coração. Juarez foi encontrado morto em casa, em Santo Amaro, na Zona Sul de São Paulo, por amigos que estranharam o sumiço dele por três dias.",
+     "Eloana disse não saber se o primo tinha algum diagnóstico prévio de problema cardíaco, mas lembrou o histórico da família: o pai e a mãe dele morreram de infarto — o pai, segundo ela, nos braços do próprio Juarez. A despedida, aberta aos fãs, está marcada para a capela do Cemitério de Santo Amaro, meia hora antes do sepultamento, neste sábado (10).",
+     "Juarez começou como vendedor por telefone na Tecnomania, empresa que comercializava a Tekpix, e o bom desempenho o levou para a frente das câmeras. Nos anos 2000, ele virou o garoto-propaganda da 'filmadora mais vendida do Brasil' e eternizou o bordão 'Vamos falar de coisa boa?', repetido antes de cada apresentação do produto. Depois, trabalhou na RedeTV!, de onde foi afastado após uma funcionária da lanchonete da emissora acusá-lo de assédio. Ele deixa um filho, Rudson Matos, de 23 anos, segundo o Terra. Nos últimos meses, de acordo com a prima, vivia de trabalhos pontuais, sem contrato fixo."
+    ]
+   },
+   "en": {
+    "slug": "juarez-da-tekpix-cause-of-death-cardiomyopathy",
+    "headline": "Three days without word, body found by friends and a heart that failed: Juarez da Tekpix's cousin reveals the cause of death of the 'Vamos falar de coisa boa?' pitchman",
+    "summary": "According to his family, the coroner's document cites ischemic cardiomyopathy; the burial takes place this Saturday (10) at Santo Amaro Cemetery in São Paulo.",
+    "body": [
+     "The family of Juarez Pontes, known as Juarez da Tekpix, has revealed what caused the death of the salesman who became a fixture of Brazilian TV commercial breaks in the 2000s. Speaking to Metrópoles, his cousin Eloana Pontes said the Forensic Medical Institute document given to relatives cites ischemic cardiomyopathy, a heart disease. Juarez was found dead at his home in Santo Amaro, in São Paulo's South Zone, by friends who grew worried after he had been out of contact for three days.",
+     "Eloana said she did not know whether her cousin had ever been diagnosed with a heart condition, but pointed to the family history: both his father and mother died of heart attacks — his father, she said, in Juarez's own arms. A farewell open to fans is scheduled at the Santo Amaro Cemetery chapel half an hour before the burial this Saturday (10).",
+     "Juarez started out in phone sales at Tecnomania, the company that sold the Tekpix, and his strong results put him in front of the cameras. In the 2000s he became the face of the 'best-selling camcorder in Brazil' and immortalized the catchphrase 'Vamos falar de coisa boa?' ('Shall we talk about something good?'), which he said before every product pitch. He later worked at RedeTV!, where he was removed after a snack bar employee at the network accused him of harassment. He is survived by a son, Rudson Matos, 23, according to Terra. In recent months, his cousin said, he had been living off occasional jobs, with no fixed contract."
+    ]
+   },
+   "es": {
+    "slug": "juarez-da-tekpix-causa-de-muerte-miocardiopatia",
+    "headline": "Tres días sin noticias, cuerpo hallado por amigos y un corazón que falló: prima de Juarez da Tekpix revela la causa de muerte del rostro del 'Vamos falar de coisa boa?'",
+    "summary": "Según la familia, el documento forense señala miocardiopatía isquémica; el entierro es este sábado (10) en el Cementerio de Santo Amaro, en São Paulo.",
+    "body": [
+     "La familia de Juarez Pontes, conocido como Juarez da Tekpix, reveló qué causó la muerte del vendedor que se volvió un fenómeno de las tandas comerciales de la TV brasileña en los años 2000. En entrevista con Metrópoles, su prima Eloana Pontes contó que el documento del Instituto Médico Legal entregado a los parientes señala miocardiopatía isquémica, una enfermedad del corazón. Juarez fue encontrado muerto en su casa, en Santo Amaro, en la Zona Sur de São Paulo, por amigos que se extrañaron de no tener noticias de él durante tres días.",
+     "Eloana dijo no saber si su primo tenía algún diagnóstico previo de problema cardíaco, pero recordó el historial familiar: su padre y su madre murieron de infarto — el padre, según ella, en los brazos del propio Juarez. La despedida, abierta a los fans, está prevista en la capilla del Cementerio de Santo Amaro, media hora antes del sepelio, este sábado (10).",
+     "Juarez empezó como vendedor telefónico en Tecnomania, la empresa que comercializaba la Tekpix, y su buen desempeño lo llevó frente a las cámaras. En los años 2000 se convirtió en el rostro de la 'videocámara más vendida de Brasil' y eternizó la frase 'Vamos falar de coisa boa?' ('¿Hablamos de algo bueno?'), que repetía antes de presentar el producto. Después trabajó en RedeTV!, de donde fue apartado tras ser acusado de acoso por una empleada de la cafetería de la cadena. Deja un hijo, Rudson Matos, de 23 años, según Terra. En los últimos meses, de acuerdo con su prima, vivía de trabajos puntuales, sin contrato fijo."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610101907",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-10T13:37:00Z",
+  "personIds": [
+   "geovanna-tominaga",
+   "leticia-colin"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.tvpop.com.br/wp-content/uploads/2026/10/tv-globinho-foto-reproducao-tv-globo-tvpop.jpg",
+   "credit": "Foto: Reprodução/TV Globo (via TV Pop)"
+  },
+  "sources": [
+   {
+    "name": "TV Pop",
+    "url": "https://www.tvpop.com.br/396840/tv-globinho-aumenta-ibope-da-record-faz-globo-perder-21-de-audiencia-e-vira-tv-fracassinho/"
+   },
+   {
+    "name": "Mais Goiás",
+    "url": "https://www.maisgoias.com.br/entretenimento/televisao/volta-da-tv-globinho-repercute-mas-quase-perde-para-record/"
+   }
+  ],
+  "hue": 189,
+  "t": {
+   "pt": {
+    "slug": "tv-globinho-volta-audiencia-cai-21-por-cento",
+    "headline": "Nº 1 no X, mas 21% menos público: a volta da TV Globinho com Dragon Ball Z e Digimon dá 5,55 pontos em SP — e a Record cresce 24% no horário",
+    "summary": "O especial nostálgico que abriu a Maratona da Esperança dominou as redes, mas ficou abaixo da média do 'É de Casa' na audiência prévia.",
+    "body": [
+     "A volta da TV Globinho, 11 anos depois, mexeu com a memória afetiva do público, mas não se traduziu em ibope. Segundo dados prévios publicados pelo TV Pop, o especial exibido pela Globo neste sábado (10), das 9h às 10h24, marcou média de 5,55 pontos na Grande São Paulo, com 20,02% de participação entre as TVs ligadas — queda de 21% em relação à média dos quatro sábados anteriores, quando o horário era ocupado pelo 'É de Casa'. O pico foi de 6,78 pontos logo no primeiro minuto; o pior momento, 4,98 pontos, veio às 9h47.",
+     "Quem aproveitou foi a Record: o 'Fala Brasil' registrou 3,72 pontos na Grande SP, 24% acima dos sábados anteriores, enquanto o SBT ficou com 1,14 ponto com o 'Sábado Animado'. No Painel Nacional de Televisão, que reúne 15 regiões metropolitanas, a TV Globinho fez 6,03 pontos, recuo de 11%, contra 3,20 da Record, que subiu 19%.",
+     "Nas redes, a história foi outra: a hashtag #TVGlobinho foi o assunto mais comentado do X durante toda a exibição, segundo o Mais Goiás. Apresentado por Letícia Colin, Geovanna Tominaga, Ícaro Silva e Paulo Mathias Jr., com Tia Milena como repórter, o especial exibiu 'Três Espiãs Demais', 'Dragon Ball Z' e 'Digimon' — este último, o desenho de maior audiência da manhã — e abriu a programação da Maratona da Esperança, ligada ao Criança Esperança."
+    ]
+   },
+   "en": {
+    "slug": "tv-globinho-return-ratings-drop-21-percent",
+    "headline": "No. 1 on X, but 21% fewer viewers: TV Globinho's return with Dragon Ball Z and Digimon draws 5.55 points in São Paulo — and Record grows 24% in the slot",
+    "summary": "The nostalgic special that opened Globo's Hope Marathon dominated social media but fell short of 'É de Casa''s average in preliminary ratings.",
+    "body": [
+     "TV Globinho's return after 11 years stirred viewers' nostalgia, but it did not translate into ratings. According to preliminary data published by TV Pop, the special Globo aired this Saturday (10), from 9 a.m. to 10:24 a.m., averaged 5.55 points in Greater São Paulo, with a 20.02% share of TVs in use — a 21% drop from the average of the previous four Saturdays, when the slot belonged to 'É de Casa'. It peaked at 6.78 points in the very first minute; its low, 4.98 points, came at 9:47 a.m.",
+     "Record was the one to benefit: 'Fala Brasil' posted 3.72 points in Greater São Paulo, 24% above previous Saturdays, while SBT got 1.14 points with 'Sábado Animado'. On the National Television Panel, which covers 15 metropolitan regions, TV Globinho scored 6.03 points, down 11%, against 3.20 for Record, up 19%.",
+     "Online, it was a different story: the hashtag #TVGlobinho was the most discussed topic on X throughout the broadcast, according to Mais Goiás. Hosted by Letícia Colin, Geovanna Tominaga, Ícaro Silva and Paulo Mathias Jr., with Tia Milena as reporter, the special aired 'Totally Spies!', 'Dragon Ball Z' and 'Digimon' — the latter the most-watched cartoon of the morning — and kicked off the Hope Marathon tied to the Criança Esperança charity campaign."
+    ]
+   },
+   "es": {
+    "slug": "tv-globinho-regreso-audiencia-cae-21-por-ciento",
+    "headline": "Nº 1 en X, pero 21% menos público: el regreso de TV Globinho con Dragon Ball Z y Digimon marca 5,55 puntos en São Paulo — y Record crece 24% en el horario",
+    "summary": "El especial nostálgico que abrió la Maratón de la Esperanza dominó las redes, pero quedó por debajo del promedio de 'É de Casa' en la audiencia preliminar.",
+    "body": [
+     "El regreso de TV Globinho, 11 años después, despertó la nostalgia del público, pero no se tradujo en rating. Según datos preliminares publicados por TV Pop, el especial que Globo emitió este sábado (10), de 9:00 a 10:24, promedió 5,55 puntos en el Gran São Paulo, con 20,02% de participación entre los televisores encendidos — una caída de 21% frente al promedio de los cuatro sábados anteriores, cuando el horario era de 'É de Casa'. El pico fue de 6,78 puntos en el primer minuto; el peor momento, 4,98 puntos, llegó a las 9:47.",
+     "Quien aprovechó fue Record: 'Fala Brasil' registró 3,72 puntos en el Gran São Paulo, 24% más que los sábados anteriores, mientras SBT obtuvo 1,14 puntos con 'Sábado Animado'. En el Panel Nacional de Televisión, que reúne 15 regiones metropolitanas, TV Globinho hizo 6,03 puntos, un retroceso de 11%, frente a 3,20 de Record, que subió 19%.",
+     "En redes, la historia fue otra: la etiqueta #TVGlobinho fue el tema más comentado de X durante toda la emisión, según Mais Goiás. Conducido por Letícia Colin, Geovanna Tominaga, Ícaro Silva y Paulo Mathias Jr., con Tia Milena como reportera, el especial exhibió 'Tres Espías Sin Límite', 'Dragon Ball Z' y 'Digimon' — esta última, la caricatura más vista de la mañana — y abrió la Maratón de la Esperanza, vinculada a la campaña Criança Esperança."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610101201",
   "section": "music",
   "publishedAt": "2026-10-10T11:49:00Z",
@@ -395,6 +684,67 @@
   "format": "review"
  },
  {
+  "id": "2610101912",
+  "section": "music",
+  "publishedAt": "2026-10-10T05:50:00Z",
+  "personIds": [
+   "shakira"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.infobae.com/resizer/v2/ABLER2T5H5HQ3ELBMHFGL2JULI.JPG?auth=5d9baf73009a34b0ea5bd0ab7fbe42b1226f1d9b545d6d1293d6ff8e85dee347&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: reprodução (via Infobae)"
+  },
+  "sources": [
+   {
+    "name": "El Litoral",
+    "url": "https://www.ellitoral.com/show/shakira-macondopark-madrid-villaverde-estadioshakira-iberdrolamusic-elmuseodeshakira-macondito_0_ON9z3USxlH.html"
+   },
+   {
+    "name": "Infobae",
+    "url": "https://www.infobae.com/espana/cultura/2026/10/06/shakira-celebrara-un-ultimo-concierto-en-madrid-el-12-de-octubre-estos-seran-los-amigos-de-su-gran-despedida/"
+   },
+   {
+    "name": "ad-hoc-news",
+    "url": "https://www.ad-hoc-news.de/unterhaltung/musik/shakira-plays-madrid-on-10-october-at-estadio-shakira/70286036"
+   }
+  ],
+  "hue": 64,
+  "t": {
+   "pt": {
+    "slug": "shakira-ultimo-fim-de-semana-madri-estadio-shakira-macondo-park",
+    "headline": "Cidade de 30 hectares erguida em 30 dias, estádio de 55 mil lugares e Maluma no adeus: Shakira começa hoje o último fim de semana da residência em Madri",
+    "summary": "A colombiana faz neste sábado mais uma noite no Estádio Shakira, arena temporária que será desmontada depois do show extra de 12 de outubro, com Maluma, Beéle e Dani Martín.",
+    "body": [
+     "Shakira volta neste sábado (10) ao palco do Estádio Shakira, a arena temporária montada dentro do complexo Iberdrola Music, no bairro de Villaverde, sul de Madri, e abre o último fim de semana da residência europeia da turnê 'Las Mujeres Ya No Lloran'. O estádio, construído para música e não adaptado de um campo de futebol, recebe cerca de 55 mil pessoas por noite, e os organizadores esperam 57 mil visitantes por dia de show.",
+     "Ao redor dele, a cantora ergueu o Macondo Park, uma 'cidade' de cerca de 30 hectares montada em uns 30 dias e batizada em homenagem ao povoado de 'Cem Anos de Solidão', de García Márquez. Há o Museu de Shakira, uma biblioteca com café e clube do livro que promove 12 encontros com 24 autores — entre eles Rosa Montero e Lydia Cacho —, um mercado de comida latino-americana do chef sevilhano Rafa Zafra e o Macondito, espaço infantil. A estrutura, pensada para receber mais de 600 mil pessoas ao longo da residência, será desmontada ao fim dos shows.",
+     "A data que seria a última era 11 de outubro, mas Shakira acrescentou o show '12+1' na segunda-feira (12), Dia da Hispanidade, com Maluma (que deve cantar 'Agua' e 'Chantaje'), Beéle e o espanhol Dani Martín, ex-El Canto del Loco. Antes deles, Alejandro Sanz, Laura Pausini, Manuel Turizo e Dua Lipa já haviam subido ao palco como convidados em Madri."
+    ]
+   },
+   "en": {
+    "slug": "shakira-final-weekend-madrid-estadio-shakira-macondo-park",
+    "headline": "A 30-hectare city built in 30 days, a 55,000-seat stadium and Maluma for the farewell: Shakira kicks off the final weekend of her Madrid residency tonight",
+    "summary": "The Colombian star plays another night at Estadio Shakira on Saturday, a temporary arena that will be dismantled after the extra Oct. 12 show with Maluma, Beéle and Dani Martín.",
+    "body": [
+     "Shakira returns this Saturday (Oct. 10) to Estadio Shakira, the temporary arena set up inside the Iberdrola Music complex in Villaverde, southern Madrid, opening the final weekend of the European residency of her 'Las Mujeres Ya No Lloran' tour. The stadium, built for music rather than adapted from a soccer ground, holds about 55,000 people per night, and organizers expect 57,000 visitors per show day.",
+     "Around it, the singer raised Macondo Park, a roughly 30-hectare 'city' assembled in about 30 days and named after the village in García Márquez's 'One Hundred Years of Solitude'. It includes the Shakira Museum, a library with a café and book club hosting 12 meetings with 24 authors — Rosa Montero and Lydia Cacho among them —, a Latin American food market curated by Seville chef Rafa Zafra and Macondito, a kids' area. The site, designed to welcome more than 600,000 people over the residency, will be taken down once the shows end.",
+     "Oct. 11 was originally the closing date, but Shakira added the '12+1' show on Monday (Oct. 12), Spain's Hispanic Day, with Maluma (expected to sing 'Agua' and 'Chantaje'), Beéle and Spain's Dani Martín, formerly of El Canto del Loco. Before them, Alejandro Sanz, Laura Pausini, Manuel Turizo and Dua Lipa had already joined her on stage in Madrid."
+    ]
+   },
+   "es": {
+    "slug": "shakira-ultimo-fin-de-semana-madrid-estadio-shakira-macondo-park",
+    "headline": "Una ciudad de 30 hectáreas levantada en 30 días, un estadio de 55.000 lugares y Maluma en la despedida: Shakira arranca hoy el último fin de semana de su residencia en Madrid",
+    "summary": "La colombiana vuelve este sábado al Estadio Shakira, recinto temporal que se desmontará tras el show extra del 12 de octubre con Maluma, Beéle y Dani Martín.",
+    "body": [
+     "Shakira vuelve este sábado 10 al Estadio Shakira, el recinto temporal montado dentro de Iberdrola Music, en Villaverde, al sur de Madrid, y abre el último fin de semana de la residencia europea de la gira 'Las Mujeres Ya No Lloran'. El estadio, construido para la música y no adaptado de una cancha de fútbol, recibe unas 55.000 personas por noche, y los organizadores esperan 57.000 visitantes por día de concierto.",
+     "A su alrededor, la cantante levantó Macondo Park, una 'ciudad' de unas 30 hectáreas armada en cerca de 30 días y bautizada en honor al pueblo de 'Cien años de soledad', de García Márquez. Tiene el Museo de Shakira, una biblioteca con café y club de lectura que organiza 12 encuentros con 24 autores —entre ellos Rosa Montero y Lydia Cacho—, un mercado de comida latinoamericana a cargo del chef sevillano Rafa Zafra y Macondito, un espacio infantil. La estructura, pensada para recibir a más de 600.000 personas durante la residencia, se desmontará al terminar los shows.",
+     "La fecha de cierre era el 11 de octubre, pero Shakira sumó el show '12+1' el lunes 12, Día de la Hispanidad, con Maluma (que cantaría 'Agua' y 'Chantaje'), Beéle y el español Dani Martín, exlíder de El Canto del Loco. Antes, Alejandro Sanz, Laura Pausini, Manuel Turizo y Dua Lipa ya habían sido invitados en Madrid."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610101208",
   "section": "news",
   "publishedAt": "2026-10-10T05:00:00Z",
@@ -570,6 +920,120 @@
   }
  },
  {
+  "id": "2610101902",
+  "section": "music",
+  "publishedAt": "2026-10-10T02:58:00Z",
+  "personIds": [
+   "daniel"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://assets.portalleodias.com/2024/04/IMG_3225-430x286.jpeg",
+   "credit": "Foto: reprodução (via Portal LeoDias)"
+  },
+  "sources": [
+   {
+    "name": "Portal LeoDias",
+    "url": "https://portalleodias.com/famosos/daniel-conclui-romaria-de-318-km-de-bicicleta-e-chega-ao-santuario-de-aparecida"
+   }
+  ],
+  "hue": 314,
+  "t": {
+   "pt": {
+    "slug": "daniel-romaria-318-km-bicicleta-aparecida",
+    "headline": "318 km de bicicleta pelo Caminho da Fé, cantoria com fãs na estrada e chegada aos pés da santa: Daniel completa romaria até Aparecida — 'A fé é o nosso combustível'",
+    "summary": "O cantor saiu de Águas da Prata, cruzou o sul de Minas com amigos e chegou ao Santuário Nacional a três dias do feriado da padroeira.",
+    "body": [
+     "Daniel trocou o palco pelo selim. O cantor completou na manhã desta sexta-feira (9) uma romaria de 318 quilômetros de bicicleta pelo Caminho da Fé e chegou ao Santuário Nacional de Aparecida, no interior de São Paulo — a três dias do feriado de 12 de outubro, dedicado à padroeira do Brasil. O trajeto começou em Águas da Prata (SP) e passou pelo sul de Minas Gerais.",
+     "Ele pedalou ao lado de um grupo de amigos e, no caminho, cruzou com outros romeiros, conversou com fãs e chegou a cantar com alguns deles. Na chegada, a turma posou em frente à tribuna do santuário e visitou a imagem de Nossa Senhora Aparecida.",
+     "Em entrevista ao Portal A12, reproduzida pelo Portal LeoDias, Daniel descreveu o que mais o marcou na estrada: 'Os pássaros, o silêncio, a água, o barulho da água, o cheiro'. Para ele, a experiência fortalece a fé — 'Ela é o nosso combustível', resumiu. Não é a primeira vez: em 2024, o cantor já tinha feito a peregrinação até Aparecida e comemorou seus 56 anos durante a viagem."
+    ]
+   },
+   "en": {
+    "slug": "daniel-pilgrimage-318-km-bike-aparecida",
+    "headline": "318 km by bike on the Way of Faith, singalongs with fans on the road and arrival at the shrine: Daniel completes pilgrimage to Aparecida — 'Faith is our fuel'",
+    "summary": "The Brazilian singer set off from Águas da Prata, crossed southern Minas Gerais with friends and reached the National Shrine three days before the patron saint's holiday.",
+    "body": [
+     "Brazilian singer Daniel swapped the stage for a bicycle seat. On Friday morning (9) he completed a 318-kilometer pilgrimage by bike along the Caminho da Fé (Way of Faith) and arrived at the National Shrine of Aparecida in São Paulo state, three days before the October 12 holiday honoring Brazil's patron saint. The route began in Águas da Prata (SP) and ran through southern Minas Gerais.",
+     "He rode with a group of friends and, along the way, crossed paths with other pilgrims, chatted with fans and even sang with some of them. On arrival, the group posed in front of the shrine's tribune and visited the image of Our Lady of Aparecida.",
+     "In an interview with Portal A12, quoted by Portal LeoDias, Daniel described what struck him most on the road: 'The birds, the silence, the water, the sound of the water, the smell.' For him, the experience strengthens faith — 'It is our fuel,' he said. It is not his first time: in 2024 he also made the pilgrimage to Aparecida and celebrated his 56th birthday during the trip."
+    ]
+   },
+   "es": {
+    "slug": "daniel-romeria-318-km-bicicleta-aparecida",
+    "headline": "318 km en bicicleta por el Camino de la Fe, canciones con fans en la ruta y llegada a los pies de la santa: Daniel completa su romería a Aparecida — 'La fe es nuestro combustible'",
+    "summary": "El cantante brasileño salió de Águas da Prata, cruzó el sur de Minas Gerais con amigos y llegó al Santuario Nacional a tres días del feriado de la patrona.",
+    "body": [
+     "El cantante brasileño Daniel cambió el escenario por el sillín. En la mañana de este viernes (9) completó una romería de 318 kilómetros en bicicleta por el Caminho da Fé (Camino de la Fe) y llegó al Santuario Nacional de Aparecida, en el interior de São Paulo, a tres días del feriado del 12 de octubre, dedicado a la patrona de Brasil. El trayecto empezó en Águas da Prata (SP) y pasó por el sur de Minas Gerais.",
+     "Pedaleó junto a un grupo de amigos y, en el camino, se cruzó con otros romeros, conversó con fans y hasta cantó con algunos de ellos. Al llegar, el grupo posó frente a la tribuna del santuario y visitó la imagen de Nuestra Señora Aparecida.",
+     "En una entrevista con el Portal A12, citada por el Portal LeoDias, Daniel describió lo que más lo marcó en la ruta: 'Los pájaros, el silencio, el agua, el ruido del agua, el olor'. Para él, la experiencia fortalece la fe: 'Es nuestro combustible', resumió. No es la primera vez: en 2024 ya había hecho la peregrinación a Aparecida y celebró sus 56 años durante el viaje."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610101910",
+  "section": "movies-tv",
+  "publishedAt": "2026-10-10T02:47:00Z",
+  "personIds": [
+   "ivonne-montero"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://laopinion.com/wp-content/uploads/sites/3/2026/10/Julio-Camejo-1.jpg?w=1200",
+   "credit": "Foto: Mezcalent (via La Opinión)"
+  },
+  "sources": [
+   {
+    "name": "La Opinión",
+    "url": "https://laopinion.com/2026/10/09/asi-van-las-votaciones-en-la-granja-vip-2-hoy-9-de-octubre/"
+   },
+   {
+    "name": "TV Azteca",
+    "url": "https://www.tvazteca.com/aztecauno/la-granja-vip/ivonne-montero-revela-la-traicion-a-su-equipo-en-la-granja-vip-que-lo-cambiara-todo"
+   },
+   {
+    "name": "TV Azteca",
+    "url": "https://www.tvazteca.com/aztecauno/la-granja-vip/por-que-pascal-no-puede-participar-la-salvacion-va-directo-eliminacion"
+   }
+  ],
+  "hue": 330,
+  "t": {
+   "pt": {
+    "slug": "la-granja-vip-2-quinta-eliminacao-ivonne-montero",
+    "headline": "La Granja VIP 2: campeã de La Casa de los Famosos, Ivonne Montero escapa da berlinda e 'trai' o próprio time por Pascal — e Natalia Alcocer e Julio Camejo correm risco com 12% e 10%",
+    "summary": "O quinto eliminado do reality da TV Azteca sai neste domingo (11); Kevyn 'El Bicolor' lidera enquete não oficial com 23%.",
+    "body": [
+     "A quinta semana de La Granja VIP 2, da TV Azteca, chega à reta final com cinco nomes na berlinda: Kevyn 'El Bicolor', Pascal Nadaud, Pimpinela Escarlata, Natalia Alcocer e Julio Camejo. Em uma enquete não oficial citada pelo La Opinión na sexta-feira (9), Kevyn aparecia com 23% de apoio, seguido de Pascal (22%) e Pimpinela (21%) — enquanto Natalia (12%) e Julio (10%) surgiam como os mais ameaçados. O resultado sai no domingo (11), na gala de eliminação.",
+     "Quem respirou aliviada foi Ivonne Montero, atriz de 'Rosalinda' e campeã da segunda temporada de La Casa de los Famosos México, em 2022. Indicada na assembleia de quarta-feira (7), ela venceu o Jogo da Salvação e deixou a lista. Com o poder nas mãos, segundo a TV Azteca, Ivonne decidiu não salvar ninguém do próprio grupo e apostar em Pascal para conquistar sua confiança — jogada combinada com Niurka Marcos e confidenciada apenas a Pimpinela, a quem pediu sigilo: 'Mas você não pode contar nada a ninguém'.",
+     "O plano, porém, esbarrou numa regra: Pascal não podia ser salvo. Na quarta, Natalia Alcocer usou um poder extra do Ovo Dourado para mandá-lo direto à eliminação, o que o tirou do Jogo da Salvação de quinta. Natalia explicou que escolheu o francês porque o público já o havia mandado ao Duelo de Nominação e ela queria atingir o time rival. Segundo a emissora, Niurka sabia que não seria possível salvá-lo, mas não avisou Ivonne."
+    ]
+   },
+   "en": {
+    "slug": "la-granja-vip-2-fifth-elimination-ivonne-montero",
+    "headline": "La Granja VIP 2: La Casa de los Famosos champion Ivonne Montero escapes the chopping block and 'betrays' her own team for Pascal — while Natalia Alcocer and Julio Camejo are at risk with 12% and 10%",
+    "summary": "The fifth contestant to leave TV Azteca's reality show will be revealed this Sunday (11); Kevyn 'El Bicolor' leads an unofficial poll with 23%.",
+    "body": [
+     "Week five of TV Azteca's La Granja VIP 2 heads into its final stretch with five names up for elimination: Kevyn 'El Bicolor', Pascal Nadaud, Pimpinela Escarlata, Natalia Alcocer and Julio Camejo. In an unofficial poll cited by La Opinión on Friday (9), Kevyn had 23% support, followed by Pascal (22%) and Pimpinela (21%) — while Natalia (12%) and Julio (10%) appeared most at risk. The result comes on Sunday (11), at the elimination gala.",
+     "The one breathing easier is Ivonne Montero, the 'Rosalinda' actress who won season 2 of La Casa de los Famosos México in 2022. Nominated at Wednesday's (7) assembly, she won the Salvation Game and got off the list. With the power in hand, according to TV Azteca, Ivonne chose not to save anyone from her own group and instead banked on Pascal to win his trust — a move planned with Niurka Marcos and shared only with Pimpinela, whom she asked for secrecy: 'But you can't tell anyone anything.'",
+     "The plan, however, ran into a rule: Pascal could not be saved. On Wednesday, Natalia Alcocer used an extra Golden Egg power to send him straight to elimination, which barred him from Thursday's Salvation Game. Natalia explained that she picked the Frenchman because the public had already sent him to the Nomination Duel and she wanted to hurt the rival team. According to the network, Niurka knew he could not be saved but did not tell Ivonne."
+    ]
+   },
+   "es": {
+    "slug": "la-granja-vip-2-quinta-eliminacion-ivonne-montero",
+    "headline": "La Granja VIP 2: la campeona de La Casa de los Famosos, Ivonne Montero, se salva de la tabla y 'traiciona' a su propio equipo por Pascal — y Natalia Alcocer y Julio Camejo peligran con 12% y 10%",
+    "summary": "El quinto eliminado del reality de TV Azteca sale este domingo (11); Kevyn 'El Bicolor' lidera una encuesta no oficial con 23%.",
+    "body": [
+     "La quinta semana de La Granja VIP 2, de TV Azteca, llega a su recta final con cinco nombres en la tabla: Kevyn 'El Bicolor', Pascal Nadaud, Pimpinela Escarlata, Natalia Alcocer y Julio Camejo. En una encuesta no oficial citada por La Opinión el viernes (9), Kevyn tenía 23% de apoyo, seguido de Pascal (22%) y Pimpinela (21%) — mientras Natalia (12%) y Julio (10%) aparecían como los más amenazados. El resultado se conocerá el domingo (11), en la gala de eliminación.",
+     "Quien respiró aliviada fue Ivonne Montero, actriz de 'Rosalinda' y ganadora de la segunda temporada de La Casa de los Famosos México, en 2022. Nominada en la asamblea del miércoles (7), ganó el Juego de la Salvación y salió de la lista. Con el poder en sus manos, según TV Azteca, Ivonne decidió no salvar a nadie de su grupo y apostar por Pascal para ganarse su confianza — una jugada planeada con Niurka Marcos y confiada solo a Pimpinela, a quien le pidió discreción: 'Pero no puedes decirle nada a nadie'.",
+     "El plan, sin embargo, chocó con una regla: Pascal no podía ser salvado. El miércoles, Natalia Alcocer usó un poder extra del Huevo Dorado para mandarlo directo a la eliminación, lo que lo dejó fuera del Juego de la Salvación del jueves. Natalia explicó que eligió al francés porque el público ya lo había enviado al Duelo de Nominación y quería golpear al equipo rival. Según la televisora, Niurka sabía que no sería posible salvarlo, pero no se lo dijo a Ivonne."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610101211",
   "section": "news",
   "publishedAt": "2026-10-10T02:32:00Z",
@@ -682,6 +1146,126 @@
   }
  },
  {
+  "id": "2610101913",
+  "section": "music",
+  "publishedAt": "2026-10-10T01:01:00Z",
+  "personIds": [
+   "ricardo-arjona",
+   "grupo-firme"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://www.informador.mx/__export/1791594534939/sites/elinformador/img/2026/10/09/ricardo_arjona_y_grupo_firme_unen_sus_estilos_en_-amor_factura-.jpg_1044652405.jpg",
+   "credit": "Foto: divulgação (via El Informador)"
+  },
+  "sources": [
+   {
+    "name": "El Informador",
+    "url": "https://www.informador.mx/entretenimiento/ricardo-arjona-y-grupo-firme-unen-sus-estilos-en-amor-factura-20261009-0168.html"
+   },
+   {
+    "name": "Emisoras Unidas",
+    "url": "https://emisorasunidas.com/farandula/2026/10/06/ricardo-arjona-comparte-el-motivo-de-su-dueto-con-grupo-firme/"
+   },
+   {
+    "name": "ClaroSports",
+    "url": "https://www.clarosports.com/actualidad/ricardo-arjona-revela-el-nombre-de-su-nuevo-disco-previo-al-estreno-de-factura-amor-con-grupo-firme/"
+   }
+  ],
+  "hue": 111,
+  "t": {
+   "pt": {
+    "slug": "ricardo-arjona-grupo-firme-amor-factura",
+    "headline": "6,4 milhões de views em três dias e o amor cobrado como 'fatura': Ricardo Arjona se junta ao Grupo Firme em bolero norteño e prepara disco de 30 músicas",
+    "summary": "'Amor factura', primeiro single de 'De todo un poco', mistura o regional mexicano da banda de Eduin Caz com a ironia do guatemalteco, que nega estratégia: 'Colaborações devem acontecer com alguém afim'.",
+    "body": [
+     "Ricardo Arjona encontrou no Grupo Firme, a banda de Eduin Caz, a parceria para 'Amor factura', mistura de regional mexicano e bolero norteño que passou de 6,4 milhões de visualizações no YouTube em cerca de três dias. A letra, com o humor e a ironia típicos do guatemalteco, conta a história de um homem que se sente usado por uma mulher e descobre que carinho, esforço e expectativa também viram dívida — daí a 'fatura' do título. No clipe, os artistas aparecem num palco com cortinas vermelhas, velas e instrumentos, num clima de apresentação intimista.",
+     "Arjona fez questão de dizer que não houve cálculo de mercado. 'As pessoas pensam que as minhas colaborações obedecem a algo planejado', afirmou em vídeo no Instagram, defendendo que parcerias 'devem acontecer com alguém que seja afim com você'. Ele disse ter se sentido à vontade com a banda por enxergar nela a mesma essência: o grupo hoje viaja de jatinho, mas não se desligou do bairro de origem. A campanha do lançamento resume a ideia com o lema 'No por algoritmos'.",
+     "A música é o primeiro single de 'De todo un poco', título que Arjona revelou num show da turnê 'Lo que el seco no dijo' e que deve reunir cerca de 30 canções, ainda sem data. A turnê passa por Honduras e El Salvador em outubro e novembro e depois faz 19 datas no México, de 7 de novembro a 20 de dezembro, encerrando com duas noites no estádio da Cidade do México que já foi o Azteca."
+    ]
+   },
+   "en": {
+    "slug": "ricardo-arjona-grupo-firme-amor-factura",
+    "headline": "6.4 million views in three days and love billed like an invoice: Ricardo Arjona teams with Grupo Firme on a norteño bolero and readies a 30-song album",
+    "summary": "'Amor factura', the first single from 'De todo un poco', blends Eduin Caz's band's regional Mexican sound with the Guatemalan's irony — and he insists it wasn't strategy: 'Collaborations should happen with someone like-minded.'",
+    "body": [
+     "Ricardo Arjona found in Grupo Firme, Eduin Caz's band, the partner for 'Amor factura', a mix of regional Mexican music and norteño bolero that topped 6.4 million YouTube views in about three days. The lyrics, with the Guatemalan's trademark humor and irony, tell of a man who feels used by a woman and realizes that affection, effort and expectations can also turn into debt — hence the 'invoice' in the title. In the video, the artists perform on a stage with red curtains, candles and instruments, in an intimate setting.",
+     "Arjona made a point of saying there was no market calculation. 'People think my collaborations follow some kind of plan,' he said in an Instagram video, arguing that partnerships 'should happen with someone who is like-minded.' He said he felt at ease with the band because he sees the same essence in them: the group now flies by private jet but never cut ties with its old neighborhood. The release campaign sums it up with the slogan 'No por algoritmos' ('Not for algorithms').",
+     "The song is the first single from 'De todo un poco', a title Arjona revealed at a show on his 'Lo que el seco no dijo' tour and which is expected to gather around 30 songs, with no release date yet. The tour visits Honduras and El Salvador in October and November, then plays 19 dates in Mexico from Nov. 7 to Dec. 20, closing with two nights at the Mexico City stadium formerly known as the Azteca."
+    ]
+   },
+   "es": {
+    "slug": "ricardo-arjona-grupo-firme-amor-factura",
+    "headline": "6,4 millones de vistas en tres días y el amor cobrado como 'factura': Ricardo Arjona se une a Grupo Firme en un bolero norteño y prepara un disco de 30 canciones",
+    "summary": "'Amor factura', primer sencillo de 'De todo un poco', mezcla el regional mexicano de la banda de Eduin Caz con la ironía del guatemalteco, que niega estrategia: 'Las colaboraciones deben darse con alguien afín'.",
+    "body": [
+     "Ricardo Arjona encontró en Grupo Firme, la banda de Eduin Caz, la pareja para 'Amor factura', una mezcla de regional mexicano y bolero norteño que superó los 6,4 millones de reproducciones en YouTube en unos tres días. La letra, con el humor y la ironía típicos del guatemalteco, cuenta la historia de un hombre que se siente usado por una mujer y descubre que el cariño, el esfuerzo y las expectativas también se vuelven deuda; de ahí la 'factura' del título. En el video, los artistas aparecen en un escenario con cortinas rojas, velas e instrumentos, en un clima íntimo.",
+     "Arjona aclaró que no hubo cálculo de mercado. 'La gente piensa que las colaboraciones de mi lado obedecen a un asunto planificado', dijo en un video de Instagram, y sostuvo que 'deben de darse con alguien que sea afín contigo'. Contó que se sintió cómodo con la banda porque ve en ella la misma esencia: el grupo hoy viaja en avión privado, pero no se desconectó de su barrio. La campaña del lanzamiento lo resume con el lema 'No por algoritmos'.",
+     "La canción es el primer sencillo de 'De todo un poco', título que Arjona reveló en un show de la gira 'Lo que el seco no dijo' y que reuniría unas 30 canciones, aún sin fecha. La gira pasa por Honduras y El Salvador en octubre y noviembre y luego suma 19 fechas en México, del 7 de noviembre al 20 de diciembre, con cierre de dos noches en el estadio de la Ciudad de México que antes se llamaba Azteca."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610101903",
+  "section": "music",
+  "publishedAt": "2026-10-10T00:50:00Z",
+  "personIds": [
+   "ze-felipe",
+   "ana-castela"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://assets.portalleodias.com/2024/04/foto-caixinha-sem-freio-ze-felipe-fala-de-namoro-bebida-emagrecimento-e-nao-poupa-haters-430x323.jpg",
+   "credit": "Foto: reprodução/Instagram (via Portal LeoDias)"
+  },
+  "sources": [
+   {
+    "name": "Portal LeoDias",
+    "url": "https://portalleodias.com/famosos/caixinha-sem-freio-ze-felipe-fala-de-namoro-bebida-emagrecimento-e-nao-poupa-haters"
+   },
+   {
+    "name": "Portal LeoDias",
+    "url": "https://portalleodias.com/famosos/ze-felipe-revela-se-pretende-namorar-e-fala-sobre-arrependimentos"
+   }
+  ],
+  "hue": 1,
+  "t": {
+   "pt": {
+    "slug": "ze-felipe-caixinha-namoro-bebida-cinco-quilos-haters",
+    "headline": "'Não' para namoro sério, cinco quilos a menos, um 'parei de beber' com copo na mão e alfinetada em hater: Zé Felipe solta o verbo na caixinha de perguntas",
+    "summary": "Solteiro desde o fim do namoro com Ana Castela, o cantor respondeu fãs no Instagram, negou procedimento no queixo e devolveu provocações.",
+    "body": [
+     "Zé Felipe abriu a caixinha de perguntas no Instagram na noite desta sexta-feira (9) e não fugiu de quase nada. Perguntado se quer um relacionamento sério, foi seco: 'Não'. Antes, ao ser questionado se está namorando, respondeu só balançando o dedo em sinal negativo. Seu último romance público foi com Ana Castela, que terminou em dezembro de 2025.",
+     "Sobre a aparência mais magra, o cantor contou que perdeu cinco quilos e rebateu um seguidor que sugeriu que ele teria feito um procedimento no queixo: 'Eu emagreci mesmo'. Quando alguém quis saber se ele tinha parado de beber, Zé respondeu 'Sim' com um emoji sorridente — em um vídeo em que aparecia tomando uma bebida alcoólica, numa ironia que não passou despercebida.",
+     "Também houve espaço para arrependimentos e troco. Questionado se se arrepende de algo do último ano, disse: 'Só do que eu tive vontade de fazer e não fiz'. A quem o chamou de estranho e infantil, devolveu na mesma moeda: perguntou a um crítico se o insulto não era sobre ele mesmo e disse a outro que a mulher dele andava mandando mensagens para o cantor."
+    ]
+   },
+   "en": {
+    "slug": "ze-felipe-qa-dating-drinking-five-kilos-haters",
+    "headline": "A 'no' to serious dating, five kilos lighter, an 'I quit drinking' with a glass in hand and a jab at a hater: Zé Felipe opens up in an Instagram Q&A",
+    "summary": "Single since his split from Ana Castela, the singer answered fans, denied a chin procedure and fired back at provocations.",
+    "body": [
+     "Brazilian singer Zé Felipe opened an Instagram question box on Friday night (9) and dodged almost nothing. Asked whether he wants a serious relationship, he was blunt: 'No.' Earlier, when asked if he was dating anyone, he simply wagged his finger. His last public romance was with singer Ana Castela, which ended in December 2025.",
+     "On his slimmer look, he said he lost five kilos and pushed back on a follower who suggested he had a chin procedure: 'I really did lose weight.' When someone asked whether he had quit drinking, he replied 'Yes' with a smiling emoji — in a video showing him sipping an alcoholic drink, an irony fans did not miss.",
+     "There was also room for regrets and comebacks. Asked whether he regrets anything from the past year, he said: 'Only the things I wanted to do and didn't.' To those who called him weird and childish, he answered in kind: he asked one critic whether the insult was really about himself and told another that the critic's wife had been messaging him."
+    ]
+   },
+   "es": {
+    "slug": "ze-felipe-cajita-preguntas-noviazgo-alcohol-cinco-kilos",
+    "headline": "Un 'no' al noviazgo serio, cinco kilos menos, un 'dejé de beber' con el vaso en la mano y un dardo a un hater: Zé Felipe se suelta en la cajita de preguntas",
+    "summary": "Soltero desde el fin de su romance con Ana Castela, el cantante respondió a fans en Instagram, negó un procedimiento en la barbilla y devolvió provocaciones.",
+    "body": [
+     "El cantante brasileño Zé Felipe abrió la cajita de preguntas en Instagram la noche de este viernes (9) y no esquivó casi nada. Cuando le preguntaron si quiere una relación seria, fue tajante: 'No'. Antes, al ser consultado sobre si está de novio, respondió solo moviendo el dedo en señal negativa. Su último romance público fue con la cantante Ana Castela, que terminó en diciembre de 2025.",
+     "Sobre su aspecto más delgado, contó que bajó cinco kilos y rebatió a un seguidor que sugirió que se había hecho un procedimiento en la barbilla: 'Adelgacé de verdad'. Cuando alguien quiso saber si había dejado de beber, respondió 'Sí' con un emoji sonriente, en un video en el que aparecía tomando una bebida alcohólica, una ironía que no pasó desapercibida.",
+     "También hubo lugar para arrepentimientos y revanchas. Al preguntarle si se arrepiente de algo del último año, dijo: 'Solo de lo que tuve ganas de hacer y no hice'. A quienes lo llamaron raro e infantil, les respondió con la misma moneda: le preguntó a un crítico si el insulto no era sobre sí mismo y le dijo a otro que su esposa le andaba mandando mensajes."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610101213",
   "section": "news",
   "publishedAt": "2026-10-10T00:25:00Z",
@@ -730,6 +1314,61 @@
      "Un post enamorado de Erasmo Carlos terminó decidiendo una disputa por herencia. La Justicia de Río de Janeiro negó el pedido de la pedagoga Fernanda Passos, viuda del ícono del rock brasileño fallecido en 2022, para repartir los bienes e inversiones del cantante. La decisión, firmada el 1 de octubre, fue revelada por Metrópoles, que este viernes (9) mostró la publicación usada como base.",
      "Fernanda pedía la mitad del patrimonio y de los rendimientos acumulados desde 2010, cuando dice que empezó la relación — Erasmo tenía 69 años. Los hijos del cantante, Leonardo y Gil Esteves, argumentaron que la pareja solo fue novia hasta 2016 y que la unión estable, si existió, empezó cuando ella se mudó a la casa de él a fines de ese año. La jueza se apoyó en un post del 6 de enero de 2019, en el que Erasmo celebraba la boda civil del día anterior: después de '7 años de besitos y cariños', escribió, se había casado 'ayer por lo civil con mi adorada Fernanda'.",
      "Según la magistrada, el noviazgo empezó hacia 2010, pero solo tomó forma de unión estable unos dos años antes de la boda, cuando el cantante ya pasaba de los 70. De acuerdo con el reportaje, la ley brasileña impone la separación obligatoria de bienes en relaciones iniciadas después de esa edad, lo que quita a la viuda el derecho al reparto."
+    ]
+   }
+  }
+ },
+ {
+  "id": "2610101905",
+  "section": "news",
+  "publishedAt": "2026-10-10T00:20:00Z",
+  "personIds": [
+   "arthur-aguiar",
+   "thiago-nigro",
+   "maira-cardi"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://assets.portalleodias.com/2024/04/foto-arthur-aguiar-e-thiago-nigro-se-manifestam-apos-reaproximacao-e-rebatem-rumores-430x323.jpg",
+   "credit": "Foto: reprodução/Instagram (via Portal LeoDias)"
+  },
+  "sources": [
+   {
+    "name": "Portal LeoDias",
+    "url": "https://portalleodias.com/famosos/arthur-aguiar-e-thiago-nigro-se-manifestam-apos-reaproximacao-e-rebatem-rumores"
+   }
+  ],
+  "hue": 95,
+  "t": {
+   "pt": {
+    "slug": "arthur-aguiar-thiago-nigro-reaproximacao-maira-cardi",
+    "headline": "Voltaram a se seguir, cobrança bancária quitada e ação de despejo: Arthur Aguiar e Thiago Nigro rebatem boato de que Maíra Cardi estaria ajudando o ex — 'Me deixem em paz um pouco!'",
+    "summary": "O ex-BBB e o atual marido de Maíra comentaram no perfil de Leo Dias depois que a reaproximação nas redes virou especulação.",
+    "body": [
+     "Bastou Arthur Aguiar e Thiago Nigro voltarem a se seguir no Instagram para a internet montar uma teoria: Maíra Cardi, ex-mulher de Arthur e atual esposa de Nigro, estaria ajudando o ex financeiramente. O boato, que não tem confirmação, ganhou força porque o nome do cantor e ex-BBB apareceu ligado a uma cobrança bancária — depois quitada — e porque ele enfrenta uma ação de despejo por um imóvel em São Paulo.",
+     "Na noite desta sexta-feira (9), os dois foram aos comentários do perfil de Leo Dias para responder. 'Gente, parem de criar verdades absolutas sobre coisas das quais vocês não fazem a menor ideia', escreveu Arthur, garantindo que Maíra 'não tem absolutamente nada a ver com isso. Nada!'. E completou: 'Me deixem em paz um pouco!'.",
+     "Nigro saiu em defesa do ex-rival: 'Gente, não tirem o mérito que é dele. Nem tudo precisa ter alguém por trás. Isso deveria ser celebrado, não questionado'. Arthur e Maíra, que viveram um relacionamento de idas e vindas e são pais de Sophia, encerraram o casamento em 2022; no ano seguinte, ela começou a namorar Nigro, com quem depois se casou."
+    ]
+   },
+   "en": {
+    "slug": "arthur-aguiar-thiago-nigro-reconciliation-maira-cardi",
+    "headline": "Following each other again, a paid-off bank charge and an eviction suit: Arthur Aguiar and Thiago Nigro deny rumor that Maíra Cardi is helping her ex — 'Leave me alone for a bit!'",
+    "summary": "The former Big Brother Brasil winner and Maíra's current husband commented on Leo Dias's profile after their online reconciliation sparked speculation.",
+    "body": [
+     "All it took was Arthur Aguiar and Thiago Nigro following each other again on Instagram for the internet to build a theory: Maíra Cardi, Arthur's ex-wife and Nigro's current wife, was supposedly helping her ex financially. The rumor, which has not been confirmed, gained traction because the singer and former reality star's name was tied to a bank charge — later paid — and because he faces an eviction lawsuit over a property in São Paulo.",
+     "On Friday night (9), both went to the comments on columnist Leo Dias's profile to respond. 'People, stop creating absolute truths about things you have no idea about,' Arthur wrote, insisting Maíra 'has absolutely nothing to do with it. Nothing!' He added: 'Leave me alone for a bit!'",
+     "Nigro came to his former rival's defense: 'People, don't take away the credit that is his. Not everything needs someone behind it. This should be celebrated, not questioned.' Arthur and Maíra, who had an on-and-off relationship and share a daughter, Sophia, ended their marriage in 2022; the following year she began dating Nigro, whom she later married."
+    ]
+   },
+   "es": {
+    "slug": "arthur-aguiar-thiago-nigro-reconciliacion-maira-cardi",
+    "headline": "Volvieron a seguirse, un cobro bancario saldado y una demanda de desalojo: Arthur Aguiar y Thiago Nigro desmienten el rumor de que Maíra Cardi ayuda a su ex — '¡Déjenme en paz un poco!'",
+    "summary": "El exganador de Big Brother Brasil y el actual marido de Maíra comentaron en el perfil de Leo Dias después de que su acercamiento en redes desatara especulaciones.",
+    "body": [
+     "Bastó que Arthur Aguiar y Thiago Nigro volvieran a seguirse en Instagram para que internet armara una teoría: Maíra Cardi, exesposa de Arthur y actual esposa de Nigro, estaría ayudando económicamente a su ex. El rumor, sin confirmación, tomó fuerza porque el nombre del cantante y exparticipante de reality apareció vinculado a un cobro bancario, luego saldado, y porque enfrenta una demanda de desalojo por un inmueble en São Paulo.",
+     "La noche de este viernes (9), ambos fueron a los comentarios del perfil del columnista Leo Dias para responder. 'Gente, dejen de crear verdades absolutas sobre cosas de las que no tienen la menor idea', escribió Arthur, asegurando que Maíra 'no tiene absolutamente nada que ver con esto. ¡Nada!'. Y agregó: '¡Déjenme en paz un poco!'.",
+     "Nigro salió en defensa de su exrival: 'Gente, no le quiten el mérito que es suyo. No todo necesita tener a alguien detrás. Esto debería celebrarse, no cuestionarse'. Arthur y Maíra, que vivieron una relación de idas y vueltas y son padres de Sophia, terminaron su matrimonio en 2022; al año siguiente, ella empezó a salir con Nigro, con quien luego se casó."
     ]
    }
   }
@@ -1271,6 +1910,60 @@
   "format": "feature"
  },
  {
+  "id": "2610101904",
+  "section": "music",
+  "publishedAt": "2026-10-09T21:49:00Z",
+  "personIds": [
+   "hugo-e-guilherme",
+   "gkay"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://assets.portalleodias.com/2024/04/Alessandro-Cica-430x287.jpeg",
+   "credit": "Foto: divulgação (via Portal LeoDias)"
+  },
+  "sources": [
+   {
+    "name": "Portal LeoDias",
+    "url": "https://portalleodias.com/redes-sociais/hit-sertanejo-de-hugo-e-guilherme-vira-trilha-de-trend-de-perfumes-com-famosos"
+   }
+  ],
+  "hue": 48,
+  "t": {
+   "pt": {
+    "slug": "hugo-e-guilherme-flash-trend-perfumes-gkay",
+    "headline": "Mais de 19 milhões de plays, Top 3 do Spotify e Gkay contando qual perfume usa: 'Flash', de Hugo e Guilherme, vira trilha do 'confessionário olfativo' dos famosos",
+    "summary": "A faixa do EP 'Colecionando Momentos' embala a trend em que celebridades revelam suas fragrâncias no Instagram e no TikTok.",
+    "body": [
+     "Uma música sertaneja virou a trilha oficial de uma das trends do momento nas redes. 'Flash', da dupla Hugo e Guilherme, embala vídeos no Instagram e no TikTok em que famosos mostram quais perfumes costumam usar — uma espécie de 'confessionário olfativo', como definiu o Portal LeoDias.",
+     "Entre os nomes que já entraram na brincadeira estão Gkay, Lívia Andrade e Tata Estaniecki, além de outras personalidades. A onda ajudou a turbinar os números da faixa, que passou de 19 milhões de reproduções no Spotify e chegou ao Top 3 do ranking brasileiro da plataforma.",
+     "'Flash' faz parte do EP 'Colecionando Momentos', lançado em agosto. Com cerca de dez anos de carreira e milhões de ouvintes mensais, Hugo e Guilherme ganham com a trend uma vitrine que vai além do público tradicional do sertanejo."
+    ]
+   },
+   "en": {
+    "slug": "hugo-e-guilherme-flash-perfume-trend-gkay",
+    "headline": "Over 19 million plays, Spotify Top 3 and Gkay revealing her perfume: Hugo e Guilherme's 'Flash' becomes the soundtrack of celebrities' 'scent confessional'",
+    "summary": "The track from the EP 'Colecionando Momentos' powers the trend in which stars show off their fragrances on Instagram and TikTok.",
+    "body": [
+     "A sertanejo song has become the soundtrack of one of the hottest trends on Brazilian social media. 'Flash,' by the duo Hugo e Guilherme, plays over Instagram and TikTok videos in which celebrities show which perfumes they usually wear — a kind of 'scent confessional,' as Portal LeoDias put it.",
+     "Among those who have joined in are Gkay, Lívia Andrade and Tata Estaniecki, along with other personalities. The wave has boosted the track's numbers: it has passed 19 million plays on Spotify and reached the Top 3 of the platform's Brazil chart.",
+     "'Flash' is part of the EP 'Colecionando Momentos,' released in August. With about ten years in the business and millions of monthly listeners, Hugo e Guilherme are getting exposure well beyond sertanejo's traditional audience."
+    ]
+   },
+   "es": {
+    "slug": "hugo-e-guilherme-flash-tendencia-perfumes-gkay",
+    "headline": "Más de 19 millones de reproducciones, Top 3 de Spotify y Gkay contando qué perfume usa: 'Flash', de Hugo e Guilherme, se vuelve la banda sonora del 'confesionario olfativo' de los famosos",
+    "summary": "El tema del EP 'Colecionando Momentos' acompaña la tendencia en la que celebridades revelan sus fragancias en Instagram y TikTok.",
+    "body": [
+     "Una canción sertaneja se convirtió en la banda sonora de una de las tendencias del momento en las redes brasileñas. 'Flash', del dúo Hugo e Guilherme, suena en videos de Instagram y TikTok en los que famosos muestran qué perfumes suelen usar, una especie de 'confesionario olfativo', como lo definió el Portal LeoDias.",
+     "Entre quienes ya se sumaron están Gkay, Lívia Andrade y Tata Estaniecki, además de otras personalidades. La ola impulsó los números del tema, que superó los 19 millones de reproducciones en Spotify y llegó al Top 3 del ranking brasileño de la plataforma.",
+     "'Flash' forma parte del EP 'Colecionando Momentos', lanzado en agosto. Con unos diez años de carrera y millones de oyentes mensuales, Hugo e Guilherme ganan con la tendencia una vitrina que va más allá del público tradicional del sertanejo."
+    ]
+   }
+  }
+ },
+ {
   "id": "2610101217",
   "section": "streamers",
   "publishedAt": "2026-10-09T21:45:00Z",
@@ -1321,6 +2014,71 @@
    }
   },
   "format": "explainer"
+ },
+ {
+  "id": "2610101906",
+  "section": "news",
+  "publishedAt": "2026-10-09T21:43:00Z",
+  "personIds": [
+   "juarez-pontes"
+  ],
+  "confidence": "confirmed",
+  "risk": "green",
+  "image": {
+   "url": "https://i.metroimg.com/m1k40-EMlDiAXFp5QQA3RPFkLqz-mgwF-KXQcz_SlE0/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/juarez-pontes-2.jpg",
+   "credit": "Foto: reprodução (via Metrópoles)"
+  },
+  "sources": [
+   {
+    "name": "Metrópoles",
+    "url": "https://www.metropoles.com/colunas/fabia-oliveira/quem-era-juarez-pontes-que-foi-garoto-propaganda-na-tv-e-foi-achado-morto"
+   },
+   {
+    "name": "Portal LeoDias",
+    "url": "https://portalleodias.com/noticias/morre-juarez-da-tekpix-icone-dos-comerciais-de-tv-dos-anos-2000"
+   },
+   {
+    "name": "Metrópoles",
+    "url": "https://www.metropoles.com/colunas/fabia-oliveira/juarez-pontes-famoso-por-comerciais-na-televisao-e-encontrado-morto"
+   }
+  ],
+  "hue": 142,
+  "t": {
+   "pt": {
+    "slug": "historia-juarez-da-tekpix-vamos-falar-de-coisa-boa",
+    "headline": "Do telemarketing ao bordão 'Vamos falar de coisa boa?', da TV aberta ao afastamento da RedeTV!: a história de Juarez da TekPix, encontrado morto em casa em São Paulo",
+    "summary": "O garoto-propaganda que virou rosto das câmeras digitais nos anos 2000 tinha pouco mais de 3 mil seguidores e vida discreta.",
+    "body": [
+     "Quem ligou a TV nos anos 2000 provavelmente ouviu a pergunta: 'Vamos falar de coisa boa?'. O bordão era de Juarez Aparecido Pontes Fernandes, o Juarez da TekPix, garoto-propaganda que virou figura conhecida ao vender câmeras digitais em espaços de merchandising na Record, na RedeTV! e no SBT. Ele foi encontrado morto em sua casa, em São Paulo, nesta sexta-feira (9). A causa da morte não foi divulgada, e uma prima, Eloana Pontes, confirmou a notícia nas redes.",
+     "A trajetória começou longe das câmeras: Juarez vendia produtos por telefone, e o desempenho chamou a atenção da empresa de tecnologia para a qual trabalhava, que decidiu colocá-lo no ar para apresentar os aparelhos. Deu certo — a câmera digital e o bordão viraram memória afetiva de uma geração. Em 2019, no 'The Noite', do SBT, ele disse ter orgulho de ser lembrado pelo papel.",
+     "No início de 2024, o comunicador voltou à TV no 'A Tarde é Sua', de Sonia Abrão, na RedeTV!. A passagem terminou em janeiro de 2025, quando a emissora o afastou após uma funcionária da lanchonete da sede acusá-lo de assédio em dezembro de 2024; segundo a Folha de S.Paulo, a suposta conduta envolvia comentários inapropriados sobre o corpo dela. A RedeTV! informou na época que 'toda denúncia é apurada rigorosamente'.",
+     "Desde então, Juarez levava uma vida discreta: tinha pouco mais de 3 mil seguidores no Instagram, onde não postava desde fevereiro de 2026. Segundo o site TV Pop, citado pelo Metrópoles, pessoas próximas afirmaram que ele enfrentava depressão desde o afastamento da emissora."
+    ]
+   },
+   "en": {
+    "slug": "story-of-juarez-da-tekpix-lets-talk-about-good-things",
+    "headline": "From telemarketing to the catchphrase 'Let's talk about good things?', from network TV to his exit from RedeTV!: the story of Juarez da TekPix, found dead at home in São Paulo",
+    "summary": "The pitchman who became the face of digital cameras on Brazilian TV in the 2000s had just over 3,000 followers and a quiet life.",
+    "body": [
+     "Anyone who watched Brazilian TV in the 2000s probably heard the question: 'Vamos falar de coisa boa?' ('Let's talk about good things?'). The catchphrase belonged to Juarez Aparecido Pontes Fernandes, known as Juarez da TekPix, a TV pitchman who became a familiar face selling digital cameras in sponsored segments on Record, RedeTV! and SBT. He was found dead at his home in São Paulo on Friday (9). The cause of death has not been disclosed, and a cousin, Eloana Pontes, confirmed the news on social media.",
+     "His path began far from the cameras: Juarez sold products over the phone, and his performance caught the attention of the tech company he worked for, which decided to put him on air to present its gadgets. It worked — the digital camera and the catchphrase became a nostalgic memory for a generation. In 2019, on SBT's 'The Noite', he said he was proud to be remembered for the role.",
+     "In early 2024, he returned to TV on Sonia Abrão's 'A Tarde é Sua' on RedeTV!. That stint ended in January 2025, when the network removed him after an employee of the headquarters' cafeteria accused him of harassment in December 2024; according to Folha de S.Paulo, the alleged conduct involved inappropriate comments about her body. RedeTV! said at the time that 'every complaint is rigorously investigated.'",
+     "Since then, Juarez had kept a low profile: he had just over 3,000 Instagram followers and had not posted since February 2026. According to the website TV Pop, cited by Metrópoles, people close to him said he had been struggling with depression since leaving the network."
+    ]
+   },
+   "es": {
+    "slug": "historia-juarez-da-tekpix-vamos-a-hablar-de-cosas-buenas",
+    "headline": "Del telemarketing al lema '¿Vamos a hablar de cosas buenas?', de la TV abierta a su salida de RedeTV!: la historia de Juarez da TekPix, hallado muerto en su casa en São Paulo",
+    "summary": "El vendedor televisivo que se convirtió en la cara de las cámaras digitales en la TV brasileña de los 2000 tenía poco más de 3.000 seguidores y una vida discreta.",
+    "body": [
+     "Quien veía la televisión brasileña en los años 2000 probablemente escuchó la pregunta: 'Vamos falar de coisa boa?' ('¿Vamos a hablar de cosas buenas?'). La frase era de Juarez Aparecido Pontes Fernandes, conocido como Juarez da TekPix, vendedor televisivo que se hizo famoso promocionando cámaras digitales en espacios publicitarios de Record, RedeTV! y SBT. Fue hallado muerto en su casa, en São Paulo, este viernes (9). La causa de la muerte no fue divulgada, y una prima, Eloana Pontes, confirmó la noticia en las redes.",
+     "Su trayectoria empezó lejos de las cámaras: Juarez vendía productos por teléfono, y su desempeño llamó la atención de la empresa de tecnología para la que trabajaba, que decidió ponerlo al aire para presentar los aparatos. Funcionó: la cámara digital y la frase se convirtieron en un recuerdo afectivo de toda una generación. En 2019, en el programa 'The Noite', del SBT, dijo sentirse orgulloso de ser recordado por ese papel.",
+     "A comienzos de 2024 volvió a la televisión en 'A Tarde é Sua', de Sonia Abrão, en RedeTV!. Esa etapa terminó en enero de 2025, cuando la cadena lo apartó después de que una empleada de la cafetería de la sede lo acusara de acoso en diciembre de 2024; según Folha de S.Paulo, la supuesta conducta incluía comentarios inapropiados sobre su cuerpo. RedeTV! informó entonces que 'toda denuncia se investiga rigurosamente'.",
+     "Desde entonces, Juarez llevaba una vida discreta: tenía poco más de 3.000 seguidores en Instagram, donde no publicaba desde febrero de 2026. Según el sitio TV Pop, citado por Metrópoles, personas cercanas afirmaron que enfrentaba una depresión desde su salida de la cadena."
+    ]
+   }
+  },
+  "format": "feature"
  },
  {
   "id": "2610092317",
