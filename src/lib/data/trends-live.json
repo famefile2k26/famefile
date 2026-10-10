@@ -1,379 +1,292 @@
 [
  {
   "id": "tr1",
-  "kind": "video",
-  "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://www.cnnbrasil.com.br/pop/celebridades/video-de-marquezine-e-alanis-guillen-se-beijando-em-serie-viraliza-na-web/",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://www.dexerto.com/tiktok/tiktoker-brenna-peltiers-brother-braedon-star-of-viral-holiday-countdowns-dies-at-31-3417774/",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Beijo de Marquezine e Alanis toma o X",
-    "note": "Cenas de Bia e Giovana na 2ª temporada de 'Amor da Minha Vida', que estreou na sexta no Disney+, explodiram no X e viraram 'Biana'."
+    "name": "Morre Braedon, irmão de Brenna Peltier",
+    "note": "Estrela das contagens regressivas de feriados que viralizavam no TikTok da irmã, ele morreu aos 31 anos, e a notícia comoveu os seguidores."
    },
    "en": {
-    "name": "Marquezine and Alanis kiss takes over X",
-    "note": "Bia and Giovana's scenes in season 2 of 'Amor da Minha Vida', out Friday on Disney+, blew up on X under the ship name 'Biana'."
+    "name": "Brenna Peltier's brother Braedon dies",
+    "note": "The star of his sister's viral holiday-countdown TikToks died at 31, and the news moved fans across the app."
    },
    "es": {
-    "name": "El beso de Marquezine y Alanis arrasa en X",
-    "note": "Las escenas de Bia y Giovana en la 2ª temporada de 'Amor da Minha Vida', estrenada el viernes en Disney+, explotaron en X como 'Biana'."
+    "name": "Muere Braedon, hermano de Brenna Peltier",
+    "note": "La estrella de las virales cuentas regresivas festivas en el TikTok de su hermana murió a los 31 años y la noticia conmovió a sus seguidores."
    }
   },
   "rank": 1,
   "image": {
-   "url": "https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2026/10/bruna-marquezine-alanis-guillen-beijo.jpg?w=1200&h=630&crop=1",
-   "credit": "Foto: Reprodução/Disney+ (via CNN Brasil)"
+   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/10/brenna-and-braedon-peltier.jpg",
+   "credit": "Foto: Reprodução/Dexerto"
   }
  },
  {
   "id": "tr2",
   "kind": "video",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.metropoles.com/vida-e-estilo/lista-de-sacrificios-conjugais-de-ex-marido-viraliza-e-vira-piada-na-web",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "platform": "instagram",
+  "region": "MX",
+  "sourceUrl": "https://www.infobae.com/mexico/deportes/2026/10/10/fans-explotan-contra-montse-saldivar-por-dejar-de-firmar-autografos-ni-messi-es-tan-mamon/",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "A lista de 'sacrifícios' do ex-marido",
-    "note": "Riley Madison mostrou no TikTok a lista de 17 'sacrifícios conjugais' do ex, e o vídeo passou de 15 milhões de views virando piada."
+    "name": "Montse Saldívar larga autógrafos e vira alvo",
+    "note": "Atingida no rosto por uma camisa jogada da arquibancada, a jogadora da seleção mexicana interrompeu os autógrafos, e o vídeo dividiu a web."
    },
    "en": {
-    "name": "The ex-husband's 'sacrifice' list",
-    "note": "Riley Madison shared her ex's 17-item list of 'marital sacrifices' on TikTok, and the video passed 15 million views as a running joke."
+    "name": "Montse Saldívar quits signing, fans erupt",
+    "note": "Hit in the face by a shirt thrown from the stands, the Mexico player walked off mid-autographs and the clip split social media."
    },
    "es": {
-    "name": "La lista de 'sacrificios' del exmarido",
-    "note": "Riley Madison mostró en TikTok la lista de 17 'sacrificios conyugales' de su ex y el video superó 15 millones de vistas entre burlas."
+    "name": "Montse Saldívar deja de firmar y estalla la red",
+    "note": "Tras recibir un jersey en la cara lanzado desde la tribuna, la seleccionada mexicana dejó de firmar autógrafos y el video dividió a las redes."
    }
   },
   "rank": 2,
   "image": {
-   "url": "https://i.metroimg.com/EQ2nxQL8d9__X4zpTZPuSai1lObbhz9IJw6r5zAHaFU/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/lista-de-sacrificios-conjugais-de-ex-marido-viraliza-e-vira-piada-na-web.png",
-   "credit": "Foto: Reprodução/TikTok (via Metrópoles)"
+   "url": "https://www.infobae.com/resizer/v2/VWA6AIS6ORDH5BTT53VP3PQH7M.jpg?auth=52b4a21a3406fd5c259ef63916ac31a4bbc8317edd17be767c12c2e4c01d8142&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Instagram/@memoriasdelnido"
   }
  },
  {
   "id": "tr3",
-  "kind": "format",
-  "platform": "tiktok",
-  "region": "MX",
-  "sourceUrl": "https://www.infobae.com/mexico/2026/10/09/te-perdi-entre-la-multitud-el-trend-de-tiktok-que-conquista-las-redes-asi-puedes-hacerlo-paso-a-paso/",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "kind": "topic",
+  "platform": "x",
+  "region": "BR",
+  "sourceUrl": "https://caras.com.br/atualidades/virginia-e-vini-jr-terminaram-entenda-os-boatos-de-separacao-4-meses-apos-a-reconciliacao.phtml",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Trend 'Te perdí entre la multitud'",
-    "note": "Ao som de 'La tormenta de arena', do Dorian, vídeos com clima de balada procuram alguém na multidão e revelam um rosto inesperado."
+    "name": "Boato de fim de Virginia e Vini Jr.",
+    "note": "Rumor de nova separação, com briga em Madri e anel sumido, toma as redes; assessoria diz 'não sabemos de nada'."
    },
    "en": {
-    "name": "'Te perdí entre la multitud' trend",
-    "note": "Set to Dorian's 'La tormenta de arena', club-lit clips search for someone in a crowd and end on an unexpected face."
+    "name": "Virginia and Vini Jr. split rumor",
+    "note": "A rumor of a new breakup, with a fight in Madrid and a missing ring, sweeps social media; her team says it 'knows nothing'."
    },
    "es": {
-    "name": "Trend 'Te perdí entre la multitud'",
-    "note": "Con 'La tormenta de arena' de Dorian, videos con luces de antro buscan a alguien entre la gente y revelan un rostro inesperado."
+    "name": "Rumor de ruptura de Virginia y Vini Jr.",
+    "note": "El rumor de una nueva ruptura, con pelea en Madrid y anillo desaparecido, invade las redes; su equipo dice 'no sabemos nada'."
    }
   },
   "rank": 3,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/GGYQZEWRY5BW3AHFFCZXH4RKE4.jpg?auth=afb4032a990a5db381f77f1e53b567ab0706d7dff40b660c2d158bcfd25a06e3&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução/TikTok (via Infobae)"
+   "url": "https://caras.com.br/wp-content/uploads/2026/10/virginia-vini-jr-2.jpg",
+   "credit": "Foto: Reprodução/Instagram via CARAS Brasil"
   }
  },
  {
   "id": "tr4",
-  "kind": "video",
-  "platform": "tiktok",
+  "kind": "topic",
+  "platform": "x",
   "region": "BR",
-  "sourceUrl": "https://www.tenhomaisdiscosqueamigos.com/2026/10/08/seu-chico-futebol-chico-buarque/",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "sourceUrl": "https://www.terra.com.br/diversao/gente/luisa-sonza-esta-proibida-de-falar-sobre-eleicoes-apos-decisao-do-tse-entenda-a-polemica,ca8a74300a3c7d3c16a97e5a9b5dacfd3vxqq7co.html",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "O 'Seu Chico' do futebol era Chico Buarque",
-    "note": "Monalisa Melo contou no TikTok que o filho jogava bola no condomínio com 'Seu Chico' sem saber que era o cantor."
+    "name": "'Luísa Sonza censurada pelo TSE'?",
+    "note": "Post viral dizia que a cantora foi censurada; na verdade, a ação que pedia multa por show foi arquivada sem julgar o mérito."
    },
    "en": {
-    "name": "Neighborhood soccer's 'Seu Chico' was Chico Buarque",
-    "note": "Monalisa Melo told TikTok her son played soccer at their condo with 'Seu Chico' without realizing he was the legendary singer."
+    "name": "'Luísa Sonza censored by court'?",
+    "note": "A viral post claimed the singer was censored; in fact, the suit seeking a fine per show was dismissed without a ruling on the merits."
    },
    "es": {
-    "name": "El 'Seu Chico' del fútbol era Chico Buarque",
-    "note": "Monalisa Melo contó en TikTok que su hijo jugaba al fútbol en el condominio con 'Seu Chico' sin saber que era el cantante."
+    "name": "¿'Luísa Sonza censurada por el TSE'?",
+    "note": "Un post viral decía que la cantante fue censurada; en realidad, la demanda que pedía multa por show fue archivada sin juzgar el fondo."
    }
   },
   "rank": 4,
   "image": {
-   "url": "https://uploads.tenhomaisdiscosqueamigos.com/2026/10/chico-buarque-futebol.jpg",
-   "credit": "Foto: Reprodução (via Tenho Mais Discos Que Amigos!)"
+   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/10/334621226-whatsapp-image-2026-10-09-at-182648.jpg",
+   "credit": "Foto: Terra/Reprodução"
   }
  },
  {
   "id": "tr5",
-  "kind": "video",
-  "platform": "instagram",
-  "region": "BR",
-  "sourceUrl": "https://www.otempo.com.br/entretenimento/novelas/quem-ama-cuida/2026/10/9/quem-ama-cuida-jose-loreto-e-agatha-moreira-se-beijam-mas-funcionario-rouba-a-cena.amp",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "kind": "topic",
+  "platform": "twitch",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.dexerto.com/twitch/ohnepixel-breaks-down-in-tears-after-viewers-accuse-him-of-clip-farming-3417646/",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 88,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Funcionário rouba beijo em 'Quem Ama Cuida'",
-    "note": "Bastidor do beijo de José Loreto e Agatha Moreira viralizou por causa do técnico segurando a porta do guarda-roupa ao fundo."
+    "name": "ohnePixel chora ao vivo após críticas",
+    "note": "O streamer de CS2 se emocionou na live ao ler acusações de que faz 'clip farming' para o TikTok, e o subreddit dele foi inundado de apoio."
    },
    "en": {
-    "name": "Crew member steals 'Quem Ama Cuida' kiss",
-    "note": "Behind-the-scenes footage of José Loreto and Agatha Moreira's kiss went viral thanks to a crew member holding a wardrobe door in the back."
+    "name": "ohnePixel breaks down in tears on stream",
+    "note": "The CS2 streamer got emotional live after reading claims he farms clips for TikTok, and his subreddit flooded with support."
    },
    "es": {
-    "name": "Un técnico se roba el beso de 'Quem Ama Cuida'",
-    "note": "El detrás de cámaras del beso de José Loreto y Agatha Moreira se viralizó por un técnico que sostiene la puerta del ropero al fondo."
+    "name": "ohnePixel llora en vivo tras las críticas",
+    "note": "El streamer de CS2 se quebró en directo al leer acusaciones de que busca clips para TikTok, y su subreddit se llenó de apoyo."
    }
   },
   "rank": 5,
   "image": {
-   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/novelas%20-%20quem%20ama%20cuida/2026/10/9/novelas%20-%20quem%20ama%20cuida-jose_loreto-agatha_moreira-quem-ama-cuida-1791551444.png",
-   "credit": "Foto: Reprodução/Instagram (via O Tempo)"
+   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/10/Ohnepixel-reaction.jpg",
+   "credit": "Foto: Twitch/ohnepixel"
   }
  },
  {
   "id": "tr6",
   "kind": "video",
-  "platform": "x",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.hypefresh.com/chinese-streamer-fanqie-jiang-ye-goes-viral-charging-viewers-7-50-to-spin-her-chair/",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-10-2026-little-boy-cant-stop-laughing-as-uncle-steve-pushes-him-in-a-cart-3536288",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Streamer cobra US$ 7,50 por giro na cadeira",
-    "note": "A chinesa Fanqie Jiang Ye cobra cerca de 50 yuans por volta na cadeira; post no X sobre os giros sem fim passou de 1,9 milhão de views."
+    "name": "'De novo, tio Steve!': a gargalhada do carrinho",
+    "note": "Menino não para de rir enquanto o tio o empurra num carrinho e pede bis sem parar; o vídeo virou o viral do dia nos EUA."
    },
    "en": {
-    "name": "Streamer charges $7.50 per chair spin",
-    "note": "China's Fanqie Jiang Ye charges about 50 yuan per spin of her chair; an X post on the nonstop spinning topped 1.9 million views."
+    "name": "'Do it again, Uncle Steve!' cart giggles",
+    "note": "A little boy can't stop laughing as his uncle pushes him in a cart, begging for more, in the day's feel-good viral clip."
    },
    "es": {
-    "name": "Streamer cobra US$ 7,50 por girar su silla",
-    "note": "La china Fanqie Jiang Ye cobra unos 50 yuanes por cada giro de su silla; un post en X sobre las vueltas sin fin superó 1,9 millones de vistas."
+    "name": "'¡Otra vez, tío Steve!': risas en el carrito",
+    "note": "Un niño no para de reír mientras su tío lo empuja en un carrito y pide repetir una y otra vez; es el video feliz del día."
    }
   },
   "rank": 6,
   "image": {
-   "url": "https://www.hypefresh.com/wp-content/uploads/2026/10/Fanqie-Jiang-Ye.webp",
-   "credit": "Foto: Reprodução (via HypeFresh)"
+   "url": "https://media.tag24.com/1200x800/k/g/kgb9z72s4xd1moi0dodxdx0230c6my59.jpg",
+   "credit": "Foto: Reprodução/TikTok/@realunclesteve"
   }
  },
  {
   "id": "tr7",
   "kind": "video",
-  "platform": "x",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.noticiasaominuto.com.br/esporte/2419669/gesto-de-cristiano-ronaldo-apos-vitoria-do-al-nassr-viraliza-nas-redes",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://www.uai.com.br/app/entretenimento/famosos/2026/10/09/not-famosos,392477/mc-daniel-apoia-romance-de-lia-mendonca-com-mc-poze-apos-fim-de-affair.shtml",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "CR7 festeja com cachecol vindo da torcida",
-    "note": "Após o 3 a 0 do Al Nassr, com gol seu, Cristiano Ronaldo pegou um cachecol atirado da arquibancada e o gesto viralizou."
+    "name": "MC Daniel: 'Ninguém é talarico'",
+    "note": "Cantor confirma fim com Lia Mendonça, nega traição e 'shippa' a ex com MC Poze em vídeo que circula nas redes."
    },
    "en": {
-    "name": "CR7 celebrates with a fan's scarf",
-    "note": "After Al Nassr's 3-0 win, in which he scored, Cristiano Ronaldo grabbed a scarf thrown from the stands and the moment went viral."
+    "name": "MC Daniel: 'Nobody's a cheater'",
+    "note": "The singer confirms his split from Lia Mendonça, denies cheating and 'ships' his ex with MC Poze in a clip spreading online."
    },
    "es": {
-    "name": "CR7 festeja con una bufanda de la grada",
-    "note": "Tras el 3-0 del Al Nassr, con gol suyo, Cristiano Ronaldo tomó una bufanda lanzada desde la tribuna y el gesto se viralizó."
+    "name": "MC Daniel: 'Nadie es infiel'",
+    "note": "El cantante confirma el fin con Lia Mendonça, niega infidelidad y 'shipea' a su ex con MC Poze en un video que circula en redes."
    }
   },
   "rank": 7,
   "image": {
-   "url": "https://media-manager.noticiasaominuto.com.br/960/naom_6ac9fc2055406.webp",
-   "credit": "Foto: X/ALMRISEUL (via Notícias ao Minuto)"
+   "url": "https://www.bnews.com.br/media/_versions/2026/10/mc-daniel_widelg.jpg",
+   "credit": "Foto: BNews/Reprodução"
   }
  },
  {
   "id": "tr8",
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://infobae.com/america/agencias/2026/10/09/nueva-york-acusa-a-tiktok-de-realizar-pruebas-secretas-de-seguridad-con-adolescentes-con-la-funcion-algo-refresh",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "kind": "video",
+  "platform": "instagram",
+  "region": "AR",
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/10/lali-esposito-mostro-como-palpita-su-cumpleanos-en-rio-de-janeiro-en-un-ratito-35/",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "TikTok acusado por testes com o 'Algo Refresh'",
-    "note": "Nova York diz que o TikTok escondeu de cerca de 15 milhões de usuários o botão que reinicia o algoritmo para usá-los como grupo de controle."
+    "name": "Lali ganha 'parabéns' de dançarinos virais",
+    "note": "Nos 35 anos, passados no Rio, a cantora recebe vídeo de dançarinos africanos que viralizam nas redes."
    },
    "en": {
-    "name": "TikTok accused over 'Algo Refresh' tests",
-    "note": "New York says TikTok hid its algorithm-reset feature from about 15 million users to use them as a control group."
+    "name": "Lali gets birthday wishes from viral dancers",
+    "note": "For her 35th birthday, spent in Rio, the singer gets a video from African dancers who go viral online."
    },
    "es": {
-    "name": "Acusan a TikTok por pruebas con 'Algo Refresh'",
-    "note": "Nueva York afirma que TikTok ocultó a unos 15 millones de usuarios la función que reinicia el algoritmo para usarlos como grupo de control."
+    "name": "Lali recibe saludo de bailarines virales",
+    "note": "En sus 35 años, que pasó en Río, la cantante recibe un video de bailarines africanos que se viralizan en redes."
    }
   },
   "rank": 8,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/OOP3O42PLZCI7L3NWDX4LOUZSY.jpg?auth=21bc514c9dd4607c77352df65911a06ec4335faf6f211a5b68b4eb63843e421f&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução (via Infobae)"
+   "url": "https://www.infobae.com/resizer/v2/EACFXBGQTVFRPOCZYNQUN6YIVI.png?auth=a7d69ef0c8679fc4ab28459ad2bf3159d8533a6cba2470576cfa5bccb61b7b18&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Infobae/Instagram"
   }
  },
  {
   "id": "tr9",
   "kind": "topic",
   "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://www.infobae.com/tecno/2026/10/09/meta-prohibio-los-anuncios-de-tiktok-en-facebook-e-instagram-no-tenemos-que-publicar-a-un-competidor/",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "region": "BR",
+  "sourceUrl": "https://otempo.com.br/opiniao/felipe-reis/2026/10/10/mel-maia-deixa-fas-babando-ao-exibir-rotina-na-piscina-e-treino-na-academia",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Meta bane anúncios do TikTok no Instagram",
-    "note": "A Meta vetou anúncios da ByteDance no Facebook e no Instagram em sete países: 'Não temos que publicar um concorrente'."
+    "name": "Mel Maia agita fãs com treino e piscina",
+    "note": "A atriz postou treino de musculação ('treinar pra não endoidar') e dia de piscina com amigas, e os posts movimentaram os fãs no Instagram."
    },
    "en": {
-    "name": "Meta bans TikTok ads on Instagram",
-    "note": "Meta blocked ByteDance ads on Facebook and Instagram in seven countries, saying it doesn't have to run ads for a competitor."
+    "name": "Mel Maia's gym-and-pool posts stir fans",
+    "note": "The Brazilian actress shared a weight-training session and a pool day with friends, and the posts lit up her Instagram fanbase."
    },
    "es": {
-    "name": "Meta veta los anuncios de TikTok en Instagram",
-    "note": "Meta prohibió anuncios de ByteDance en Facebook e Instagram en siete países: 'No tenemos que publicar a un competidor'."
+    "name": "Mel Maia alborota a fans con gym y piscina",
+    "note": "La actriz brasileña compartió su rutina de pesas y un día de piscina con amigas, y sus posts revolucionaron a sus fans en Instagram."
    }
   },
   "rank": 9,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/F3N2TY3DMFH5VP5G6O3RTPDPKE.JPG?auth=45696f81a0b840c3f3a90c41414794eb0ada261e3d766c244b310b48ef4b29fd&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Reprodução (via Infobae)"
+   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/opiniao/felipe-reis/2026/10/mel-maia-deixa-fas-babando-ao-exibir-rotina-na-piscina-e-treino-na-academia.webp",
+   "credit": "Foto: Reprodução/Instagram"
   }
  },
  {
   "id": "tr10",
   "kind": "video",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-9-2026-toddlers-birthday-gift-gives-her-mom-a-hilarious-headache-3536287",
-  "collectedAt": "2026-10-10T19:09:42Z",
+  "platform": "youtube",
+  "region": "GLOBAL",
+  "sourceUrl": "https://zamin.uz/en/culture/224157-mrbeast-surrounded-by-fans-in-samarkand-video.html",
+  "collectedAt": "2026-10-10T23:10:53Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Microfone de presente vira pesadelo da mãe",
-    "note": "Mãe 'deu bom dia a todos, menos a quem deu um microfone' à filha pequena, que berra no aparelho; vídeo virou piada no TikTok."
+    "name": "MrBeast cercado por fãs em Samarcanda",
+    "note": "Centenas de fãs fazem empurra-empurra em volta do YouTuber no 2º dia da viagem ao Uzbequistão."
    },
    "en": {
-    "name": "Birthday microphone becomes mom's nightmare",
-    "note": "A mom said good morning to everyone except whoever gifted her toddler a microphone, as the girl babbles into it at full volume."
+    "name": "MrBeast mobbed by fans in Samarkand",
+    "note": "Hundreds of fans crowd around the YouTuber on the second day of his trip to Uzbekistan."
    },
    "es": {
-    "name": "Un micrófono de regalo, la pesadilla de mamá",
-    "note": "Una madre saludó a todos menos a quien regaló un micrófono a su hija pequeña, que grita en él sin parar; el video arrasa en TikTok."
+    "name": "MrBeast rodeado por fans en Samarcanda",
+    "note": "Cientos de fans se amontonan alrededor del youtuber en el 2º día de su viaje a Uzbekistán."
    }
   },
   "rank": 10,
   "image": {
-   "url": "https://media.tag24.com/1200x800/o/n/onptz3emst2v8ew7scegmouikd7qhgdw.jpg",
-   "credit": "Foto: Reprodução/TikTok/@givingmumvibes (via TAG24)"
-  }
- },
- {
-  "id": "tr11",
-  "kind": "video",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-8-2026-mom-takes-hilarious-tumble-while-walking-home-with-kids-im-sad-about-my-pop-3536286",
-  "collectedAt": "2026-10-10T19:09:42Z",
-  "hue": 310,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Tombo da mãe e o lamento pelo refri",
-    "note": "Mãe cai voltando para casa com os filhos, derruba dois refrigerantes e só lamenta a bebida: 'I'm sad about my pop!'."
-   },
-   "en": {
-    "name": "Mom's tumble and her soda lament",
-    "note": "A mom falls walking home with her kids, spills two sodas and only mourns the drink: 'I'm sad about my pop!'"
-   },
-   "es": {
-    "name": "La caída de mamá y su lamento por el refresco",
-    "note": "Una madre se cae al volver a casa con sus hijos, tira dos refrescos y solo lamenta la bebida: 'I'm sad about my pop!'."
-   }
-  },
-  "rank": 11,
-  "image": {
-   "url": "https://media.tag24.com/1200x800/i/v/ivz3ndh4r4xzd5otu4xdt7mt20grpxdu.jpg",
-   "credit": "Foto: Reprodução/TikTok/@girlydailyedit (via TAG24)"
-  }
- },
- {
-  "id": "tr12",
-  "kind": "topic",
-  "platform": "instagram",
-  "region": "GLOBAL",
-  "sourceUrl": "https://24newshd.tv/10-Oct-2026/rajab-butt-s-fan-encounter-sparks-outrage",
-  "collectedAt": "2026-10-10T19:09:42Z",
-  "hue": 347,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "YouTuber Rajab Butt empurra fã e pede perdão",
-    "note": "Vídeo mostra o paquistanês afastando um fã que pedia selfie; em outro, ele chama o rapaz ao carro e se desculpa."
-   },
-   "en": {
-    "name": "YouTuber Rajab Butt shoves fan, then apologizes",
-    "note": "A clip shows the Pakistani YouTuber pushing away a fan asking for a selfie; a second one shows him calling the fan over to apologize."
-   },
-   "es": {
-    "name": "YouTuber Rajab Butt empuja a un fan y se disculpa",
-    "note": "Un video muestra al pakistaní apartando a un fan que pedía una selfie; en otro lo llama a su auto y le pide perdón."
-   }
-  },
-  "rank": 12,
-  "image": {
-   "url": "https://www.24newshd.tv/digital_images/large/2026-10-10/rajab-butt-s-fan-encounter-sparks-outrage-1791625319-8472.jpg",
-   "credit": "Foto: Reprodução/Instagram (via 24 News HD)"
-  }
- },
- {
-  "id": "tr13",
-  "kind": "video",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "sourceUrl": "https://remolacha.net/2026/10/bulin-viral/",
-  "collectedAt": "2026-10-10T19:09:42Z",
-  "hue": 24,
-  "curated": true,
-  "t": {
-   "pt": {
-    "name": "Freestyle de Bulin 47 passa de 50 mi de views",
-    "note": "Improviso do dominicano com Kevin_way sobre base de dembow na Espanha rodou TikTok e Instagram e ganhou versões com IA."
-   },
-   "en": {
-    "name": "Bulin 47 freestyle tops 50M views",
-    "note": "The Dominican artist's dembow freestyle with Kevin_way in Spain spread across TikTok and Instagram and spawned AI remixes."
-   },
-   "es": {
-    "name": "El freestyle de Bulin 47 supera 50 millones",
-    "note": "La improvisación del dominicano con Kevin_way sobre dembow en España arrasó en TikTok e Instagram y generó versiones con IA."
-   }
-  },
-  "rank": 13,
-  "image": {
-   "url": "https://remolacha.net/wp-content/uploads/2026/10/dos-fotos-FB-1.png",
-   "credit": "Foto: Reprodução/Instagram (via Remolacha)"
+   "url": "https://www.spot.uz/media/img/2025/12/p03vj0tbv7ri3NVbVAp17648515281309_l.webp",
+   "credit": "Foto: Kevin Mazur/Getty Images (via Spot)"
   }
  },
  {
@@ -397,6 +310,78 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
+  "id": "tr11",
+  "hue": 310
+ },
+ {
+  "collectedAt": "2026-10-10T21:37:02.425Z",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "rank": 2,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
+  "t": {
+   "pt": {
+    "name": "#october3rd",
+    "note": "Hashtag em alta no TikTok (global) — #2 na semana."
+   },
+   "en": {
+    "name": "#october3rd",
+    "note": "Trending TikTok hashtag (global) — #2 this week."
+   },
+   "es": {
+    "name": "#october3rd",
+    "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
+   }
+  },
+  "id": "tr12",
+  "hue": 347
+ },
+ {
+  "collectedAt": "2026-10-10T21:37:02.425Z",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "rank": 3,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
+  "t": {
+   "pt": {
+    "name": "#firstofthemonth",
+    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
+   },
+   "en": {
+    "name": "#firstofthemonth",
+    "note": "Trending TikTok hashtag (global) — #3 this week."
+   },
+   "es": {
+    "name": "#firstofthemonth",
+    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
+   }
+  },
+  "id": "tr13",
+  "hue": 24
+ },
+ {
+  "collectedAt": "2026-10-10T21:37:02.425Z",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "GLOBAL",
+  "rank": 2,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
+  "t": {
+   "pt": {
+    "name": "#complexcon",
+    "note": "Hashtag em alta no TikTok (global) — #2 na semana."
+   },
+   "en": {
+    "name": "#complexcon",
+    "note": "Trending TikTok hashtag (global) — #2 this week."
+   },
+   "es": {
+    "name": "#complexcon",
+    "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
+   }
+  },
   "id": "tr14",
   "hue": 61
  },
@@ -405,96 +390,24 @@
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
-  "rank": 2,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
+  "rank": 3,
+  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
   "t": {
    "pt": {
-    "name": "#october3rd",
-    "note": "Hashtag em alta no TikTok (global) — #2 na semana."
+    "name": "#nationalboyfriendsday",
+    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
    },
    "en": {
-    "name": "#october3rd",
-    "note": "Trending TikTok hashtag (global) — #2 this week."
+    "name": "#nationalboyfriendsday",
+    "note": "Trending TikTok hashtag (global) — #3 this week."
    },
    "es": {
-    "name": "#october3rd",
-    "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
+    "name": "#nationalboyfriendsday",
+    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
   "id": "tr15",
   "hue": 98
- },
- {
-  "collectedAt": "2026-10-10T21:37:02.425Z",
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=BR&period=7",
-  "t": {
-   "pt": {
-    "name": "#firstofthemonth",
-    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
-   },
-   "en": {
-    "name": "#firstofthemonth",
-    "note": "Trending TikTok hashtag (global) — #3 this week."
-   },
-   "es": {
-    "name": "#firstofthemonth",
-    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
-   }
-  },
-  "id": "tr16",
-  "hue": 135
- },
- {
-  "collectedAt": "2026-10-10T21:37:02.425Z",
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "rank": 2,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
-  "t": {
-   "pt": {
-    "name": "#complexcon",
-    "note": "Hashtag em alta no TikTok (global) — #2 na semana."
-   },
-   "en": {
-    "name": "#complexcon",
-    "note": "Trending TikTok hashtag (global) — #2 this week."
-   },
-   "es": {
-    "name": "#complexcon",
-    "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
-   }
-  },
-  "id": "tr17",
-  "hue": 172
- },
- {
-  "collectedAt": "2026-10-10T21:37:02.425Z",
-  "kind": "topic",
-  "platform": "tiktok",
-  "region": "GLOBAL",
-  "rank": 3,
-  "sourceUrl": "https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/en?countryCode=AR&period=7",
-  "t": {
-   "pt": {
-    "name": "#nationalboyfriendsday",
-    "note": "Hashtag em alta no TikTok (global) — #3 na semana."
-   },
-   "en": {
-    "name": "#nationalboyfriendsday",
-    "note": "Trending TikTok hashtag (global) — #3 this week."
-   },
-   "es": {
-    "name": "#nationalboyfriendsday",
-    "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
-   }
-  },
-  "id": "tr18",
-  "hue": 209
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -521,8 +434,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Inter Miami CF."
    }
   },
-  "id": "tr19",
-  "hue": 246
+  "id": "tr16",
+  "hue": 135
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -549,8 +462,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía 玩具人 TOY PEOPLE."
    }
   },
-  "id": "tr20",
-  "hue": 283
+  "id": "tr17",
+  "hue": 172
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -577,8 +490,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía RTP."
    }
   },
-  "id": "tr21",
-  "hue": 320
+  "id": "tr18",
+  "hue": 209
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -605,8 +518,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
    }
   },
-  "id": "tr22",
-  "hue": 357
+  "id": "tr19",
+  "hue": 246
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -633,8 +546,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Folha de S.Paulo."
    }
   },
-  "id": "tr23",
-  "hue": 34
+  "id": "tr20",
+  "hue": 283
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -661,8 +574,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ge."
    }
   },
-  "id": "tr24",
-  "hue": 71
+  "id": "tr21",
+  "hue": 320
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -689,8 +602,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Yahoo Sports."
    }
   },
-  "id": "tr25",
-  "hue": 108
+  "id": "tr22",
+  "hue": 357
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -717,8 +630,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía calciowebpuglia."
    }
   },
-  "id": "tr26",
-  "hue": 145
+  "id": "tr23",
+  "hue": 34
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -745,8 +658,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Eleven Warriors."
    }
   },
-  "id": "tr27",
-  "hue": 182
+  "id": "tr24",
+  "hue": 71
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -773,8 +686,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ESPN."
    }
   },
-  "id": "tr28",
-  "hue": 219
+  "id": "tr25",
+  "hue": 108
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -801,8 +714,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Sportsnet.ca."
    }
   },
-  "id": "tr29",
-  "hue": 256
+  "id": "tr26",
+  "hue": 145
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -829,8 +742,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Cal Poly Athletics."
    }
   },
-  "id": "tr30",
-  "hue": 293
+  "id": "tr27",
+  "hue": 182
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -857,8 +770,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía WKYT."
    }
   },
-  "id": "tr31",
-  "hue": 330
+  "id": "tr28",
+  "hue": 219
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -885,8 +798,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía MontanaSports.com."
    }
   },
-  "id": "tr32",
-  "hue": 7
+  "id": "tr29",
+  "hue": 256
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -913,8 +826,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Yahoo."
    }
   },
-  "id": "tr33",
-  "hue": 44
+  "id": "tr30",
+  "hue": 293
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -941,8 +854,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía NHL.com."
    }
   },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr31",
+  "hue": 330
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -969,8 +882,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Clarin.com."
    }
   },
-  "id": "tr35",
-  "hue": 118
+  "id": "tr32",
+  "hue": 7
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -997,8 +910,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía TyC Sports."
    }
   },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr33",
+  "hue": 44
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1025,8 +938,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía TyC Sports."
    }
   },
-  "id": "tr37",
-  "hue": 192
+  "id": "tr34",
+  "hue": 81
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1053,8 +966,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía BBC."
    }
   },
-  "id": "tr38",
-  "hue": 229
+  "id": "tr35",
+  "hue": 118
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1081,8 +994,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Foot Mercato."
    }
   },
-  "id": "tr39",
-  "hue": 266
+  "id": "tr36",
+  "hue": 155
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1109,8 +1022,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TyC Sports."
    }
   },
-  "id": "tr40",
-  "hue": 303
+  "id": "tr37",
+  "hue": 192
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1137,8 +1050,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Hora Cero Web."
    }
   },
-  "id": "tr41",
-  "hue": 340
+  "id": "tr38",
+  "hue": 229
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1165,8 +1078,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Robb Report."
    }
   },
-  "id": "tr42",
-  "hue": 17
+  "id": "tr39",
+  "hue": 266
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1193,8 +1106,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Sports Mole."
    }
   },
-  "id": "tr43",
-  "hue": 54
+  "id": "tr40",
+  "hue": 303
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1221,8 +1134,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Univision."
    }
   },
-  "id": "tr44",
-  "hue": 91
+  "id": "tr41",
+  "hue": 340
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1249,8 +1162,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía ESPN México."
    }
   },
-  "id": "tr45",
-  "hue": 128
+  "id": "tr42",
+  "hue": 17
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1277,8 +1190,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía El Imparcial."
    }
   },
-  "id": "tr46",
-  "hue": 165
+  "id": "tr43",
+  "hue": 54
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1305,8 +1218,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía El Comentario."
    }
   },
-  "id": "tr47",
-  "hue": 202
+  "id": "tr44",
+  "hue": 91
  },
  {
   "collectedAt": "2026-10-10T21:37:02.425Z",
@@ -1333,7 +1246,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía AS México."
    }
   },
-  "id": "tr48",
-  "hue": 239
+  "id": "tr45",
+  "hue": 128
  }
 ]
