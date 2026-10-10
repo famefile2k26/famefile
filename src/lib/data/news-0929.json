@@ -5,7 +5,8 @@
   "publishedAt": "2026-09-28T15:00:00Z",
   "breaking": false,
   "personIds": [
-   "anitta"
+   "anitta",
+   "viola-davis"
   ],
   "confidence": "confirmed",
   "risk": "green",
@@ -1068,7 +1069,8 @@
   "publishedAt": "2026-09-28T10:00:00Z",
   "breaking": false,
   "personIds": [
-   "rosalia"
+   "rosalia",
+   "bono"
   ],
   "confidence": "confirmed",
   "risk": "green",
