@@ -2,291 +2,378 @@
  {
   "id": "tr1",
   "kind": "topic",
-  "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.dexerto.com/tiktok/tiktoker-brenna-peltiers-brother-braedon-star-of-viral-holiday-countdowns-dies-at-31-3417774/",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "platform": "x",
+  "region": "BR",
+  "sourceUrl": "https://otempo.com.br/entretenimento/televisao/2026/10/10/tv-globinho-volta-ao-ar-em-edicao-especial-e-provoca-onda-de-nostalgia-nas-redes-sociais",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 300,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Morre Braedon, irmão de Brenna Peltier",
-    "note": "Estrela das contagens regressivas de feriados que viralizavam no TikTok da irmã, ele morreu aos 31 anos, e a notícia comoveu os seguidores."
+    "name": "#TVGlobinho lidera o X",
+    "note": "Após 11 anos fora do ar, a TV Globinho voltou com Dragon Ball Z e Digimon na abertura do Criança Esperança e a hashtag foi o assunto mais comentado do X durante toda a exibição."
    },
    "en": {
-    "name": "Brenna Peltier's brother Braedon dies",
-    "note": "The star of his sister's viral holiday-countdown TikToks died at 31, and the news moved fans across the app."
+    "name": "#TVGlobinho tops X in Brazil",
+    "note": "Off the air for 11 years, TV Globinho returned with Dragon Ball Z and Digimon to open Criança Esperança, and its hashtag was X's most-discussed topic for the whole broadcast."
    },
    "es": {
-    "name": "Muere Braedon, hermano de Brenna Peltier",
-    "note": "La estrella de las virales cuentas regresivas festivas en el TikTok de su hermana murió a los 31 años y la noticia conmovió a sus seguidores."
+    "name": "#TVGlobinho lidera X en Brasil",
+    "note": "Tras 11 años fuera del aire, TV Globinho volvió con Dragon Ball Z y Digimon para abrir Criança Esperança, y su hashtag fue lo más comentado de X durante toda la emisión."
    }
   },
   "rank": 1,
   "image": {
-   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/10/brenna-and-braedon-peltier.jpg",
-   "credit": "Foto: Reprodução/Dexerto"
+   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/televis%C3%A3o/2026/10/10/televis%C3%A3o-tv_globinho-edicao_especial-nostalgia-1791644465.jpeg",
+   "credit": "Foto: Reprodução/TV Globo via O Tempo"
   }
  },
  {
   "id": "tr2",
-  "kind": "video",
-  "platform": "instagram",
-  "region": "MX",
-  "sourceUrl": "https://www.infobae.com/mexico/deportes/2026/10/10/fans-explotan-contra-montse-saldivar-por-dejar-de-firmar-autografos-ni-messi-es-tan-mamon/",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "kind": "topic",
+  "platform": "tiktok",
+  "region": "US",
+  "sourceUrl": "https://www.tmz.com/2026/10/10/barbie-fans-upset-over-alleged-nazi-salute-packaging/",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 337,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Montse Saldívar larga autógrafos e vira alvo",
-    "note": "Atingida no rosto por uma camisa jogada da arquibancada, a jogadora da seleção mexicana interrompeu os autógrafos, e o vídeo dividiu a web."
+    "name": "Barbie ginasta e a 'saudação' na caixa",
+    "note": "Um TikTok mostrando a plateia desenhada na caixa de uma Barbie ginasta com braços erguidos gerou acusações de saudação nazista e pedidos de boicote; outros veem só torcida, e a Mattel não comentou."
    },
    "en": {
-    "name": "Montse Saldívar quits signing, fans erupt",
-    "note": "Hit in the face by a shirt thrown from the stands, the Mexico player walked off mid-autographs and the clip split social media."
+    "name": "Gymnast Barbie box 'salute' uproar",
+    "note": "A TikTok about the illustrated crowd with raised arms on a gymnast Barbie box sparked Nazi-salute accusations and boycott calls; others see plain cheering, and Mattel hasn't commented."
    },
    "es": {
-    "name": "Montse Saldívar deja de firmar y estalla la red",
-    "note": "Tras recibir un jersey en la cara lanzado desde la tribuna, la seleccionada mexicana dejó de firmar autógrafos y el video dividió a las redes."
+    "name": "Barbie gimnasta y el 'saludo' en la caja",
+    "note": "Un TikTok sobre el público dibujado con brazos en alto en la caja de una Barbie gimnasta desató acusaciones de saludo nazi y pedidos de boicot; otros ven solo porras, y Mattel no comentó."
    }
   },
   "rank": 2,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/VWA6AIS6ORDH5BTT53VP3PQH7M.jpg?auth=52b4a21a3406fd5c259ef63916ac31a4bbc8317edd17be767c12c2e4c01d8142&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Instagram/@memoriasdelnido"
+   "url": "https://imagez.tmz.com/image/14/16by9/2026/10/10/145f321c8b334793a51f3ff1c44892dc_xl.png",
+   "credit": "Foto: Reprodução/TikTok via TMZ"
   }
  },
  {
   "id": "tr3",
-  "kind": "topic",
+  "kind": "video",
   "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://caras.com.br/atualidades/virginia-e-vini-jr-terminaram-entenda-os-boatos-de-separacao-4-meses-apos-a-reconciliacao.phtml",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.hypefresh.com/chinese-streamer-fanqie-jiang-ye-goes-viral-charging-viewers-7-50-to-spin-her-chair/",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 14,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Boato de fim de Virginia e Vini Jr.",
-    "note": "Rumor de nova separação, com briga em Madri e anel sumido, toma as redes; assessoria diz 'não sabemos de nada'."
+    "name": "A streamer da cadeira giratória",
+    "note": "A chinesa Fanqie Jiang Ye cobra 50 yuans (US$ 7,50) por giro da cadeira em que fica presa na live; os clipes explodiram no X, com um post passando de 1,9 milhão de views."
    },
    "en": {
-    "name": "Virginia and Vini Jr. split rumor",
-    "note": "A rumor of a new breakup, with a fight in Madrid and a missing ring, sweeps social media; her team says it 'knows nothing'."
+    "name": "The spinning-chair streamer",
+    "note": "Chinese streamer Fanqie Jiang Ye charges 50 yuan ($7.50) per spin of the chair she's strapped into on stream; the clips blew up on X, with one post topping 1.9 million views."
    },
    "es": {
-    "name": "Rumor de ruptura de Virginia y Vini Jr.",
-    "note": "El rumor de una nueva ruptura, con pelea en Madrid y anillo desaparecido, invade las redes; su equipo dice 'no sabemos nada'."
+    "name": "La streamer de la silla giratoria",
+    "note": "La china Fanqie Jiang Ye cobra 50 yuanes (US$ 7,50) por cada giro de la silla a la que se ata en vivo; los clips explotaron en X, con un post de más de 1,9 millones de vistas."
    }
   },
   "rank": 3,
   "image": {
-   "url": "https://caras.com.br/wp-content/uploads/2026/10/virginia-vini-jr-2.jpg",
-   "credit": "Foto: Reprodução/Instagram via CARAS Brasil"
+   "url": "https://www.techspot.com/images2/news/ts3_thumbs/2026/10/2026-10-10-ts3_thumbs-04c.jpg",
+   "credit": "Imagem: Reprodução/TechSpot"
   }
  },
  {
   "id": "tr4",
   "kind": "topic",
-  "platform": "x",
-  "region": "BR",
-  "sourceUrl": "https://www.terra.com.br/diversao/gente/luisa-sonza-esta-proibida-de-falar-sobre-eleicoes-apos-decisao-do-tse-entenda-a-polemica,ca8a74300a3c7d3c16a97e5a9b5dacfd3vxqq7co.html",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "platform": "instagram",
+  "region": "MX",
+  "sourceUrl": "https://www.razon.com.mx/entretenimiento/2026/10/10/edgar-protagonista-del-video-ya-guey-ahora-es-viral-por-su-boda/",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 51,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'Luísa Sonza censurada pelo TSE'?",
-    "note": "Post viral dizia que a cantora foi censurada; na verdade, a ação que pedia multa por show foi arquivada sem julgar o mérito."
+    "name": "'¡Ya, güey!': Edgar se casa",
+    "note": "Duas décadas depois de cair no rio no vídeo que virou o 1º grande viral do México, Edgar, 32, se casou com a arquiteta Valeria Bermea em Cuatro Ciénegas, e a boda dominou as redes."
    },
    "en": {
-    "name": "'Luísa Sonza censored by court'?",
-    "note": "A viral post claimed the singer was censored; in fact, the suit seeking a fine per show was dismissed without a ruling on the merits."
+    "name": "'¡Ya, güey!': Edgar gets married",
+    "note": "Two decades after falling into a river in the clip seen as Mexico's first big viral video, Edgar, 32, married architect Valeria Bermea in Cuatro Ciénegas, and the wedding took over social media."
    },
    "es": {
-    "name": "¿'Luísa Sonza censurada por el TSE'?",
-    "note": "Un post viral decía que la cantante fue censurada; en realidad, la demanda que pedía multa por show fue archivada sin juzgar el fondo."
+    "name": "'¡Ya, güey!': Edgar se casó",
+    "note": "Dos décadas después de caer al río en el video considerado el primer gran viral de México, Edgar, de 32 años, se casó con la arquitecta Valeria Bermea en Cuatro Ciénegas y la boda arrasó en redes."
    }
   },
   "rank": 4,
   "image": {
-   "url": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2026/10/10/334621226-whatsapp-image-2026-10-09-at-182648.jpg",
-   "credit": "Foto: Terra/Reprodução"
+   "url": "https://www.razon.com.mx/resizer/v2/D2KRVKIU4JE2DHYKJCOJLUEOG4.png?auth=89f135235a8e3ffb4e34297f5f155e16e40d3377aa4d5ac29cd72574f3a88fe2&focal=830%2C326&width=1200&height=630&quality=85",
+   "credit": "Foto: Instagram/@valeria_bermea via La Razón"
   }
  },
  {
   "id": "tr5",
   "kind": "topic",
-  "platform": "twitch",
+  "platform": "instagram",
   "region": "GLOBAL",
-  "sourceUrl": "https://www.dexerto.com/twitch/ohnepixel-breaks-down-in-tears-after-viewers-accuse-him-of-clip-farming-3417646/",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "sourceUrl": "https://eldiariony.com/2026/10/11/anuel-aa-le-ruega-a-karol-g-desbloqueame-bebe/",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 88,
   "curated": true,
   "t": {
    "pt": {
-    "name": "ohnePixel chora ao vivo após críticas",
-    "note": "O streamer de CS2 se emocionou na live ao ler acusações de que faz 'clip farming' para o TikTok, e o subreddit dele foi inundado de apoio."
+    "name": "Anuel: 'Karol G, me desbloqueia'",
+    "note": "Ao anunciar o trap 'Vuelve', do futuro 'Real Hasta la Muerte 2', Anuel AA escreveu no Instagram 'Karol G, desbloquéame, bebé', e os fãs reagiram em massa."
    },
    "en": {
-    "name": "ohnePixel breaks down in tears on stream",
-    "note": "The CS2 streamer got emotional live after reading claims he farms clips for TikTok, and his subreddit flooded with support."
+    "name": "Anuel: 'Karol G, unblock me'",
+    "note": "Announcing the slow trap 'Vuelve', from the upcoming 'Real Hasta la Muerte 2', Anuel AA captioned his Instagram 'Karol G, desbloquéame, bebé', and fans flooded in."
    },
    "es": {
-    "name": "ohnePixel llora en vivo tras las críticas",
-    "note": "El streamer de CS2 se quebró en directo al leer acusaciones de que busca clips para TikTok, y su subreddit se llenó de apoyo."
+    "name": "Anuel: 'Karol G, desbloquéame'",
+    "note": "Al anunciar el trap 'Vuelve', del próximo 'Real Hasta la Muerte 2', Anuel AA escribió en Instagram 'Karol G, desbloquéame, bebé', y los fans reaccionaron en masa."
    }
   },
   "rank": 5,
   "image": {
-   "url": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/10/Ohnepixel-reaction.jpg",
-   "credit": "Foto: Twitch/ohnepixel"
+   "url": "https://eldiariony.com/wp-content/uploads/sites/2/2026/10/anuel-AA.jpg?w=1200",
+   "credit": "Foto: Reprodução/El Diario NY"
   }
  },
  {
   "id": "tr6",
-  "kind": "video",
+  "kind": "format",
   "platform": "tiktok",
-  "region": "US",
-  "sourceUrl": "https://www.tag24.com/en/topic/viral-video-of-the-day/viral-video-of-the-day-for-october-10-2026-little-boy-cant-stop-laughing-as-uncle-steve-pushes-him-in-a-cart-3536288",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "region": "MX",
+  "sourceUrl": "https://www.infobae.com/mexico/2026/10/09/te-perdi-entre-la-multitud-el-trend-de-tiktok-que-conquista-las-redes-asi-puedes-hacerlo-paso-a-paso/",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 125,
   "curated": true,
   "t": {
    "pt": {
-    "name": "'De novo, tio Steve!': a gargalhada do carrinho",
-    "note": "Menino não para de rir enquanto o tio o empurra num carrinho e pede bis sem parar; o vídeo virou o viral do dia nos EUA."
+    "name": "Trend 'Te perdí entre la multitud'",
+    "note": "Ao som de 'La tormenta de arena', do Dorian, criadores encenam uma busca na multidão de festa ou show com luz de cinema e uma reviravolta revela outra pessoa; já entraram Gala Montes e Adrián Marcelo."
    },
    "en": {
-    "name": "'Do it again, Uncle Steve!' cart giggles",
-    "note": "A little boy can't stop laughing as his uncle pushes him in a cart, begging for more, in the day's feel-good viral clip."
+    "name": "'Te perdí entre la multitud' trend",
+    "note": "Set to Dorian's 'La tormenta de arena', creators stage a cinematic search through a party or concert crowd that ends with a twist reveal; Gala Montes and Adrián Marcelo have been worked in."
    },
    "es": {
-    "name": "'¡Otra vez, tío Steve!': risas en el carrito",
-    "note": "Un niño no para de reír mientras su tío lo empuja en un carrito y pide repetir una y otra vez; es el video feliz del día."
+    "name": "Trend 'Te perdí entre la multitud'",
+    "note": "Con 'La tormenta de arena' de Dorian, los creadores recrean una búsqueda cinematográfica entre la multitud de una fiesta o concierto con giro final; ya aparecen Gala Montes y Adrián Marcelo."
    }
   },
   "rank": 6,
   "image": {
-   "url": "https://media.tag24.com/1200x800/k/g/kgb9z72s4xd1moi0dodxdx0230c6my59.jpg",
-   "credit": "Foto: Reprodução/TikTok/@realunclesteve"
+   "url": "https://www.infobae.com/resizer/v2/GGYQZEWRY5BW3AHFFCZXH4RKE4.jpg?auth=afb4032a990a5db381f77f1e53b567ab0706d7dff40b660c2d158bcfd25a06e3&smart=true&width=1200&height=630&quality=85",
+   "credit": "Foto: Reprodução/Infobae"
   }
  },
  {
   "id": "tr7",
-  "kind": "video",
+  "kind": "topic",
   "platform": "instagram",
   "region": "BR",
-  "sourceUrl": "https://www.uai.com.br/app/entretenimento/famosos/2026/10/09/not-famosos,392477/mc-daniel-apoia-romance-de-lia-mendonca-com-mc-poze-apos-fim-de-affair.shtml",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "sourceUrl": "https://www.metropoles.com/entretenimento/criancas-de-uganda-se-desculpam-por-video-com-referencia-a-flavio-bolsonaro",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 162,
   "curated": true,
   "t": {
    "pt": {
-    "name": "MC Daniel: 'Ninguém é talarico'",
-    "note": "Cantor confirma fim com Lia Mendonça, nega traição e 'shippa' a ex com MC Poze em vídeo que circula nas redes."
+    "name": "Hypers Kids pedem 'desculpas ao Brasil'",
+    "note": "O grupo de dança ugandense, com mais de 12 milhões de seguidores, apagou vídeos que divulgavam uma plataforma de tokens ligada a mensagens de campanha, disse não ter recebido e não fazer política."
    },
    "en": {
-    "name": "MC Daniel: 'Nobody's a cheater'",
-    "note": "The singer confirms his split from Lia Mendonça, denies cheating and 'ships' his ex with MC Poze in a clip spreading online."
+    "name": "Hypers Kids say 'sorry to Brazil'",
+    "note": "The Ugandan dance group, with 12M+ followers, deleted videos promoting a token platform tied to Brazilian campaign messages, saying it wasn't paid and isn't involved in politics."
    },
    "es": {
-    "name": "MC Daniel: 'Nadie es infiel'",
-    "note": "El cantante confirma el fin con Lia Mendonça, niega infidelidad y 'shipea' a su ex con MC Poze en un video que circula en redes."
+    "name": "Hypers Kids piden 'perdón a Brasil'",
+    "note": "El grupo de baile ugandés, con más de 12 millones de seguidores, borró videos que promocionaban una plataforma de tokens ligada a mensajes de campaña en Brasil; dijo que no cobró y que no hace política."
    }
   },
   "rank": 7,
   "image": {
-   "url": "https://www.bnews.com.br/media/_versions/2026/10/mc-daniel_widelg.jpg",
-   "credit": "Foto: BNews/Reprodução"
+   "url": "https://i.metroimg.com/YzFqxLqYoe1pHyA_IrqvHXyZYmmWrA5AGq3IjdivoDI/rs:fill:1200:800:1/g:no/q:85/f:webp/plain/https://images.metroimg.com/2026/10/b22.jpg",
+   "credit": "Foto: Reprodução/Instagram via Metrópoles"
   }
  },
  {
   "id": "tr8",
   "kind": "video",
-  "platform": "instagram",
-  "region": "AR",
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/10/lali-esposito-mostro-como-palpita-su-cumpleanos-en-rio-de-janeiro-en-un-ratito-35/",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "platform": "x",
+  "region": "US",
+  "sourceUrl": "https://www.wrestlezone.com/news/1666114-ric-flair-bad-bunny-success-viral-video",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 199,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Lali ganha 'parabéns' de dançarinos virais",
-    "note": "Nos 35 anos, passados no Rio, a cantora recebe vídeo de dançarinos africanos que viralizam nas redes."
+    "name": "Ric Flair: 'Eu fiz o Bad Bunny'",
+    "note": "Num vídeo respondendo a um convite de casamento, que circulou no X, o astro da WWE pediu dois ingressos e soltou 'FYI, I made Bad Bunny', lembrando o clipe de 'Chambea' (2017)."
    },
    "en": {
-    "name": "Lali gets birthday wishes from viral dancers",
-    "note": "For her 35th birthday, spent in Rio, the singer gets a video from African dancers who go viral online."
+    "name": "Ric Flair: 'I made Bad Bunny'",
+    "note": "In a clip answering a wedding invite that spread on X, the WWE legend asked for two tickets and added 'FYI, I made Bad Bunny', nodding to the 2017 'Chambea' video."
    },
    "es": {
-    "name": "Lali recibe saludo de bailarines virales",
-    "note": "En sus 35 años, que pasó en Río, la cantante recibe un video de bailarines africanos que se viralizan en redes."
+    "name": "Ric Flair: 'Yo hice a Bad Bunny'",
+    "note": "En un video respondiendo a una invitación de boda que circuló en X, la leyenda de la WWE pidió dos entradas y soltó 'FYI, I made Bad Bunny', en alusión al clip de 'Chambea' (2017)."
    }
   },
   "rank": 8,
   "image": {
-   "url": "https://www.infobae.com/resizer/v2/EACFXBGQTVFRPOCZYNQUN6YIVI.png?auth=a7d69ef0c8679fc4ab28459ad2bf3159d8533a6cba2470576cfa5bccb61b7b18&smart=true&width=1200&height=630&quality=85",
-   "credit": "Foto: Infobae/Instagram"
+   "url": "https://www.wrestlezone.com/wp-content/uploads/sites/8/2023/12/ric-flair-aew.jpg?resize=1200,630",
+   "credit": "Foto: Reprodução/WrestleZone"
   }
  },
  {
   "id": "tr9",
-  "kind": "topic",
+  "kind": "video",
   "platform": "instagram",
   "region": "BR",
-  "sourceUrl": "https://otempo.com.br/opiniao/felipe-reis/2026/10/10/mel-maia-deixa-fas-babando-ao-exibir-rotina-na-piscina-e-treino-na-academia",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "sourceUrl": "https://portalgilbertosilva.com.br/10/10/2026/mulher-comemora-divorcio-com-espumante-e-musica-na-saida-de-cartorio-no-to/",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 236,
   "curated": true,
   "t": {
    "pt": {
-    "name": "Mel Maia agita fãs com treino e piscina",
-    "note": "A atriz postou treino de musculação ('treinar pra não endoidar') e dia de piscina com amigas, e os posts movimentaram os fãs no Instagram."
+    "name": "Divórcio com espumante no cartório",
+    "note": "Em Araguaína (TO), a enfermeira Anielle Santana, 38, celebrou o fim de 11 anos de casamento com espumante, música e amigas na porta do cartório; o vídeo chegou a quase 100 mil views."
    },
    "en": {
-    "name": "Mel Maia's gym-and-pool posts stir fans",
-    "note": "The Brazilian actress shared a weight-training session and a pool day with friends, and the posts lit up her Instagram fanbase."
+    "name": "Divorce toast outside the registry",
+    "note": "In Araguaína, Brazil, nurse Anielle Santana, 38, marked the end of an 11-year marriage with sparkling wine, music and friends outside the registry office; the clip neared 100K views."
    },
    "es": {
-    "name": "Mel Maia alborota a fans con gym y piscina",
-    "note": "La actriz brasileña compartió su rutina de pesas y un día de piscina con amigas, y sus posts revolucionaron a sus fans en Instagram."
+    "name": "Divorcio con espumante en la notaría",
+    "note": "En Araguaína (Brasil), la enfermera Anielle Santana, de 38 años, celebró el fin de 11 años de matrimonio con espumante, música y amigas frente a la notaría; el video rozó las 100 mil vistas."
    }
   },
   "rank": 9,
   "image": {
-   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/opiniao/felipe-reis/2026/10/mel-maia-deixa-fas-babando-ao-exibir-rotina-na-piscina-e-treino-na-academia.webp",
-   "credit": "Foto: Reprodução/Instagram"
+   "url": "https://portalgilbertosilva.com.br/wp-content/uploads/2026/10/162810-mulher-comemora-divorcio-com-espumante-e-musica-na-saida-de-cartorio-no-to.jpg",
+   "credit": "Foto: Divulgação/Instagram Anielle Santana"
   }
  },
  {
   "id": "tr10",
-  "kind": "video",
-  "platform": "youtube",
-  "region": "GLOBAL",
-  "sourceUrl": "https://zamin.uz/en/culture/224157-mrbeast-surrounded-by-fans-in-samarkand-video.html",
-  "collectedAt": "2026-10-10T23:10:53Z",
+  "kind": "topic",
+  "platform": "twitch",
+  "region": "US",
+  "sourceUrl": "https://rollingout.com/2026/10/09/kai-cenat-space-stream-2027-plan",
+  "collectedAt": "2026-10-11T12:16:15Z",
   "hue": 273,
   "curated": true,
   "t": {
    "pt": {
-    "name": "MrBeast cercado por fãs em Samarcanda",
-    "note": "Centenas de fãs fazem empurra-empurra em volta do YouTuber no 2º dia da viagem ao Uzbequistão."
+    "name": "Kai Cenat quer live do espaço",
+    "note": "Na Twitch, Kai Cenat disse que monta uma equipe de astronautas e pesquisadores, mirou 2027 para a missão e prometeu uma fase de conteúdo quase toda sobre o espaço."
    },
    "en": {
-    "name": "MrBeast mobbed by fans in Samarkand",
-    "note": "Hundreds of fans crowd around the YouTuber on the second day of his trip to Uzbekistan."
+    "name": "Kai Cenat eyes a stream from space",
+    "note": "On Twitch, Kai Cenat said he's assembling astronauts and researchers, set 2027 as his target and promised a stretch of content almost entirely about space."
    },
    "es": {
-    "name": "MrBeast rodeado por fans en Samarcanda",
-    "note": "Cientos de fans se amontonan alrededor del youtuber en el 2º día de su viaje a Uzbekistán."
+    "name": "Kai Cenat quiere transmitir desde el espacio",
+    "note": "En Twitch, Kai Cenat dijo que arma un equipo de astronautas e investigadores, fijó 2027 como meta y prometió una etapa de contenido casi todo sobre el espacio."
    }
   },
   "rank": 10,
   "image": {
-   "url": "https://www.spot.uz/media/img/2025/12/p03vj0tbv7ri3NVbVAp17648515281309_l.webp",
-   "credit": "Foto: Kevin Mazur/Getty Images (via Spot)"
+   "url": "https://rollingout.com/wp-content/uploads/2025/12/Shutterstock_2356419153-768x499.jpg",
+   "credit": "Foto: Shutterstock via Rolling Out"
+  }
+ },
+ {
+  "id": "tr11",
+  "kind": "video",
+  "platform": "instagram",
+  "region": "GLOBAL",
+  "sourceUrl": "https://www.24newshd.tv/10-Oct-2026/rajab-butt-s-fan-encounter-sparks-outrage",
+  "collectedAt": "2026-10-11T12:16:15Z",
+  "hue": 310,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "Rajab Butt empurra fã e se desculpa",
+    "note": "Reels mostram o YouTuber paquistanês afastando um fã que pedia selfie e mandando-o rezar; outro vídeo o mostra chamando o rapaz ao carro para pedir desculpas."
+   },
+   "en": {
+    "name": "Rajab Butt shoves fan, then apologizes",
+    "note": "Reels show the Pakistani YouTuber pushing away a fan asking for a selfie and telling him to go pray; another clip shows him calling the young man to his car to apologize."
+   },
+   "es": {
+    "name": "Rajab Butt empuja a un fan y se disculpa",
+    "note": "Unos reels muestran al YouTuber paquistaní apartando a un fan que pedía una selfie y diciéndole que fuera a rezar; otro video lo muestra llamándolo al auto para disculparse."
+   }
+  },
+  "rank": 11,
+  "image": {
+   "url": "https://www.24newshd.tv/digital_images/large/2026-10-10/rajab-butt-s-fan-encounter-sparks-outrage-1791625319-8472.jpg",
+   "credit": "Foto: Reprodução/24NewsHD"
+  }
+ },
+ {
+  "id": "tr12",
+  "kind": "topic",
+  "platform": "x",
+  "region": "BR",
+  "sourceUrl": "https://diariodamidia.com.br/a-fazenda-festa-las-vegas-coloca-ana-bruna-no-centro-da-polemica",
+  "collectedAt": "2026-10-11T12:16:15Z",
+  "hue": 347,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "A Fazenda: Ana Bruna e a festa Las Vegas",
+    "note": "Comentários de Daniel e Alfredo sobre a aparência e as roupas de Ana Bruna na festa Las Vegas de 'A Fazenda 18' tiveram repercussão imediata nas redes, com acusações de machismo."
+   },
+   "en": {
+    "name": "A Fazenda: Ana Bruna and the Vegas party",
+    "note": "Daniel and Alfredo's remarks about Ana Bruna's looks and outfit at 'A Fazenda 18''s Las Vegas party drew instant backlash online, with accusations of sexism."
+   },
+   "es": {
+    "name": "A Fazenda: Ana Bruna y la fiesta Las Vegas",
+    "note": "Los comentarios de Daniel y Alfredo sobre el aspecto y la ropa de Ana Bruna en la fiesta Las Vegas de 'A Fazenda 18' tuvieron repercusión inmediata en redes, con acusaciones de machismo."
+   }
+  },
+  "rank": 12,
+  "image": {
+   "url": "https://diariodamidia.com.br/api/og-image.php?f=a-fazenda-festa-las-vegas-coloca-ana-bruna-no-centro-da-polemica.webp&v=3",
+   "credit": "Foto: Reprodução/Record via Diário da Mídia"
+  }
+ },
+ {
+  "id": "tr13",
+  "kind": "video",
+  "platform": "instagram",
+  "region": "BR",
+  "sourceUrl": "https://www.otempo.com.br/entretenimento/novelas/quem-ama-cuida/2026/10/9/quem-ama-cuida-jose-loreto-e-agatha-moreira-se-beijam-mas-funcionario-rouba-a-cena.amp",
+  "collectedAt": "2026-10-11T12:16:15Z",
+  "hue": 24,
+  "curated": true,
+  "t": {
+   "pt": {
+    "name": "O 'segurador de porta' de Quem Ama Cuida",
+    "note": "Bastidor do beijo de José Loreto e Agatha Moreira mostra um funcionário segurando a porta do guarda-roupa do cenário, e a web brincou: 'já vi segurar vela, porta é a primeira vez'."
+   },
+   "en": {
+    "name": "The door-holder of 'Quem Ama Cuida'",
+    "note": "Behind-the-scenes of José Loreto and Agatha Moreira's kiss shows a crew member holding the set's wardrobe door shut, and fans joked he'd found a new way to be the third wheel."
+   },
+   "es": {
+    "name": "El 'sostenedor de puerta' de Quem Ama Cuida",
+    "note": "Un detrás de cámaras del beso de José Loreto y Agatha Moreira muestra a un empleado sujetando la puerta del ropero del set, y las redes bromearon con su peculiar tarea."
+   }
+  },
+  "rank": 13,
+  "image": {
+   "url": "https://www.otempo.com.br/content/dam/otempo/editorias/novelas%20-%20quem%20ama%20cuida/2026/10/9/novelas%20-%20quem%20ama%20cuida-jose_loreto-agatha_moreira-quem-ama-cuida-1791551444.png",
+   "credit": "Foto: Reprodução/Instagram @rainhamattos"
   }
  },
  {
@@ -310,8 +397,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #1 de la semana."
    }
   },
-  "id": "tr11",
-  "hue": 310
+  "id": "tr14",
+  "hue": 61
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -334,8 +421,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #2 de la semana."
    }
   },
-  "id": "tr12",
-  "hue": 347
+  "id": "tr15",
+  "hue": 98
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -358,8 +445,8 @@
     "note": "Hashtag en tendencia en TikTok (global) — #3 de la semana."
    }
   },
-  "id": "tr13",
-  "hue": 24
+  "id": "tr16",
+  "hue": 135
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -386,8 +473,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Globo."
    }
   },
-  "id": "tr14",
-  "hue": 61
+  "id": "tr17",
+  "hue": 172
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -414,8 +501,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Rádio Metrópole."
    }
   },
-  "id": "tr15",
-  "hue": 98
+  "id": "tr18",
+  "hue": 209
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -442,8 +529,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ge."
    }
   },
-  "id": "tr16",
-  "hue": 135
+  "id": "tr19",
+  "hue": 246
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -470,8 +557,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía BBC."
    }
   },
-  "id": "tr17",
-  "hue": 172
+  "id": "tr20",
+  "hue": 283
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -498,8 +585,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía FOX Weather."
    }
   },
-  "id": "tr18",
-  "hue": 209
+  "id": "tr21",
+  "hue": 320
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -526,8 +613,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía UFC.com."
    }
   },
-  "id": "tr19",
-  "hue": 246
+  "id": "tr22",
+  "hue": 357
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -554,8 +641,8 @@
     "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Disney Plus."
    }
   },
-  "id": "tr20",
-  "hue": 283
+  "id": "tr23",
+  "hue": 34
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -582,8 +669,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Netflix."
    }
   },
-  "id": "tr21",
-  "hue": 320
+  "id": "tr24",
+  "hue": 71
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -610,8 +697,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía WSJ."
    }
   },
-  "id": "tr22",
-  "hue": 357
+  "id": "tr25",
+  "hue": 108
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -638,8 +725,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía The Times of India."
    }
   },
-  "id": "tr23",
-  "hue": 34
+  "id": "tr26",
+  "hue": 145
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -666,8 +753,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía The New York Times."
    }
   },
-  "id": "tr24",
-  "hue": 71
+  "id": "tr27",
+  "hue": 182
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -694,8 +781,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Dolphins Wire."
    }
   },
-  "id": "tr25",
-  "hue": 108
+  "id": "tr28",
+  "hue": 219
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -722,8 +809,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía The Free Press."
    }
   },
-  "id": "tr26",
-  "hue": 145
+  "id": "tr29",
+  "hue": 256
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -750,8 +837,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía People.com."
    }
   },
-  "id": "tr27",
-  "hue": 182
+  "id": "tr30",
+  "hue": 293
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -778,8 +865,8 @@
     "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía ATP Tour."
    }
   },
-  "id": "tr28",
-  "hue": 219
+  "id": "tr31",
+  "hue": 330
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -806,8 +893,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Radio Mitre."
    }
   },
-  "id": "tr29",
-  "hue": 256
+  "id": "tr32",
+  "hue": 7
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -834,8 +921,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Página|12."
    }
   },
-  "id": "tr30",
-  "hue": 293
+  "id": "tr33",
+  "hue": 44
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -862,8 +949,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía FOX Weather."
    }
   },
-  "id": "tr31",
-  "hue": 330
+  "id": "tr34",
+  "hue": 81
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -890,8 +977,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Diario Uno Santa Fe."
    }
   },
-  "id": "tr32",
-  "hue": 7
+  "id": "tr35",
+  "hue": 118
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -918,8 +1005,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía ESPN Argentina."
    }
   },
-  "id": "tr33",
-  "hue": 44
+  "id": "tr36",
+  "hue": 155
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -946,8 +1033,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía ESPN Argentina."
    }
   },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr37",
+  "hue": 192
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -974,8 +1061,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
    }
   },
-  "id": "tr35",
-  "hue": 118
+  "id": "tr38",
+  "hue": 229
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1002,8 +1089,8 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía AFA."
    }
   },
-  "id": "tr36",
-  "hue": 155
+  "id": "tr39",
+  "hue": 266
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1030,8 +1117,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía www.fantasyfootballscout.co.uk."
    }
   },
-  "id": "tr37",
-  "hue": 192
+  "id": "tr40",
+  "hue": 303
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1058,8 +1145,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía IMDb."
    }
   },
-  "id": "tr38",
-  "hue": 229
+  "id": "tr41",
+  "hue": 340
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1086,8 +1173,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía MILENIO."
    }
   },
-  "id": "tr39",
-  "hue": 266
+  "id": "tr42",
+  "hue": 17
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1114,8 +1201,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía FC東京オフィシャルホームページ."
    }
   },
-  "id": "tr40",
-  "hue": 303
+  "id": "tr43",
+  "hue": 54
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1142,8 +1229,8 @@
     "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Récord."
    }
   },
-  "id": "tr41",
-  "hue": 340
+  "id": "tr44",
+  "hue": 91
  },
  {
   "collectedAt": "2026-10-11T09:38:38.660Z",
@@ -1170,7 +1257,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Nación Fútbol."
    }
   },
-  "id": "tr42",
-  "hue": 17
+  "id": "tr45",
+  "hue": 128
  }
 ]
