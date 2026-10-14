@@ -1,5 +1,5 @@
 {
- "collectedAt": "2026-10-14T19:03:34.079Z",
+ "collectedAt": "2026-10-14T21:53:58.769Z",
  "sources": {
   "tiktok-hashtag-BR": 3,
   "tiktok-music-BR": {
@@ -10,9 +10,9 @@
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
    ],
    "codes": [
+    40100,
     40000,
-    40000,
-    40100
+    40000
    ],
    "title": "TikTok One Creative Suite"
   },
@@ -24,7 +24,7 @@
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
    ],
    "codes": [
-    40000,
+    40100,
     40000,
     40000
    ],
@@ -54,8 +54,8 @@
    ],
    "codes": [
     40000,
-    40000,
-    40100
+    40100,
+    40000
    ],
    "title": "TikTok One Creative Suite"
   },
@@ -68,7 +68,7 @@
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
    ],
    "codes": [
-    40000,
+    40100,
     40000,
     40000
    ],
@@ -82,7 +82,7 @@
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
    ],
    "codes": [
-    40100,
+    40000,
     40000,
     40000
    ],
@@ -97,9 +97,9 @@
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
    ],
    "codes": [
+    40100,
     40000,
-    40000,
-    40000
+    40100
    ],
    "title": "TikTok One Creative Suite"
   },
@@ -117,11 +117,11 @@
    ],
    "title": "TikTok One Creative Suite"
   },
-  "google-BR": 4,
+  "google-BR": 8,
   "google-US": 6,
-  "google-AR": 7,
+  "google-AR": 6,
   "google-MX": 8
  },
  "curated": 0,
- "total": 28
+ "total": 31
 }
