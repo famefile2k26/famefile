@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,599 +72,683 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://ge.globo.com/sp/campinas-e-regiao/futebol/times/inter-de-limeira/noticia/2026/10/13/com-artilheiro-da-serie-c-na-lista-inter-de-limeira-sobe-com-nomes-conhecidos-de-grandes-clubes.ghtml",
+  "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/14/apertei-sem-querer-num-momento-de-emocao-diz-ex-namorado-que-matou-jovem-de-19-anos-com-tiro-na-cabeca-na-grande-sp.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZg0KVkm0J2P73tPgeLv7h_oaVm8BLnDIQf3fKESYlSJGjfc_pSZ6AzwlR4I",
-   "credit": "ge"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSS_LR4uRqB1GFpEfRB2kNJSfAky6dhIgXr6axSLZfIPxXm_vCjBqqOwRqK_IM",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "campeonato brasileiro de futebol - série c",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via ge."
+    "name": "tiro",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
    },
    "en": {
-    "name": "campeonato brasileiro de futebol - série c",
-    "note": "Trending Google search (Brazil) — 100+ searches · via ge."
+    "name": "tiro",
+    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
    },
    "es": {
-    "name": "campeonato brasileiro de futebol - série c",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía ge."
+    "name": "tiro",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/governador-eleito-de-mg-cleitinho-quer-cortar-cargos-renegociar-divida-com-uniao-e-descarta-privatizar-cemig.ghtml",
+  "sourceUrl": "https://autoesporte.globo.com/carros/lancamentos-de-carros/noticia/2026/10/byd-dolphin-mini-2027-chega-lojas-novidades-veja-tudo-muda.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgQ8WSvb6UBiS2tUucpwFrQ89kYZ_b-C6ozABYf_Nyv3hFIp__2DxNGZj1XQ",
-   "credit": "Valor Econômico"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbckbLyuSGT-1j2dPWI42ukb_v5NaboCjRVgW_cMZOoWNUBOHoftC7z2qX7Yw",
+   "credit": "Autoesporte"
   },
   "t": {
    "pt": {
-    "name": "minas gerais",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Valor Econômico."
+    "name": "novo byd dolphin",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Autoesporte."
    },
    "en": {
-    "name": "minas gerais",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Valor Econômico."
+    "name": "novo byd dolphin",
+    "note": "Trending Google search (Brazil) — 500+ searches · via Autoesporte."
    },
    "es": {
-    "name": "minas gerais",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Valor Econômico."
+    "name": "novo byd dolphin",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Autoesporte."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/10/13/fernanda-louback-secretaria-do-governo-do-rj.ghtml",
+  "sourceUrl": "https://www.sandiegouniontribune.com/2026/10/08/did-gov-newsom-make-the-right-call-speeding-up-san-diego-megaproject-midway-rising/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQma8gGlwYZ2TZRheZW5Zb_cy-VW6MfGRaNBszABItnN3Oe9mcmfQKqx-sjVI8",
-   "credit": "G1"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8zcvIRmdTb0DzYB1APlZ_aXs15L7I8iEF5xQInfXTodTmcElQV5X8uORultY",
+   "credit": "San Diego Union-Tribune"
   },
   "t": {
    "pt": {
-    "name": "fernanda louback",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "midway",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via San Diego Union-Tribune."
    },
    "en": {
-    "name": "fernanda louback",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "midway",
+    "note": "Trending Google search (Brazil) — 200+ searches · via San Diego Union-Tribune."
    },
    "es": {
-    "name": "fernanda louback",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "midway",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía San Diego Union-Tribune."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://g1.globo.com/sp/sao-paulo/noticia/2026/10/13/confeiteiro-amador-de-sp-vence-campeonato-mundial-de-tiramisu-na-italia.ghtml",
+  "sourceUrl": "https://ixbt.games/en/news/2026/10/14/konec-uze-blizko-zvezda-doma-drakona-rasskazala-kogda-nacnutsia-sieemki-finalnogo-sezona.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMtCPgGDXLqVXN7US-MLauafOqn0gxblETroVk_X3bqK7zIsrd3bPLyME6Zxs",
-   "credit": "G1"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTn3o7VU5z9q86XZrTPlmPQMGYn5Dyb-PJhmAhZWGfxTFRiGGFTauMHc8FTuak",
+   "credit": "iXBT.games"
   },
   "t": {
    "pt": {
-    "name": "confeiteiro",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "game of thrones",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via iXBT.games."
    },
    "en": {
-    "name": "confeiteiro",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "game of thrones",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via iXBT.games."
    },
    "es": {
-    "name": "confeiteiro",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "game of thrones",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía iXBT.games."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://www.purepeople.com.br/noticia/keanu-reeves-antes-da-fama-ator-trabalhou-em-restaurante-e-pediu-demissao-ao-perceber-que-queria-outra-vida_a425234/1",
+  "sourceUrl": "https://www.cartacapital.com.br/cartaexpressa/quaest-mostra-goleada-de-lula-sobre-flavio-bolsonaro-em-2o-turno-no-rn/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNmY4zo1sxQ_vOHGDp0TD4s5kigN6pa1om0XPp1IInh5xfzYe2uN2_RpkMc4U",
-   "credit": "Purepeople"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPp7S9kDalkWvmC5ONxmfn9dgWp8l3Y9iJ8SC3AE5eWbDCGaaLzAfjgJs7Sp4",
+   "credit": "CartaCapital"
   },
   "t": {
    "pt": {
-    "name": "keanu reeves",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Purepeople."
+    "name": "cartacapital",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via CartaCapital."
    },
    "en": {
-    "name": "keanu reeves",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Purepeople."
+    "name": "cartacapital",
+    "note": "Trending Google search (Brazil) — 200+ searches · via CartaCapital."
    },
    "es": {
-    "name": "keanu reeves",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Purepeople."
+    "name": "cartacapital",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía CartaCapital."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://valor.globo.com/legislacao/noticia/2026/10/13/primeira-parcela-do-decimo-terceiro-salario-2026-prazo-valor-e-quem-tem-direito.ghtml",
+  "sourceUrl": "https://www.imdb.com/fr/news/ni66061173/?ref_=nm_nwr_1",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRW6MrAb4rKq92xkwo7KBqmYOfFdO6smTvAwz1f3jOepJYq8nijTMpCLslVzuE",
-   "credit": "Valor Econômico"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFveXHyYsuvKAzq83naZWisSTqyrg0RcY2yCew0gkDA2JitMxbNvsaLa2mDOY",
+   "credit": "IMDb"
   },
   "t": {
    "pt": {
-    "name": "décimo terceiro salário",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Valor Econômico."
+    "name": "quentin tarantino",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via IMDb."
    },
    "en": {
-    "name": "décimo terceiro salário",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via Valor Econômico."
+    "name": "quentin tarantino",
+    "note": "Trending Google search (Brazil) — 100+ searches · via IMDb."
    },
    "es": {
-    "name": "décimo terceiro salário",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Valor Econômico."
+    "name": "quentin tarantino",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía IMDb."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://www1.folha.uol.com.br/blogs/hashtag/2026/10/memes-chamam-gostoso-da-paulista-de-picanha-que-lula-prometeu-e-descamisado-viraliza-na-gringa.shtml",
+  "sourceUrl": "https://g1.globo.com/politica/blog/valdo-cruz/post/2026/10/14/pec-do-fim-da-escala-6x1-equipe-de-lula-diz-que-conversao-de-flavio-bolsonaro-e-falsa.ghtml",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTGUDmdA9hBtaPGUjwusoe8omhCtagRo9la2sru-yTIfbujLmOcXn2G62f_4r8",
-   "credit": "Folha de S.Paulo"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWlVv6GudWnzQdjUtRIXT3A6eJ9SIREla9mDFxCJKLjc6bu_xRWvn8CIwqE6E",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "fraude",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Folha de S.Paulo."
+    "name": "votação do fim da escala 6x1",
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via G1."
    },
    "en": {
-    "name": "fraude",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Folha de S.Paulo."
+    "name": "votação do fim da escala 6x1",
+    "note": "Trending Google search (Brazil) — 10000+ searches · via G1."
    },
    "es": {
-    "name": "fraude",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Folha de S.Paulo."
+    "name": "votação do fim da escala 6x1",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía G1."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://www.torcedores.com/noticias/2026/10/fluminense-deve-perder-martinelli-para-clube-europeu-em-2027",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.denverpost.com/2026/10/13/denver-park-hill-design-firm-obama-center/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRIijk0-XOZGFV4usdemHC9WPKt5uBp7LOSjq7dnFVzR7_ntcrhv-cknyJLF_E",
-   "credit": "Torcedores"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZ8lfMPga1gXwgRpyucbCG9sDSOk9WDPydcw9wkNIAZiZ_MzitBZQ_nSr7WQ8",
+   "credit": "The Denver Post"
   },
   "t": {
    "pt": {
-    "name": "martinelli",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Torcedores."
+    "name": "obama presidential center",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via The Denver Post."
    },
    "en": {
-    "name": "martinelli",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Torcedores."
+    "name": "obama presidential center",
+    "note": "Trending Google search (US) — 200+ searches · via The Denver Post."
    },
    "es": {
-    "name": "martinelli",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Torcedores."
+    "name": "obama presidential center",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía The Denver Post."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.mlb.com/news/parker-messick-guardians-starter-game-2-2026-alcs",
+  "rank": 2,
+  "sourceUrl": "https://www.inquirer.com/phillies/payroll-nlcs-alcs-dave-dombrowski-don-mattingly-alex-cora-minor-league-system-20261014.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTk6ZvdGZQwVt6h6QcI29YHkze7jmyZjyuflDYiHJPXcHIO4olveVXR-6oMtcw",
-   "credit": "MLB.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZv-BtytikTIpLTKYNbZKsR-SXl1-96yCV12C5w1CJ0xXVFbpzii5hO6ZMmUI",
+   "credit": "Inquirer.com"
   },
   "t": {
    "pt": {
-    "name": "guardians game",
-    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via MLB.com."
+    "name": "don mattingly",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Inquirer.com."
    },
    "en": {
-    "name": "guardians game",
-    "note": "Trending Google search (US) — 10000+ searches · via MLB.com."
+    "name": "don mattingly",
+    "note": "Trending Google search (US) — 500+ searches · via Inquirer.com."
    },
    "es": {
-    "name": "guardians game",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía MLB.com."
+    "name": "don mattingly",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Inquirer.com."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.bbc.com/news/live/c52e9xd9mvk2t",
+  "rank": 3,
+  "sourceUrl": "https://www.bravotv.com/the-daily-dish/lisa-vanderpump-son-max-vanderpump-todd-updates-exclusive-october-2026",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTKs5xIwfi2BUEn372sP1TrVyvPxRm9XA55uvvMtu4fFMpnMA-JxaFI-rNacyY",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG7ipkq9dMQXc7-2cO8Xhi-FacijBgGM-x0Ts9VYq_zcWg39BjKNBwZ0DZAEs",
+   "credit": "Bravo"
   },
   "t": {
    "pt": {
-    "name": "russell brand",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via BBC."
+    "name": "lisa vanderpump",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Bravo."
    },
    "en": {
-    "name": "russell brand",
-    "note": "Trending Google search (US) — 100+ searches · via BBC."
+    "name": "lisa vanderpump",
+    "note": "Trending Google search (US) — 500+ searches · via Bravo."
    },
    "es": {
-    "name": "russell brand",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía BBC."
+    "name": "lisa vanderpump",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Bravo."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.bloomberg.com/news/articles/2026-10-13/google-will-let-anyone-publish-privately-listed-vibe-coded-apps-on-play-store",
+  "rank": 4,
+  "sourceUrl": "https://www.atptour.com/en/news/alcaraz-reaction-shanghai-2026-monday",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv0v0EuPV-T3ogRvtYxbhN8nqOi-gy7fSpjm0pIVdaJ7DJSfNkD6vD_PLezQI",
-   "credit": "Bloomberg.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX_AueepOVQapiG3LAoVW9iXa1rMWde8QxRnqUM34GuDsZ6UnU8RpFR6A0UFY",
+   "credit": "ATP Tour"
   },
   "t": {
    "pt": {
-    "name": "google play store",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Bloomberg.com."
+    "name": "zizou bergs",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via ATP Tour."
    },
    "en": {
-    "name": "google play store",
-    "note": "Trending Google search (US) — 100+ searches · via Bloomberg.com."
+    "name": "zizou bergs",
+    "note": "Trending Google search (US) — 500+ searches · via ATP Tour."
    },
    "es": {
-    "name": "google play store",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Bloomberg.com."
+    "name": "zizou bergs",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ATP Tour."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://www.univision.com/local/dallas-kuvn/uscis-aumenta-tarifas-y-cambia-los-plazos-para-algunos-tramites-migratorios-esto-debes-saber-video",
+  "rank": 5,
+  "sourceUrl": "https://www.univision.com/famosos/victoria-ruffo-responde-contundente-cuando-le-preguntan-por-derbez-me-vienen-valiendo-toneladas-video",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlsG6xDgEOlNuUdlZa7iQrc52xBdfbbu70ZiV5H2ts7aVPhnjwXW7afnmBDL0",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3LH1zeP7yPrg0wBTrJn5ikYz2bpKJ8u48z4lvMYh1-0uFgyMzMZfX1-bXJDE",
    "credit": "Univision"
   },
   "t": {
    "pt": {
-    "name": "servicio de ciudadanía e inmigración de los estados unidos",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Univision."
+    "name": "eugenio derbez",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Univision."
    },
    "en": {
-    "name": "servicio de ciudadanía e inmigración de los estados unidos",
-    "note": "Trending Google search (US) — 100+ searches · via Univision."
+    "name": "eugenio derbez",
+    "note": "Trending Google search (US) — 200+ searches · via Univision."
    },
    "es": {
-    "name": "servicio de ciudadanía e inmigración de los estados unidos",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Univision."
+    "name": "eugenio derbez",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Univision."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.usatoday.com/story/travel/cruises/2026/10/12/overboard-royal-caribbean-cruise-guest-rescued/92213979007/",
+  "rank": 6,
+  "sourceUrl": "https://marketech-apac.com/thainamthip-coca-cola-wastebuy-delivery-expand-recycling-partnership-beyond-restaurant-pilot/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmucgrjN7F7MZDswyANY7V8hGgL8mRxIZDM4z9g8EnNiH7DWEagzymUhSwK48",
-   "credit": "USA Today"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQnxL3xfSmni9EjKIL_tr1L42ccXaG-cBsk7OvBjqHnS_1Ep20RCtEJELAfcF8",
+   "credit": "marketech apac"
   },
   "t": {
    "pt": {
-    "name": "cruise passenger rescued ionian sea",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via USA Today."
+    "name": "cola",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via marketech apac."
    },
    "en": {
-    "name": "cruise passenger rescued ionian sea",
-    "note": "Trending Google search (US) — 500+ searches · via USA Today."
+    "name": "cola",
+    "note": "Trending Google search (US) — 500+ searches · via marketech apac."
    },
    "es": {
-    "name": "cruise passenger rescued ionian sea",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía USA Today."
+    "name": "cola",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía marketech apac."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://weather.com/2026/10/14/storms/hurricane/hurricane-season-maps-tracker-tropical-storm-hurricane-simon-trudy",
+  "rank": 7,
+  "sourceUrl": "https://www.news5cleveland.com/news/local-news/feds-investigate-huntington-bank-fraud-complaints-after-news-5-reports",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQRlW1qPkPsl-pU5luQ3AVLsIFJCAjPM_EPZyUoMojwjYxuXMVJTaUZ9XXTwA",
-   "credit": "The Weather Channel"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlkzdCd4HVPm3TdNet61Wh6q4dgYM7P7CS3JW3erslL0RpH9JTqK8FFMYDxPA",
+   "credit": "News 5 Cleveland WEWS"
   },
   "t": {
    "pt": {
-    "name": "weather forecast",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via The Weather Channel."
+    "name": "bank fraud",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via News 5 Cleveland WEWS."
    },
    "en": {
-    "name": "weather forecast",
-    "note": "Trending Google search (US) — 100+ searches · via The Weather Channel."
+    "name": "bank fraud",
+    "note": "Trending Google search (US) — 200+ searches · via News 5 Cleveland WEWS."
    },
    "es": {
-    "name": "weather forecast",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía The Weather Channel."
+    "name": "bank fraud",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía News 5 Cleveland WEWS."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://www.reuters.com/world/india/us-top-diplomat-marco-rubio-visit-india-uzbekistan-this-month-2026-10-13/",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.infobae.com/politica/2026/10/14/tension-entre-el-gobierno-porteno-y-los-moyano-ratifican-la-negativa-a-pagar-las-indemnizaciones-y-sancionan-por-la-marcha-de-camioneros/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdHVleN0LWaQwGK8LAS1aoUzBPFUyOeTfaP68NwWKBTnRo2ZeRIQcYoV1GITw",
-   "credit": "Reuters"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQF-VgciLneRrLI3kjmTGxBrAWSIShecr3fQSUexZwV_J4pITyIE66Tw0qN_rs",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "marco rubio",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Reuters."
+    "name": "hugo moyano",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
    },
    "en": {
-    "name": "marco rubio",
-    "note": "Trending Google search (US) — 100+ searches · via Reuters."
+    "name": "hugo moyano",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
    },
    "es": {
-    "name": "marco rubio",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Reuters."
+    "name": "hugo moyano",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.bostonherald.com/2026/10/12/what-this-week-means-for-patriots-injured-wide-receiver-a-j-brown/",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.theguardian.com/tv-and-radio/2026/oct/13/mike-tyson-review-boxing-superstar-trump-president",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTDdx6nmVKpHgDQjb8jGKfR4FWnpMEK-zmG31zQVBtUcU8oj1U1N5or7hKKkS4",
-   "credit": "Boston Herald"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR6sA9l8142qmYaGCdCduafR3oe56j2TYOT3MeorfS4dshmaeI6MR-ld1ej4ME",
+   "credit": "The Guardian"
   },
   "t": {
    "pt": {
-    "name": "aj brown",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Boston Herald."
+    "name": "robin givens",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via The Guardian."
    },
    "en": {
-    "name": "aj brown",
-    "note": "Trending Google search (US) — 100+ searches · via Boston Herald."
+    "name": "robin givens",
+    "note": "Trending Google search (Argentina) — 200+ searches · via The Guardian."
    },
    "es": {
-    "name": "aj brown",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Boston Herald."
+    "name": "robin givens",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía The Guardian."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.lanacion.com.ar/espectaculos/murio-netinho-el-cantante-detras-de-la-exitosa-cancion-la-isla-del-sol-nid13102026/",
+  "rank": 3,
+  "sourceUrl": "https://www.wtatennis.com/news/4589994/wuhan-draw-sabalenka-swiatek-eye-first-2026-meeting-in-quarterfinals",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFYMb4dOiRh0VA8UQ7j_A3aXzYvQPqboQVa3htsI8L9xQip-GB8DtMekyvrWY",
-   "credit": "La Nación"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRDirS1ox8E3pPqMkhCH4Oc2P0tVzTqnEnx7MbXN3T9gQAPlinguiufwJdYMlo",
+   "credit": "WTA Tennis"
   },
   "t": {
    "pt": {
-    "name": "la isla del sol",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via La Nación."
+    "name": "aryna sabalenka",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via WTA Tennis."
    },
    "en": {
-    "name": "la isla del sol",
-    "note": "Trending Google search (Argentina) — 100+ searches · via La Nación."
+    "name": "aryna sabalenka",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via WTA Tennis."
    },
    "es": {
-    "name": "la isla del sol",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía La Nación."
+    "name": "aryna sabalenka",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía WTA Tennis."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.liverpoolfc.com/news/ucl-training-photos-liverpool-prepare-for-lask-meeting-with-session-in-austria",
+  "rank": 4,
+  "sourceUrl": "https://www.infobae.com/deportes/2026/10/14/escandalo-en-manchester-united-por-las-explosivas-declaraciones-de-lisandro-martinez-la-respuesta-del-entrenador-y-la-feroz-critica-de-tres-leyendas/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMmq0Jv-WFPaumhXhBQ1Z4dBSGECaeRwGlRl4GtPEX7KRF5vNiUrZHPmJNMfk",
-   "credit": "Liverpool FC"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgXxrInpa4gY76CMA-gtxic4Jmechljune3duX1DfzxS48rtXg6rjk0loJhNM",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "kick",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Liverpool FC."
+    "name": "lisandro martínez",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
    },
    "en": {
-    "name": "kick",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via Liverpool FC."
+    "name": "lisandro martínez",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
    },
    "es": {
-    "name": "kick",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Liverpool FC."
+    "name": "lisandro martínez",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://insiderlatam.com/ole-celebro-sus-30-anos-en-una-nueva-edicion-de-su-summit-con-referentes-del-deporte-y-la-industria/",
+  "rank": 5,
+  "sourceUrl": "https://www.espn.com.ar/tenis/nota/_/id/17379128/en-el-masters-1000-de-shanghai-medvedev-continua-esa-racha-asiatica-que-tan-bien-le-sienta-y-saca-a-un-rival-con-historia-tsitsipas",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTc2zyUig9XCVfM-151L0lzn34R6ph-bEyA9TJaRr1_YsKOwk1AEgiH-7tkUY8",
-   "credit": "Insider Latam"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT51mf6LPqFNBfIJ-HbaFxeR9g0HcgUNHtxYM0hQP942cn0vvdeJ4mn7Dz6H_Y",
+   "credit": "ESPN Argentina"
   },
   "t": {
    "pt": {
-    "name": "diario ole",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Insider Latam."
+    "name": "daniil medvédev",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via ESPN Argentina."
    },
    "en": {
-    "name": "diario ole",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Insider Latam."
+    "name": "daniil medvédev",
+    "note": "Trending Google search (Argentina) — 200+ searches · via ESPN Argentina."
    },
    "es": {
-    "name": "diario ole",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Insider Latam."
+    "name": "daniil medvédev",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía ESPN Argentina."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.elgrafico.com.ar/articulo/conmebol-sudamericana/103331/termino-con-el-tobillo-bastante-hinchado-arruabarrena-podria-perder-otro-soldado",
+  "rank": 6,
+  "sourceUrl": "https://www.lavoz.com.ar/servicios/clima-cordoba-servicio-meteorologico-preve-tormentas-fuertes-descenso-temperatura_0_pxrm02Ciiv.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPibPfZpl3GNTMOfuZN9NVhIdeYuuj3H1Ahiw-7iWWfoJqJ_v7suHCl1Xp0Wc",
-   "credit": "El Gráfico"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcScm8nyzg-kBTmuncEFP9IM1a0tzilHEwlbmm94e5uJkZ02IakIjKquLe54R7U",
+   "credit": "La Voz del Interior"
   },
   "t": {
    "pt": {
-    "name": "sebastián villa",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via El Gráfico."
+    "name": "pronostico cordoba",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via La Voz del Interior."
    },
    "en": {
-    "name": "sebastián villa",
-    "note": "Trending Google search (Argentina) — 200+ searches · via El Gráfico."
+    "name": "pronostico cordoba",
+    "note": "Trending Google search (Argentina) — 100+ searches · via La Voz del Interior."
    },
    "es": {
-    "name": "sebastián villa",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía El Gráfico."
+    "name": "pronostico cordoba",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía La Voz del Interior."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/14/pamela-david-revelo-el-cambio-de-look-que-se-hizo-para-una-pelicula-y-conto-su-desilusion-al-no-ser-elegida-lo-hizo-otra/",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.univision.com/famosos/rj-mitte-actor-breaking-bad-murio-reaccion-bryan-cranston",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTDrvHao9F4LrfNOVAH_JXWSeZqutEaa-t5Wes5Qy-xEeWdPD7JQsAjxqRIKdw",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfFfPk3N7ty_hQ7LODy0XO4iEvgC5KGMmR1CgIwReg6Jr3korpIZHzAbIyZnY",
+   "credit": "Univision"
   },
   "t": {
    "pt": {
-    "name": "pamela david",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Infobae."
+    "name": "rj mitte actor",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Univision."
    },
    "en": {
-    "name": "pamela david",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via Infobae."
+    "name": "rj mitte actor",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Univision."
    },
    "es": {
-    "name": "pamela david",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
+    "name": "rj mitte actor",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Univision."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
+  "collectedAt": "2026-10-14T13:06:12.529Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
+  "rank": 2,
+  "sourceUrl": "https://www.record.com.mx/historia/miguel-herrera-revela-santiago-banos-prometieron-tecnico-america-2026101405324714035",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRqubYn3NFUB8n2Yv1iRZybGgHP0Jw02Bzd5J3dMG5Cj0d1DxJS1n10U9eDlRM",
+   "credit": "Récord"
+  },
+  "t": {
+   "pt": {
+    "name": "santiago baños",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Récord."
+   },
+   "en": {
+    "name": "santiago baños",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Récord."
+   },
+   "es": {
+    "name": "santiago baños",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Récord."
+   }
+  },
+  "id": "tr25",
+  "hue": 108
+ },
+ {
+  "collectedAt": "2026-10-14T13:06:12.529Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://www.tennis365.com/tennis-features/wuhan-open-ranking-points-rybakina-sabalenka-gauff-swiatek-eala-drop",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5QDaIWIq_2I14Cr_UrEnVy8R2pJUzX-kXtcDTTNKlfQksy4o2CmWx6l0wa0A",
+   "credit": "Tennis365"
+  },
+  "t": {
+   "pt": {
+    "name": "aryna sabalenka",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Tennis365."
+   },
+   "en": {
+    "name": "aryna sabalenka",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Tennis365."
+   },
+   "es": {
+    "name": "aryna sabalenka",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Tennis365."
+   }
+  },
+  "id": "tr26",
+  "hue": 145
+ },
+ {
+  "collectedAt": "2026-10-14T13:06:12.529Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 4,
+  "sourceUrl": "https://www.mediotiempo.com/futbol/liga-mx/vuelve-nido-america-alista-homenaje-guillermo-ochoa-fecha-sede",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvijSRI2-IealbCVBFP5qvD1nuy_cY-DP5QIzqz9RNDeldS98hctksgvNDhI",
+   "credit": "Mediotiempo"
+  },
+  "t": {
+   "pt": {
+    "name": "américa - pachuca",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Mediotiempo."
+   },
+   "en": {
+    "name": "américa - pachuca",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Mediotiempo."
+   },
+   "es": {
+    "name": "américa - pachuca",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Mediotiempo."
+   }
+  },
+  "id": "tr27",
+  "hue": 182
+ },
+ {
+  "collectedAt": "2026-10-14T13:06:12.529Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 5,
   "sourceUrl": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/17378377/mexico-femenil-vs-jamaica-queretaro-preparacion-haiti-premundial",
   "image": {
    "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSONvR8tqyFzz6xabYMEn3-0J2OsjTq6DYdq__D6Mwz-qPf1twIImst25w6xU4",
@@ -684,119 +768,7 @@
     "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía ESPN México."
    }
   },
-  "id": "tr25",
-  "hue": 108
- },
- {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://elpais.com/television/series/2026-10-14/visionquest-lleva-al-psicologo-a-un-androide-asumen-que-marvel-es-una-maquina-infernal-pero-es-de-las-experiencias-mas-colaborativas-e-imaginativas.html",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQohlz4L3yjLyQ6TLP9zkb1hpzIvzHVHPTniATWFK7Y6xJFxRog-zTenjqI31A",
-   "credit": "EL PAÍS"
-  },
-  "t": {
-   "pt": {
-    "name": "visionquest estreno",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via EL PAÍS."
-   },
-   "en": {
-    "name": "visionquest estreno",
-    "note": "Trending Google search (Mexico) — 100+ searches · via EL PAÍS."
-   },
-   "es": {
-    "name": "visionquest estreno",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía EL PAÍS."
-   }
-  },
-  "id": "tr26",
-  "hue": 145
- },
- {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.lasestrellas.tv/famosos/por-que-carlos-rivera-ya-no-esta-en-quien-es-la-mascara-2026-el-cantante-lo-explica",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRC5UBeHOAki3dWCR0KGonOY4tvymlX0Pr164Q0IF4kUpkEZpGsLNIY5-ak8uY",
-   "credit": "Las Estrellas"
-  },
-  "t": {
-   "pt": {
-    "name": "carlos rivera",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Las Estrellas."
-   },
-   "en": {
-    "name": "carlos rivera",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Las Estrellas."
-   },
-   "es": {
-    "name": "carlos rivera",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Las Estrellas."
-   }
-  },
-  "id": "tr27",
-  "hue": 182
- },
- {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.vaticannews.va/es/papa/news/2026-10/el-papa-en-el-gemelli-la-intervencion-ha-concluido-con-exito.html",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRi3OnJA6zxYZCs5GC8QG0nctiKW3cIC0pu5lK4ywTaDI2kE1A12yzbHIACHsY",
-   "credit": "Vatican News"
-  },
-  "t": {
-   "pt": {
-    "name": "papá león xiv",
-    "note": "Busca em alta no Google (México) — 20000+ buscas · via Vatican News."
-   },
-   "en": {
-    "name": "papá león xiv",
-    "note": "Trending Google search (Mexico) — 20000+ searches · via Vatican News."
-   },
-   "es": {
-    "name": "papá león xiv",
-    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía Vatican News."
-   }
-  },
   "id": "tr28",
   "hue": 219
- },
- {
-  "collectedAt": "2026-10-14T09:56:17.321Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://football-italia.net/mourinho-roma-career-dead-after-uel-final/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRveuT08gTxOOK4I7bOG2JPMCCgTas_bnRBKiC_U8ds8AnAsWC6QAH6gQJgihk",
-   "credit": "Football Italia"
-  },
-  "t": {
-   "pt": {
-    "name": "roma vs real madrid",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Football Italia."
-   },
-   "en": {
-    "name": "roma vs real madrid",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Football Italia."
-   },
-   "es": {
-    "name": "roma vs real madrid",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Football Italia."
-   }
-  },
-  "id": "tr29",
-  "hue": 256
  }
 ]
