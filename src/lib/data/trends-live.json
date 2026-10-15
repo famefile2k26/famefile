@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,871 +72,731 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www1.folha.uol.com.br/ilustrada/2026/10/narnia-o-sobrinho-do-mago-de-greta-gerwig-ganha-primeiro-trailer-veja.shtml",
+  "sourceUrl": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/10/as-tres-metas-de-flavio-bolsonaro-no-primeiro-confronto-ao-vivo-com-lula.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0gn7EIlZDxNX9itFG7V6at4j_4kSMi-Q7FRhsYyb0U96P6rD687tLtqCepxM",
-   "credit": "Folha de S.Paulo"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSbWv1gFbChdv32tzl-k_eBKCQCrdsO6zZqQPYl4iO3WbYBa7Eew56pttx-g8",
+   "credit": "O GLOBO"
   },
   "t": {
    "pt": {
-    "name": "nárnia: o sobrinho do mago",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Folha de S.Paulo."
+    "name": "debate lula e flavio",
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via O GLOBO."
    },
    "en": {
-    "name": "nárnia: o sobrinho do mago",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Folha de S.Paulo."
+    "name": "debate lula e flavio",
+    "note": "Trending Google search (Brazil) — 10000+ searches · via O GLOBO."
    },
    "es": {
-    "name": "nárnia: o sobrinho do mago",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Folha de S.Paulo."
+    "name": "debate lula e flavio",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía O GLOBO."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/13/chuva-historico-cidades-parana.ghtml",
+  "sourceUrl": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRvaLuwJ3ulA3E7WE7Rf2tQedTqIOZqdBI00pUHRPqqaj6uun3DtzaD9pP-6k",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFVWQC-bsrZeiKHqCo1VZyu-3LLsnZAEDeK7SX8uwbZB5lhvmLdgRC4nNFxzE",
+   "credit": "CNN"
   },
   "t": {
    "pt": {
-    "name": "previsão do tempo maringa",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via G1."
+    "name": "gbu-43/b massive ordnance air blast",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via CNN."
    },
    "en": {
-    "name": "previsão do tempo maringa",
-    "note": "Trending Google search (Brazil) — 100+ searches · via G1."
+    "name": "gbu-43/b massive ordnance air blast",
+    "note": "Trending Google search (Brazil) — 200+ searches · via CNN."
    },
    "es": {
-    "name": "previsão do tempo maringa",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía G1."
+    "name": "gbu-43/b massive ordnance air blast",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía CNN."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.jornalcruzeiro.com.br/tendencias/feriado-confirmado-para-sexta-feira-16-10-garante-semana-ainda-mais-curta/",
+  "sourceUrl": "https://www.metropoles.com/colunas/tacio-lorran/sigilo-100-anos-fab-vorcaro",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSNYeUnnYWsofH21AuTxDeTbqYxUYuqHupGf1tW00v4Rg1sLQf2XqQa8XqrTmg",
-   "credit": "www.jornalcruzeiro.com.br"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRkZHvPVNH2tsVbIULXAaeCTUkM4soInA1whtX03ihvtUpcus79GO3zKb89gQc",
+   "credit": "Metrópoles"
   },
   "t": {
    "pt": {
-    "name": "hoje é feriado",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via www.jornalcruzeiro.com.br."
+    "name": "fab",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Metrópoles."
    },
    "en": {
-    "name": "hoje é feriado",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via www.jornalcruzeiro.com.br."
+    "name": "fab",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via Metrópoles."
    },
    "es": {
-    "name": "hoje é feriado",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía www.jornalcruzeiro.com.br."
+    "name": "fab",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Metrópoles."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://www.cnnbrasil.com.br/politica/lula-regulamenta-marco-dos-games-com-credito-e-plataforma-nacional/",
+  "sourceUrl": "https://people.com/selena-gomez-shines-in-red-prada-gown-at-rare-impact-fund-benefit-12174671",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmeqbH_-u15RmEepR4nnGFYkggzYmLsr7_qrERcyKGro6RJQ7AWCJeVfpwxDA",
-   "credit": "CNN Brasil"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSbC1cXbCWF6McgQ8MfpM4G4OdLzvTk1UwmxHwyc7eStwn5HirZGlHjeJq35hg",
+   "credit": "People.com"
   },
   "t": {
    "pt": {
-    "name": "indústria de jogos eletrônicos",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via CNN Brasil."
+    "name": "bling",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via People.com."
    },
    "en": {
-    "name": "indústria de jogos eletrônicos",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via CNN Brasil."
+    "name": "bling",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via People.com."
    },
    "es": {
-    "name": "indústria de jogos eletrônicos",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía CNN Brasil."
+    "name": "bling",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía People.com."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/a-fazenda/enquete-a-fazenda-18-votacao-aponta-quem-sai-e-mostra-favorito-em-parcial-158087",
+  "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/novelas/gabriel-descobre-que-vilao-de-por-voce-tem-ficha-suja-e-rouba-ate-o-hospital-157979",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlCbkX3fEwHTL6Zp-TJuY787CIV2s339930rH49jciYpsyBgbc7QfKdSfaXQg",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEFEqxs-BY7nEBV1Ihvq7bKoPMo9Mt88-yrGuV1Vp-3Ek5DZMSQP0DGrJ-ELI",
    "credit": "Notícias da TV"
   },
   "t": {
    "pt": {
-    "name": "enquete fazenda 18",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Notícias da TV."
+    "name": "thiago lacerda",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Notícias da TV."
    },
    "en": {
-    "name": "enquete fazenda 18",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via Notícias da TV."
+    "name": "thiago lacerda",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Notícias da TV."
    },
    "es": {
-    "name": "enquete fazenda 18",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Notícias da TV."
+    "name": "thiago lacerda",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Notícias da TV."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://g1.globo.com/meio-ambiente/noticia/2026/10/15/chuva-sudeste-veja-previsa-todo-o-brasil.ghtml",
+  "sourceUrl": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/marcela-mattos-flavio-e-bolsonarismo-caem-em-contradicao-com-investida-juridica-contra-perfis.ghtm",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvHccKwN2nk6ieRkkGov3N1OWVeOqcOKKeFck68fHDEETnNIaWastHBaeTI6E",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcrqc-dJv2DFYKAi5gftrqe9gzhH09YMpmL1S0C1eCICxMR1QDwd9SqdZt7YM",
+   "credit": "UOL Notícias"
   },
   "t": {
    "pt": {
-    "name": "ciclone extratropical",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
+    "name": "andré mendonça",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via UOL Notícias."
    },
    "en": {
-    "name": "ciclone extratropical",
-    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
+    "name": "andré mendonça",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via UOL Notícias."
    },
    "es": {
-    "name": "ciclone extratropical",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
+    "name": "andré mendonça",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía UOL Notícias."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://g1.globo.com/carros/noticia/2026/10/07/ninguem-conseguia-prever-chefe-da-stellantis-admite-erro-do-setor-diante-da-disparada-chinesa.ghtml",
+  "sourceUrl": "https://ge.globo.com/mg/triangulo-mineiro/volei/noticia/2026/10/14/rui-moreira-projeta-supercopa-para-o-praia-e-elogia-jogadora-do-rival-osasco-nivel-muito-alto.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdSluVtESAm7VDs9jW9lHp8QItBRFCml3jstuAjdtckuHb0KERIHXIo0vo4dk",
-   "credit": "G1"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRCCGkTQXItalGaaZjx6FonwgcCsbHpNmj5G4ty8_n9eHQCd5enteuAz5BBecc",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "stellantis",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "osasco voleibol clube",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via ge."
    },
    "en": {
-    "name": "stellantis",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "osasco voleibol clube",
+    "note": "Trending Google search (Brazil) — 500+ searches · via ge."
    },
    "es": {
-    "name": "stellantis",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "osasco voleibol clube",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía ge."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://g1.globo.com/ce/ceara/noticia/2026/10/14/dia-do-servidor-publico-governador-anuncia-ponto-facultativo-no-dia-30-de-outubro-e-pagamento-antecipado.ghtml",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.yahoo.com/entertainment/tv/articles/savannah-guthrie-leads-today-split-205820337.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNaA84jkT9IufgLnFU76umh32fZVjKO-ezP97_ST_X9VA8GyS17Oy0CR34Rro",
-   "credit": "G1"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3NuyyXpZy5t03lpQHvdLTstyYKppZk3LL-fP9yGs7czYG4mfkwiUfsCk4u0w",
+   "credit": "Yahoo"
   },
   "t": {
    "pt": {
-    "name": "servidor público",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via G1."
+    "name": "today show",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Yahoo."
    },
    "en": {
-    "name": "servidor público",
-    "note": "Trending Google search (Brazil) — 100+ searches · via G1."
+    "name": "today show",
+    "note": "Trending Google search (US) — 200+ searches · via Yahoo."
    },
    "es": {
-    "name": "servidor público",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía G1."
+    "name": "today show",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Yahoo."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.latimes.com/entertainment-arts/story/2026-10-14/billy-crystal-distrusts-god-after-house-rob-reiner-losses",
+  "rank": 2,
+  "sourceUrl": "https://www.nytimes.com/2026/10/12/arts/television/dan-levy-shane-gillis-snl-monologue.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRojcRByQlmjWIDfPbQhYj_b5P50P_dJ8dEF2cLj-lTl43Bbru_dTM9CD6hUho",
-   "credit": "Los Angeles Times"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpAeA8_qxmjEa2JyjKqeLe7dkEZMU70Iv7BsEGmZ4J-nDQ8pIIHbtu8g_Gzbo",
+   "credit": "The New York Times"
   },
   "t": {
    "pt": {
-    "name": "people magazine",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Los Angeles Times."
+    "name": "what did shane gillis say on saturday night live",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via The New York Times."
    },
    "en": {
-    "name": "people magazine",
-    "note": "Trending Google search (US) — 100+ searches · via Los Angeles Times."
+    "name": "what did shane gillis say on saturday night live",
+    "note": "Trending Google search (US) — 1000+ searches · via The New York Times."
    },
    "es": {
-    "name": "people magazine",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Los Angeles Times."
+    "name": "what did shane gillis say on saturday night live",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía The New York Times."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.nature.com/articles/s41586-026-11126-x",
+  "rank": 3,
+  "sourceUrl": "https://www.theatermania.com/news/watch-aaron-sorkin-bradley-whitford-and-the-cast-of-a-few-good-men-talk-new-broadway-revival_1857133/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjFLqKllHoqUWBvCDUW8Ol-gj02YHbO13z_EDQPqVOyWUMK2HySdk0mnWW1Mg",
-   "credit": "Nature"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZcyNrRMUHGq2hggP3wTqr5MgMQR1lqGl8vS65qPLXlQ1236ryv9mjP49hIp4",
+   "credit": "TheaterMania"
   },
   "t": {
    "pt": {
-    "name": "10 day forecast",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Nature."
+    "name": "bradley whitford",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via TheaterMania."
    },
    "en": {
-    "name": "10 day forecast",
-    "note": "Trending Google search (US) — 100+ searches · via Nature."
+    "name": "bradley whitford",
+    "note": "Trending Google search (US) — 1000+ searches · via TheaterMania."
    },
    "es": {
-    "name": "10 day forecast",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Nature."
+    "name": "bradley whitford",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía TheaterMania."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://people.com/pregnant-woman-crashed-car-nearly-100-mph-killing-boyfriend-now-shes-convicted-12174286",
+  "rank": 4,
+  "sourceUrl": "https://www.npr.org/2026/10/15/nx-s1-6001714/georgia-swing-voters-focus-groups",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTw9mZDisXyueL1wD5C6TWXWYGvFKOtbxtBIRr6EvTCn12BmVA9gfHcw5ot49M",
-   "credit": "People.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjSktQ1PTuXYMggNhWLAt6C07_iJU6qtTH2Mhc1znJ0bQHGpeG7poaFKuyYGU",
+   "credit": "NPR"
   },
   "t": {
    "pt": {
-    "name": "leigha mumby",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via People.com."
+    "name": "voting",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via NPR."
    },
    "en": {
-    "name": "leigha mumby",
-    "note": "Trending Google search (US) — 200+ searches · via People.com."
+    "name": "voting",
+    "note": "Trending Google search (US) — 200+ searches · via NPR."
    },
    "es": {
-    "name": "leigha mumby",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía People.com."
+    "name": "voting",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía NPR."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://local12.com/news/local/4-rescued-manatees-flown-from-cincinnati-florida-release-into-native-waters-cvg-international-airport-preservation-nature-natural-rehabilitation-animals-animal-manatee",
+  "rank": 5,
+  "sourceUrl": "https://www.goodmorningamerica.com/shop/story/gma-deals-steals-fall-festival-137136051",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8vUqyLpIZ5EkYdUcYyXTHmN8QecJR6GNDRxJ3jSXjYx280iOyFuT3MzQAlDE",
-   "credit": "WKRC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjq67lU8Q5LvAow8Rg28R-22W-WjQKqj4WUcEc26vWuCb-abRWGOA8mpg2V78",
+   "credit": "Good Morning America"
   },
   "t": {
    "pt": {
-    "name": "zoo",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via WKRC."
+    "name": "gma deals and steals",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Good Morning America."
    },
    "en": {
-    "name": "zoo",
-    "note": "Trending Google search (US) — 100+ searches · via WKRC."
+    "name": "gma deals and steals",
+    "note": "Trending Google search (US) — 1000+ searches · via Good Morning America."
    },
    "es": {
-    "name": "zoo",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía WKRC."
+    "name": "gma deals and steals",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Good Morning America."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.cnbc.com/2026/10/15/elon-musk-starlink-ukraine-trump-energy-ceasefire.html",
+  "rank": 6,
+  "sourceUrl": "https://www.investing.com/news/stock-market-news/ppi-retail-sales-jobless-claims-and-oil-inventories-among-economic-data-due-thursday-93CH-4949851",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv5_ZhR3da-yaFuEwAzi1mH4D2wIUrodQQffI8x_xnJ3BsOqO4PY3VS1U9F48",
-   "credit": "CNBC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsoSa-SgRRt8UaXhRMlHSfXxT16L6xq_TWFUmxUSYucLvtcOoGFxSxOtDyKPw",
+   "credit": "Investing.com"
   },
   "t": {
    "pt": {
-    "name": "ukraine war",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via CNBC."
+    "name": "economic calendar",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Investing.com."
    },
    "en": {
-    "name": "ukraine war",
-    "note": "Trending Google search (US) — 200+ searches · via CNBC."
+    "name": "economic calendar",
+    "note": "Trending Google search (US) — 200+ searches · via Investing.com."
    },
    "es": {
-    "name": "ukraine war",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía CNBC."
+    "name": "economic calendar",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Investing.com."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.nytimes.com/2026/10/15/opinion/democrats-election-midterms-blue-wave.html",
+  "rank": 7,
+  "sourceUrl": "https://globalnews.ca/news/12102675/celine-dion-barbie/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpRbgVSL6_wtb0ZvkSWgI6122cfQXs93OT8QV5zEOGhQsBjz27oPEAm0wXRu0",
-   "credit": "The New York Times"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9INNvNrY-O0h3H-X3PQSCBLfCsKbA6jFomOa82mfYqessX3i7pUPu3OTj0x8",
+   "credit": "Global News"
   },
   "t": {
    "pt": {
-    "name": "new york times the",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via The New York Times."
+    "name": "celine dion barbie",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Global News."
    },
    "en": {
-    "name": "new york times the",
-    "note": "Trending Google search (US) — 100+ searches · via The New York Times."
+    "name": "celine dion barbie",
+    "note": "Trending Google search (US) — 200+ searches · via Global News."
    },
    "es": {
-    "name": "new york times the",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía The New York Times."
+    "name": "celine dion barbie",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Global News."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://www.vice.com/en/article/fortnitemares-2026-collabs-october-15-update/",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.clarin.com/fama/lali-esposito-molesto-comentario-redes-cuestiono-sumarse-proyecto-ia-salio-firmeza-responderle_0_uNQRWSegVH.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuXbm0rCaVlgRM9Hglwva4J-J2ylZuK4-ziVnNaCewbUjpYcFpN_IlaVBEpnc",
-   "credit": "VICE"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTD3SGmAwZlit0HCElq5_L_6ssbnR1tFRZLSdc-5uNOoRroQvVBWCU_-aSkJ8U",
+   "credit": "Clarin.com"
   },
   "t": {
    "pt": {
-    "name": "fortnite servers",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via VICE."
+    "name": "lali espósito",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Clarin.com."
    },
    "en": {
-    "name": "fortnite servers",
-    "note": "Trending Google search (US) — 1000+ searches · via VICE."
+    "name": "lali espósito",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Clarin.com."
    },
    "es": {
-    "name": "fortnite servers",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía VICE."
+    "name": "lali espósito",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://people.com/hilary-swank-pregnant-expecting-third-baby-12173967",
+  "rank": 2,
+  "sourceUrl": "https://en.tennistemple.com/match/trungelliti-karol-maia-2026/9485893/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThvTfNz01WfbWOgYvhU_85F9IWDxYdFeetGWtPwx2My2WUdgT9r6rwugRHeBw",
-   "credit": "People.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRAWxDXIOGfaMo1yRYqGzhtOzwV2VValpx_Q9cnuq7zFrUfUpOPltJOELS7UjM",
+   "credit": "TennisTemple"
   },
   "t": {
    "pt": {
-    "name": "hilary swank",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via People.com."
+    "name": "marco trungelliti",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via TennisTemple."
    },
    "en": {
-    "name": "hilary swank",
-    "note": "Trending Google search (Argentina) — 100+ searches · via People.com."
+    "name": "marco trungelliti",
+    "note": "Trending Google search (Argentina) — 200+ searches · via TennisTemple."
    },
    "es": {
-    "name": "hilary swank",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía People.com."
+    "name": "marco trungelliti",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía TennisTemple."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.eltrecetv.com.ar/es-mi-sueno/2026/10/13/es-mi-sueno-carlos-baute-quedo-fascinado-con-giannina-giunta-y-termino-bailando-salsa-con-ella/",
+  "rank": 3,
+  "sourceUrl": "https://www.pagina12.com.ar/2026/10/15/dolar-blue-dolar-hoy-a-cuanto-cotizan-el-jueves-15-de-octubre-de-2026/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRXHC4gkirWM8sxdJ3xWLdZCcOFrANbUS0jcbGXxI02BRSCfhqkvfCEJXPGUOU",
-   "credit": "eltrecetv"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc95tBc4ZR0_gzQWXLo222SZWkhmLp4hMJ6vWa2KxS4VlI2Nd35DoEg_s0pSs",
+   "credit": "Página|12"
   },
   "t": {
    "pt": {
-    "name": "es mi sueño",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via eltrecetv."
+    "name": "15 de octubre",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Página|12."
    },
    "en": {
-    "name": "es mi sueño",
-    "note": "Trending Google search (Argentina) — 100+ searches · via eltrecetv."
+    "name": "15 de octubre",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Página|12."
    },
    "es": {
-    "name": "es mi sueño",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía eltrecetv."
+    "name": "15 de octubre",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Página|12."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.clarin.com/internacional/murio-fisicoculturista-chilena-marianne-von-gierke-40-anos-competido-mr-olympia-semanas_0_cxWCRqIcKJ.html",
+  "rank": 4,
+  "sourceUrl": "https://news.bet365.com/en-gb/article/how-to-watch-alexander-zverev-v-alex-de-minaur-at-the-shanghai-masters-tv-channel-live-streaming-start-time-and-venue/2026101507565647827",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdBBM4YOdRnDygeDtg1OyDJlzrBy6wFAw66tGEzmfpwHvGq6cGD_47dzvd21Q",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRPSvCGbZq98ZHUTh20FlpKADbju16y0b7EkJNcelj58vf2yTUcQj2na-dMNg",
+   "credit": "news.bet365.com"
   },
   "t": {
    "pt": {
-    "name": "marianne von gierke",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Clarin.com."
+    "name": "alexander zverev",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via news.bet365.com."
    },
    "en": {
-    "name": "marianne von gierke",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Clarin.com."
+    "name": "alexander zverev",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via news.bet365.com."
    },
    "es": {
-    "name": "marianne von gierke",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Clarin.com."
+    "name": "alexander zverev",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía news.bet365.com."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.clarin.com/sociedad/fenomeno-nino-corrientes-agua-avanza-vecinos-preparan-inundacion-historica_0_lrQIrQRC0a.html",
+  "rank": 5,
+  "sourceUrl": "https://www.infobae.com/deportes/2026/10/15/el-companero-de-colapinto-en-alpine-en-la-f1-podria-perder-su-licencia-de-conducir-en-estonia-el-insolito-motivo/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj_9I3tjkfy1IaNAwGeK9aGDJwWsTfs9pZby8lVYZzT8fBA_KtO32ir4DL_-Y",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrBXkOUTX4_RTK6sm0Jzsi2ne5NTwcKFE-xLdGwEDQMiGv5JzgHsJMXcvKCDg",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "altura de los rios",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Clarin.com."
+    "name": "paul aron",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Infobae."
    },
    "en": {
-    "name": "altura de los rios",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Clarin.com."
+    "name": "paul aron",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via Infobae."
    },
    "es": {
-    "name": "altura de los rios",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Clarin.com."
+    "name": "paul aron",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Infobae."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.meteored.com.ar/noticias/prediccion/empieza-a-ceder-el-bloqueo-atmosferico-en-argentina-tras-semanas-de-lluvia-te-contamos-lo-que-se-espera-para-el-finde.html",
+  "rank": 6,
+  "sourceUrl": "https://www.cnn.com/2026/10/14/climate/el-nino-myths",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrw4RVXJUBg-4fSEqVb7izNBElzt-vdhcIxq9L7TGRYP2TNLdlUSuKgnmT-yw",
-   "credit": "Meteored Argentina"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQK_rNBuv8qC7R6uWPvY3WDrY9n6Aw0cWjdx41-nIjhUUSAK3RwYI1qEfe7ev8",
+   "credit": "CNN"
   },
   "t": {
    "pt": {
-    "name": "lluvia",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Meteored Argentina."
+    "name": "evento de el niño de 2026-2027",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via CNN."
    },
    "en": {
-    "name": "lluvia",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via Meteored Argentina."
+    "name": "evento de el niño de 2026-2027",
+    "note": "Trending Google search (Argentina) — 500+ searches · via CNN."
    },
    "es": {
-    "name": "lluvia",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Meteored Argentina."
+    "name": "evento de el niño de 2026-2027",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía CNN."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.espn.com.ar/futbol/colombia/nota/_/id/17383354/james-nacional-medellin-copa-betplay-asistencia-clasificacion-semifinales",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://espndeportes.espn.com/futbol/mexico/nota/_/id/17382962/chivas-bofo-bautista-entrenador-futuro",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS37iF7VvFUEOXVNK-NJw5N0FCuT_OMptqGK67bSph3kP7W3lFFL624WBG_-7Q",
-   "credit": "ESPN Argentina"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSU8FaHI7YKs49W59TSFwHmdTwcg0bwc_VHvoRtGmRm9ISsd0nKC0o2oBCUYPk",
+   "credit": "ESPN Deportes"
   },
   "t": {
    "pt": {
-    "name": "atlético nacional - medellín",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via ESPN Argentina."
+    "name": "adolfo bautista",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via ESPN Deportes."
    },
    "en": {
-    "name": "atlético nacional - medellín",
-    "note": "Trending Google search (Argentina) — 200+ searches · via ESPN Argentina."
+    "name": "adolfo bautista",
+    "note": "Trending Google search (Mexico) — 100+ searches · via ESPN Deportes."
    },
    "es": {
-    "name": "atlético nacional - medellín",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía ESPN Argentina."
+    "name": "adolfo bautista",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía ESPN Deportes."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.parlamentario.com/2026/10/14/murio-norberto-di-prospero-historico-secretario-general-de-apl-y-referente-del-sindicalismo-legislativo/",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.elnorte.com/advierten-de-bajas-temperaturas-el-fin-de-semana/ar3293908",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSo-9haLl90olVp-KM8WKFplCFHPf59CsI78Yx918zN28WVv79Psk1TSsW3w",
-   "credit": "Parlamentario"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-iHxNkPbXbJvVnl_SlO9rZczRkWazFwWijxTWFP_WYM8aLb5fhupjpD1mlU",
+   "credit": "El Norte"
   },
   "t": {
    "pt": {
-    "name": "fallecio norberto diprospero",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Parlamentario."
+    "name": "temperatura monterrey",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via El Norte."
    },
    "en": {
-    "name": "fallecio norberto diprospero",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Parlamentario."
+    "name": "temperatura monterrey",
+    "note": "Trending Google search (Mexico) — 100+ searches · via El Norte."
    },
    "es": {
-    "name": "fallecio norberto diprospero",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Parlamentario."
+    "name": "temperatura monterrey",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía El Norte."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/15/az-alkmaar-vs-hbeer-sheva-en-vivo-por-la-fecha-2-de-la-uefa-europa-league-hora-donde-ver-y-formaciones/",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://infonews.ca/news/7954744/zverev-wins-in-straight-sets-against-de-minaur-for-shanghai-masters-semifinal-spot/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe4T6nXmSTaQjwJt4uDrfdd6MhKN4v8ubNAXQn9ZAF6UImaH43QtITNATCVs4",
-   "credit": "TN"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPguuer57ESOLcjzJ3GLqLtIkNgDan66bFoA0nvdEeSbfNwm_bzGGG6OY4u0Q",
+   "credit": "iNFOnews.ca"
   },
   "t": {
    "pt": {
-    "name": "europa league",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via TN."
+    "name": "shanghai open",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via iNFOnews.ca."
    },
    "en": {
-    "name": "europa league",
-    "note": "Trending Google search (Argentina) — 200+ searches · via TN."
+    "name": "shanghai open",
+    "note": "Trending Google search (Mexico) — 200+ searches · via iNFOnews.ca."
    },
    "es": {
-    "name": "europa league",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía TN."
+    "name": "shanghai open",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía iNFOnews.ca."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://ua.news/en/sport/maia-khvalinska-zigraie-z-ivoiu-iovich-u-1-8-finalu-wta-v-ukhani-interia-sport",
+  "rank": 4,
+  "sourceUrl": "https://www.milenio.com/el-clima/frente-frio-2-tamaulipas-traera-lluvias-vientos-fuertes",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf8WGGBVsiS5J9ukEYFJH_PY-mymqtO299lbxfll_J_WnZontQui5dJ6A4VGE",
-   "credit": "UA.NEWS"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSocvZtNqRtGaGO8J07QYQA4qwCslhrqXXTS10bK2aVnz_8H5uODNxAg4NK4QA",
+   "credit": "MILENIO"
   },
   "t": {
    "pt": {
-    "name": "iva jovic",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via UA.NEWS."
+    "name": "clima nuevo laredo",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via MILENIO."
    },
    "en": {
-    "name": "iva jovic",
-    "note": "Trending Google search (Mexico) — 100+ searches · via UA.NEWS."
+    "name": "clima nuevo laredo",
+    "note": "Trending Google search (Mexico) — 200+ searches · via MILENIO."
    },
    "es": {
-    "name": "iva jovic",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía UA.NEWS."
+    "name": "clima nuevo laredo",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía MILENIO."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.mlb.com/news/jake-bauers-hits-go-ahead-hr-off-blake-snell-in-11-pitch-at-bat-in-nlcs-game-3",
+  "rank": 5,
+  "sourceUrl": "https://elcomentario.ucol.mx/?p=359676",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-5ac36VbIZXJgaMPNKz1hW4rF4FT_i1ua98gFZlIMr4Bz70OvDKWTj8tdac",
-   "credit": "MLB.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROtjkuJLFWjR-L0UFtSEYO2entUk-zoKgOrFNoZ_KSDSceKgvJc3LjmgnrbBk",
+   "credit": "El Comentario"
   },
   "t": {
    "pt": {
-    "name": "los angeles dodgers vs milwaukee brewers",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via MLB.com."
+    "name": "terremoto",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via El Comentario."
    },
    "en": {
-    "name": "los angeles dodgers vs milwaukee brewers",
-    "note": "Trending Google search (Mexico) — 200+ searches · via MLB.com."
+    "name": "terremoto",
+    "note": "Trending Google search (Mexico) — 500+ searches · via El Comentario."
    },
    "es": {
-    "name": "los angeles dodgers vs milwaukee brewers",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía MLB.com."
+    "name": "terremoto",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía El Comentario."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://veracruz.quadratin.com.mx/persiste-ambiente-templado-a-caluroso-en-veracruz/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqwwbArXUgq3qvAxkDkkbWKdls2k7ZlTSB6VHuarE8zf0A6i1lP9nd4GhJGGA",
-   "credit": "Quadratín Veracruz"
-  },
-  "t": {
-   "pt": {
-    "name": "clima veracruz",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Quadratín Veracruz."
-   },
-   "en": {
-    "name": "clima veracruz",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Quadratín Veracruz."
-   },
-   "es": {
-    "name": "clima veracruz",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Quadratín Veracruz."
-   }
-  },
-  "id": "tr29",
-  "hue": 256
- },
- {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.reuters.com/business/environment/hurricane-simon-crawls-along-mexicos-pacific-coast-bringing-floods-evacuations-2026-10-12/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQPLNfRQtxPZLgGpBH74nOB4mMh6kocU4BOd6hGmtnWwU1a4j_4hOafkbRduVY",
-   "credit": "Reuters"
-  },
-  "t": {
-   "pt": {
-    "name": "tropical storm simon",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Reuters."
-   },
-   "en": {
-    "name": "tropical storm simon",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Reuters."
-   },
-   "es": {
-    "name": "tropical storm simon",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Reuters."
-   }
-  },
-  "id": "tr30",
-  "hue": 293
- },
- {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://elcomentario.ucol.mx/?p=359280",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8PNxi6vTlBDcB2-ogwQxYN1QdnDV9BfPcH7utkRRWPS79Ax7Myvjopi4mIwM",
-   "credit": "El Comentario"
-  },
-  "t": {
-   "pt": {
-    "name": "tormenta tropical simon",
-    "note": "Busca em alta no Google (México) — 10000+ buscas · via El Comentario."
-   },
-   "en": {
-    "name": "tormenta tropical simon",
-    "note": "Trending Google search (Mexico) — 10000+ searches · via El Comentario."
-   },
-   "es": {
-    "name": "tormenta tropical simon",
-    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía El Comentario."
-   }
-  },
-  "id": "tr31",
-  "hue": 330
- },
- {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
+  "collectedAt": "2026-10-15T13:09:53.842Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 6,
-  "sourceUrl": "https://www.record.com.mx/historia/donde-ver-az-alkmaar-mateo-chavez-vs-hapoel-beer-sheva-fc-en-vivo-2026101418251201165",
+  "sourceUrl": "https://www.informador.mx/jalisco/clima-en-zapopan-hoy-el-pronostico-para-el-jueves-15-de-octubre-de-2026-20261015-0006.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_wvUpYxVrmU3x654Rp3NnHgDlJ9oghfwMLCN_tKEV32qcmVZ6Y_d67MBMABc",
-   "credit": "Récord"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTEPZ47gMgmN3o3zBcZ_-D3jF0Fp_fCtOIzJ6yhd5wNV4fAaLtjAv_ntqgSXQ",
+   "credit": "El Informador"
   },
   "t": {
    "pt": {
-    "name": "az alkmaar",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Récord."
+    "name": "clima zapopan",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via El Informador."
    },
    "en": {
-    "name": "az alkmaar",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Récord."
+    "name": "clima zapopan",
+    "note": "Trending Google search (Mexico) — 100+ searches · via El Informador."
    },
    "es": {
-    "name": "az alkmaar",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Récord."
+    "name": "clima zapopan",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía El Informador."
    }
   },
-  "id": "tr32",
-  "hue": 7
- },
- {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.mlssoccer.com/competitions/mls-regular-season/video/highlights-la-galaxy-vs-portland-timbers-october-14-2026",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaB-ml2PRTsS1Q6VSeQNeTiiSrC0YFOx5JBH32T2OR4SXVLG8c1NqECtsLpVQ",
-   "credit": "MLSsoccer.com"
-  },
-  "t": {
-   "pt": {
-    "name": "posiciones de san diego fc contra houston dynamo",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via MLSsoccer.com."
-   },
-   "en": {
-    "name": "posiciones de san diego fc contra houston dynamo",
-    "note": "Trending Google search (Mexico) — 500+ searches · via MLSsoccer.com."
-   },
-   "es": {
-    "name": "posiciones de san diego fc contra houston dynamo",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía MLSsoccer.com."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-15T09:56:13.936Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 8,
-  "sourceUrl": "https://www.espn.com/video/clip/_/id/50187102/lafc-vs-austin-fc-game-highlights",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKLhoP2beYTLnuDa9-LUIhVNW5Kq9yK9DkYgQFvaqmNHq52TqwbyPleQnw2-g",
-   "credit": "ESPN"
-  },
-  "t": {
-   "pt": {
-    "name": "posiciones de los angeles fc contra austin fc",
-    "note": "Busca em alta no Google (México) — 5000+ buscas · via ESPN."
-   },
-   "en": {
-    "name": "posiciones de los angeles fc contra austin fc",
-    "note": "Trending Google search (Mexico) — 5000+ searches · via ESPN."
-   },
-   "es": {
-    "name": "posiciones de los angeles fc contra austin fc",
-    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía ESPN."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr29",
+  "hue": 256
  }
 ]
