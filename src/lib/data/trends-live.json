@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,871 +72,759 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://g1.globo.com/go/goias/videos-ja-1-edicao/video/documentario-sobre-marilia-mendonca-e-lancado-em-goiania-15095280.ghtml",
+  "sourceUrl": "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/jogo/16-10-2026/ponte-preta-atletico-go.ghtml",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoRt7KdqOlM_hbIv-w0J9JqYNJd9pf8Fa4NuXkFKT6H2sGwzVyIpuyX-27RAE",
-   "credit": "G1"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "marília mendonça",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "ponte preta x atlético-go",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via ge."
    },
    "en": {
-    "name": "marília mendonça",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "ponte preta x atlético-go",
+    "note": "Trending Google search (Brazil) — 500+ searches · via ge."
    },
    "es": {
-    "name": "marília mendonça",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "ponte preta x atlético-go",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía ge."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://onefootball.com/de/wetten/tipps/eintracht-frankfurt-vs-1-fc-koeln-16-10-2026",
+  "sourceUrl": "https://variety.com/2026/tv/news/true-detective-season-5-antonio-banderas-nicolas-cage-1236914353/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSV7wBd13c1Q0UwHYvlgmUFrXAsUeDp_nLww_yqxq6KEO25aWkfHdVaYTd36tE",
-   "credit": "OneFootball"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgtYDioG_FkBof-PRR6MlLEye7YYr4mk3LsgRog_sGZ_gGTvr3eIuz1MPnbjU",
+   "credit": "Variety"
   },
   "t": {
    "pt": {
-    "name": "eintracht frankfurt",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via OneFootball."
+    "name": "true detective",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Variety."
    },
    "en": {
-    "name": "eintracht frankfurt",
-    "note": "Trending Google search (Brazil) — 200+ searches · via OneFootball."
+    "name": "true detective",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Variety."
    },
    "es": {
-    "name": "eintracht frankfurt",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía OneFootball."
+    "name": "true detective",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Variety."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.gazzetta.it/calcio/fantanews/16-10-2026/frosinone-sassuolo-formazioni-ufficiali-titolari.shtml",
+  "sourceUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/10/16/juiza-sentenca-pais-de-bebe-morto-a-facadas-na-pb.ghtm",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxWGp09spvjWheiqdypNeAupQfQgC-hWsHMI8SLWce6sPqGhBR8oKXHRmZYz4",
-   "credit": "La Gazzetta dello Sport"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS2wLzxQFk2WJaOM5C-ad8ew4YLBoXrdJ43D9MQnnTUqLfk6GAsIbG6RVQMUgo",
+   "credit": "UOL Notícias"
   },
   "t": {
    "pt": {
-    "name": "sassuolo",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via La Gazzetta dello Sport."
+    "name": "bebê",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via UOL Notícias."
    },
    "en": {
-    "name": "sassuolo",
-    "note": "Trending Google search (Brazil) — 200+ searches · via La Gazzetta dello Sport."
+    "name": "bebê",
+    "note": "Trending Google search (Brazil) — 100+ searches · via UOL Notícias."
    },
    "es": {
-    "name": "sassuolo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía La Gazzetta dello Sport."
+    "name": "bebê",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía UOL Notícias."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://www.lesviolets.com/actu/on-risque-de-se-prendre-une-gifle-videira-le-mans-se-mefie-enormement-du-tfc,84623.html",
+  "sourceUrl": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dldnRzdi5naXRodWIuaW8vZXZlbnQvejEueG1sIi8+PC9rcnBhbm8+&amp;id=video-defensa-y-justicia-vs-instit-rclil9oh",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjJFNTMagmLfodg7tIoVsuQpjArvanDNddQMCGmEkQVa47pa1nqi9Zo99XJ4U",
-   "credit": "TFC"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMpaHCM7J95t3DcfIxM8kaGXdXbBjGHVtAZzeUqVhxdK-zaU67GPzT9jaqLwg",
+   "credit": "Universidad de Córdoba (UCO)"
   },
   "t": {
    "pt": {
-    "name": "toulouse fc",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via TFC."
+    "name": "defensa y justicia x instituto",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Universidad de Córdoba (UCO)."
    },
    "en": {
-    "name": "toulouse fc",
-    "note": "Trending Google search (Brazil) — 200+ searches · via TFC."
+    "name": "defensa y justicia x instituto",
+    "note": "Trending Google search (Brazil) — 500+ searches · via Universidad de Córdoba (UCO)."
    },
    "es": {
-    "name": "toulouse fc",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía TFC."
+    "name": "defensa y justicia x instituto",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Universidad de Córdoba (UCO)."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/novelas/resumo-de-alem-do-tempo-ultimo-capitulo-da-novela-sexta-16-de-outubro-157807",
+  "sourceUrl": "https://www.omelete.com.br/mangas-animes/boruto-two-blue-vortex-da-indicios-de-retorno-importante",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRWHCkq-RJ3bbALK2aOLsuunusl9ZKmd8KxBu8MqugnZLUlNXmn1x5VqCEEhVc",
-   "credit": "Notícias da TV"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXlqlrKZ8_zkktrjjmT0zy93WvgS9i8S8QsvOyt0QP3S3WLJLHL5pgPBeFz6Y",
+   "credit": "Omelete"
   },
   "t": {
    "pt": {
-    "name": "alem do tempo",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Notícias da TV."
+    "name": "boruto",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Omelete."
    },
    "en": {
-    "name": "alem do tempo",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Notícias da TV."
+    "name": "boruto",
+    "note": "Trending Google search (Brazil) — 100+ searches · via Omelete."
    },
    "es": {
-    "name": "alem do tempo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Notícias da TV."
+    "name": "boruto",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Omelete."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://www.manaus.am.gov.br/noticia/saude-animal/prefeitura-semsa-vacinacaoantirrabica-pontosfixos/",
+  "sourceUrl": "https://ge.globo.com/volei/noticia/2026/10/16/tifanny-entrar-na-justica-para-jogar-supercopa-e-superliga-apos-receber-negativa-da-cbv.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUUWBKWeIvNSx_R-rz61KssLv9SOSGP1XFcgc6qHmrMX9cHND5d4CiYLT6vho",
-   "credit": "Prefeitura de Manaus"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMDDExLnn8s-sm9yWv68mhHK5lnZxZb7Pe2x9i8E_eKJ1LepLNqzljlooHpg",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "vacinação",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Prefeitura de Manaus."
+    "name": "osasco voleibol clube",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ge."
    },
    "en": {
-    "name": "vacinação",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Prefeitura de Manaus."
+    "name": "osasco voleibol clube",
+    "note": "Trending Google search (Brazil) — 200+ searches · via ge."
    },
    "es": {
-    "name": "vacinação",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Prefeitura de Manaus."
+    "name": "osasco voleibol clube",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ge."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 7,
-  "sourceUrl": "https://www.gq.com/story/ethan-hawke-one-more-question",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://pagesix.com/2026/10/16/celebrity-news/billy-ray-cyrus-and-elizabeth-hurley-are-engaged/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQFD_NfsIt-05qJ1omE9RW6CRweNdrisxOKrR_r-riQPl0OBX_Fm1YQ5ZLhg68",
-   "credit": "GQ"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUfWk688UIl-PJjGVvkxPwnECgzDTCcDpl1BueFhX8pL1si8e4n_ZujtNIRd8",
+   "credit": "Page Six"
   },
   "t": {
    "pt": {
-    "name": "ethan hawke",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via GQ."
+    "name": "elizabeth hurley",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Page Six."
    },
    "en": {
-    "name": "ethan hawke",
-    "note": "Trending Google search (Brazil) — 200+ searches · via GQ."
+    "name": "elizabeth hurley",
+    "note": "Trending Google search (US) — 500+ searches · via Page Six."
    },
    "es": {
-    "name": "ethan hawke",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía GQ."
+    "name": "elizabeth hurley",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Page Six."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://www.correio24horas.com.br/em-alta/lua-em-capricornio-favorece-o-dinheiro-de-3-signos-que-podem-colher-os-frutos-do-esforco-ate-domingo-18-de-outubro-1026",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.hollywoodreporter.com/movies/movie-news/red-rising-movie-francis-lawrence-1236733658/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMrOtHRf1hsnJ4kg0ZDZT8h2Im5uja6q0QtHUBLCYaAmYf3bbyr38tMdV80sQ",
-   "credit": "Jornal Correio"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR__ukJqAN88tz35iG4Zg95dEh5aaJfD8qAdZc9CuvS_haFQgSx85WOw03-mR8",
+   "credit": "The Hollywood Reporter"
   },
   "t": {
    "pt": {
-    "name": "capricórnio",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Jornal Correio."
+    "name": "red rising movie",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via The Hollywood Reporter."
    },
    "en": {
-    "name": "capricórnio",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Jornal Correio."
+    "name": "red rising movie",
+    "note": "Trending Google search (US) — 500+ searches · via The Hollywood Reporter."
    },
    "es": {
-    "name": "capricórnio",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Jornal Correio."
+    "name": "red rising movie",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía The Hollywood Reporter."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.cnbc.com/2026/10/16/us-treasury-yields-investors-hot-inflation-data-.html",
+  "rank": 3,
+  "sourceUrl": "https://www.cbssports.com/betting/news/memphis-tulane-prediction-odds-time-week-7-college-football-friday-picks-best-bets/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTmR4o2oeR-OTWMpFI_sUNf9YYqVhhNj5p92VbUPgCj252YDJ6ymArTNRtH4D4",
-   "credit": "CNBC"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIkLLDyVzKsRComfAB0YVgwoC49NeA1bKT8wEjlAgbe6hYeBsvu5UUOIYzJfo",
+   "credit": "CBS Sports"
   },
   "t": {
    "pt": {
-    "name": "why is the market down today",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via CNBC."
+    "name": "tulane football",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via CBS Sports."
    },
    "en": {
-    "name": "why is the market down today",
-    "note": "Trending Google search (US) — 200+ searches · via CNBC."
+    "name": "tulane football",
+    "note": "Trending Google search (US) — 5000+ searches · via CBS Sports."
    },
    "es": {
-    "name": "why is the market down today",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía CNBC."
+    "name": "tulane football",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía CBS Sports."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cm86zpv298yqt",
+  "rank": 4,
+  "sourceUrl": "https://www.espn.com/boxing/story/_/id/50195864/anthony-joshua-aura-brings-buzz-gym-fabio-wardley-boxing-tyson-fury-ben-davison",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT01y_7Q5xAimMo1G8IGcHHyciKFFPgLewrDHXzvs-cKaFsp-rbMdVYCgY6DgQ",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTEXVNeidAs3qAvVCgF5HP6UPffdRaUnySgJYOXiwv-RAOqOpi0oc5k7_dBL0k",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "frankfurt fc",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via BBC."
+    "name": "anthony joshua",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via ESPN."
    },
    "en": {
-    "name": "frankfurt fc",
-    "note": "Trending Google search (US) — 200+ searches · via BBC."
+    "name": "anthony joshua",
+    "note": "Trending Google search (US) — 200+ searches · via ESPN."
    },
    "es": {
-    "name": "frankfurt fc",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía BBC."
+    "name": "anthony joshua",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía ESPN."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.wsj.com/politics/policy/ilhan-omar-investigation-aims-to-build-case-for-stripping-her-citizenship-6adf1edc",
+  "rank": 5,
+  "sourceUrl": "https://www.heraldtribune.com/story/sports/high-school/football/2026/10/16/img-academy-3-to-watch-nfl-academy/92280432007/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqWusGTGqHsnkm1BwSW-J5zcFAcN16ZyaLPKiR9SrzfKvPGKkzkpQhCILdAsM",
-   "credit": "WSJ"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUGF6h67qivfihC8BEQ3k6eINjXbebs9jLvapB5-OJ84OSm2ZrjSSTQ8cX0cw",
+   "credit": "Sarasota Herald-Tribune"
   },
   "t": {
    "pt": {
-    "name": "cnn news",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via WSJ."
+    "name": "nfl academy",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Sarasota Herald-Tribune."
    },
    "en": {
-    "name": "cnn news",
-    "note": "Trending Google search (US) — 2000+ searches · via WSJ."
+    "name": "nfl academy",
+    "note": "Trending Google search (US) — 500+ searches · via Sarasota Herald-Tribune."
    },
    "es": {
-    "name": "cnn news",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía WSJ."
+    "name": "nfl academy",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Sarasota Herald-Tribune."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://www.yahoo.com/news/politics/articles/karoline-leavitt-drops-telling-working-182616844.html",
+  "rank": 6,
+  "sourceUrl": "https://www.yahoo.com/entertainment/celebrity/articles/why-does-internet-hate-jessica-161919294.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3fEaWO5Uu049viwS9k4Hj7g3wRfkjBO2eVD1H3ErxScK3lACnByy6tn0gOlo",
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRNkhGMuPOTccJQVS8nUV1fL9bg0MnNVxds3g4uIGs6abvyuw5M3mRnffcffzg",
    "credit": "Yahoo"
   },
   "t": {
    "pt": {
-    "name": "karoline leavitt",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Yahoo."
+    "name": "jessica tarlov",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo."
    },
    "en": {
-    "name": "karoline leavitt",
-    "note": "Trending Google search (US) — 2000+ searches · via Yahoo."
+    "name": "jessica tarlov",
+    "note": "Trending Google search (US) — 500+ searches · via Yahoo."
    },
    "es": {
-    "name": "karoline leavitt",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Yahoo."
+    "name": "jessica tarlov",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.foxweather.com/weather-news/super-el-nino-winter-storms-southwest-southeast-easing-major-drought",
+  "rank": 7,
+  "sourceUrl": "https://people.com/ariel-winter-reveals-modern-family-nolan-gould-introduced-her-new-boyfriend-exclusive-12177676",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwBKmNLRlQPVTerUVmRzEoujUPos0JuQbjc2FQs51vEsz2Jc26A4phmkffQZg",
-   "credit": "FOX Weather"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4kDyZDO6eYcQaBrbSQHoziXVOzF_sbpGwtNf2tcNR1iwDysbwTfZZARJ4E0g",
+   "credit": "People.com"
   },
   "t": {
    "pt": {
-    "name": "winter weather forecast",
-    "note": "Busca em alta no Google (EUA) — 200000+ buscas · via FOX Weather."
+    "name": "ariel winter",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via People.com."
    },
    "en": {
-    "name": "winter weather forecast",
-    "note": "Trending Google search (US) — 200000+ searches · via FOX Weather."
+    "name": "ariel winter",
+    "note": "Trending Google search (US) — 1000+ searches · via People.com."
    },
    "es": {
-    "name": "winter weather forecast",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200000+ búsquedas · vía FOX Weather."
+    "name": "ariel winter",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía People.com."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.foxnews.com/outkick-sports/lindsey-vonn-kicks-off-birthday-weekend-european-bikini-beach-day-bob-dylan-memory-money",
+  "rank": 8,
+  "sourceUrl": "https://www.hoopsrumors.com/2026/10/hornets-waive-pat-connaughton.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRD1JCYh0WFUahiW2skLVIcC6dU0ZjB-hTdJ2dkHGYqzfx85Q0SDKOjNvHIoFY",
-   "credit": "Fox News"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZwBL_z7xgneBWKWV9rqTcwti52N-DjVgZZWHSYMvHuF9TihVwGfT3DHrcBuM",
+   "credit": "Hoops Rumors"
   },
   "t": {
    "pt": {
-    "name": "lindsey vonn",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Fox News."
+    "name": "pat connaughton",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Hoops Rumors."
    },
    "en": {
-    "name": "lindsey vonn",
-    "note": "Trending Google search (US) — 500+ searches · via Fox News."
+    "name": "pat connaughton",
+    "note": "Trending Google search (US) — 500+ searches · via Hoops Rumors."
    },
    "es": {
-    "name": "lindsey vonn",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Fox News."
+    "name": "pat connaughton",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Hoops Rumors."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://sports.yahoo.com/articles/serie-frosinone-vs-sassuolo-confirmed-180000066.html",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.lanacion.com.ar/economia/el-gobierno-mostro-superavit-en-septiembre-y-dijo-que-cumplio-con-los-acuerdos-alcanzados-con-las-nid16102026/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0C32gJa0-H-4O4dPLCcFzlAHDN7j5CK2ScEEf_MtRVw_DvswSrxJLK3Gzjjo",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvp7dM-S-IVhWzs_TWx40aGR3Vhw84BbdPClswuHUU-F_EbBwqaFe2lZ3Blc",
+   "credit": "La Nación"
   },
   "t": {
    "pt": {
-    "name": "frosinone vs sassuolo",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Yahoo Sports."
+    "name": "superávit económico",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nación."
    },
    "en": {
-    "name": "frosinone vs sassuolo",
-    "note": "Trending Google search (US) — 1000+ searches · via Yahoo Sports."
+    "name": "superávit económico",
+    "note": "Trending Google search (Argentina) — 200+ searches · via La Nación."
    },
    "es": {
-    "name": "frosinone vs sassuolo",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Yahoo Sports."
+    "name": "superávit económico",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.eurosport.fr/football/ligue-1/2026-2027/live-le-mans-fc-toulouse-fc_mtc21875802/live-commentary.shtml",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.pagina12.com.ar/2026/10/16/la-afa-suspendio-por-tres-meses-a-juan-sebastian-veron/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnFyb93LsCBnrBfdIucxTui9olTuWmRMOca-mh6G3qHGHVxPBDFWDKdrP5iOg",
-   "credit": "Eurosport"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTptHRpaFQLFCobVkYA7OCc8gyac8y2xq6kvU1o_ywbB5A7gkyWs-wnkQxPEjA",
+   "credit": "Página|12"
   },
   "t": {
    "pt": {
-    "name": "le mans vs toulouse",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Eurosport."
+    "name": "juan sebastián verón",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Página|12."
    },
    "en": {
-    "name": "le mans vs toulouse",
-    "note": "Trending Google search (US) — 500+ searches · via Eurosport."
+    "name": "juan sebastián verón",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Página|12."
    },
    "es": {
-    "name": "le mans vs toulouse",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Eurosport."
+    "name": "juan sebastián verón",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Página|12."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.mitelefe.com/entretenimientos/espectaculos/asi-es-dificil-la-tentadora-bienvenida-que-maxi-lopez-le-preparo-a-daniela-christiansson-tras-la-mudanza-a-argentina-pid2569699",
+  "rank": 3,
+  "sourceUrl": "https://www.tycsports.com/liga-profesional-de-futbol/argentina-torneo-clausura-2026-defensa-y-justicia-vs-instituto-fecha-13-id766260.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_Yv7XYqSY9P2Qol6JUGP4xI8ZVKQ2Xz6U2HMWnFxO8t25BR56wSfVQJ2XLNw",
-   "credit": "Telefe"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvwX4lE6Bl2flH8v1FMVyYxoDiEefx8N0O4eeeBD0eWactRhsbB0guVFDmEs4",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "maxi lópez",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Telefe."
+    "name": "defensa y justicia - instituto",
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "maxi lópez",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Telefe."
+    "name": "defensa y justicia - instituto",
+    "note": "Trending Google search (Argentina) — 5000+ searches · via TyC Sports."
    },
    "es": {
-    "name": "maxi lópez",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Telefe."
+    "name": "defensa y justicia - instituto",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/16/eliana-guercio-festejo-18-anos-de-casada-con-chiquito-romero-te-amo-te-necesito-te-admiro/",
+  "rank": 4,
+  "sourceUrl": "https://www.clubtalleres.com.ar/resolucion-del-tribunal-de-disciplina-de-afa-tras-el-encuentro-entre-talleres-y-atletico-tucuman-en-reserva/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSPVQ72F8WovU76ZB_zDVXNCcNzru4Tyi3V7EwjC3ppy7qIbxtI_UimCxhbXc",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKgEaXtckEg2pRuU0M8O246QvlwGUVJ5cMYz7yPN6CAzM8ulKdJpdzebzRLCk",
+   "credit": "Club Atlético Talleres"
   },
   "t": {
    "pt": {
-    "name": "eliana guercio",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
+    "name": "club atlético tucumán",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Club Atlético Talleres."
    },
    "en": {
-    "name": "eliana guercio",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
+    "name": "club atlético tucumán",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Club Atlético Talleres."
    },
    "es": {
-    "name": "eliana guercio",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
+    "name": "club atlético tucumán",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Club Atlético Talleres."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://sports.yahoo.com/articles/serie-frosinone-vs-sassuolo-confirmed-180000066.html",
+  "rank": 5,
+  "sourceUrl": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0C32gJa0-H-4O4dPLCcFzlAHDN7j5CK2ScEEf_MtRVw_DvswSrxJLK3Gzjjo",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiHt00Kod11OGnRMtvzBN_l4mhwAO9EeRO5KGeyRrwsaMPPew1X2Vc_e3TvZ4",
+   "credit": "Euronews.com"
   },
   "t": {
    "pt": {
-    "name": "frosinone - sassuolo",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Yahoo Sports."
+    "name": "albania",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Euronews.com."
    },
    "en": {
-    "name": "frosinone - sassuolo",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Yahoo Sports."
+    "name": "albania",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Euronews.com."
    },
    "es": {
-    "name": "frosinone - sassuolo",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Yahoo Sports."
+    "name": "albania",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Euronews.com."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://as.com/futbol/primera/deportivo-levante-en-directo-laliga-ea-sports-hoy-en-vivo-f202610-d/",
+  "rank": 6,
+  "sourceUrl": "https://www.lapoliticaonline.com/politica/macri-quiso-correr-a-milei-por-derecha-con-los-passaglia-y-termino-borrando-el-tuit-7698/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTkCmh7Fy-iLQWpXyob2xFWMpnG9DkdNgG6usRULpMdrgfW3BOLapqi62NbKs",
-   "credit": "Diario AS"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqqxcZ3WSDs2x3JVKp44_d54f4fUCWiy3y8PH6VAJXy6OFuWrLCyHIOI9F5zc",
+   "credit": "La Política Online"
   },
   "t": {
    "pt": {
-    "name": "deportivo - levante",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Diario AS."
+    "name": "impuesto",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via La Política Online."
    },
    "en": {
-    "name": "deportivo - levante",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Diario AS."
+    "name": "impuesto",
+    "note": "Trending Google search (Argentina) — 100+ searches · via La Política Online."
    },
    "es": {
-    "name": "deportivo - levante",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Diario AS."
+    "name": "impuesto",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía La Política Online."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.rockstargames.com/VI/launch-trailer",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.marca.com/mx/futbol/liga-mx/2026/10/16/donde-ver-tijuana-vs-puebla-horario-canal-tv-juego-jornada-12-apertura-2026.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR07ooftuCY2wq75iIh82tTWmD1cXAC0XRDEqsop84SROtog8TAOkBL5FzZxF4",
-   "credit": "Rockstar Games"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcNNc4ZmCVSimYEN6QKiC7F1ydgpnZGZ8I6deveP98CaxSG1BDbfc5MW3WSgA",
+   "credit": "MARCA"
   },
   "t": {
    "pt": {
-    "name": "grand theft auto vi",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Rockstar Games."
+    "name": "tijuana vs puebla",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via MARCA."
    },
    "en": {
-    "name": "grand theft auto vi",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Rockstar Games."
+    "name": "tijuana vs puebla",
+    "note": "Trending Google search (Mexico) — 200+ searches · via MARCA."
    },
    "es": {
-    "name": "grand theft auto vi",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Rockstar Games."
+    "name": "tijuana vs puebla",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía MARCA."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.eltrecetv.com.ar/la-cocina-rebelde/capitulos/temporada-2026/programa-completo-del-141026-un-festejo-especial-con-cae-en-los-200-programas-de-la-cocina-rebelde/",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/16/estados/activan-alerta-gris-en-veracruz-ante-el-pronostico-de-lluvias-y-tormentas",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmAznbcX3TajDtO3kIjHuTfZjpQ1nZYHUUpFt7TJftzQbr2zzKltW2hv9dZG8",
-   "credit": "eltrecetv"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQP0IDTKqgfWVCc6a856JwEmzcszZ_bXZXZCzJFLAxXBYFStI3ySYtzXib3h0",
+   "credit": "La Jornada"
   },
   "t": {
    "pt": {
-    "name": "jimena monteverde",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via eltrecetv."
+    "name": "viento",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via La Jornada."
    },
    "en": {
-    "name": "jimena monteverde",
-    "note": "Trending Google search (Argentina) — 200+ searches · via eltrecetv."
+    "name": "viento",
+    "note": "Trending Google search (Mexico) — 200+ searches · via La Jornada."
    },
    "es": {
-    "name": "jimena monteverde",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía eltrecetv."
+    "name": "viento",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía La Jornada."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.clarin.com/politica/recordar-ano-viene-votes-provincia-sturzenegger-cruzo-kicillof-aumento-vtv_0_59LSSKzjEu.html",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnZxT66gesNDX8Qw79C1d1l2IcovNAOYJIkC4MBXyLO9TRk7woV4AASS2QoKU",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYQbs2CRzZmAW9PHK8M8QqszPIQ3djGQKaVobLqCUD78rIPMRJ5FQGKC0o58o",
+   "credit": "Fortune"
   },
   "t": {
    "pt": {
-    "name": "federico sturzenegger",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Clarin.com."
+    "name": "openai",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Fortune."
    },
    "en": {
-    "name": "federico sturzenegger",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Clarin.com."
+    "name": "openai",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Fortune."
    },
    "es": {
-    "name": "federico sturzenegger",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
+    "name": "openai",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Fortune."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.gazzetta.it/calcio/fantanews/16-10-2026/frosinone-sassuolo-formazioni-ufficiali-titolari.shtml",
+  "rank": 4,
+  "sourceUrl": "https://www.fubo.tv/news/?p=239877",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTxWGp09spvjWheiqdypNeAupQfQgC-hWsHMI8SLWce6sPqGhBR8oKXHRmZYz4",
-   "credit": "La Gazzetta dello Sport"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLOTo1yNXI3L-h_PqjFYgqPkF2SXabvJL0UyoSS-095HXG0Q5WwLIFHuPi3v0",
+   "credit": "Fubo"
   },
   "t": {
    "pt": {
-    "name": "sassuolo",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via La Gazzetta dello Sport."
+    "name": "posiciones de le mans fc contra toulouse fc",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Fubo."
    },
    "en": {
-    "name": "sassuolo",
-    "note": "Trending Google search (Mexico) — 200+ searches · via La Gazzetta dello Sport."
+    "name": "posiciones de le mans fc contra toulouse fc",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Fubo."
    },
    "es": {
-    "name": "sassuolo",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía La Gazzetta dello Sport."
+    "name": "posiciones de le mans fc contra toulouse fc",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Fubo."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://xpectrofm.com/alineaciones-de-eintracht-frankfurt-vs-fc-koln-estadisticas-horarios-y-donde-ver/",
+  "rank": 5,
+  "sourceUrl": "https://www.milenio.com/comunidad/pension-imss-esto-debes-saber-pago-total-noviembre-penultimo-de-2026",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ473XMs9v4LzZ9ODMIKYFTs8wzCpjJHcPKS--TycWFzcHPbaLglfF-G_r0skQ",
-   "credit": "Xpectro FM"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi54xfLYO50Dc22TXXTkJKwHWcMa2AHjo6TNk5Ee825fEGsGbXH4aPyn3_7Cg",
+   "credit": "MILENIO"
   },
   "t": {
    "pt": {
-    "name": "frankfurt vs. colonia",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Xpectro FM."
+    "name": "pago",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via MILENIO."
    },
    "en": {
-    "name": "frankfurt vs. colonia",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Xpectro FM."
+    "name": "pago",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via MILENIO."
    },
    "es": {
-    "name": "frankfurt vs. colonia",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Xpectro FM."
+    "name": "pago",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía MILENIO."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.sportsmole.co.uk/football/eintracht-frankfurt/preview/frankfurt-vs-fc-koln-prediction-team-news-lineups_606886.html",
+  "rank": 6,
+  "sourceUrl": "https://www.ocalagazette.com/celtics-win-20th-consecutive-district-championship/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Jtdse-xm9rbsxmMy1EBsUtKHMTzEHW4wSnuvcKTJ8D8PU-kC9w2Yg2lNhBI",
-   "credit": "Sports Mole"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTf32iy3sX-ufFMYJ6uqNoXm4LkrVDdytn50MoArXo4PSbqcjP9BT8wJBOJ6ZY",
+   "credit": "Ocala Gazette"
   },
   "t": {
    "pt": {
-    "name": "frankfurt fc",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Sports Mole."
+    "name": "championship",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Ocala Gazette."
    },
    "en": {
-    "name": "frankfurt fc",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Sports Mole."
+    "name": "championship",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Ocala Gazette."
    },
    "es": {
-    "name": "frankfurt fc",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Sports Mole."
+    "name": "championship",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Ocala Gazette."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://nnc.mx/articulo/deportivo-a-coruna-vs-levante-laliga-temporada-2026-27-jornada-9",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsQ5_GjgtVYkaxM4-KjWAYjrimyvMIlmnPkMDuhbtjFgg6gAf6vguxEHf5a5c",
-   "credit": "NNC.MX"
-  },
-  "t": {
-   "pt": {
-    "name": "deportivo - levante",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via NNC.MX."
-   },
-   "en": {
-    "name": "deportivo - levante",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via NNC.MX."
-   },
-   "es": {
-    "name": "deportivo - levante",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía NNC.MX."
-   }
-  },
-  "id": "tr30",
-  "hue": 293
- },
- {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.sportsmole.co.uk/football/frosinone/preview/frosinone-vs-sassuolo-prediction-team-news-lineups_606881.html",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81ztDAOZ-imjtBgzcPlUM3ymMZXhSBApJMKvDACYLc_kwR1LJvMYhpaPIEFo",
-   "credit": "Sports Mole"
-  },
-  "t": {
-   "pt": {
-    "name": "frosinone - sassuolo",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via Sports Mole."
-   },
-   "en": {
-    "name": "frosinone - sassuolo",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via Sports Mole."
-   },
-   "es": {
-    "name": "frosinone - sassuolo",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Sports Mole."
-   }
-  },
-  "id": "tr31",
-  "hue": 330
- },
- {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://xpectrofm.com/alineaciones-de-toulouse-fc-vs-le-mans-fc-estadisticas-horarios-y-donde-ver/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcRPDoto8NKnGpDOa62444LHfOMmGpnEg_w0ftQM0sLNeWBBWKbOdFcQj9czw",
-   "credit": "Xpectro FM"
-  },
-  "t": {
-   "pt": {
-    "name": "le mans vs",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Xpectro FM."
-   },
-   "en": {
-    "name": "le mans vs",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Xpectro FM."
-   },
-   "es": {
-    "name": "le mans vs",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Xpectro FM."
-   }
-  },
-  "id": "tr32",
-  "hue": 7
- },
- {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
+  "collectedAt": "2026-10-16T21:51:56.304Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 7,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cm86zpv292xwt",
+  "sourceUrl": "https://twaslnews1.twaslnews.com/6102506/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5vwx8JxIvMTQLhGnRxkFQHLTnd5lv5rTfDQwhMrWWG0dNeAJYV6E8rIXD3O0",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREELsEWpBm8M-hcgMjrucsxW9PEVNimnTL2eP2dkXT56Ohm-pKHWu4bjhmsdI",
+   "credit": "شبكة تواصل الإخبارية"
   },
   "t": {
    "pt": {
-    "name": "burnley - wolves",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via BBC."
+    "name": "levante vs deportivo la coruña",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via شبكة تواصل الإخبارية."
    },
    "en": {
-    "name": "burnley - wolves",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via BBC."
+    "name": "levante vs deportivo la coruña",
+    "note": "Trending Google search (Mexico) — 200+ searches · via شبكة تواصل الإخبارية."
    },
    "es": {
-    "name": "burnley - wolves",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía BBC."
+    "name": "levante vs deportivo la coruña",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía شبكة تواصل الإخبارية."
    }
   },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-16T18:59:09.515Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 8,
-  "sourceUrl": "https://www.sinembargo.mx/4887990/hoy-no-circula-del-viernes-16-de-octubre-hologramas-y-placas-restringidos-en-la-zmvm/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlvJ3jJ_Ctm_2drjfh4dutU614OtX_Y8nk_9Sxyt2wICS_00rbS0mjulnRGvU",
-   "credit": "Sin Embargo"
-  },
-  "t": {
-   "pt": {
-    "name": "hoy no circula cdmx",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Sin Embargo."
-   },
-   "en": {
-    "name": "hoy no circula cdmx",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Sin Embargo."
-   },
-   "es": {
-    "name": "hoy no circula cdmx",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Sin Embargo."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr30",
+  "hue": 293
  }
 ]
