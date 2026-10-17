@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,871 +72,843 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
+  "sourceUrl": "https://f5.folha.uol.com.br/celebridades/2026/10/harry-e-meghan-fazem-primeira-aparicao-publica-juntos-no-reino-unido-apos-retorno.shtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0rgXqqVhuBzp924l8NN2omv8ytmEOfZrJ_mJD6lZwRuAOg5Nc2ZgkkwVNfX8",
-   "credit": "The Guardian"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRM8jGCoG73GFUuNTtsjwNm6BZ5J-Uv1Rljv_kqT0uazv76FrY-PJkzY7DSVxc",
+   "credit": "UOL"
   },
   "t": {
    "pt": {
-    "name": "newcastle x aston villa",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via The Guardian."
+    "name": "príncipe harry, duque de sussex",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via UOL."
    },
    "en": {
-    "name": "newcastle x aston villa",
-    "note": "Trending Google search (Brazil) — 500+ searches · via The Guardian."
+    "name": "príncipe harry, duque de sussex",
+    "note": "Trending Google search (Brazil) — 200+ searches · via UOL."
    },
    "es": {
-    "name": "newcastle x aston villa",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía The Guardian."
+    "name": "príncipe harry, duque de sussex",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía UOL."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://ge.globo.com/futebol/futebol-internacional/futebol-espanhol/noticia/2026/10/16/betis-x-barcelona-em-laliga-onde-assistir-ao-vivo-e-horario.ghtml",
+  "sourceUrl": "https://ge.globo.com/ce/futebol/times/ceara/noticia/2026/10/16/escalacao-ceara-tem-retorno-de-vina-e-duvida-na-defesa-contra-juventude.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSYPSbo6q_pMEXAe5I1BOTJPDCYQoruYmoqDNcLVkW7cfmAQxjEX5ndyd02cB0",
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_6pN-As15HAUMmqj3am6bFJneRMHjgw0h5P25cb4gtXG7m0Z7uoAKWSIv354",
    "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "real betis x barcelona",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ge."
+    "name": "ceará sc x juventude",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via ge."
    },
    "en": {
-    "name": "real betis x barcelona",
-    "note": "Trending Google search (Brazil) — 200+ searches · via ge."
+    "name": "ceará sc x juventude",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via ge."
    },
    "es": {
-    "name": "real betis x barcelona",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ge."
+    "name": "ceará sc x juventude",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ge."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://ndmais.com.br/futebol/bayern-de-munique-x-rb-leipzig-onde-assistir-ao-vivo-horario-palpite-e-provaveis-escalacoes-pela-bundesliga/",
+  "sourceUrl": "https://www.whoscored.com/news/mcNbjjipRkKC6fR1BFhVcA/show/cng112-20261017-roma-vs-genoa-confirmed-lineup-1792260582",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5qVNwfDJNrAf0x690n7Zm4a1bzSVNrGpV4jVv6r9A6UnWX4nKnHaVZp-3xaQ",
-   "credit": "ND Mais"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSnkYUN1Vr26X9OMk5QQY5Y49VF_tqCIda1Vd1U0PPTicgv43zPwFEOoJGF1n0",
+   "credit": "WhoScored.com"
   },
   "t": {
    "pt": {
-    "name": "bayern x rb leipzig",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ND Mais."
+    "name": "roma fc",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via WhoScored.com."
    },
    "en": {
-    "name": "bayern x rb leipzig",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via ND Mais."
+    "name": "roma fc",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via WhoScored.com."
    },
    "es": {
-    "name": "bayern x rb leipzig",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ND Mais."
+    "name": "roma fc",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía WhoScored.com."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://revistaoeste.com/oestegeral/2026/10/17/usar-papel-higienico-agora-e-coisa-do-passado-essa-nova-tendencia-e-mais-higienica-e-pratica-e-esta-transformando-os-banheiros-em-2027/",
+  "sourceUrl": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/a-nova-pesquisa-presidencial-do-datafolha-a-primeira-apos-a-aprovacao-do-fim-da-escala-6x1.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCGUrORxjwJnMQx8Ee7Cj0d041QqdKwW4e4Kr1PaUNBXXj_3O1RGVRdiMC2IY",
-   "credit": "Revista Oeste"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhvWi7y0QN868Nrcwtk-aaajeaQmKMtOXjU_266hxJGISpPrkAYTreh5nqwPg",
+   "credit": "O GLOBO"
   },
   "t": {
    "pt": {
-    "name": "papel higiênico",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Revista Oeste."
+    "name": "pesquisa para presidente 2026 hoje g1 segundo turno",
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via O GLOBO."
    },
    "en": {
-    "name": "papel higiênico",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Revista Oeste."
+    "name": "pesquisa para presidente 2026 hoje g1 segundo turno",
+    "note": "Trending Google search (Brazil) — 10000+ searches · via O GLOBO."
    },
    "es": {
-    "name": "papel higiênico",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Revista Oeste."
+    "name": "pesquisa para presidente 2026 hoje g1 segundo turno",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía O GLOBO."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://www.espn.com.br/futebol/artigo/_/id/17391512/neymar-se-derrete-por-finalista-da-bola-de-ouro-melhor-do-mundo",
+  "sourceUrl": "https://lepetitlillois.com/2026/10/17/losc-stade-brestois-yondjo-pros-srdanovic-encore-carreau/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcW_xW47MsJkkD6wzraGqyFEW_zO7XkTYHWy3v2OdCEexKTunfCDlJEznVnAM",
-   "credit": "ESPN Brasil"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTduOtGlCRkf_60dk5qyVyYXN0Ei7GEvjyBbdS-XDWCXQ0xrGqAzb16Rdhp5fM",
+   "credit": "Le Petit Lillois"
   },
   "t": {
    "pt": {
-    "name": "bola de ouro",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ESPN Brasil."
+    "name": "losc x stade brestois",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Le Petit Lillois."
    },
    "en": {
-    "name": "bola de ouro",
-    "note": "Trending Google search (Brazil) — 200+ searches · via ESPN Brasil."
+    "name": "losc x stade brestois",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Le Petit Lillois."
    },
    "es": {
-    "name": "bola de ouro",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ESPN Brasil."
+    "name": "losc x stade brestois",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Le Petit Lillois."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/17/advogado-amigo-de-flavio-recebia-votos-do-stj-e-pareceres-do-mpf-vazados.htm",
+  "sourceUrl": "https://www.fubo.tv/news/soccer/lille-osc-vs-stade-brestois-where-to-watch-stream-info-tv-channel-and-live-updates-october-17-2026/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW42u7CzooJd-4OaEkDo4tYk1jVqKrTrdAyWgpRTflFGvmOCsLiw9yrzb9oaw",
-   "credit": "UOL Notícias"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTe_aqetT2ME0T7v4lc2S1Vo-EkIz5ZT7GTiYT0hPIDpsdP-NyuuFjxS5S0SAY",
+   "credit": "Fubo"
   },
   "t": {
    "pt": {
-    "name": "advogado",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via UOL Notícias."
+    "name": "lille",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Fubo."
    },
    "en": {
-    "name": "advogado",
-    "note": "Trending Google search (Brazil) — 500+ searches · via UOL Notícias."
+    "name": "lille",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Fubo."
    },
    "es": {
-    "name": "advogado",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía UOL Notícias."
+    "name": "lille",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Fubo."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 7,
-  "sourceUrl": "https://g1.globo.com/to/tocantins/noticia/2026/10/16/policia-investiga-motivacao-de-ataque-a-tiros-em-casa-de-professora.ghtml",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.bbc.com/sport/football/live/c95yng7x4kxkt",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQckoJBgYj2jel6ABAhvm4D6fqnf8QCImXOR4wTPIAfPCFB5GP7-mnZzl4tYFE",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "estudante de medicina",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
+    "name": "losc vs brest",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via BBC."
    },
    "en": {
-    "name": "estudante de medicina",
-    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
+    "name": "losc vs brest",
+    "note": "Trending Google search (US) — 500+ searches · via BBC."
    },
    "es": {
-    "name": "estudante de medicina",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
+    "name": "losc vs brest",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía BBC."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://www.liverpoolfc.com/news/match-report-liverpool-leicester-u18-premier-league",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.bbc.com/sport/football/live/crvg68lny7eyt",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgbF9MHLyhFcc-TEVkp7Z2yZsaX9vSV396HmmcoEZEEpJiQeT4YrgkQwTsepk",
-   "credit": "Liverpool FC"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "liverpool fc",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Liverpool FC."
+    "name": "troyes vs lens",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via BBC."
    },
    "en": {
-    "name": "liverpool fc",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Liverpool FC."
+    "name": "troyes vs lens",
+    "note": "Trending Google search (US) — 200+ searches · via BBC."
    },
    "es": {
-    "name": "liverpool fc",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Liverpool FC."
+    "name": "troyes vs lens",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía BBC."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cqj34xe0dy2kt",
+  "rank": 3,
+  "sourceUrl": "https://sports.yahoo.com/articles/unlv-vs-air-force-prediction-101515321.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJA3u60fG2CPSgCSOOw8h-qKM_hVw8OmiHOcX7mIYhnXANl2EAzRbIy6GgOtc",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjqJqKiQ6txR1z3AQYk16q6ZrxWbRC7AnHv-o8BEqLgpFv1JLK3A1ofDeJP0",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "newcastle vs aston villa",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via BBC."
+    "name": "unlv vs air force",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "newcastle vs aston villa",
-    "note": "Trending Google search (US) — 500+ searches · via BBC."
+    "name": "unlv vs air force",
+    "note": "Trending Google search (US) — 1000+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "newcastle vs aston villa",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía BBC."
+    "name": "unlv vs air force",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.flowrestling.org/articles/16253901-mens-freestyle-team-standings-2026-u23-world-championships",
+  "rank": 4,
+  "sourceUrl": "https://sports.yahoo.com/articles/northern-illinois-vs-wyoming-prediction-095253451.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_Q2X2xSNbJnYC_gcQsiHtUkISMMClYz6o2mZhvu1MEvSH4IEDD-GrvK1vJZo",
-   "credit": "FloWrestling"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79lkX-0s_rGzV8wr6XjqVDRtuce1adeVtIa4WYwlPmoa0jEbevHzNXdUA87c",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "championship standings",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via FloWrestling."
+    "name": "northern il vs wyoming",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "championship standings",
-    "note": "Trending Google search (US) — 200+ searches · via FloWrestling."
+    "name": "northern il vs wyoming",
+    "note": "Trending Google search (US) — 1000+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "championship standings",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía FloWrestling."
+    "name": "northern il vs wyoming",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.sportschau.de/regional/br/br-kompany-beschwoert-allerbeste-version-des-fc-bayern-102.html",
+  "rank": 5,
+  "sourceUrl": "https://www.ansa.it/sito/notizie/politica/2026/10/17/landini-in-piazza-a-roma-sciopero-generale-il-20-novembre_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuztQebFvKSex5otqV_eTYO0qROSk9tR8eubBu9fN5GsJqAxT_Zeou4C-eUgw",
-   "credit": "sportschau.de"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTr6hAQxA89Ia7AwmJFGP5E07ESsgndi227BXO01QprB2NGMEoLRrWmQ9nHsa0",
+   "credit": "ANSA"
   },
   "t": {
    "pt": {
-    "name": "bayern vs rb leipzig",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via sportschau.de."
+    "name": "roma",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via ANSA."
    },
    "en": {
-    "name": "bayern vs rb leipzig",
-    "note": "Trending Google search (US) — 2000+ searches · via sportschau.de."
+    "name": "roma",
+    "note": "Trending Google search (US) — 1000+ searches · via ANSA."
    },
    "es": {
-    "name": "bayern vs rb leipzig",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía sportschau.de."
+    "name": "roma",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía ANSA."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://sports.yahoo.com/articles/watch-rutgers-vs-maryland-live-153000205.html",
+  "rank": 6,
+  "sourceUrl": "https://www.foxsports.com/stories/college-football/how-to-watch-missouri-vs-ole-miss-tv-channel-live-stream-time-oct-17-2026",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHAxSRSQT8G1OcThnbub-upLW-Rosq1vB6RjnCUjzqmlwllsGDjeyTeKHoSq0",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSF8Fzjd1Em8Givk-yF3sx1iR691Jlc_khlX7gp9T8kezNuZ_xyyXB0w1X_GBc",
+   "credit": "FOX Sports"
   },
   "t": {
    "pt": {
-    "name": "rutgers vs maryland",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Yahoo Sports."
+    "name": "missouri vs ole miss",
+    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via FOX Sports."
    },
    "en": {
-    "name": "rutgers vs maryland",
-    "note": "Trending Google search (US) — 1000+ searches · via Yahoo Sports."
+    "name": "missouri vs ole miss",
+    "note": "Trending Google search (US) — 10000+ searches · via FOX Sports."
    },
    "es": {
-    "name": "rutgers vs maryland",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Yahoo Sports."
+    "name": "missouri vs ole miss",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía FOX Sports."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-yemen-houthis-saudi-arabia/",
+  "rank": 7,
+  "sourceUrl": "https://www.cbssports.com/prediction/news/texas-tech-vs-arizona-state-odds-picks-cfb-predictions-use-polymarket-promo-code-cbssports-for-25-bonus/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFWprLPHfLYSECaD6qxoGYvy4sYDvYNWB2L9xGYup4dZlQfXHp29bGB5CfxgA",
-   "credit": "CBS News"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFsSbgwlJ5wbi4wrOB2JvJ9RNacMnZ3kkQzghWoKCV1kDZ544jvUU1B0qFJMU",
+   "credit": "CBS Sports"
   },
   "t": {
    "pt": {
-    "name": "us-iran",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via CBS News."
+    "name": "arizona state vs texas tech",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via CBS Sports."
    },
    "en": {
-    "name": "us-iran",
-    "note": "Trending Google search (US) — 1000+ searches · via CBS News."
+    "name": "arizona state vs texas tech",
+    "note": "Trending Google search (US) — 5000+ searches · via CBS Sports."
    },
    "es": {
-    "name": "us-iran",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía CBS News."
+    "name": "arizona state vs texas tech",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía CBS Sports."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.si.com/soccer/real-betis-vs-barcelona-preview-predictions-lineups-10-17-26",
+  "rank": 8,
+  "sourceUrl": "https://hokiesports.com/news/2026/10/16/tune-in-virginia-tech-vs-georgia-tech26",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFQJtBB-5D77AHkvghysbUlOp7VSgtkMb-j904y7gyoqEbbByvMv4hCH9zVUc",
-   "credit": "Sports Illustrated"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTK-cImSK4wUqMLjVlxcKk41-6T8tU1O5Fq7vfqfuo3u-n0lllHxrHIBOCdDmE",
+   "credit": "Virginia Tech Athletics"
   },
   "t": {
    "pt": {
-    "name": "barcelona vs betis",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Sports Illustrated."
+    "name": "georgia tech vs virginia tech",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Virginia Tech Athletics."
    },
    "en": {
-    "name": "barcelona vs betis",
-    "note": "Trending Google search (US) — 500+ searches · via Sports Illustrated."
+    "name": "georgia tech vs virginia tech",
+    "note": "Trending Google search (US) — 2000+ searches · via Virginia Tech Athletics."
    },
    "es": {
-    "name": "barcelona vs betis",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Sports Illustrated."
+    "name": "georgia tech vs virginia tech",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Virginia Tech Athletics."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/ck054nlprm0dt",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.chiesaditotti.com/roma-matchday-coverage/43806/probable-formation-roma-vs-genoa",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS90zOpRzbbx7FQzdybMeMyEIimgGy8FptktGZ_Q3mAmqf4uqTucZRurkJWcaA",
+   "credit": "Chiesa Di Totti"
   },
   "t": {
    "pt": {
-    "name": "bologna vs inter",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via BBC."
+    "name": "roma fc",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Chiesa Di Totti."
    },
    "en": {
-    "name": "bologna vs inter",
-    "note": "Trending Google search (US) — 2000+ searches · via BBC."
+    "name": "roma fc",
+    "note": "Trending Google search (Argentina) — 500+ searches · via Chiesa Di Totti."
    },
    "es": {
-    "name": "bologna vs inter",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía BBC."
+    "name": "roma fc",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Chiesa Di Totti."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-repond-aux-critiques-d-enzo-maresca-sur-la-faiblesse-de-la-ligue-1-qui-avantagerait-le-psg-du-bruit-du-bruit/1736204",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/17/s-martin-b-vs-excursion-en-vivo-por-la-fecha-40-de-la-primera-division-b-hora-donde-ver-y-formaciones/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnTPLG2A_p4-FwPnwMIAjzXUYCb0RmA5_BuntI04JbBh7BrnBdrYZnBCiXuJY",
-   "credit": "L&apos;Équipe"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTV13uLY8LLKV69htFBuWboiyQKOtG4tyo1VcIbS6IkjDYt6K-2x8VH69WlX4U",
+   "credit": "TN"
   },
   "t": {
    "pt": {
-    "name": "ligue 1",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via L&apos;Équipe."
+    "name": "excursionistas",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via TN."
    },
    "en": {
-    "name": "ligue 1",
-    "note": "Trending Google search (US) — 1000+ searches · via L&apos;Équipe."
+    "name": "excursionistas",
+    "note": "Trending Google search (Argentina) — 100+ searches · via TN."
    },
    "es": {
-    "name": "ligue 1",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía L&apos;Équipe."
+    "name": "excursionistas",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TN."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.marca.com/futbol/laliga-ea-sports/betis-barcelona/2026/10/17/01_0101_20261017_185_178-directo.html",
+  "rank": 3,
+  "sourceUrl": "https://www.pinkbike.com/news/results-2026-red-bull-hardline-bc-finals.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXh-3-FnllnQyxETBB-kDpJAdHymmhm3rACT6eYuhej53z-cPGKYEKpVxvyjY",
-   "credit": "MARCA"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRezACPpxPfYagc9rnJmymkQSYmbMD6jXRw4vgwzQ7tICy9aQke3jmxQ7IFD8w",
+   "credit": "Pinkbike"
   },
   "t": {
    "pt": {
-    "name": "real betis - barcelona",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via MARCA."
+    "name": "red bull tv",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Pinkbike."
    },
    "en": {
-    "name": "real betis - barcelona",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via MARCA."
+    "name": "red bull tv",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Pinkbike."
    },
    "es": {
-    "name": "real betis - barcelona",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía MARCA."
+    "name": "red bull tv",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Pinkbike."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.bild.de/sport/fussball/fc-bayern-entscheidung-um-manuel-neuer-im-training-vor-leipzig-topspiel-gefallen-6ad2189e51e5094f7a56eb9d",
+  "rank": 4,
+  "sourceUrl": "https://www.tycsports.com/ecuador/futbol-de-ecuador/macara-vs-independiente-del-valle-en-vivo-donde-ver-por-tv-y-online-id766774.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaLaoCSdhQQS-7N3lDeCamsM_pfQTMZZbIC1F4baUEgKd07C8KrCgH8Sk99cM",
-   "credit": "BILD"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQYrQWfvIKCDDOYityytUVGi9IPiN1pvdFW67LRVnOWJNxfx0d9mwYDUgYhsY",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "bayern - rb leipzig",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via BILD."
+    "name": "macará - independiente del valle",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "bayern - rb leipzig",
-    "note": "Trending Google search (Argentina) — 500+ searches · via BILD."
+    "name": "macará - independiente del valle",
+    "note": "Trending Google search (Argentina) — 200+ searches · via TyC Sports."
    },
    "es": {
-    "name": "bayern - rb leipzig",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía BILD."
+    "name": "macará - independiente del valle",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.theguardian.com/football/live/2026/oct/17/newcastle-v-aston-villa-premier-league-live",
+  "rank": 5,
+  "sourceUrl": "https://www.lanacion.com.ar/espectaculos/personajes/jaime-yankelevich-el-aventurero-ilustre-que-fundo-la-television-argentina-y-reconvirtio-una-tragedia-nid17102026/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0rgXqqVhuBzp924l8NN2omv8ytmEOfZrJ_mJD6lZwRuAOg5Nc2ZgkkwVNfX8",
-   "credit": "The Guardian"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT6dlg7raI175MW_Z3f9DeirAxnBjzUL2tkChRrv7Uy45fgaO35-c7E8pAg99Q",
+   "credit": "La Nación"
   },
   "t": {
    "pt": {
-    "name": "newcastle - aston villa",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via The Guardian."
+    "name": "argentinos",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nación."
    },
    "en": {
-    "name": "newcastle - aston villa",
-    "note": "Trending Google search (Argentina) — 200+ searches · via The Guardian."
+    "name": "argentinos",
+    "note": "Trending Google search (Argentina) — 200+ searches · via La Nación."
    },
    "es": {
-    "name": "newcastle - aston villa",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía The Guardian."
+    "name": "argentinos",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-repond-aux-critiques-d-enzo-maresca-sur-la-faiblesse-de-la-ligue-1-qui-avantagerait-le-psg-du-bruit-du-bruit/1736204",
+  "rank": 6,
+  "sourceUrl": "https://cnnespanol.cnn.com/2026/10/16/ciencia/astronomos-descubierto-primera-estrella-verde-trax",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnTPLG2A_p4-FwPnwMIAjzXUYCb0RmA5_BuntI04JbBh7BrnBdrYZnBCiXuJY",
-   "credit": "L&apos;Équipe"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHJ3kWNpsYXPaIiE0DiP4HOkHe7vacf3ve207p3Nh74eCcsT7gXCCQHueEmiA",
+   "credit": "CNN en Español"
   },
   "t": {
    "pt": {
-    "name": "ligue 1",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via L&apos;Équipe."
+    "name": "estrella verde",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via CNN en Español."
    },
    "en": {
-    "name": "ligue 1",
-    "note": "Trending Google search (Argentina) — 200+ searches · via L&apos;Équipe."
+    "name": "estrella verde",
+    "note": "Trending Google search (Argentina) — 100+ searches · via CNN en Español."
    },
    "es": {
-    "name": "ligue 1",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía L&apos;Équipe."
+    "name": "estrella verde",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía CNN en Español."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cmn8wvygn806t",
+  "rank": 7,
+  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/17/acassuso-vs-dep-madryn-en-vivo-por-la-fecha-34-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxYuf1wPDAM4igUJWbySNKqWxCm13YX3VI6RAQAa87ma1FQS4eS1XQ-ehY37c",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQb2S8fDctW0uToYKQ64Gt7tVFOCyK0ix_okOjFwrv4eBc9ZlJJ6qYqdJienZg",
+   "credit": "TN"
   },
   "t": {
    "pt": {
-    "name": "wrexham - preston",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via BBC."
+    "name": "acassuso - deportivo madryn",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via TN."
    },
    "en": {
-    "name": "wrexham - preston",
-    "note": "Trending Google search (Argentina) — 100+ searches · via BBC."
+    "name": "acassuso - deportivo madryn",
+    "note": "Trending Google search (Argentina) — 500+ searches · via TN."
    },
    "es": {
-    "name": "wrexham - preston",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía BBC."
+    "name": "acassuso - deportivo madryn",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía TN."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/ck054nlprm0dt",
+  "rank": 8,
+  "sourceUrl": "https://www.tycsports.com/boca-juniors/oficial-el-estadio-malvinas-argentinas-sera-la-sede-para-la-semifinal-entre-boca-y-banfield-por-la-copa-argentina-id766969.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQstK4VIVMpt6bUTbCyHhRY8z-jL1jkEBnjDAkD5xlk3sbcqJojMvssV7YXtEE",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "bolonia - inter",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via BBC."
+    "name": "banfield",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "bolonia - inter",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via BBC."
+    "name": "banfield",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via TyC Sports."
    },
    "es": {
-    "name": "bolonia - inter",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía BBC."
+    "name": "banfield",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.liverpoolfc.com/news/fitness-update-andoni-iraola-gakpo-isak-szoboszlai-changes-brentford",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.yahoo.com/entertainment/celebrity/articles/quote-day-denzel-washington-never-082500464.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdGhZ-pXLeK_sQNOZGFraZQIBf_z6ayAIMIWKoUQqrIlmHk56QBZ3IzPVZJ5I",
-   "credit": "Liverpool FC"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDDNh3vA921zA8tcdhcChHdNdj5h9HO4UUmes3mRpmIULbkSa_MMLDmNF0GLU",
+   "credit": "Yahoo"
   },
   "t": {
    "pt": {
-    "name": "liverpool vs",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Liverpool FC."
+    "name": "denzel washington",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo."
    },
    "en": {
-    "name": "liverpool vs",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Liverpool FC."
+    "name": "denzel washington",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo."
    },
    "es": {
-    "name": "liverpool vs",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Liverpool FC."
+    "name": "denzel washington",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://www.infobae.com/deportes/2026/10/17/el-demoledor-nocaut-del-argentino-emiliano-sordi-en-la-pfl-que-le-permitio-volver-a-ganar-una-pelea-tras-cinco-anos/",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/17/capital/asustame-panteon-ambulantes-toman-el-centro-y-reforma",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ384x7FFGJXInqSR-jU4js3gIwG4RtByZIcuYytdmzKmGrhamLcKmCffr-e1I",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSC5XU8-o_uvXwUZQpiRaIsAMyVnVpCQjHIooJ2SDwGGq9BDZY1UelGwy_SwFY",
+   "credit": "La Jornada"
   },
   "t": {
    "pt": {
-    "name": "emiliano sordi",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Infobae."
+    "name": "desfile de dia de muertos 2026",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via La Jornada."
    },
    "en": {
-    "name": "emiliano sordi",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Infobae."
+    "name": "desfile de dia de muertos 2026",
+    "note": "Trending Google search (Mexico) — 200+ searches · via La Jornada."
    },
    "es": {
-    "name": "emiliano sordi",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Infobae."
+    "name": "desfile de dia de muertos 2026",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía La Jornada."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.foot01.com/paris/les-six-pepites-de-ligue-1-qui-font-saliver-le-psg",
+  "rank": 3,
+  "sourceUrl": "https://lepetitlillois.com/2026/10/17/losc-stade-brestois-yondjo-pros-srdanovic-encore-carreau/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSyt0SJEejYmrmnc8rn5ku2iC8wAN5-Or4K2Knj_w0hZdfhOSEPA4HH45eGEeI",
-   "credit": "Foot01"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTduOtGlCRkf_60dk5qyVyYXN0Ei7GEvjyBbdS-XDWCXQ0xrGqAzb16Rdhp5fM",
+   "credit": "Le Petit Lillois"
   },
   "t": {
    "pt": {
-    "name": "paris saint germain",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Foot01."
+    "name": "losc - stade brestois",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Le Petit Lillois."
    },
    "en": {
-    "name": "paris saint germain",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Foot01."
+    "name": "losc - stade brestois",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Le Petit Lillois."
    },
    "es": {
-    "name": "paris saint germain",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Foot01."
+    "name": "losc - stade brestois",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Le Petit Lillois."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://es-us.noticias.yahoo.com/deportes/8-d%C3%ADas-cambiarlo-tormentas-amenazan-101406159.html",
+  "rank": 4,
+  "sourceUrl": "https://www.sportsmole.co.uk/football/valencia/preview/valencia-vs-athletic-bilbao-prediction-team-news-lineups_607000.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeXo9SKFQOjoRxUjD-HLx_e0nA_FLMrNIfEmB8_XWX3fPWUy0iGqtaIw07Zh8",
-   "credit": "Yahoo"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCyyXav1ERhefOl2AURLJzDpgyk7HBl4IBD-z90io9fYB8k2n4597hzkcxIvA",
+   "credit": "Sports Mole"
   },
   "t": {
    "pt": {
-    "name": "real madrid vs barcelona",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo."
+    "name": "valencia vs ath bilbao",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Sports Mole."
    },
    "en": {
-    "name": "real madrid vs barcelona",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo."
+    "name": "valencia vs ath bilbao",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Sports Mole."
    },
    "es": {
-    "name": "real madrid vs barcelona",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo."
+    "name": "valencia vs ath bilbao",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Sports Mole."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-a-paris-et-dans-les-grandes-villes-de-france-des-corteges-calmes-et-des-scenes-d-affrontements-avec-les-forces-de-l-ordre_6795855_3224.html",
+  "rank": 5,
+  "sourceUrl": "https://www.independent.co.uk/sport/football/champions-league-power-rankings-matchday-two-b3065715.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbN1A24tWqPUonOhOaGfFNvKNI6CKEU_6P_jq_clH0SRqy7WBUEENwVXueETo",
-   "credit": "Le Monde.fr"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkCJZ15OSBwE4m7NLUuwssWVQenuw-S7--D6mU8gnKWD8zc07WPhFb03dHjNw",
+   "credit": "The Independent"
   },
   "t": {
    "pt": {
-    "name": "paris",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Le Monde.fr."
+    "name": "barca vs psg",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via The Independent."
    },
    "en": {
-    "name": "paris",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Le Monde.fr."
+    "name": "barca vs psg",
+    "note": "Trending Google search (Mexico) — 100+ searches · via The Independent."
    },
    "es": {
-    "name": "paris",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Le Monde.fr."
+    "name": "barca vs psg",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía The Independent."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.marca.com/futbol/laliga-ea-sports/betis-barcelona/2026/10/17/01_0101_20261017_185_178-directo.html",
+  "rank": 6,
+  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/17/sociedad/papa-leon-xiv-sale-del-hospital-tras-ser-operado-de-cancer-de-pulmon",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRXh-3-FnllnQyxETBB-kDpJAdHymmhm3rACT6eYuhej53z-cPGKYEKpVxvyjY",
-   "credit": "MARCA"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_ViXpuRYucRGAwgnfK6ebGQkTbWWhp3F_0agJZi5TOblSBUXAmTANAHA2_wY",
+   "credit": "La Jornada"
   },
   "t": {
    "pt": {
-    "name": "real betis - barcelona",
-    "note": "Busca em alta no Google (México) — 10000+ buscas · via MARCA."
+    "name": "roma",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via La Jornada."
    },
    "en": {
-    "name": "real betis - barcelona",
-    "note": "Trending Google search (Mexico) — 10000+ searches · via MARCA."
+    "name": "roma",
+    "note": "Trending Google search (Mexico) — 200+ searches · via La Jornada."
    },
    "es": {
-    "name": "real betis - barcelona",
-    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía MARCA."
+    "name": "roma",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía La Jornada."
    }
   },
   "id": "tr31",
   "hue": 330
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.bild.de/sport/fussball/fc-bayern-entscheidung-um-manuel-neuer-im-training-vor-leipzig-topspiel-gefallen-6ad2189e51e5094f7a56eb9d",
+  "rank": 7,
+  "sourceUrl": "https://xpectrofm.com/alineaciones-de-lille-vs-brest-estadisticas-horarios-y-donde-ver-2/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQaLaoCSdhQQS-7N3lDeCamsM_pfQTMZZbIC1F4baUEgKd07C8KrCgH8Sk99cM",
-   "credit": "BILD"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSeto9nO5b9syAyY7nTK0hBM8sZNoW7k9lk4XC1hDaSmW_gVEz7jxMhgJZBsy4",
+   "credit": "Xpectro FM"
   },
   "t": {
    "pt": {
-    "name": "bayern - rb leipzig",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via BILD."
+    "name": "lille vs",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Xpectro FM."
    },
    "en": {
-    "name": "bayern - rb leipzig",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via BILD."
+    "name": "lille vs",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Xpectro FM."
    },
    "es": {
-    "name": "bayern - rb leipzig",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía BILD."
+    "name": "lille vs",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Xpectro FM."
    }
   },
   "id": "tr32",
   "hue": 7
  },
  {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
+  "collectedAt": "2026-10-17T18:51:32.394Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.lequipe.fr/Football/Article/Baisse-de-rendement-statut-de-titulaire-discute-joao-neves-un-declassement-provisoire-avec-le-psg/1736299",
+  "rank": 8,
+  "sourceUrl": "https://elpais.com/mexico/2026-10-17/la-enfermedad-cronica-del-sistema-de-salud-mexicano.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQWBIofQiKiYRJ1HQWy28w-UX2zMzAtfBQkBaV7MDBKQSEy7SeZ0F2p6YCrvYU",
-   "credit": "L&apos;Équipe"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUWxq-EUOx3fgRGMmsdw85hHfb99EkKr1ciHK7k_5qbWHiCv6a3JS1kiw4Qaw",
+   "credit": "EL PAÍS"
   },
   "t": {
    "pt": {
-    "name": "psg",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via L&apos;Équipe."
+    "name": "enfermedad crónica",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via EL PAÍS."
    },
    "en": {
-    "name": "psg",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via L&apos;Équipe."
+    "name": "enfermedad crónica",
+    "note": "Trending Google search (Mexico) — 200+ searches · via EL PAÍS."
    },
    "es": {
-    "name": "psg",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía L&apos;Équipe."
+    "name": "enfermedad crónica",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía EL PAÍS."
    }
   },
   "id": "tr33",
   "hue": 44
- },
- {
-  "collectedAt": "2026-10-17T15:47:52.632Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.lequipe.fr/Football/Actualites/Luis-enrique-repond-aux-critiques-d-enzo-maresca-sur-la-faiblesse-de-la-ligue-1-qui-avantagerait-le-psg-du-bruit-du-bruit/1736204",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnTPLG2A_p4-FwPnwMIAjzXUYCb0RmA5_BuntI04JbBh7BrnBdrYZnBCiXuJY",
-   "credit": "L&apos;Équipe"
-  },
-  "t": {
-   "pt": {
-    "name": "ligue 1",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via L&apos;Équipe."
-   },
-   "en": {
-    "name": "ligue 1",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via L&apos;Équipe."
-   },
-   "es": {
-    "name": "ligue 1",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía L&apos;Équipe."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
  }
 ]
