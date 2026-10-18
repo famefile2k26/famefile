@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,867 +72,843 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www.goal.com/br/listas/mikel-arteta-aposta-que-kai-havertz-pode-se-tornar-um-atacante-de-30-gols-tecnico-do-arsenal-elogia-o-qi-futebolistico-do-alemao-em-meio-as-dificuldades-de-viktor-gyokeres/blt1e54e99b69eed868",
+  "sourceUrl": "https://www.lemonde.fr/societe/article/2026/10/17/mobilisation-du-17-octobre-a-lyon-l-office-du-tourisme-incendie-au-cours-d-une-journee-chaotique_6796690_3224.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYEgQF5EY5i6v8Bu8s6m2lO4nPFqzv6X71aEhebZyKDYI8cEheqxLDAcBW6T4",
-   "credit": "Goal.com"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRhL1EskT1KNBvwd0MKRGXXFvJos4_ChjoR5lERY0GAeAW95K_AuzY9Ven8t9w",
+   "credit": "Le Monde.fr"
   },
   "t": {
    "pt": {
-    "name": "arsenal fc",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Goal.com."
+    "name": "lyon",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Le Monde.fr."
    },
    "en": {
-    "name": "arsenal fc",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Goal.com."
+    "name": "lyon",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Le Monde.fr."
    },
    "es": {
-    "name": "arsenal fc",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Goal.com."
+    "name": "lyon",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Le Monde.fr."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://www.ogol.com.br/jogo/2026-10-18-borussia-m-gladbach-tsg-hoffenheim/12279269",
+  "sourceUrl": "https://as.com/futbol/primera/real-madrid-sevilla-hoy-en-directo-laliga-ea-sports-en-vivo-ultima-hora-en-el-bernabeu-f202610-d/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT20voehAxniiPwQB3bNUfa13wIutuCGmsx5vtMYa1wfe7cSdv88bmb6JhwsnE",
-   "credit": "ogol.com.br"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiF3T5mBUoMW3DcIUHAl-tItu7Q6_qtTV4CA8UVT_YiXAs-hrFDt2k19S9ZLQ",
+   "credit": "Diario AS"
   },
   "t": {
    "pt": {
-    "name": "mönchengladbach x hoffenheim",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ogol.com.br."
+    "name": "real madrid - sevilla",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Diario AS."
    },
    "en": {
-    "name": "mönchengladbach x hoffenheim",
-    "note": "Trending Google search (Brazil) — 200+ searches · via ogol.com.br."
+    "name": "real madrid - sevilla",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via Diario AS."
    },
    "es": {
-    "name": "mönchengladbach x hoffenheim",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ogol.com.br."
+    "name": "real madrid - sevilla",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Diario AS."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cq62j1yn44jxt?page=2",
+  "sourceUrl": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/18-10-2026/gremio-cruzeiro.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9O62NNG_1sGvdduDnoy5_lpCApozLomdkSaYjcleomp1Yj7dZ-7bi4JX3dB4",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQzaCBuLudNPL115yOY5N6hSiHoinzNfXfIx2bSYlL-vBiEhtTbqkhQEAnDIWI",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "nottm forest vs arsenal",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via BBC."
+    "name": "grêmio vs cruzeiro",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via ge."
    },
    "en": {
-    "name": "nottm forest vs arsenal",
-    "note": "Trending Google search (Brazil) — 200+ searches · via BBC."
+    "name": "grêmio vs cruzeiro",
+    "note": "Trending Google search (Brazil) — 500+ searches · via ge."
    },
    "es": {
-    "name": "nottm forest vs arsenal",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía BBC."
+    "name": "grêmio vs cruzeiro",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía ge."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+  "sourceUrl": "https://gshow.globo.com/carnaval/2027/noticia/coracao-de-paolla-oliveira-incentivo-a-virginia-selinho-em-iza-e-mais-veja-tudo-que-rolou.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTcTdhpwQGGWR2jaXTU4VmEZIhMreSRNK0LLb1cE9SmlpzI3adWNB2Nuy9PBSw",
-   "credit": "The Decoder"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp3pJ2TawwWcltAJlkOkniPNQr4J4ex1vdA5jfuOOCQSkVNSYuR9Q-m8b4KLM",
+   "credit": "Gshow"
   },
   "t": {
    "pt": {
-    "name": "google gemini",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via The Decoder."
+    "name": "leo dias",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Gshow."
    },
    "en": {
-    "name": "google gemini",
-    "note": "Trending Google search (Brazil) — 500+ searches · via The Decoder."
+    "name": "leo dias",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via Gshow."
    },
    "es": {
-    "name": "google gemini",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía The Decoder."
+    "name": "leo dias",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Gshow."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://www.lance.com.br/sem-categoria/ronald-de-boer-compara-marcos-leonardo-a-fracasso-do-ajax.html",
+  "sourceUrl": "https://www.estadao.com.br/esportes/futebol/real-madrid-x-sevilla-em-laliga-onde-assistir-ao-vivo-horario-e-escalacao/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCg4L9GMgJQW9LR-gxkUDVDyyi1QF5aCPSnAbNuSFu_903BugrA4AfC0mLVBA",
-   "credit": "LANCE!"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSne2wdkqiUp8lgcIrwj8h1v0_qGnE5DMewCwVMF14x7dU72iMLYartViQqy1o",
+   "credit": "Estadão"
   },
   "t": {
    "pt": {
-    "name": "ajax",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via LANCE!."
+    "name": "escalações de real madrid x sevilla",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Estadão."
    },
    "en": {
-    "name": "ajax",
-    "note": "Trending Google search (Brazil) — 500+ searches · via LANCE!."
+    "name": "escalações de real madrid x sevilla",
+    "note": "Trending Google search (Brazil) — 500+ searches · via Estadão."
    },
    "es": {
-    "name": "ajax",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía LANCE!."
+    "name": "escalações de real madrid x sevilla",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Estadão."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://ge.globo.com/pr/futsal/ao-vivo/copa-das-nacoes-de-futsal-assista-ao-vivo-aos-jogos-das-semifinais.ghtml",
+  "sourceUrl": "https://www.nu.nl/sport/6413545/live-eredivisie-fc-twente-raakt-de-paal-tegen-fc-utrecht-nec-op-achterstand.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnW6zkCn8XMqzeWDSfdr73rHGOTgXF6BbAzFjof05FI_5EsLIqhSeK5Q60j28",
-   "credit": "ge"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4f9EX6XHgOEiNJSkaneYsmqQadgC-_OrNZ--5QBjBSAAvejQMXGyGt3VvZOs",
+   "credit": "NU"
   },
   "t": {
    "pt": {
-    "name": "brasil futsal",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ge."
+    "name": "twente",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via NU."
    },
    "en": {
-    "name": "brasil futsal",
-    "note": "Trending Google search (Brazil) — 200+ searches · via ge."
+    "name": "twente",
+    "note": "Trending Google search (Brazil) — 200+ searches · via NU."
    },
    "es": {
-    "name": "brasil futsal",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ge."
+    "name": "twente",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía NU."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/noticia/2026/10/18/fluminense-x-santos-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+  "sourceUrl": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2026/10/18/avai-x-athletic-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrTtOO87E7Sg2-H1gzcDIfLs-yLAZBX8M4zPPblnHs5AVUW2Zxds3iObMoCD4",
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRciJlpzbTgO2RWAUD0Jnj-tKCVmB6YtreReoubFRBU3NS0iFLbvapquQtL38Q",
    "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "fluminense x santos",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via ge."
+    "name": "avaí x athletic",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ge."
    },
    "en": {
-    "name": "fluminense x santos",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via ge."
+    "name": "avaí x athletic",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via ge."
    },
    "es": {
-    "name": "fluminense x santos",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía ge."
+    "name": "avaí x athletic",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ge."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 8,
-  "sourceUrl": "https://www.espn.com/watch/player/_/id/50206693",
+  "sourceUrl": "https://ge.globo.com/al/futebol/brasileirao-serie-b/jogo/18-10-2026/crb-botafogo-sp.ghtml",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLcuX0yr1ACd8nz3fSW00NyFX21AcOnj3NCVWY9ikCXbE6rMqFfjzrxpFXZc4",
+   "credit": "ge"
+  },
   "t": {
    "pt": {
-    "name": "junior alonso",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via ESPN."
+    "name": "crb x botafogo sp",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ge."
    },
    "en": {
-    "name": "junior alonso",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via ESPN."
+    "name": "crb x botafogo sp",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via ge."
    },
    "es": {
-    "name": "junior alonso",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía ESPN."
+    "name": "crb x botafogo sp",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ge."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
-  "sourceUrl": "https://www.vietnam.vn/es/nhan-dinh-malaga-vs-real-sociedad-diem-nong-cuoc-dua-top-dau",
+  "sourceUrl": "https://sports.yahoo.com/articles/york-jets-activate-omar-cooper-152032972.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCZ15Gh6wZW_8G5330Zg9z7pfxgfeMDak99rkdVEBZc250U1oOA4o1LyWZc-k",
-   "credit": "Vietnam.vn"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO9P0ppYBHeF-Xl9C3NVu8kkNaUea_eCfg7qc94KflAKTSL-vAkr3x8OZ6zi4",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "málaga - real sociedad",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Vietnam.vn."
+    "name": "omar cooper jr.",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "málaga - real sociedad",
-    "note": "Trending Google search (US) — 1000+ searches · via Vietnam.vn."
+    "name": "omar cooper jr.",
+    "note": "Trending Google search (US) — 2000+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "málaga - real sociedad",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Vietnam.vn."
+    "name": "omar cooper jr.",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 2,
-  "sourceUrl": "https://screenrant.com/timothy-olyphant-the-good-place-cameo/",
+  "sourceUrl": "https://www.syracuse.com/orangebasketball/2026/10/syracuse-basketball-at-siena-in-exhibition-live-score-updates.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRq4-XnMcOTyUw5FMKlzCvgMa4n_WmGOD7Y03lOWDA_ZJcVp_nfJK5zZUKUAFw",
-   "credit": "ScreenRant"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAMnoN47PedaDRa3c3VE8z_wbXErqdUo6st6gZ8rjTxu28EaZNPSHSsjBfPew",
+   "credit": "Syracuse.com"
   },
   "t": {
    "pt": {
-    "name": "timothy olyphant",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via ScreenRant."
+    "name": "syracuse basketball",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Syracuse.com."
    },
    "en": {
-    "name": "timothy olyphant",
-    "note": "Trending Google search (US) — 200+ searches · via ScreenRant."
+    "name": "syracuse basketball",
+    "note": "Trending Google search (US) — 500+ searches · via Syracuse.com."
    },
    "es": {
-    "name": "timothy olyphant",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía ScreenRant."
+    "name": "syracuse basketball",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Syracuse.com."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 3,
-  "sourceUrl": "https://www.nfl.com/news/nfl-news-roundup-latest-league-updates-from-saturday-oct-17",
+  "sourceUrl": "https://sports.yahoo.com/articles/rashod-bateman-exits-ravens-browns-182505247.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZeqS9GWdb1oKwsnmBKhkIoM2XwF16aF7gSlLnyE0P9pSyX12v3I7-zG1zpds",
-   "credit": "NFL.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOp5aYVl6JcLH-JORlufumhPgF4FSzortJ-LjBhURQwUmlKT5RFmN-WM18yLA",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "jakobi lane",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via NFL.com."
+    "name": "rashod bateman",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "jakobi lane",
-    "note": "Trending Google search (US) — 200+ searches · via NFL.com."
+    "name": "rashod bateman",
+    "note": "Trending Google search (US) — 500+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "jakobi lane",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía NFL.com."
+    "name": "rashod bateman",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 4,
-  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50208929/transfer-rumors-news-viktor-gyokeres-leave-arsenal-january",
+  "sourceUrl": "https://www.wishtv.com/sports/indianapolis-colts/chuck-pagano-reflects-on-what-made-adam-vinatieri-special/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5q8AtDhC_gPQPKsI0kctxZdSM0AXhMTzdM9NAfduHy9MmO0jznMGUq6Lay8",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSH_oM0gC8khOCQEWKHoLiyd_H-2i-zs9jJL2QcJ-7RMDqJ_ZnIYY4Roqj631A",
+   "credit": "WISH-TV"
   },
   "t": {
    "pt": {
-    "name": "arsenal",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
+    "name": "adam vinatieri",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via WISH-TV."
    },
    "en": {
-    "name": "arsenal",
-    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
+    "name": "adam vinatieri",
+    "note": "Trending Google search (US) — 2000+ searches · via WISH-TV."
    },
    "es": {
-    "name": "arsenal",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
+    "name": "adam vinatieri",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía WISH-TV."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 5,
-  "sourceUrl": "https://dailycannon.com/2026/10/arsenal-jesus-barcelona-form/",
+  "sourceUrl": "https://www.gazzetta.it/Calcio/Serie-A/18-10-2026/juve-lazio-live-risultato-e-gol-in-diretta-serie-a.shtml",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTUMs10uTfXwiZ_SqNCradHH8uojnYGfCBT559h3f-s1GIn0_vvIWkQ_zEHxgk",
-   "credit": "Daily Cannon"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrhsLuLH1Lpewbmiz_45Q0q3kfBOCHzeQBuywNXu6nmAacv9QpDLuF-FuF1NM",
+   "credit": "La Gazzetta dello Sport"
   },
   "t": {
    "pt": {
-    "name": "arsenal game",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Daily Cannon."
+    "name": "juventus",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via La Gazzetta dello Sport."
    },
    "en": {
-    "name": "arsenal game",
-    "note": "Trending Google search (US) — 200+ searches · via Daily Cannon."
+    "name": "juventus",
+    "note": "Trending Google search (US) — 1000+ searches · via La Gazzetta dello Sport."
    },
    "es": {
-    "name": "arsenal game",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Daily Cannon."
+    "name": "juventus",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía La Gazzetta dello Sport."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 6,
-  "sourceUrl": "https://sports.yahoo.com/articles/monaco-eric-dier-several-weeks-091600448.html",
+  "sourceUrl": "https://www.fubo.tv/news/soccer/la-liga/malaga-cf-vs-real-sociedad-live-stream-how-to-watch-la-liga-oct-18-2026/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSBEm7kMtNPEnuno_GVCccGKYk_ax6BDZP2nUdFY3NMkbzdSWznjFl8fOHUzZc",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBNbeUS_3B3sBBjMz6Ct3B4EuhdgbpsnFlr4sE2vCn6k7crdhpHAk7YzxgU6Y",
+   "credit": "Fubo"
   },
   "t": {
    "pt": {
-    "name": "monaco fc",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Yahoo Sports."
+    "name": "málaga cf vs real sociedad standings",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Fubo."
    },
    "en": {
-    "name": "monaco fc",
-    "note": "Trending Google search (US) — 200+ searches · via Yahoo Sports."
+    "name": "málaga cf vs real sociedad standings",
+    "note": "Trending Google search (US) — 2000+ searches · via Fubo."
    },
    "es": {
-    "name": "monaco fc",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Yahoo Sports."
+    "name": "málaga cf vs real sociedad standings",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Fubo."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 7,
-  "sourceUrl": "https://sports.yahoo.com/articles/watch-nottingham-forest-vs-arsenal-143000281.html",
+  "sourceUrl": "https://www.si.com/onsi/fantasy/start-em-sit-em/fantasy-football-week-6-start-em-sit-em-dameon-pierce-vs-blake-corum",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS6nEEpA9teln0hYv6RrXApUpqM7Ty6Br6jQkKofVxYF7QaiiOaH8ea7hvRNII",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkGw_hTPV4GWnxswITwzoI0oLN1Lsym5pApoLD8i8Ho_ywxwpl_UyvoCxfcFA",
+   "credit": "Sports Illustrated"
   },
   "t": {
    "pt": {
-    "name": "english premier league",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo Sports."
+    "name": "dameon pierce",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Sports Illustrated."
    },
    "en": {
-    "name": "english premier league",
-    "note": "Trending Google search (US) — 500+ searches · via Yahoo Sports."
+    "name": "dameon pierce",
+    "note": "Trending Google search (US) — 2000+ searches · via Sports Illustrated."
    },
    "es": {
-    "name": "english premier league",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo Sports."
+    "name": "dameon pierce",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Sports Illustrated."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 8,
-  "sourceUrl": "https://6abc.com/post/person-found-dead-vehicle-catches-fire-southwest-philadelphia/19951041/",
+  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50200546/jose-mourinho-praises-vinicius-junior-real-madrid-grit-were-left",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YXcdZRetZweRVH3mVdeJO0afMUHvU32QHbNP6ZWRwk4MdGKfUHZXl7__rIE",
-   "credit": "6abc Philadelphia"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSMLzEME3xuRb-qcrEjx3C6G9e7jiArQmeDr5wgeWW-ToqA4zYOgLlY_Tqke0g",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "nbc 10 philadelphia",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via 6abc Philadelphia."
+    "name": "real madrid schedule",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via ESPN."
    },
    "en": {
-    "name": "nbc 10 philadelphia",
-    "note": "Trending Google search (US) — 200+ searches · via 6abc Philadelphia."
+    "name": "real madrid schedule",
+    "note": "Trending Google search (US) — 1000+ searches · via ESPN."
    },
    "es": {
-    "name": "nbc 10 philadelphia",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía 6abc Philadelphia."
+    "name": "real madrid schedule",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 1,
-  "sourceUrl": "https://www.rivieraradio.mc/article/as-monaco-begin-conference-league-campaign-with-21-victory-in-sofia-5Hjdjz7_2/",
+  "sourceUrl": "https://launion.com.ar/deportes/la-afa-confirmo-el-precio-lpf-play-que-deja-ser-gratis-como-influye-temperley-y-los-andes-n5446759",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWndvdoJvfFEUwCPbfk1WRA5nRCOaCOJ3jrhF15SSOTRRHREz5VsnR4f6qjOc",
-   "credit": "Riviera Radio"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1IDwvVam1ztjOZW4RmYmYrNrujKmdjC3r-3VGoO6Mbhg4P_JGKyAM-GXpuAg",
+   "credit": "Diario La Unión"
   },
   "t": {
    "pt": {
-    "name": "monaco fc",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Riviera Radio."
+    "name": "lpf",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Diario La Unión."
    },
    "en": {
-    "name": "monaco fc",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Riviera Radio."
+    "name": "lpf",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Diario La Unión."
    },
    "es": {
-    "name": "monaco fc",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Riviera Radio."
+    "name": "lpf",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Diario La Unión."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 2,
-  "sourceUrl": "https://www.clarin.com/mundo/san-petersburgo-fuego-ucrania-lanzo-mayor-ataque-ciudad-natal-vladimir-putin_0_AjqUNe1Kp8.html",
+  "sourceUrl": "https://www.lanueva.com/nota/2026-10-18-5-0-51-camino-al-ascenso-olimpo-visita-a-san-martin-con-la-obligacion-de-sacarle-el-invicto-en-formosa",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQp-wYxl9EMULijpFOGihVnKsuydJUyg1ZypRRy85tEJ3zh9lPUwWePKAJeRVY",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjSGNOSRWRH_8VlG_AtePP2ctiv8D0uD2q_YnF0w4yFA9KP_BAtwXuPDrT8Y",
+   "credit": "La Nueva Provincia"
   },
   "t": {
    "pt": {
-    "name": "san petersburgo",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Clarin.com."
+    "name": "olimpo",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nueva Provincia."
    },
    "en": {
-    "name": "san petersburgo",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Clarin.com."
+    "name": "olimpo",
+    "note": "Trending Google search (Argentina) — 200+ searches · via La Nueva Provincia."
    },
    "es": {
-    "name": "san petersburgo",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Clarin.com."
+    "name": "olimpo",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nueva Provincia."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 3,
-  "sourceUrl": "https://www.tycsports.com/padel/final-de-milano-premier-padel-p1-en-vivo-donde-ver-por-tv-y-online-id766089.html",
+  "sourceUrl": "https://www.ole.com.ar/informacion-general/san-martin-formosa-recibio-dani-alves-semifinal-ascenso-federala-olimpo_0_3ajcKdWV4b.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRorKB_cBqpgBf0GPz_-l1U8vaKijS2kqd1yW5peivcGUYNRRL6bj5HrFyFp2Y",
-   "credit": "TyC Sports"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhpe7e-bzRZWaMVXcs9k-9lRTwq6cQgio_sohgVM2ZmnvSIs_iaULTsMkAawY",
+   "credit": "Olé"
   },
   "t": {
    "pt": {
-    "name": "premier padel",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via TyC Sports."
+    "name": "san martin de formosa",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Olé."
    },
    "en": {
-    "name": "premier padel",
-    "note": "Trending Google search (Argentina) — 100+ searches · via TyC Sports."
+    "name": "san martin de formosa",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Olé."
    },
    "es": {
-    "name": "premier padel",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TyC Sports."
+    "name": "san martin de formosa",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Olé."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 4,
-  "sourceUrl": "https://www.lacapitalmdp.com/alvarado-busca-un-buen-final-para-su-historia/",
+  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/18/ferro-vs-racing-cba-en-vivo-por-la-fecha-34-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTT-NEMZpLfHKpEW879tLHkgckhWbDDJhqEqXegkRLUEmRcW3biIOhHFjDEA4M",
-   "credit": "Diario La Capital de Mar del Plata"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmIHeoVHp07unAYuFKfL8fW7_F8P14dGlJuJwXMSyOIw-E1BbKcnrlEIDLCOw",
+   "credit": "TN"
   },
   "t": {
    "pt": {
-    "name": "alvarado",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Diario La Capital de Mar del Plata."
+    "name": "ferro - racing de córdoba",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via TN."
    },
    "en": {
-    "name": "alvarado",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Diario La Capital de Mar del Plata."
+    "name": "ferro - racing de córdoba",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via TN."
    },
    "es": {
-    "name": "alvarado",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Diario La Capital de Mar del Plata."
+    "name": "ferro - racing de córdoba",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía TN."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 5,
-  "sourceUrl": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2xpdmVwbGF5My5naXRodWIuaW8vbmV3LyIvPjwva3JwYW5vPg==&amp;id=milan-v-atalanta-in-diretta-001",
+  "sourceUrl": "https://www.managingmadrid.com/114258/real-madrid-sevilla-2026-live-stream-time-tv-channels-and-how-to-watch-la-liga-online",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbVwwoCRorgOECZrpUh7YaVzHqOSoOMJ_AKl-_ykTbKYcNUyhv0DjYRqUG00Y",
-   "credit": "Universidad de Córdoba (UCO)"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQjDpPzpoPDUGNXSei-xbQjn15-7aOPo86ohkQkMRaZfs7MDLNZOKSyCEQOfqw",
+   "credit": "Managing Madrid"
   },
   "t": {
    "pt": {
-    "name": "milan - atalanta",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Universidad de Córdoba (UCO)."
+    "name": "real madrid vs sevilla",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Managing Madrid."
    },
    "en": {
-    "name": "milan - atalanta",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via Universidad de Córdoba (UCO)."
+    "name": "real madrid vs sevilla",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Managing Madrid."
    },
    "es": {
-    "name": "milan - atalanta",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Universidad de Córdoba (UCO)."
+    "name": "real madrid vs sevilla",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Managing Madrid."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 6,
-  "sourceUrl": "https://www.theguardian.com/football/2026/oct/13/arsenal-lille-champions-league-match-report",
+  "sourceUrl": "https://www.foxsports.com/stories/nfl/how-to-watch-bears-vs-falcons-tv-channel-live-stream-time-oct-18-2026",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTSGyqjGBIjxtcofkJtryJvwXguswQhIfMwLGlK6mefEstt6Ecukj93ZJ51AEs",
-   "credit": "The Guardian"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoDSiqZmdgMhitulysTco3DadibDQK0OpwprwqVNAOpdYvcjEdwJKP0Ex5uvY",
+   "credit": "FOX Sports"
   },
   "t": {
    "pt": {
-    "name": "arsenal vs",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via The Guardian."
+    "name": "chicago vs",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via FOX Sports."
    },
    "en": {
-    "name": "arsenal vs",
-    "note": "Trending Google search (Argentina) — 200+ searches · via The Guardian."
+    "name": "chicago vs",
+    "note": "Trending Google search (Argentina) — 200+ searches · via FOX Sports."
    },
    "es": {
-    "name": "arsenal vs",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía The Guardian."
+    "name": "chicago vs",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía FOX Sports."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 7,
-  "sourceUrl": "https://www.marca.com/futbol/2026/10/18/entradas-ver-messi-oviedo-duran-13-minutos.html",
+  "sourceUrl": "https://taskandpurpose.com/news/airman-dies-utsa-rappelling-incident/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz0i78500vj9RVbf0dTkfJffhv0Km5Tq9a8Cnj3m_aeOfIl3r5RMsabrMzW5s",
-   "credit": "MARCA"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKjB1L0u7J6f-mT2zyYewDCZCwaTIqIVotPPt_13RhCP25Xqs4e_Tnol0FzY0",
+   "credit": "Task &amp; Purpose"
   },
   "t": {
    "pt": {
-    "name": "premio princesa de asturias de los deportes",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via MARCA."
+    "name": "alamodome",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Task &amp; Purpose."
    },
    "en": {
-    "name": "premio princesa de asturias de los deportes",
-    "note": "Trending Google search (Argentina) — 500+ searches · via MARCA."
+    "name": "alamodome",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Task &amp; Purpose."
    },
    "es": {
-    "name": "premio princesa de asturias de los deportes",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía MARCA."
+    "name": "alamodome",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Task &amp; Purpose."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://www.losandes.com.ar/policiales/un-hombre-murio-atropellado-san-martin-investigan-como-ocurrio-el-siniestro-n6010734",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.ilmessaggero.it/sport/schede/juventus_lazio_dove_vederla_tv_sky_dazn_probabili_formazioni_orario_serie_a-dove_vederla_in_tv-4-9831365.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRQSKirrR2Xu5KX1Fc6V7ZF3yCf1IjJ4r47qGD9hmRgYMJmHf06n3OpYDB3jtE",
-   "credit": "Los Andes"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQiYK1u_sphBHSh6Fzxdk-XhFDCD6JU-fnn36WqMG5URrEWYKkj-kG5tewV5mk",
+   "credit": "Il Messaggero"
   },
   "t": {
    "pt": {
-    "name": "peatón",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Los Andes."
+    "name": "juventus",
+    "note": "Busca em alta no Google (México) — 1000+ buscas · via Il Messaggero."
    },
    "en": {
-    "name": "peatón",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Los Andes."
+    "name": "juventus",
+    "note": "Trending Google search (Mexico) — 1000+ searches · via Il Messaggero."
    },
    "es": {
-    "name": "peatón",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Los Andes."
+    "name": "juventus",
+    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Il Messaggero."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.jacksoncountypilot.com/articles/%F0%9D%9A%86%F0%9D%99%B0%F0%9D%9A%83%F0%9D%99%B2%F0%9D%99%B7-arsenal-vs-nottingham-forest-%F0%9D%90%8B%F0%9D%90%88%F0%9D%90%95%F0%9D%90%84-%EF%BD%93%EF%BD%94%EF%BD%92%EF%BD%85%EF%BD%81%EF%BD%8D/",
+  "rank": 2,
+  "sourceUrl": "https://www.marca.com/futbol/real-madrid/2026/10/18/revolucion-bernabeu-hora-meritocracia-mourinho.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRX17paZP1GbUiIC4TArmTI1Efn39758ZBIivYT3kXIz7fqBoHTixUbtOE1OdI",
-   "credit": "Jackson County Pilot"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcsfgyKvt0TUSCDHzV6VvMWaGopMwD-HeVZFmaJ5ymw-4u7MpjkL9gwVDgP7k",
+   "credit": "MARCA"
   },
   "t": {
    "pt": {
-    "name": "arsenal vs",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via Jackson County Pilot."
+    "name": "sevilla",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via MARCA."
    },
    "en": {
-    "name": "arsenal vs",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via Jackson County Pilot."
+    "name": "sevilla",
+    "note": "Trending Google search (Mexico) — 100+ searches · via MARCA."
    },
    "es": {
-    "name": "arsenal vs",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Jackson County Pilot."
+    "name": "sevilla",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía MARCA."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://texanswire.usatoday.com/story/sports/nfl/texans/2026/10/18/houston-texans-jaguars-cj-stroud-jaylin-noel-touchdown-mvp-london/92318116007/",
+  "rank": 3,
+  "sourceUrl": "https://www.colts.com/news/colts-announce-5-inactive-players-for-week-6-vs-titans",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHnWxFtYnSKo7nBpAbHdL22f37i9BPPv2-Kwiwp47vSjykpypnlLrgCP9qyl8",
-   "credit": "Texans Wire"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_VZEEgbPTTtiF7SovI9PMmS0IDe51AMJod_u92L4JrVgKcYrd98tFzwrrq38",
+   "credit": "Colts.com"
   },
   "t": {
    "pt": {
-    "name": "jaylin noel",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Texans Wire."
+    "name": "colts vs titans",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Colts.com."
    },
    "en": {
-    "name": "jaylin noel",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Texans Wire."
+    "name": "colts vs titans",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Colts.com."
    },
    "es": {
-    "name": "jaylin noel",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Texans Wire."
+    "name": "colts vs titans",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Colts.com."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.bbc.com/news/videos/cmwyq62z0n19o",
+  "rank": 4,
+  "sourceUrl": "https://www.ssc.cdmx.gob.mx/comunicacion/nota/TI282-17-10-26",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQ1UpNrVj_EgEdMnxxPd32-WihL76csGZW6kIgRVEJ2irpzQES0SBNmArcVuo",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR_HoxmtMSF_M_o5OXKYWMG17XBjBZn6iEHH8aIFftj3V2d9U1RAYY0UqDzjGU",
+   "credit": "Secretaría de Seguridad Ciudadana de la CDMX"
   },
   "t": {
    "pt": {
-    "name": "odessa",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via BBC."
+    "name": "bombero",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Secretaría de Seguridad Ciudadana de la CDMX."
    },
    "en": {
-    "name": "odessa",
-    "note": "Trending Google search (Mexico) — 200+ searches · via BBC."
+    "name": "bombero",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Secretaría de Seguridad Ciudadana de la CDMX."
    },
    "es": {
-    "name": "odessa",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía BBC."
+    "name": "bombero",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Secretaría de Seguridad Ciudadana de la CDMX."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.espn.com/nfl/story/_/id/50180676/jaguars-coach-takes-blame-rash-delay-game-penalties",
+  "rank": 5,
+  "sourceUrl": "https://www.nbcphiladelphia.com/news/sports/nfl/philadelphia-eagles/roobs-random-observations-tanner-mckee-landon-dickerson-jalen-hurts/4480661/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmv4SpNVkO3C7ahL0s1fhHI-xT7m6LQ3nOWp54iSm5dwlB9oKLG0irH7rha-g",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxKeF_RUcFICdbDRhmVNidlDUnnnvIdYtgmvClefzLHoRCsEpAsCAyXl8FZHY",
+   "credit": "NBC10 Philadelphia"
   },
   "t": {
    "pt": {
-    "name": "jaguars vs",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via ESPN."
+    "name": "tanner mckee",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via NBC10 Philadelphia."
    },
    "en": {
-    "name": "jaguars vs",
-    "note": "Trending Google search (Mexico) — 100+ searches · via ESPN."
+    "name": "tanner mckee",
+    "note": "Trending Google search (Mexico) — 100+ searches · via NBC10 Philadelphia."
    },
    "es": {
-    "name": "jaguars vs",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía ESPN."
+    "name": "tanner mckee",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía NBC10 Philadelphia."
    }
   },
   "id": "tr31",
   "hue": 330
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261018/1004239792/derbi-alcala-equipo-revelacion-arranque-temporada.html",
+  "rank": 6,
+  "sourceUrl": "https://mexico.quadratin.com.mx/se-deslinda-morena-de-nueva-marcha-contra-lemus-por-tema-del-agua-limpia/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkUGkgqnACEDJQ4SmjAlLp1gVosiRPnH0hRI4OGCErgCn7bOEETRylvOYEPYg",
-   "credit": "Mundo Deportivo"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPQkCsNi0lGZaCnr3VZt6ubRPC-hpFPPvHt1KFAWHxmOXey-4m7sSQ8zl_Sjs",
+   "credit": "Quadratín México"
   },
   "t": {
    "pt": {
-    "name": "atlético madrid - madrid",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Mundo Deportivo."
+    "name": "movimiento ciudadano",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Quadratín México."
    },
    "en": {
-    "name": "atlético madrid - madrid",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Mundo Deportivo."
+    "name": "movimiento ciudadano",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Quadratín México."
    },
    "es": {
-    "name": "atlético madrid - madrid",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Mundo Deportivo."
+    "name": "movimiento ciudadano",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Quadratín México."
    }
   },
   "id": "tr32",
   "hue": 7
  },
  {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii8vc2Fnb3JtaWEwMDQ3LmdpdGh1Yi5pby9hbnQvdG9tLnhtbCIvPjwva3JwYW5vPg==&amp;id=video-rennes-paris-fc-en-vivo-gratuit-dextvc-0101-25yg1rq",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ439II3L17C8yEVmFx3ggiBPwFjcQ53YmGb3MtUjsNAX5GFWIE-Jet_9AeBVg",
-   "credit": "Universidad de Córdoba (UCO)"
-  },
-  "t": {
-   "pt": {
-    "name": "paris fc - rennes",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Universidad de Córdoba (UCO)."
-   },
-   "en": {
-    "name": "paris fc - rennes",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Universidad de Córdoba (UCO)."
-   },
-   "es": {
-    "name": "paris fc - rennes",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Universidad de Córdoba (UCO)."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-18T15:48:00.637Z",
+  "collectedAt": "2026-10-18T18:52:08.657Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 7,
-  "sourceUrl": "https://news.instant-gaming.com/es/articulos/22484-ancestors-the-humankind-odyssey-llegara-a-ps5-xbox-series-y-switch-2-el-8-de-diciembre",
+  "sourceUrl": "https://sports.yahoo.com/articles/confirmed-facundo-tello-referee-avellaneda-230400739.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYVBOFoVTP-QjWPY0PDViFFv_0AhV42fzccxzyuX-Ie7gI1St4nTgybh60DVQ",
-   "credit": "Instant Gaming News"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu0c3Q2ICJEKHJ1VOs_so6mRYfed8_NY6Ys4zd_hP1nOGeJYNlt2CC1jERyqE",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "remasterización",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Instant Gaming News."
+    "name": "racing club",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "remasterización",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Instant Gaming News."
+    "name": "racing club",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "remasterización",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Instant Gaming News."
+    "name": "racing club",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo Sports."
    }
   },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr33",
+  "hue": 44
  }
 ]
