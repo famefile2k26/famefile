@@ -1,5 +1,5 @@
 {
- "collectedAt": "2026-10-19T07:17:28.103Z",
+ "collectedAt": "2026-10-19T10:00:04.407Z",
  "sources": {
   "tiktok-hashtag-BR": 3,
   "tiktok-music-BR": {
@@ -11,7 +11,7 @@
    ],
    "codes": [
     40000,
-    40000,
+    40100,
     40000
    ],
    "title": "TikTok One Creative Suite"
@@ -69,7 +69,7 @@
    ],
    "codes": [
     40000,
-    40100,
+    40000,
     40000
    ],
    "title": "TikTok One Creative Suite"
@@ -113,15 +113,15 @@
    "codes": [
     40000,
     40000,
-    40000
+    40100
    ],
    "title": "TikTok One Creative Suite"
   },
-  "google-BR": 8,
+  "google-BR": 6,
   "google-US": 7,
-  "google-AR": 7,
-  "google-MX": 8
+  "google-AR": 4,
+  "google-MX": 6
  },
  "curated": 0,
- "total": 33
+ "total": 26
 }
