@@ -1,8 +1,22 @@
 {
- "collectedAt": "2026-10-20T07:09:46.000Z",
+ "collectedAt": "2026-10-20T09:55:46.201Z",
  "sources": {
   "tiktok-hashtag-BR": 3,
   "tiktok-music-BR": {
+   "apis": [
+    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
+    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
+    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
+    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
+   ],
+   "codes": [
+    40000,
+    40100,
+    40000
+   ],
+   "title": "TikTok One Creative Suite"
+  },
+  "tiktok-creator-BR": {
    "apis": [
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
@@ -16,7 +30,8 @@
    ],
    "title": "TikTok One Creative Suite"
   },
-  "tiktok-creator-BR": {
+  "tiktok-hashtag-US": 3,
+  "tiktok-music-US": {
    "apis": [
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
@@ -30,21 +45,6 @@
    ],
    "title": "TikTok One Creative Suite"
   },
-  "tiktok-hashtag-US": 3,
-  "tiktok-music-US": {
-   "apis": [
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
-   ],
-   "codes": [
-    40100,
-    40000,
-    40100
-   ],
-   "title": "TikTok One Creative Suite"
-  },
   "tiktok-creator-US": {
    "apis": [
     "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
@@ -54,7 +54,7 @@
    ],
    "codes": [
     40000,
-    40100,
+    40000,
     40000
    ],
    "title": "TikTok One Creative Suite"
@@ -69,59 +69,36 @@
    ],
    "codes": [
     40000,
-    40000,
+    40100,
     40000
    ],
    "title": "TikTok One Creative Suite"
   },
   "tiktok-creator-AR": {
-   "apis": [
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
-   ],
-   "codes": [
-    40000,
-    40100,
-    40000
-   ],
-   "title": "TikTok One Creative Suite"
+   "apis": [],
+   "codes": [],
+   "title": ""
   },
-  "tiktok-hashtag-MX": 3,
+  "tiktok-hashtag-MX": {
+   "apis": [],
+   "codes": [],
+   "title": ""
+  },
   "tiktok-music-MX": {
-   "apis": [
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
-   ],
-   "codes": [
-    40100,
-    40000,
-    40000
-   ],
-   "title": "TikTok One Creative Suite"
+   "apis": [],
+   "codes": [],
+   "title": ""
   },
   "tiktok-creator-MX": {
-   "apis": [
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info",
-    "200 https://ads.tiktok.com/creative_radar_api/v1/user/info"
-   ],
-   "codes": [
-    40000,
-    40000,
-    40000
-   ],
-   "title": "TikTok One Creative Suite"
+   "apis": [],
+   "codes": [],
+   "title": ""
   },
-  "google-BR": 7,
-  "google-US": 7,
-  "google-AR": 7,
+  "google-BR": 5,
+  "google-US": 4,
+  "google-AR": 8,
   "google-MX": 8
  },
  "curated": 0,
- "total": 32
+ "total": 28
 }
