@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,787 +72,843 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www.estadao.com.br/esportes/futebol/como-x-manchester-united-pela-champions-league-onde-assistir-ao-vivo-horario-e-escalacao/",
+  "sourceUrl": "https://tangerina.uol.com.br/filmes-series/hbo-max-reune-3-historias-de-pennywise-para-maratonar-no-halloween/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxf4geuWCcjJ_FLgXwJyxtC7kWtuyOl7H3fBG2_LPLuQGfSSEYnNJGY_rXZ8M",
-   "credit": "Estadão"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHDtL0Goi4oM0AcCDZNuj414el3YxmX8J8h4tOb6Cv3uR9rooLqk0E5w_P8Nc",
+   "credit": "UOL"
   },
   "t": {
    "pt": {
-    "name": "como x manchester united",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via Estadão."
+    "name": "hbo",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via UOL."
    },
    "en": {
-    "name": "como x manchester united",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via Estadão."
+    "name": "hbo",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via UOL."
    },
    "es": {
-    "name": "como x manchester united",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía Estadão."
+    "name": "hbo",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía UOL."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://conjur.com.br/2026-out-21/academia-e-responsavel-por-furto-de-veiculo-em-seu-estacionamento/",
+  "sourceUrl": "https://g1.globo.com/economia/noticia/2026/10/21/apos-seis-anos-de-atraso-e-crises-de-seguranca-maior-boeing-737-max-10-e-aprovado-para-voar-conheca.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSnhrVdMSzhg8JpxKAy0b9KHFuEn6JzjOfB9Nj2HCNT5sLJbFNc2gOwbWAWVR8",
-   "credit": "Consultor Jurídico"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR3dMLnG_-AnPyeiDc90v3FfqYqTDCN7vWnkQI6bLKuwIcUQdfZm881oAqemVY",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "furto",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Consultor Jurídico."
+    "name": "max",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
    },
    "en": {
-    "name": "furto",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Consultor Jurídico."
+    "name": "max",
+    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
    },
    "es": {
-    "name": "furto",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Consultor Jurídico."
+    "name": "max",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.cbf.com.br/selecao-brasileira/noticias/selecao-feminina-sub-17/a/brasil-enfrenta-gana-em-busca-de-segunda-vitoria-na-copa-do-mundo-feminina-sub-17",
+  "sourceUrl": "https://www.brasil247.com/mundo/eua-afirmam-que-ramagem-violou-leis-de-imigracao-e-estava-ilegalmente-no-pais/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlQp-kdvrsXf_P_Aef55PSssF6kOl5KrNO8wAk5ZWqmrOso2hylh1JAwaZe_8",
-   "credit": "CBF"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRVptu0Dey7DmUMINvu3T5IrC-6exCqzVLT-fnGbu6VUTB81wJ9OjzITTh7bk0",
+   "credit": "Brasil 247"
   },
   "t": {
    "pt": {
-    "name": "seleção brasileira de futebol feminino sub-17",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via CBF."
+    "name": "alexandre ramagem",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Brasil 247."
    },
    "en": {
-    "name": "seleção brasileira de futebol feminino sub-17",
-    "note": "Trending Google search (Brazil) — 200+ searches · via CBF."
+    "name": "alexandre ramagem",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Brasil 247."
    },
    "es": {
-    "name": "seleção brasileira de futebol feminino sub-17",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía CBF."
+    "name": "alexandre ramagem",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Brasil 247."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://veja.abril.com.br/mundo/as-primeiras-semanas-de-harry-e-meghan-de-volta-ao-reino-unido/",
+  "sourceUrl": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/21/flavio-anuncia-mais-medidas-que-dificultam-ajuste.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRO9UkzcvpuakqU7B1a91Y4c5OvmJlWN9w_6AgkqBDEicjHgTk7OPX_JM4lXbk",
-   "credit": "VEJA"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFnFbMQHK4gXHgokd6neViDbCFPyvllwCd8Eg-XY6LkgMsI4GrUYLo56ZTKa4",
+   "credit": "Valor Econômico"
   },
   "t": {
    "pt": {
-    "name": "meghan, duquesa de sussex",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via VEJA."
+    "name": "flavio bolsonaro pandemia",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Valor Econômico."
    },
    "en": {
-    "name": "meghan, duquesa de sussex",
-    "note": "Trending Google search (Brazil) — 200+ searches · via VEJA."
+    "name": "flavio bolsonaro pandemia",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Valor Econômico."
    },
    "es": {
-    "name": "meghan, duquesa de sussex",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía VEJA."
+    "name": "flavio bolsonaro pandemia",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Valor Econômico."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://motorsport.uol.com.br/motogp/news/apos-as-definicoes-de-moreira-e-alonso-veja-como-ficou-o-grid-da-motogp-2027/10866381/",
+  "sourceUrl": "https://ge.globo.com/futebol/futebol-internacional/noticia/2026/10/21/drama-no-psg-dembele-e-marquinhos-sofrem-lesoes-kvaratskhelia-rompe-ligamento-cruzado-do-joelho.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJ1HM_uGHNWYPo7m6k8Fh0r4hD9J0GGLKu7GajD8823qWxgoaDlbbripBwNiE",
-   "credit": "MotorSport.com.br"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGOZePz87xm7bRgYaYPylRD-i1hFqA1bDjiUsRwASTFeWWGC3vTNxuF83X20",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "diogo moreira",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via MotorSport.com.br."
+    "name": "champions hoje",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ge."
    },
    "en": {
-    "name": "diogo moreira",
-    "note": "Trending Google search (Brazil) — 200+ searches · via MotorSport.com.br."
+    "name": "champions hoje",
+    "note": "Trending Google search (Brazil) — 200+ searches · via ge."
    },
    "es": {
-    "name": "diogo moreira",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía MotorSport.com.br."
+    "name": "champions hoje",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ge."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://www.koreatimes.co.kr/entertainment/k-pop/20261021/twices-jihyo-leaves-jyp-after-21-years-to-launch-own-agency",
+  "sourceUrl": "https://as.com/futbol/champions/sporting-lask-en-directo-uefa-champions-league-hoy-en-vivo-f202610-d/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYmSBTQCKlRhwKzelMhtPtT0yetz0Jc_LgYCQSm--9GgsLJWh_NV-Mv_PfAcU",
-   "credit": "The Korea Times"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP29EymGLe1GBIoFvGLZOquxr0uEU2BZWL_U0HQxwdlwCo0Fysy1Hu1EfiR_o",
+   "credit": "Diario AS"
   },
   "t": {
    "pt": {
-    "name": "jihyo",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via The Korea Times."
+    "name": "luis suárez",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Diario AS."
    },
    "en": {
-    "name": "jihyo",
-    "note": "Trending Google search (Brazil) — 200+ searches · via The Korea Times."
+    "name": "luis suárez",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Diario AS."
    },
    "es": {
-    "name": "jihyo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía The Korea Times."
+    "name": "luis suárez",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Diario AS."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://www.jornalcruzeiro.com.br/tendencias/maior-navio-do-mundo-com-156-m-de-altura-1305-m-de-comprimento-e-capacidade-de-levantar-700-toneladas-chega-ao-brasil/?utm_source=al_leiamais",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/c6ly3z9772g7t",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2emAjw5-vdcE4irzc3c0mqIXTN5fvTYkH3V9q2J2KMr7GXAOBYnuv22BG",
-   "credit": "www.jornalcruzeiro.com.br"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "ponte salvador–ilha de itaparica",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via www.jornalcruzeiro.com.br."
+    "name": "classificações de losc lille x galatasaray",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via BBC."
    },
    "en": {
-    "name": "ponte salvador–ilha de itaparica",
-    "note": "Trending Google search (Brazil) — 200+ searches · via www.jornalcruzeiro.com.br."
+    "name": "classificações de losc lille x galatasaray",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via BBC."
    },
    "es": {
-    "name": "ponte salvador–ilha de itaparica",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía www.jornalcruzeiro.com.br."
+    "name": "classificações de losc lille x galatasaray",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía BBC."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 8,
-  "sourceUrl": "https://www.trevisotoday.it/eventi/verita-bugie-maschere-san-biagio-2026.html",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/cwm2m2v4d5pvt",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7V3xw1GFoJGcdYbN3JGeDrCVdIVrWJyzNLDBijTE8gVv-EnJKfOJJ7sgP6Ko",
-   "credit": "TrevisoToday"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRStT2MLp0Q8m0uy4u04ITBljj-u4996YwsqZei_ggsyT517pgCj7GXhIJ0VcQ",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "verita",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via TrevisoToday."
+    "name": "classificações de como 1907 x manchester united",
+    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via BBC."
    },
    "en": {
-    "name": "verita",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via TrevisoToday."
+    "name": "classificações de como 1907 x manchester united",
+    "note": "Trending Google search (Brazil) — 20000+ searches · via BBC."
    },
    "es": {
-    "name": "verita",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía TrevisoToday."
+    "name": "classificações de como 1907 x manchester united",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía BBC."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
-  "sourceUrl": "https://www.espn.com/soccer/story/_/id/50191263/champions-league-live-updates-manchester-united-bayern-arsenal-real-madrid",
+  "sourceUrl": "https://as.com/futbol/champions/real-madrid-leipzig-hoy-en-directo-fase-liga-de-champions-league-ultima-hora-en-el-bernabeu-f202610-d/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-gHkQ5Whh6uYhtheB4voAWdM85U72RnLvdhFinkhClrQngd3wTvUqLJBKLnM",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQAXJ1w8wkKWNoZ9ioNP_SN7gfOOAkSPHptziXOoRH2uBQpYI7mtY2Im9aUxRA",
+   "credit": "Diario AS"
   },
   "t": {
    "pt": {
-    "name": "como vs man utd",
-    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
+    "name": "real madrid vs",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via Diario AS."
    },
    "en": {
-    "name": "como vs man utd",
-    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
+    "name": "real madrid vs",
+    "note": "Trending Google search (US) — 5000+ searches · via Diario AS."
    },
    "es": {
-    "name": "como vs man utd",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
+    "name": "real madrid vs",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía Diario AS."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 2,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/c6ly3z9772g7t",
+  "sourceUrl": "https://www.realmadrid.com/en-US/news/football/first-team/press-conference/mourinho-20-10-2026",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKp-ZkNKW9AIjTkiRH-YranzDi4bqZkyJMCW7Z2gC3pmGoSW1M4S4YNKo7YAs",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTZ63ux1r6xUX1qB6l9lhArIVcD0OKsZ0qzf7xjBdvs9wXRtI8mJXHtpgd3QBc",
+   "credit": "Real Madrid CF | Web Oficial"
   },
   "t": {
    "pt": {
-    "name": "losc vs galatasaray",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via BBC."
+    "name": "real madrid schedule",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Real Madrid CF | Web Oficial."
    },
    "en": {
-    "name": "losc vs galatasaray",
-    "note": "Trending Google search (US) — 1000+ searches · via BBC."
+    "name": "real madrid schedule",
+    "note": "Trending Google search (US) — 1000+ searches · via Real Madrid CF | Web Oficial."
    },
    "es": {
-    "name": "losc vs galatasaray",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía BBC."
+    "name": "real madrid schedule",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Real Madrid CF | Web Oficial."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 3,
-  "sourceUrl": "https://www.si.com/es-us/como-ver-el-partido-como-vs-manchester-united-en-tv-y-streaming-21-10-2026",
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50240270/kurt-suzuki-angels-manager-100-loss-season",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyCZmReedzKxei9KOttRE0qxUxvvb_n-T_v8LKQxVON3bUuJlvNtAR-4KAD4g",
-   "credit": "Sports Illustrated"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtZ2K_IiY27EwhYBZtcq3BvkUzbKr1RbG-9k12J78-HaERWWXl5We_0skTvd4",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "como - manchester united",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Sports Illustrated."
+    "name": "kurt suzuki",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via ESPN."
    },
    "en": {
-    "name": "como - manchester united",
-    "note": "Trending Google search (US) — 1000+ searches · via Sports Illustrated."
+    "name": "kurt suzuki",
+    "note": "Trending Google search (US) — 500+ searches · via ESPN."
    },
    "es": {
-    "name": "como - manchester united",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Sports Illustrated."
+    "name": "kurt suzuki",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ESPN."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 4,
-  "sourceUrl": "https://rocksound.tv/news/the-offsprings-noodles-to-step-away-from-live-performances",
+  "sourceUrl": "https://www.getfootballnewsfrance.com/2026/perhaps-one-of-the-best-pressing-systems-ive-ever-seen-club-brugge-manager-ivan-leko-on-rc-lens-very-good-team/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQjzGhUtx2jmy9iHDs2B_VCoSXhkT3Jj4XhUYsylGOY_R5HQP-0M5bdYUlBA4w",
-   "credit": "Rock Sound"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRned-VPYy14l2Z02ecje4fqkcu2Ayj4rC_NBrMm_UcqrUvsoBjc-VNCPBmDk8",
+   "credit": "Get French Football News"
   },
   "t": {
    "pt": {
-    "name": "noodles offspring",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Rock Sound."
+    "name": "club brugge vs lens",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Get French Football News."
    },
    "en": {
-    "name": "noodles offspring",
-    "note": "Trending Google search (US) — 200+ searches · via Rock Sound."
+    "name": "club brugge vs lens",
+    "note": "Trending Google search (US) — 200+ searches · via Get French Football News."
    },
    "es": {
-    "name": "noodles offspring",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Rock Sound."
+    "name": "club brugge vs lens",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Get French Football News."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 5,
-  "sourceUrl": "https://lastwordonsports.com/tennis/2026/10/19/atp-brussels-day-2-predictions-fearnley-gaston/",
+  "sourceUrl": "https://www.marca.com/en/soccer/champions-league/lille-galatasaray/2026/10/21/01_0103_20261021_429_208-live.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRthJN9NEmDNyCNVJ-ZW0_uxKZalfXrfWTK8_paigHKZyQXukMe22b5xD_6mQs",
-   "credit": "Last Word On Sports"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR-7e4ONuwuLeScbPSkzdc-iXh8UQJKEuJxMQaEX3FlNpisH2eg77JE0_rrQBI",
+   "credit": "MARCA"
   },
   "t": {
    "pt": {
-    "name": "felix balshaw",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Last Word On Sports."
+    "name": "losc lille vs galatasaray standings",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via MARCA."
    },
    "en": {
-    "name": "felix balshaw",
-    "note": "Trending Google search (US) — 500+ searches · via Last Word On Sports."
+    "name": "losc lille vs galatasaray standings",
+    "note": "Trending Google search (US) — 1000+ searches · via MARCA."
    },
    "es": {
-    "name": "felix balshaw",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Last Word On Sports."
+    "name": "losc lille vs galatasaray standings",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía MARCA."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 6,
-  "sourceUrl": "https://www.timesofisrael.com/idf-says-airstrike-killed-final-hamas-member-who-took-part-in-kidnapping-shani-louk/",
+  "sourceUrl": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/commanders-hire-steve-wilks-for-game-planning-role",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVI6nIxsZWycb_ArUjPNkp-hpLs6prjkCiM4qOeGOYVDuC3HGRv1MLtvAb2uw",
-   "credit": "The Times of Israel"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDleJX51_BZmR1eXplc6pV0BFEdN4UCP8gLHoL3482IF7FespZpkhic02GPZo",
+   "credit": "NBC Sports"
   },
   "t": {
    "pt": {
-    "name": "shani louk",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via The Times of Israel."
+    "name": "steve wilks",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via NBC Sports."
    },
    "en": {
-    "name": "shani louk",
-    "note": "Trending Google search (US) — 500+ searches · via The Times of Israel."
+    "name": "steve wilks",
+    "note": "Trending Google search (US) — 500+ searches · via NBC Sports."
    },
    "es": {
-    "name": "shani louk",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía The Times of Israel."
+    "name": "steve wilks",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía NBC Sports."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 7,
-  "sourceUrl": "https://sports.yahoo.com/articles/stefanos-tsitsipas-suggests-still-believes-080000005.html",
+  "sourceUrl": "https://www.androidauthority.com/5g-coverage-tmobile-att-verizon-3725626/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9qkALe7pdt7qzDVRCaLUUb4PlSpibxGAsF6Wfs7tOM4Hxhlda6bRAq33VTw8",
-   "credit": "Yahoo Sports"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC7WDfEkHFBM0Nu-6G8pPL0Kw--8Tcf78veyF6lwNN0x418rlFyRks5TxjYgg",
+   "credit": "Android Authority"
   },
   "t": {
    "pt": {
-    "name": "stefanos tsitsipas",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo Sports."
+    "name": "5g",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Android Authority."
    },
    "en": {
-    "name": "stefanos tsitsipas",
-    "note": "Trending Google search (US) — 500+ searches · via Yahoo Sports."
+    "name": "5g",
+    "note": "Trending Google search (US) — 500+ searches · via Android Authority."
    },
    "es": {
-    "name": "stefanos tsitsipas",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo Sports."
+    "name": "5g",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Android Authority."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com.ar/futbol/champions-league/nota/_/id/17405010/como-vs-manchester-united-uefa-champions-league-equipo-fecha-hora-y-tv-en-vivo",
+  "region": "US",
+  "rank": 8,
+  "sourceUrl": "https://sporza.be/nl/matches/voetbal/eur/uefa-champions-league/2026-2027/leaguefase/03/club-brugge-rc-lens-live-21-uur-leko-stuurt-stuntploeg-van-milaan-op-een-plek-bij-lemarechal-start-tegen-lens-waar-hazard-basisplek-krijgt~1781706783844/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuod0kF9p-hT2l5I0Vi4KmHEakrj5KY6ITwqiDbCJ3JF1TAw7rTPS3GEb43ww",
-   "credit": "ESPN Argentina"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSXTNrOrYMs7CUgoP0DUwRbol9RncGu9lkfa5PTyzdJq_wEB4ZnHWAFse6cg_M",
+   "credit": "Sporza"
   },
   "t": {
    "pt": {
-    "name": "como - manchester united",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via ESPN Argentina."
+    "name": "club brugge",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Sporza."
    },
    "en": {
-    "name": "como - manchester united",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via ESPN Argentina."
+    "name": "club brugge",
+    "note": "Trending Google search (US) — 200+ searches · via Sporza."
    },
    "es": {
-    "name": "como - manchester united",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía ESPN Argentina."
+    "name": "club brugge",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Sporza."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.ciudad.com.ar/espectaculos/2026/10/20/aitana-llego-a-la-argentina-y-desato-la-locura-de-sus-fans-antes-de-sus-tres-shows-en-buenos-aires/",
+  "rank": 1,
+  "sourceUrl": "https://www.tycsports.com/champions-league/sporting-lisboa-vs-lask-linz-en-vivo-donde-ver-por-tv-y-online-id767404.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrKHXHoJdU05hGZEERSt-OPFH0m0wMHPzz83poAw2stlCuC-cEdKTdiYs_AN0",
-   "credit": "Ciudad Magazine"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZ2b7MXHROWUESW6mr-J_LAl_Jw0b8a_o0bUxaathGQwLl_9mdAvt2_kl5Plc",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "aitana movistar arena",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Ciudad Magazine."
+    "name": "sporting lisboa - lask",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "aitana movistar arena",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Ciudad Magazine."
+    "name": "sporting lisboa - lask",
+    "note": "Trending Google search (Argentina) — 200+ searches · via TyC Sports."
    },
    "es": {
-    "name": "aitana movistar arena",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Ciudad Magazine."
+    "name": "sporting lisboa - lask",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.ole.com.ar/river-plate/river-plate-amistoso-ferro-camp-driussi-resultado_0_tPxpWVI6xo.html",
+  "rank": 2,
+  "sourceUrl": "https://www.diariodecuyo.com.ar/policiales/albardon-se-conocieron-los-videos-del-ciclista-que-murio-chocar-la-puerta-un-auto-n6586480",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN8-knNEKFQJA1D1a7SkIr0xwpTkvvlihJteNF6zSqoJU9x3ycP6EQHFg2KYg",
-   "credit": "Olé"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvU61v2cFylZW-x3c8WQwFVotqkkfKI96awCkmVnAYoyadLcID-hVRWZdyAQ",
+   "credit": "Diario de Cuyo"
   },
   "t": {
    "pt": {
-    "name": "river vs ferro",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Olé."
+    "name": "albardón",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Diario de Cuyo."
    },
    "en": {
-    "name": "river vs ferro",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Olé."
+    "name": "albardón",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Diario de Cuyo."
    },
    "es": {
-    "name": "river vs ferro",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Olé."
+    "name": "albardón",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Diario de Cuyo."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/20/luisana-lopilato-se-emociono-al-recordar-la-grave-enfermedad-que-tuvo-su-hijo-noah-el-dolor-nunca-se-olvida/",
+  "rank": 3,
+  "sourceUrl": "https://www.ambito.com/mexico/informacion-general/alerta-tres-estados-tormenta-tropical-vance-podria-convertirse-huracan-categoria-3-los-proximos-dias-n6336374",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHVLam2rfRnKQ5PwG55_bBE0QWDGsdHhQcRbJGoc4f8d_amIqtv59IFlz93jU",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpG0a19OuQCJo2rSeMUszvpb3tz_nGNxhJ085gysjFcCrRE6pJY04TI3CsDLE",
+   "credit": "Ambito"
   },
   "t": {
    "pt": {
-    "name": "luisana lopilato",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
+    "name": "ciclón",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Ambito."
    },
    "en": {
-    "name": "luisana lopilato",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
+    "name": "ciclón",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Ambito."
    },
    "es": {
-    "name": "luisana lopilato",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
+    "name": "ciclón",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Ambito."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.eldia.com/la-ciudad/la-buena-primavera-duro-poco-y-asoman-chaparrones-este-miercoles-en-la-plata-la-ciudad_1792579560",
+  "rank": 4,
+  "sourceUrl": "https://khelnow.com/football/indian-football-isl-odisha-fc-vs-northeast-united-fc-preview",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR5MhjJFxZyez7fuCeIHbQZq-hPBnaQGNdBiO9xBltq8xfgF3AAXZsk1T1xLEE",
-   "credit": "Diario El Día de La Plata"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5_DjnZWwfTTvslLEQ_Y87J7EsHuWW69rY-XWkjybs-HTkP7jfoJXZFBobDGM",
+   "credit": "Khel Now"
   },
   "t": {
    "pt": {
-    "name": "pronostico la plata",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Diario El Día de La Plata."
+    "name": "united fc",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Khel Now."
    },
    "en": {
-    "name": "pronostico la plata",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Diario El Día de La Plata."
+    "name": "united fc",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Khel Now."
    },
    "es": {
-    "name": "pronostico la plata",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Diario El Día de La Plata."
+    "name": "united fc",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Khel Now."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com.mx/futbol/champions-league/nota/_/id/17405010/como-vs-manchester-united-uefa-champions-league-equipo-fecha-hora-y-tv-en-vivo",
+  "region": "AR",
+  "rank": 5,
+  "sourceUrl": "https://www.clarin.com/deportes/lisandro-martinez-suena-barcelona-medio-crisis-directivos-manchester-united_0_wE7ruoFrwj.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuod0kF9p-hT2l5I0Vi4KmHEakrj5KY6ITwqiDbCJ3JF1TAw7rTPS3GEb43ww",
-   "credit": "ESPN México"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3R8yYqbFy6y_MinMUMr6o7C8M48UzN2FmtkRZy-pNR1qnH3wIPrqob4cULa4",
+   "credit": "Clarin.com"
   },
   "t": {
    "pt": {
-    "name": "como - manchester united",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via ESPN México."
+    "name": "lisandro martinez",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Clarin.com."
    },
    "en": {
-    "name": "como - manchester united",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via ESPN México."
+    "name": "lisandro martinez",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Clarin.com."
    },
    "es": {
-    "name": "como - manchester united",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía ESPN México."
+    "name": "lisandro martinez",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.theguardian.com/film/2026/oct/20/judi-dench-cats-film-was-a-waste-of-goodwill-and-talent",
+  "region": "AR",
+  "rank": 6,
+  "sourceUrl": "https://www.gazzetta.it/Calcio/Serie-A/Inter/21-10-2026/inter-shakhtar-live-risultato-e-gol-champions-in-diretta.shtml",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR1teWoHC9WG9tJG9vaBf7PWqKH3otey47_5V6VAyK2EoCryfPt8CTPxgnrcqE",
-   "credit": "The Guardian"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJaV_fVddtCEe2WvThY9f-3CwSXiogyeH8uFHVdtdoH32bxMlrvpiDXhB5Wp4",
+   "credit": "La Gazzetta dello Sport"
   },
   "t": {
    "pt": {
-    "name": "judi dench",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via The Guardian."
+    "name": "inter - shakhtar",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via La Gazzetta dello Sport."
    },
    "en": {
-    "name": "judi dench",
-    "note": "Trending Google search (Mexico) — 100+ searches · via The Guardian."
+    "name": "inter - shakhtar",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via La Gazzetta dello Sport."
    },
    "es": {
-    "name": "judi dench",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía The Guardian."
+    "name": "inter - shakhtar",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía La Gazzetta dello Sport."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.sportsbusinessjournal.com/Articles/2026/10/21/nfl-retains-ticketmaster-as-top-secondary-marketplace-but-changes-model/",
+  "region": "AR",
+  "rank": 7,
+  "sourceUrl": "https://www.sportsmole.co.uk/football/betis/champions-league/preview/betis-vs-feyenoord-prediction-team-news-lineups_607262.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_oCgaxNAjAHvFZSYk5rwaBnufLqjlVHb8NXD33t1nFnw3yKOElKtkqKkw-9I",
-   "credit": "Sports Business Journal"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4n475t7f4Nnt9geDakQuiAenbijyRwAj0M4wCFwj8mN8HgEJ7lH7D_vvuZsI",
+   "credit": "Sports Mole"
   },
   "t": {
    "pt": {
-    "name": "ticket master",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Sports Business Journal."
+    "name": "real betis - feyenoord",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Sports Mole."
    },
    "en": {
-    "name": "ticket master",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Sports Business Journal."
+    "name": "real betis - feyenoord",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Sports Mole."
    },
    "es": {
-    "name": "ticket master",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Sports Business Journal."
+    "name": "real betis - feyenoord",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Sports Mole."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://variety.com/2026/tv/news/glee-reboot-disney-hulu-1236918160/",
+  "region": "AR",
+  "rank": 8,
+  "sourceUrl": "https://www.skysports.com/football/live-blog/13600990/aston-villa-vs-viking-live-champions-league-score-updates-news-prediction-and-line-ups",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJbLOZhMxP1O7w4WR_EbAydJZkRmniOMfQG44fhZK5l9hynPKfI5uxS9pBzjM",
-   "credit": "Variety"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMxN7EtkoigxWs4tvZy3YUju55l-kUc8d7WzZnBrC1nqPyYEHbb1gObYNUz0",
+   "credit": "Sky Sports"
   },
   "t": {
    "pt": {
-    "name": "glee",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Variety."
+    "name": "aston villa - viking",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Sky Sports."
    },
    "en": {
-    "name": "glee",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Variety."
+    "name": "aston villa - viking",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Sky Sports."
    },
    "es": {
-    "name": "glee",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Variety."
+    "name": "aston villa - viking",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Sky Sports."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://elcomentario.ucol.mx/?p=361499",
+  "rank": 1,
+  "sourceUrl": "https://www.reporteindigo.com/real-madrid-leipzig-donde-ver-transmision-champions-league-2026--horario-canal-pronostico-lb202610210001.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAXAYrZ8xt7qfME2cozB56jQkiu5yKTyaZ_Bo9X3Dprq4ZYMtdrZ-7L9tJpc",
-   "credit": "El Comentario"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMHu1YfCp1IV9ZXa7Cv1enotJcAeXDlrLFz-qtUFd4aCZtXL5proDZvap065A",
+   "credit": "Reporte Indigo"
   },
   "t": {
    "pt": {
-    "name": "venezuela",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via El Comentario."
+    "name": "real madrid vs",
+    "note": "Busca em alta no Google (México) — 20000+ buscas · via Reporte Indigo."
    },
    "en": {
-    "name": "venezuela",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via El Comentario."
+    "name": "real madrid vs",
+    "note": "Trending Google search (Mexico) — 20000+ searches · via Reporte Indigo."
    },
    "es": {
-    "name": "venezuela",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía El Comentario."
+    "name": "real madrid vs",
+    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía Reporte Indigo."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.marca.com/mx/futbol/liga-mx/2026/10/21/pollo-briseno-jugadores-toluca-emprenden-aventura-auto-bloqueo-carretera.html",
+  "rank": 2,
+  "sourceUrl": "https://www.reutersconnect.com/item/losc-lille-v-galatasaray-uefa-champions-league/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFOQURMMDAwNzBHMzE2",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfS3dNaYIq0L9_JQycBIJV66su6a2Ty6ujlA-M2qBPbMhcPAzQG8bWAhu3zDM",
-   "credit": "MARCA"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQoQHrW53h8k-09a7sKXaqOzl3JCVuIpDfph72XibKUjkR5PxvQq5_zJ_c1A",
+   "credit": "Reuters Connect"
   },
   "t": {
    "pt": {
-    "name": "antonio briseño",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via MARCA."
+    "name": "uefa champions",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via Reuters Connect."
    },
    "en": {
-    "name": "antonio briseño",
-    "note": "Trending Google search (Mexico) — 200+ searches · via MARCA."
+    "name": "uefa champions",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via Reuters Connect."
    },
    "es": {
-    "name": "antonio briseño",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía MARCA."
+    "name": "uefa champions",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Reuters Connect."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.aol.com/articles/fbi-investigating-reports-incendiary-device-140229000.html",
+  "rank": 3,
+  "sourceUrl": "https://www.reforma.com/reporta-shcp-que-evaluacion-de-gafi-esta-en-etapa-final/ar3298613?v=2",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQLQQNI10fnnm91U592puk8QrkMQDfOgvsk7tN6rU_zFZ3Mno4SBsjBLezFyE",
-   "credit": "AOL.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3jkbPUCT33Lt8uJmI7LEehY-SaTDDkMFxhpLwz40eQn3AMpiQcln2BuLItSU",
+   "credit": "Reforma"
   },
   "t": {
    "pt": {
-    "name": "fbi",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via AOL.com."
+    "name": "unidad de inteligencia financiera",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Reforma."
    },
    "en": {
-    "name": "fbi",
-    "note": "Trending Google search (Mexico) — 200+ searches · via AOL.com."
+    "name": "unidad de inteligencia financiera",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Reforma."
    },
    "es": {
-    "name": "fbi",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía AOL.com."
+    "name": "unidad de inteligencia financiera",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Reforma."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-21T15:59:56.642Z",
+  "collectedAt": "2026-10-21T19:05:32.548Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 8,
-  "sourceUrl": "https://vanguardia.com.mx/informacion/te-gusta-ir-a-conciertos-ticketmaster-mexico-renueva-su-app-las-nuevas-funciones-para-comprar-boletos-MC24268884",
+  "rank": 4,
+  "sourceUrl": "https://expansion.mx/empresas/2026/10/21/compra-att-televisa-abre-oportunidad-slim-telmex-tv-paga",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRqkEp46KDH-n2rNPc__bNwRHQXuijmOLC4XfiSLGqjCD6_ajcljEPIak6AmWs",
-   "credit": "vanguardia.com.mx"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqiB4Vi-2oLy2PLwADomSWXfI1TU_wqOxdi81s6LPHvYSrfw3iwfpA10LMx8A",
+   "credit": "Expansión"
   },
   "t": {
    "pt": {
-    "name": "ticketmaster",
-    "note": "Busca em alta no Google (México) — 5000+ buscas · via vanguardia.com.mx."
+    "name": "at&amp;t méxico",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Expansión."
    },
    "en": {
-    "name": "ticketmaster",
-    "note": "Trending Google search (Mexico) — 5000+ searches · via vanguardia.com.mx."
+    "name": "at&amp;t méxico",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Expansión."
    },
    "es": {
-    "name": "ticketmaster",
-    "note": "Búsqueda en tendencia en Google (México) — 5000+ búsquedas · vía vanguardia.com.mx."
+    "name": "at&amp;t méxico",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Expansión."
    }
   },
   "id": "tr31",
   "hue": 330
+ },
+ {
+  "collectedAt": "2026-10-21T19:05:32.548Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 5,
+  "sourceUrl": "https://www.espn.com.mx/futbol/champions-league/nota/_/id/17408694/puede-luis-diaz-reemplazar-a-olise-ser-clave-bayern-vs-arsenal",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRp7RTpz8vKud2uLBb04zdtWsv2me4O5iW_jq88ysijcYP59xJKoLOiVK-LZQ",
+   "credit": "ESPN México"
+  },
+  "t": {
+   "pt": {
+    "name": "bayern vs arsenal donde ver",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via ESPN México."
+   },
+   "en": {
+    "name": "bayern vs arsenal donde ver",
+    "note": "Trending Google search (Mexico) — 200+ searches · via ESPN México."
+   },
+   "es": {
+    "name": "bayern vs arsenal donde ver",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía ESPN México."
+   }
+  },
+  "id": "tr32",
+  "hue": 7
+ },
+ {
+  "collectedAt": "2026-10-21T19:05:32.548Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 6,
+  "sourceUrl": "https://www.football.london/arsenal-fc/news/bayern-munich-assistant-hints-michael-34792664",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbWgTsYRAVjgLHp7hIjXgCdDwGFH79fvmjatvA_5E17wIuJTMXCobBYpGrocI",
+   "credit": "Football London"
+  },
+  "t": {
+   "pt": {
+    "name": "olise",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Football London."
+   },
+   "en": {
+    "name": "olise",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Football London."
+   },
+   "es": {
+    "name": "olise",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Football London."
+   }
+  },
+  "id": "tr33",
+  "hue": 44
  }
 ]
