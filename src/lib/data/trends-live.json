@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,150 +72,374 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www1.folha.uol.com.br/ilustrada/2026/10/iron-maiden-faz-show-para-fas-aguerridos-em-noite-de-eleicao-historica-em-sao-paulo.shtml",
+  "sourceUrl": "https://www.bolgegundemi.com/video/rizespor-trabzonspor-ve-besiktas-basaksehir-ilk-11leri-aciklandi-220793.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBrDdsRrMakNaC_lLxndR9eBX_daQYGPV1Nwsb-Pancl5J2vwEb22EF0f5oSk",
-   "credit": "Folha de S.Paulo"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiSXhyHurRnPPAKOqB071hnyJsp2H9RVK68UirwozhRKnvY9SboTR7LtNpGB4",
+   "credit": "Bölge Gündemi"
   },
   "t": {
    "pt": {
-    "name": "show iron maiden sao paulo",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Folha de S.Paulo."
+    "name": "trabzonspor",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Bölge Gündemi."
    },
    "en": {
-    "name": "show iron maiden sao paulo",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Folha de S.Paulo."
+    "name": "trabzonspor",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Bölge Gündemi."
    },
    "es": {
-    "name": "show iron maiden sao paulo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Folha de S.Paulo."
+    "name": "trabzonspor",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Bölge Gündemi."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://www.atribuna.com.br/galeria/domingo-mais/momento-magico-astro-venus-retorna-ao-signo-de-libra-e-permite-avaliac-es-do-afetivo-1.534486",
+  "sourceUrl": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/noticia/2026/10/26/coritiba-x-gremio-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT9WdGG_tR5uBqO43Z7isnDhbEsYzpU_tHNMiXpxxIVXlMW2RtrVb9RoHX0yL8",
-   "credit": "A Tribuna"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTR4vkIeoinGIDWx1z-2YWU2iM32CLDKFeTkI63pzgiGkokXemAAYQGrojxpx4",
+   "credit": "ge"
   },
   "t": {
    "pt": {
-    "name": "libra hoje",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via A Tribuna."
+    "name": "coritiba x grêmio",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ge."
    },
    "en": {
-    "name": "libra hoje",
-    "note": "Trending Google search (Brazil) — 200+ searches · via A Tribuna."
+    "name": "coritiba x grêmio",
+    "note": "Trending Google search (Brazil) — 200+ searches · via ge."
    },
    "es": {
-    "name": "libra hoje",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía A Tribuna."
+    "name": "coritiba x grêmio",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ge."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.infomoney.com.br/onde-investir/fiis-alzr11-xpml11-e-snel11-pagam-dividendos-nesta-sexta-feira-23-veja-valores/",
+  "sourceUrl": "https://www.estadao.com.br/internacional/para-se-reeleger-netanyahu-enfrentara-um-rival-que-e-praticamente-seu-oposto-conheca-gadi-eisenkot/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgcAztCXTHSopvIlMnVJzgARLJdtqKRf4aAk9anAamlKkzYFcXyyqZpDXNUOQ",
-   "credit": "InfoMoney"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkhRxSwnOB3o39s38KAteKnfHqfp_0cUuB4J8br9TDndELtkV9OaYqW6QCui0",
+   "credit": "Estadão"
   },
   "t": {
    "pt": {
-    "name": "snel11",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via InfoMoney."
+    "name": "eleicoes israel",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Estadão."
    },
    "en": {
-    "name": "snel11",
-    "note": "Trending Google search (Brazil) — 200+ searches · via InfoMoney."
+    "name": "eleicoes israel",
+    "note": "Trending Google search (Brazil) — 100+ searches · via Estadão."
    },
    "es": {
-    "name": "snel11",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía InfoMoney."
+    "name": "eleicoes israel",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Estadão."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://www.spacemoney.com.br/investimentos/acoes/vale-vale3-balanco-3t26/",
+  "sourceUrl": "https://g1.globo.com/economia/noticia/2026/10/26/inss-inicia-pagamento-de-beneficios-de-outubro-veja-calendario.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTE7_Tx5C2c2ptKU3lZp2Jah2S0dqzowoF1csy0FRQQFSIxZTUUHkcLdsilKbE",
-   "credit": "SpaceMoney"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYeT5-qbec66f9X4N6sex10MXncFa8YmZzGd3iJ-kxhPhUqrb37P_GAukHaX8",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "vale ações",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via SpaceMoney."
+    "name": "pagamento",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
    },
    "en": {
-    "name": "vale ações",
-    "note": "Trending Google search (Brazil) — 200+ searches · via SpaceMoney."
+    "name": "pagamento",
+    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
    },
    "es": {
-    "name": "vale ações",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía SpaceMoney."
+    "name": "pagamento",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://tecnoblog.net/noticias/vivo-e-starlink-lancam-rede-via-satelite-no-brasil/",
+  "sourceUrl": "https://www.canligaste.com/canli-besiktas-istanbul-basaksehir-maci-kadro-dizilis-h2h-canli-anlatim-ve-canli-skor-26-ekim-2026/936189/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQXVRl0dgDOu1dpdIcp8sMn5eVJywziY7PuNS7zYUYg3ZSaKg2qT8IiYdOZ3lU",
-   "credit": "Tecnoblog"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSltpVE9J0kuHcCUb17_08-pKa8qMNwxOJTwmoWXRG_BMb2d0tdDsXv2zknT9g",
+   "credit": "Canlı Gaste"
   },
   "t": {
    "pt": {
-    "name": "vivo starlink",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Tecnoblog."
+    "name": "besiktas",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Canlı Gaste."
    },
    "en": {
-    "name": "vivo starlink",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via Tecnoblog."
+    "name": "besiktas",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Canlı Gaste."
    },
    "es": {
-    "name": "vivo starlink",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Tecnoblog."
+    "name": "besiktas",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Canlı Gaste."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
+  "rank": 6,
+  "sourceUrl": "https://www.bbc.com/sport/football/articles/cqjdmn0ndxjxo",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvnVkFywITeJKf4YuuEMv86sSHqAff5ESzCi2g_mYp8sZ0m2kSHH7w-aRGp3g",
+   "credit": "BBC"
+  },
+  "t": {
+   "pt": {
+    "name": "ballon dor",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via BBC."
+   },
+   "en": {
+    "name": "ballon dor",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via BBC."
+   },
+   "es": {
+    "name": "ballon dor",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía BBC."
+   }
+  },
+  "id": "tr9",
+  "hue": 236
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 7,
+  "sourceUrl": "https://aeroin.net/pousa-no-rio-de-janeiro-o-bonito-boeing-747-8i-com-a-pintura-especial-que-a-lufthansa-usou-decadas-atras/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRjDCOTF9EfBAXV4TrCsc5w5aZNqYRs8KSFci22G21B-vxIPux3b8NKhlxBlO4",
+   "credit": "AEROIN"
+  },
+  "t": {
+   "pt": {
+    "name": "boeing 747",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via AEROIN."
+   },
+   "en": {
+    "name": "boeing 747",
+    "note": "Trending Google search (Brazil) — 200+ searches · via AEROIN."
+   },
+   "es": {
+    "name": "boeing 747",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía AEROIN."
+   }
+  },
+  "id": "tr10",
+  "hue": 273
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "BR",
+  "rank": 8,
+  "sourceUrl": "https://diariodonordeste.verdesmares.com.br/pontopoder/andre-fernandes-acompanha-apuracao-junto-com-flavio-bolsonaro-em-brasilia-df-1.3801291",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzyFsYPj38rt7FNkPLHNHzvmRyL4sIBxz4egxoxUXfNm3DuUwmU4pB54kgGxc",
+   "credit": "Diário do Nordeste"
+  },
+  "t": {
+   "pt": {
+    "name": "andre fernandes",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Diário do Nordeste."
+   },
+   "en": {
+    "name": "andre fernandes",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Diário do Nordeste."
+   },
+   "es": {
+    "name": "andre fernandes",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Diário do Nordeste."
+   }
+  },
+  "id": "tr11",
+  "hue": 310
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 1,
+  "sourceUrl": "https://www.imdb.com/es/news/ni66080102/?ref_=int_nwr_3",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrtXsg4IXAsupTvpqU37EXCA2MuNUmVxsfy5tLuYHM3rfCjuE2kAl9PsP8dAU",
+   "credit": "IMDb"
+  },
+  "t": {
+   "pt": {
+    "name": "star wars",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via IMDb."
+   },
+   "en": {
+    "name": "star wars",
+    "note": "Trending Google search (US) — 200+ searches · via IMDb."
+   },
+   "es": {
+    "name": "star wars",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía IMDb."
+   }
+  },
+  "id": "tr12",
+  "hue": 347
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 2,
+  "sourceUrl": "https://www.cnbc.com/2026/10/26/microsoft-msft-voluntary-buyouts.html",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQriCBoH-uHiRWpFZ6Gu_5O2ty6YPHveEE5sk_8qdE_3MQBNTYFauMSObScSSM",
+   "credit": "CNBC"
+  },
+  "t": {
+   "pt": {
+    "name": "microsoft",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via CNBC."
+   },
+   "en": {
+    "name": "microsoft",
+    "note": "Trending Google search (US) — 5000+ searches · via CNBC."
+   },
+   "es": {
+    "name": "microsoft",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía CNBC."
+   }
+  },
+  "id": "tr13",
+  "hue": 24
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 3,
+  "sourceUrl": "https://news.xbox.com/en-us/2026/10/20/xbox-game-pass-october-2026-wave-2/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzYaVpaM0tlZ9d25e5tEm6bfX-H21dBvEq--KiXJ0M0U_C6VLAuxJSegl_8TQ",
+   "credit": "XBOX Wire"
+  },
+  "t": {
+   "pt": {
+    "name": "mouthwashing xbox game pass release",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via XBOX Wire."
+   },
+   "en": {
+    "name": "mouthwashing xbox game pass release",
+    "note": "Trending Google search (US) — 2000+ searches · via XBOX Wire."
+   },
+   "es": {
+    "name": "mouthwashing xbox game pass release",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía XBOX Wire."
+   }
+  },
+  "id": "tr14",
+  "hue": 61
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 4,
+  "sourceUrl": "https://www.einpresswire.com/article/952366940/mcmullen-tax-service-helps-tyler-east-texas-taxpayers-tackle-irs-notices-before-year-end",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSjIMV_a-nyNkPT5Q8MWNLBi429r4wDiGsrxNzOsQ0TPxb7DjoqZktDkDCrRno",
+   "credit": "EIN Presswire"
+  },
+  "t": {
+   "pt": {
+    "name": "tax",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via EIN Presswire."
+   },
+   "en": {
+    "name": "tax",
+    "note": "Trending Google search (US) — 500+ searches · via EIN Presswire."
+   },
+   "es": {
+    "name": "tax",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía EIN Presswire."
+   }
+  },
+  "id": "tr15",
+  "hue": 98
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
+  "rank": 5,
+  "sourceUrl": "https://collider.com/evil-dead-burn-streaming-success-hbo-max-october-2026/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3_aaapAiZtp3IVBWcMqjqo3wli_HROEZL_6lqRv_bFOLskWmh2-NanYn162o",
+   "credit": "Collider"
+  },
+  "t": {
+   "pt": {
+    "name": "sam raimi",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Collider."
+   },
+   "en": {
+    "name": "sam raimi",
+    "note": "Trending Google search (US) — 500+ searches · via Collider."
+   },
+   "es": {
+    "name": "sam raimi",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Collider."
+   }
+  },
+  "id": "tr16",
+  "hue": 135
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "US",
   "rank": 6,
   "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
   "image": {
@@ -224,307 +448,251 @@
   },
   "t": {
    "pt": {
-    "name": "ipad mini",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Apple."
+    "name": "new ipad mini 2026",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Apple."
    },
    "en": {
-    "name": "ipad mini",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Apple."
+    "name": "new ipad mini 2026",
+    "note": "Trending Google search (US) — 1000+ searches · via Apple."
    },
    "es": {
-    "name": "ipad mini",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Apple."
-   }
-  },
-  "id": "tr9",
-  "hue": 236
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 7,
-  "sourceUrl": "https://in.investing.com/news/stock-market-news/why-is-itau-unibanco-banco-stock-plunging-today-93CH-5653424",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSrg7SXrUWjy8XvIQDLcpWg9-l0j1TymhhouFsjdAhbvVZ6BlcP_v3eW9WDDCs",
-   "credit": "Investing.com India"
-  },
-  "t": {
-   "pt": {
-    "name": "itub",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Investing.com India."
-   },
-   "en": {
-    "name": "itub",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Investing.com India."
-   },
-   "es": {
-    "name": "itub",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Investing.com India."
-   }
-  },
-  "id": "tr10",
-  "hue": 273
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "BR",
-  "rank": 8,
-  "sourceUrl": "https://www.moneytimes.com.br/itub4-sanb11-bbas3-qual-banco-investir-balancos-do-3t26-mlem/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQPc-xoxpWnTefAhX1VjHe_8v6cKBftu5hnCM1ptHpXu-Gq0R2nEolU76fyV5I",
-   "credit": "Money Times"
-  },
-  "t": {
-   "pt": {
-    "name": "sanb11",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Money Times."
-   },
-   "en": {
-    "name": "sanb11",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Money Times."
-   },
-   "es": {
-    "name": "sanb11",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Money Times."
-   }
-  },
-  "id": "tr11",
-  "hue": 310
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 1,
-  "sourceUrl": "https://www.bleachernation.com/picks/2026/10/25/machac-vs-de-minaur-prediction-at-the-erste-bank-open-monday-october-26/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTILZjIvJu1LFTzCMa3GXUyLUarkvIIRKp5sWC56vH7psO9kgLrhrtl2HiqYJQ",
-   "credit": "Bleacher Nation"
-  },
-  "t": {
-   "pt": {
-    "name": "alex de minaur",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Bleacher Nation."
-   },
-   "en": {
-    "name": "alex de minaur",
-    "note": "Trending Google search (US) — 500+ searches · via Bleacher Nation."
-   },
-   "es": {
-    "name": "alex de minaur",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Bleacher Nation."
-   }
-  },
-  "id": "tr12",
-  "hue": 347
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 2,
-  "sourceUrl": "https://www.theweathernetwork.com/en/news/weather/forecasts/canada-who-woke-up-the-polar-vortex-early",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB8dQK1Cw1Gf6rELbamBiknyNPDxPT908ljWMbAXa8MIbLZXUIQpQqXSAIFBI",
-   "credit": "The Weather Network"
-  },
-  "t": {
-   "pt": {
-    "name": "polar vortex forecast",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via The Weather Network."
-   },
-   "en": {
-    "name": "polar vortex forecast",
-    "note": "Trending Google search (US) — 500+ searches · via The Weather Network."
-   },
-   "es": {
-    "name": "polar vortex forecast",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía The Weather Network."
-   }
-  },
-  "id": "tr13",
-  "hue": 24
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 3,
-  "sourceUrl": "https://www.yahoo.com/entertainment/tv/articles/rick-devens-wife-clapped-back-144457934.html",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfetJX3081TjHtRx0msQAKoLsaLbBrPRHuZ0GIkc_r9B0JmZcvHrWsHqOF64",
-   "credit": "Yahoo"
-  },
-  "t": {
-   "pt": {
-    "name": "becca devens",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Yahoo."
-   },
-   "en": {
-    "name": "becca devens",
-    "note": "Trending Google search (US) — 500+ searches · via Yahoo."
-   },
-   "es": {
-    "name": "becca devens",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Yahoo."
-   }
-  },
-  "id": "tr14",
-  "hue": 61
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 4,
-  "sourceUrl": "https://pagesix.com/2026/10/23/parents/kristen-bell-says-she-uses-daughters-to-spy-on-husband-dax-shepard-after-candid-marriage-confession/",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlupnIVU-4Tq6RC9vBvJ0tXV5h7H5fPkABmkcDTw3HP0OY3WDBImMSyBI4854",
-   "credit": "Page Six"
-  },
-  "t": {
-   "pt": {
-    "name": "dax shepard",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Page Six."
-   },
-   "en": {
-    "name": "dax shepard",
-    "note": "Trending Google search (US) — 500+ searches · via Page Six."
-   },
-   "es": {
-    "name": "dax shepard",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Page Six."
-   }
-  },
-  "id": "tr15",
-  "hue": 98
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 5,
-  "sourceUrl": "https://www.bbc.com/news/articles/c8p3g73ep520o",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvh21cKBRi5Px86Yk35sZT7aOGediv-VAbM-uY2WbYg2ZPbd9Rkzkgp60gl6Q",
-   "credit": "BBC"
-  },
-  "t": {
-   "pt": {
-    "name": "bleach",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via BBC."
-   },
-   "en": {
-    "name": "bleach",
-    "note": "Trending Google search (US) — 500+ searches · via BBC."
-   },
-   "es": {
-    "name": "bleach",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía BBC."
-   }
-  },
-  "id": "tr16",
-  "hue": 135
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.12newsnow.com/article/news/politics/elections/midterm-2026-on-the-ballot-where-to-vote-jasper-county/502-4d5be506-bae8-42ce-8a80-fa092d67708b",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPBv9hlgXPSLkVnXSRQhsplY0uNNr49m7ZQyTebPLYBWV5qLoQ-BmUy_V--lY",
-   "credit": "12newsnow.com"
-  },
-  "t": {
-   "pt": {
-    "name": "where to vote",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via 12newsnow.com."
-   },
-   "en": {
-    "name": "where to vote",
-    "note": "Trending Google search (US) — 500+ searches · via 12newsnow.com."
-   },
-   "es": {
-    "name": "where to vote",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía 12newsnow.com."
+    "name": "new ipad mini 2026",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Apple."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 7,
-  "sourceUrl": "https://www.wsj.com/economy/musk-trump-accounts-spacex-charity-dell-b9c37991",
+  "sourceUrl": "https://www.espn.com/boxing/story/_/id/50260336/haney-inks-multifight-deal-dazn-wants-biggest-challenges",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0wsTx2XYNwltzvtEExRXtgCu1sVvhxhhSI3FkvEdNupfKwNps0aD0Ks1Pfs8",
-   "credit": "WSJ"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR57CxvQ3SZ8wRvlz_D2m0dXp-kBYtGZQ5KRtZu-GACMYNJvJB_QBXitSmmTyA",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "trump account for kids",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via WSJ."
+    "name": "dazn",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via ESPN."
    },
    "en": {
-    "name": "trump account for kids",
-    "note": "Trending Google search (US) — 500+ searches · via WSJ."
+    "name": "dazn",
+    "note": "Trending Google search (US) — 5000+ searches · via ESPN."
    },
    "es": {
-    "name": "trump account for kids",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía WSJ."
+    "name": "dazn",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 8,
-  "sourceUrl": "https://seekingalpha.com/article/4955205-walmart-and-its-real-value",
+  "sourceUrl": "https://www.foxnews.com/video/6407408025112",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR0OsPaVgtcXlm4GfCXvCb7igKiWSEFEW4wly9tbRi633hx442JWhF0ZyCu3l8",
-   "credit": "Seeking Alpha"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUWogM89JwreT8OfGpw21X9jLlThxm6K7Y365bHgfEgH_kVzCc6568KwL1ag4",
+   "credit": "Fox News"
   },
   "t": {
    "pt": {
-    "name": "walmart stock",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Seeking Alpha."
+    "name": "dez bryant",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via Fox News."
    },
    "en": {
-    "name": "walmart stock",
-    "note": "Trending Google search (US) — 200+ searches · via Seeking Alpha."
+    "name": "dez bryant",
+    "note": "Trending Google search (US) — 500+ searches · via Fox News."
    },
    "es": {
-    "name": "walmart stock",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Seeking Alpha."
+    "name": "dez bryant",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía Fox News."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 1,
+  "sourceUrl": "https://www.town.shodoshima.lg.jp/section/VR_choseiyoran/shodoshima349.html?xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL21pbmhhamJlYXItZ2xpdGNoLmdpdGh1Yi5pby9qYWwvIi8+PC9rcnBhbm8+&amp;id=video-canli-besiktas-basaksehir-canl-yayn-tv-de-live-tv",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu9qnUnqPiSmYpzdaleXAGCOFoVy7CONSj47-GxgG8v2POjmWyEtx_G1pPn8A",
+   "credit": "小豆島町"
+  },
+  "t": {
+   "pt": {
+    "name": "besiktas",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via 小豆島町."
+   },
+   "en": {
+    "name": "besiktas",
+    "note": "Trending Google search (Argentina) — 200+ searches · via 小豆島町."
+   },
+   "es": {
+    "name": "besiktas",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía 小豆島町."
+   }
+  },
+  "id": "tr20",
+  "hue": 283
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.goal.com/en/lists/ballon-d-or-battle-will-the-historic-real-madrid-and-barcelona-partnership-break-up-or-does-laporta-have-another-opinion/bltc1792138bec65703",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6GTe8MvCEhfMQ2DsEy5Y5CgPRCFIzWgOQuZNm4NeJT9APjHCkLuAhYe1pfY",
+   "credit": "Goal.com"
+  },
+  "t": {
+   "pt": {
+    "name": "ballon d&apos;or",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Goal.com."
+   },
+   "en": {
+    "name": "ballon d&apos;or",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Goal.com."
+   },
+   "es": {
+    "name": "ballon d&apos;or",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Goal.com."
+   }
+  },
+  "id": "tr21",
+  "hue": 320
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/25/andrea-ghidone-y-pablo-otero-dieron-el-si-en-una-celebracion-que-reunio-a-sus-seres-queridos-y-figuras-del-espectaculo/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_mg7wvj02MOWO4j2HsFbytrKpWMvo8_NmX80xR67l2Oi0Sngd_fXiq1pf-iU",
+   "credit": "Infobae"
+  },
+  "t": {
+   "pt": {
+    "name": "andrea ghidone",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
+   },
+   "en": {
+    "name": "andrea ghidone",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
+   },
+   "es": {
+    "name": "andrea ghidone",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
+   }
+  },
+  "id": "tr22",
+  "hue": 357
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 4,
+  "sourceUrl": "https://www.nbcchicago.com/news/local/chicago-politics/11-more-illinois-counties-to-vote-on-exploring-separation-from-cook-county/4007120/",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDWQe9i5n2sasHyHgCmXCVwD4m4KIHSgPBa-IivLnemZAc24yhDG_t8AsTkB4",
+   "credit": "NBC 5 Chicago"
+  },
+  "t": {
+   "pt": {
+    "name": "chicago",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via NBC 5 Chicago."
+   },
+   "en": {
+    "name": "chicago",
+    "note": "Trending Google search (Argentina) — 200+ searches · via NBC 5 Chicago."
+   },
+   "es": {
+    "name": "chicago",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía NBC 5 Chicago."
+   }
+  },
+  "id": "tr23",
+  "hue": 34
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 5,
+  "sourceUrl": "https://www.tycsports.com/primera-nacional/nueva-chicago-vs-san-martin-sj-en-vivo-donde-ver-por-tv-y-online-id768528.html",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSsY0qKKfyJluCyHQgHpMugB1bdASHq1Nc_UuQ6UGSSIo9sGWfhZyifeM8TQU8",
+   "credit": "TyC Sports"
+  },
+  "t": {
+   "pt": {
+    "name": "nueva chicago - san martín",
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via TyC Sports."
+   },
+   "en": {
+    "name": "nueva chicago - san martín",
+    "note": "Trending Google search (Argentina) — 5000+ searches · via TyC Sports."
+   },
+   "es": {
+    "name": "nueva chicago - san martín",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía TyC Sports."
+   }
+  },
+  "id": "tr24",
+  "hue": 71
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 6,
+  "sourceUrl": "https://www.tuko.co.ke/entertainment/celebrities/644461-how-katie-boulter-alex-de-minaur-turned-tennis-rivals-life-partners/",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPKXs6elN4go7R6b6-eKJspL3APZkc3Dk1qKGgUMTaULRjicJxk2myxdfW-08",
+   "credit": "Tuko News"
+  },
+  "t": {
+   "pt": {
+    "name": "álex de miñaur",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Tuko News."
+   },
+   "en": {
+    "name": "álex de miñaur",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Tuko News."
+   },
+   "es": {
+    "name": "álex de miñaur",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Tuko News."
+   }
+  },
+  "id": "tr25",
+  "hue": 108
+ },
+ {
+  "collectedAt": "2026-10-26T16:18:27.482Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "AR",
+  "rank": 7,
   "sourceUrl": "https://www.espn.com.ar/tenis/nota/_/id/17430543/juan-manuel-cerundolo-volvio-a-ganar-supero-la-qualy-del-atp-500-de-basilea-y-tendro-un-insolito-debut-resultados-altmaier",
   "image": {
    "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ39ugDBP9aaMLfAtto_q4VYeMstc0o9FTdMC5fJoXJPcCRPuP8o6pntPSjnGc",
@@ -544,399 +712,203 @@
     "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía ESPN Argentina."
    }
   },
-  "id": "tr20",
-  "hue": 283
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.infobae.com/mexico/2026/10/26/pensiones-bienestar-2026-este-es-el-calendario-oficial-de-pagos-del-bimestre-noviembre-diciembre/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6njscq8pvhJFfTDs_RPARw0IzZj5RyFyQf0sRhpBxMyW3X_IosBQZZLuSzuU",
-   "credit": "Infobae"
-  },
-  "t": {
-   "pt": {
-    "name": "noviembre",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
-   },
-   "en": {
-    "name": "noviembre",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
-   },
-   "es": {
-    "name": "noviembre",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
-   }
-  },
-  "id": "tr21",
-  "hue": 320
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.clarin.com/fama/carmen-barbieri-estado-salud-agarro-junto_0_eGniCuJjur.html",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQpKCP6DOwcmyTomauzKZuVnlN43i65tMQ1giDl1CbGhnYP19ArslPd2LMonH0",
-   "credit": "Clarin.com"
-  },
-  "t": {
-   "pt": {
-    "name": "carmen barbieri",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Clarin.com."
-   },
-   "en": {
-    "name": "carmen barbieri",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Clarin.com."
-   },
-   "es": {
-    "name": "carmen barbieri",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Clarin.com."
-   }
-  },
-  "id": "tr22",
-  "hue": 357
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.espn.com/boxing/story/_/id/50260336/haney-inks-multifight-deal-dazn-wants-biggest-challenges",
-  "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR57CxvQ3SZ8wRvlz_D2m0dXp-kBYtGZQ5KRtZu-GACMYNJvJB_QBXitSmmTyA",
-   "credit": "ESPN"
-  },
-  "t": {
-   "pt": {
-    "name": "dazn",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via ESPN."
-   },
-   "en": {
-    "name": "dazn",
-    "note": "Trending Google search (Argentina) — 500+ searches · via ESPN."
-   },
-   "es": {
-    "name": "dazn",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía ESPN."
-   }
-  },
-  "id": "tr23",
-  "hue": 34
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://comercioyjusticia.info/informacion-general/calendario-de-cobro-de-anses-para-noviembre-de-2026-fechas-confirmadas-para-jubilados-y-pnc/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTys4Sqw_4nywLLGdYZCsWDoooVC5aP4GCSCkMoQexN8OqfYV7kUZfvMxsHoZY",
-   "credit": "Comercio y Justicia"
-  },
-  "t": {
-   "pt": {
-    "name": "calendario noviembre 2026",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Comercio y Justicia."
-   },
-   "en": {
-    "name": "calendario noviembre 2026",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Comercio y Justicia."
-   },
-   "es": {
-    "name": "calendario noviembre 2026",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Comercio y Justicia."
-   }
-  },
-  "id": "tr24",
-  "hue": 71
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.reuters.com/world/india/gold-gains-softer-oil-prices-fed-decision-focus-2026-10-26/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmFjXgaqeCZiFW-GDGGoQPk2z2zWUNC4FJh7WQiomZAQ0iAcNUb7TnTrAlOi0",
-   "credit": "Reuters"
-  },
-  "t": {
-   "pt": {
-    "name": "tradingview",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Reuters."
-   },
-   "en": {
-    "name": "tradingview",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Reuters."
-   },
-   "es": {
-    "name": "tradingview",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Reuters."
-   }
-  },
-  "id": "tr25",
-  "hue": 108
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.ambito.com/opiniones/argentina-tiene-un-nuevo-merval-que-cambia-los-inversores-n6337715",
-  "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvQONveLhLxOVnT_kWLZ8SPkQMzARYl_AkJXMIM2iF-UbGG34E7z6A8UlRJhc",
-   "credit": "Ambito"
-  },
-  "t": {
-   "pt": {
-    "name": "merval",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Ambito."
-   },
-   "en": {
-    "name": "merval",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Ambito."
-   },
-   "es": {
-    "name": "merval",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Ambito."
-   }
-  },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://www.ysscores.com/en/lineup/6050080/Neftchi-Fergana-vs-Al-Ittihad-Club",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.canligaste.com/canli-besiktas-istanbul-basaksehir-maci-kadro-dizilis-h2h-canli-anlatim-ve-canli-skor-26-ekim-2026/936189/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShJyijipO1fDLLfHhx66jouUou3MOSW0OJt4-N0GqAb_k51XOMX1CYOmfnsZQ",
-   "credit": "YSscores"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSltpVE9J0kuHcCUb17_08-pKa8qMNwxOJTwmoWXRG_BMb2d0tdDsXv2zknT9g",
+   "credit": "Canlı Gaste"
   },
   "t": {
    "pt": {
-    "name": "fk neftchi fergana - al ittihad",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via YSscores."
+    "name": "besiktas",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Canlı Gaste."
    },
    "en": {
-    "name": "fk neftchi fergana - al ittihad",
-    "note": "Trending Google search (Argentina) — 200+ searches · via YSscores."
+    "name": "besiktas",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Canlı Gaste."
    },
    "es": {
-    "name": "fk neftchi fergana - al ittihad",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía YSscores."
+    "name": "besiktas",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Canlı Gaste."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://elcomentario.ucol.mx/?p=362953",
+  "rank": 2,
+  "sourceUrl": "https://www.bolgegundemi.com/video/rizespor-trabzonspor-ve-besiktas-basaksehir-ilk-11leri-aciklandi-220793.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5QzSGBFxuert21hwnovlfml5XcyuLMXbtdhHeVgo2yFE87yfeS4sEuZnE8p8",
-   "credit": "El Comentario"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiSXhyHurRnPPAKOqB071hnyJsp2H9RVK68UirwozhRKnvY9SboTR7LtNpGB4",
+   "credit": "Bölge Gündemi"
   },
   "t": {
    "pt": {
-    "name": "serbia",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via El Comentario."
+    "name": "rizespor - trabzonspor",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via Bölge Gündemi."
    },
    "en": {
-    "name": "serbia",
-    "note": "Trending Google search (Mexico) — 100+ searches · via El Comentario."
+    "name": "rizespor - trabzonspor",
+    "note": "Trending Google search (Mexico) — 500+ searches · via Bölge Gündemi."
    },
    "es": {
-    "name": "serbia",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía El Comentario."
+    "name": "rizespor - trabzonspor",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Bölge Gündemi."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://es-us.noticias.yahoo.com/liga-mx-femenil-apertura-2026-180136041.html",
+  "rank": 3,
+  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/10/26/sociedad/fechas-de-pago-de-pensiones-y-programas-del-bienestar",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpD-z6_il4ansIHN7FSJnLRjjTOwYuG-4wzO310GixH8u0g7fwrC-kZlxgE_4",
-   "credit": "Yahoo"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9X151MO45vgOBR_ME8w0DLPpzY13LtxTz37N7eYoqjTJ15HN7DI40z3U6vNs",
+   "credit": "La Jornada"
   },
   "t": {
    "pt": {
-    "name": "primera división femenil de méxico",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo."
+    "name": "calendario noviembre 2026",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via La Jornada."
    },
    "en": {
-    "name": "primera división femenil de méxico",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo."
+    "name": "calendario noviembre 2026",
+    "note": "Trending Google search (Mexico) — 200+ searches · via La Jornada."
    },
    "es": {
-    "name": "primera división femenil de méxico",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo."
+    "name": "calendario noviembre 2026",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía La Jornada."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://psgpost.com/paris-saint-germain-vs-lyon-predicted-starting-lineup-for-ligue-1-clash-01m5vr4at55v",
+  "rank": 4,
+  "sourceUrl": "https://fabricadeperiodismo.com/noticias/resultados-becas-escuelas-particulares-edomex-secti-2026/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJiYdjqKov7rmt0-bBfNAMGL_JxxqFQPcvrc-8oTtUjxDcUvEgduGjEkAL3j8",
-   "credit": "PSG Post"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTD8sgbBAFtb2GDw0d26w93sl--cqGGoiAEw1zrc-OVIY-imV7PjKaZ8KHC38M",
+   "credit": "Fábrica de Periodismo"
   },
   "t": {
    "pt": {
-    "name": "psg vs lyon",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via PSG Post."
+    "name": "becas",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Fábrica de Periodismo."
    },
    "en": {
-    "name": "psg vs lyon",
-    "note": "Trending Google search (Mexico) — 100+ searches · via PSG Post."
+    "name": "becas",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Fábrica de Periodismo."
    },
    "es": {
-    "name": "psg vs lyon",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía PSG Post."
+    "name": "becas",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Fábrica de Periodismo."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.hola.com/realeza/casa_noruega/20261026931216/nuevo-escandalo-judicialmette-marit-noruega-hermano/",
+  "rank": 5,
+  "sourceUrl": "https://www.tuko.co.ke/entertainment/celebrities/644461-how-katie-boulter-alex-de-minaur-turned-tennis-rivals-life-partners/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdJUc3cu2hjRzJf-sVCLK_Go2zF61PU1LD-i-GgkpAnI8d3s9DqJeqSzBDgWM",
-   "credit": "HOLA"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSPKXs6elN4go7R6b6-eKJspL3APZkc3Dk1qKGgUMTaULRjicJxk2myxdfW-08",
+   "credit": "Tuko News"
   },
   "t": {
    "pt": {
-    "name": "mette-marit de noruega",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via HOLA."
+    "name": "álex de miñaur",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Tuko News."
    },
    "en": {
-    "name": "mette-marit de noruega",
-    "note": "Trending Google search (Mexico) — 200+ searches · via HOLA."
+    "name": "álex de miñaur",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Tuko News."
    },
    "es": {
-    "name": "mette-marit de noruega",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía HOLA."
+    "name": "álex de miñaur",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Tuko News."
    }
   },
   "id": "tr31",
   "hue": 330
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.cnn.com/travel/airbus-a340-600-vanishing-lufthansa",
+  "rank": 6,
+  "sourceUrl": "https://www.milenio.com/negocios/navidad-desbanca-black-friday-compraran-mexicanos",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwRp4Ua_MqOiwEGNmeXMVqcHYjTxzEkVuT-bI2wqohn0iK19TxLsdTO1eiSb8",
-   "credit": "CNN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ9zNtte1LbF8G1oBBe1epfjxr7x3vFZ7dU6lztzl0OKEpHYC-a68XhginKMVM",
+   "credit": "MILENIO"
   },
   "t": {
    "pt": {
-    "name": "airbus a340",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via CNN."
+    "name": "black friday",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via MILENIO."
    },
    "en": {
-    "name": "airbus a340",
-    "note": "Trending Google search (Mexico) — 100+ searches · via CNN."
+    "name": "black friday",
+    "note": "Trending Google search (Mexico) — 100+ searches · via MILENIO."
    },
    "es": {
-    "name": "airbus a340",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía CNN."
+    "name": "black friday",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía MILENIO."
    }
   },
   "id": "tr32",
   "hue": 7
  },
  {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnONjLuECi31ZW7R3T_Iz09JTzgZXga53siAnTZG_0zX3bwmvFtGAU7leWQGU",
-   "credit": "Apple"
-  },
-  "t": {
-   "pt": {
-    "name": "ipad mini",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Apple."
-   },
-   "en": {
-    "name": "ipad mini",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Apple."
-   },
-   "es": {
-    "name": "ipad mini",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Apple."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-26T15:00:57.307Z",
+  "collectedAt": "2026-10-26T16:18:27.482Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
   "rank": 7,
-  "sourceUrl": "https://mx.investing.com/news/stock-market-news/por-que-se-desploma-hoy-la-accion-de-jetblue-airways-93CH-3814094",
+  "sourceUrl": "https://www.timesofisrael.com/malaysia-bans-civil-servants-from-using-israeli-made-waze-navigation-app/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwThQX7IYaQGVpTexarodcfD4gLg_0_kSILu1YUA8rJaeECDnRp40Dm9ucU44",
-   "credit": "Investing.com México - Finanzas, Bolsa y Forex"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0kJ1dBZsK9wd14JPQPgEkDn-VvX7pFr1iUeRMZXGHatkSgnDA6HCnFN7UT6w",
+   "credit": "The Times of Israel"
   },
   "t": {
    "pt": {
-    "name": "investing",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Investing.com México - Finanzas, Bolsa y Forex."
+    "name": "waze",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via The Times of Israel."
    },
    "en": {
-    "name": "investing",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Investing.com México - Finanzas, Bolsa y Forex."
+    "name": "waze",
+    "note": "Trending Google search (Mexico) — 200+ searches · via The Times of Israel."
    },
    "es": {
-    "name": "investing",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Investing.com México - Finanzas, Bolsa y Forex."
+    "name": "waze",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía The Times of Israel."
    }
   },
-  "id": "tr34",
-  "hue": 81
+  "id": "tr33",
+  "hue": 44
  }
 ]
