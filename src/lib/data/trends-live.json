@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,836 +72,840 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://f5.folha.uol.com.br/cinema-e-series/2026/10/atriz-de-two-and-a-half-men-diz-que-ficou-sem-aumento-em-seis-temporadas-da-serie.shtml",
+  "sourceUrl": "https://www.nytimes.com/athletic/live-blogs/brewers-vs-rays-live-updates-mlb-world-series-game-4-score-result/8bjRf4WjEgBv/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQKUeJNlvFluJvvMllYSRtD8syuyid0tFKxD7zXhH2IfXUyPFwK55YxBp-c92g",
-   "credit": "UOL"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWgAAdr0PPQVxzVgBKc-HP5ONhFb6oqaWnIQQsuX4PmRLtHU2ld85JRxitg7U",
+   "credit": "The New York Times"
   },
   "t": {
    "pt": {
-    "name": "holland taylor",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via UOL."
+    "name": "mlb",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via The New York Times."
    },
    "en": {
-    "name": "holland taylor",
-    "note": "Trending Google search (Brazil) — 500+ searches · via UOL."
+    "name": "mlb",
+    "note": "Trending Google search (Brazil) — 200+ searches · via The New York Times."
    },
    "es": {
-    "name": "holland taylor",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía UOL."
+    "name": "mlb",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía The New York Times."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://www.estadao.com.br/politica/coluna-do-estadao/flavio-sofre-perseguicao-politica-de-moraes-diz-rui-costa-pimenta-presidenciavel-do-pco/",
+  "sourceUrl": "https://g1.globo.com/rs/rio-grande-do-sul/eleicoes/2026/noticia/2026/10/27/maiores-percentuais-votos-flavio-bolsonaro.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSw6YFjbmhlq76chpjx0aXKJSYVpzXcyV1PahIvslgWwK_sE_jTmLL1kHzT868",
-   "credit": "Estadão"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7KiGy0hg8AD4YZr7VmAD3ZUNAkUgP4OLOBFOKwh5kZGwOywgQNCNx1n6uHuk",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "pco",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Estadão."
+    "name": "getulio vargas",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via G1."
    },
    "en": {
-    "name": "pco",
-    "note": "Trending Google search (Brazil) — 500+ searches · via Estadão."
+    "name": "getulio vargas",
+    "note": "Trending Google search (Brazil) — 100+ searches · via G1."
    },
    "es": {
-    "name": "pco",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Estadão."
+    "name": "getulio vargas",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía G1."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.cnnbrasil.com.br/politica/governo-editou-reajuste-do-bolsa-familia-as-vesperas-de-anuncio/",
+  "sourceUrl": "https://www.nytimes.com/athletic/7722046/2026/10/25/phoenix-suns-devin-booker-miles-bridges-jordan-ott-continuity/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2k6vmtw5rMdPyVpF-YXvMjdR5NdewVYKJNREDU8jlnK-qsNUl-4kJDb4BA_c",
-   "credit": "CNN Brasil"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4YiU--i_rGdvMG76Kjk5bems7pRzk5jJhpqAtnQxmfP5Hh_GM7HSYTK99U6g",
+   "credit": "The New York Times"
   },
   "t": {
    "pt": {
-    "name": "bolsa família calendário",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via CNN Brasil."
+    "name": "ja morant",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via The New York Times."
    },
    "en": {
-    "name": "bolsa família calendário",
-    "note": "Trending Google search (Brazil) — 200+ searches · via CNN Brasil."
+    "name": "ja morant",
+    "note": "Trending Google search (Brazil) — 200+ searches · via The New York Times."
    },
    "es": {
-    "name": "bolsa família calendário",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía CNN Brasil."
+    "name": "ja morant",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía The New York Times."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://egw.news/gaming/news/38047/voice-actor-of-jason-in-gta-6-reportedly-revealed-tzzipO-4m",
+  "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/a-fazenda/enquete-a-fazenda-18-ana-bruna-darlin-giovanna-e-maira-estao-na-roca-vote-158649",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2reF_yp-KjvbaligYMHSJ_ytznbtn2ddTN1lxXi0PHqj_BRkWKKn42-5p4v4",
-   "credit": "EGW News"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS_wiM86DE8kdtD-rdOuF8ONn4wAwlpmcX_pOvn9TTUhlIh1draTkWDJpGaPCU",
+   "credit": "Notícias da TV"
   },
   "t": {
    "pt": {
-    "name": "manni perez",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via EGW News."
+    "name": "enquete a fazenda",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Notícias da TV."
    },
    "en": {
-    "name": "manni perez",
-    "note": "Trending Google search (Brazil) — 200+ searches · via EGW News."
+    "name": "enquete a fazenda",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via Notícias da TV."
    },
    "es": {
-    "name": "manni perez",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía EGW News."
+    "name": "enquete a fazenda",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Notícias da TV."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://gshow.globo.com/cultura-pop/famosos/noticia/mae-de-marina-ruy-barbosa-desmente-affair-da-filha-com-vini-jr-entenda.ghtml",
+  "sourceUrl": "https://www.nytimes.com/2026/10/26/business/brazil-stock-markets-election-lula.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD0kD7Z0y1geUXGLnsG7CkaP4C0plIcRKmPWqhHeP2kvT7AtPegAIT9dXjEIE",
-   "credit": "Gshow"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTljxqjWFOOqa46b5WsYg3CmjBteuc2F7NY46ft_fX1PDDGIHrgV5biXyaVNEk",
+   "credit": "The New York Times"
   },
   "t": {
    "pt": {
-    "name": "marina ruy barbosa",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Gshow."
+    "name": "the economist 2027",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via The New York Times."
    },
    "en": {
-    "name": "marina ruy barbosa",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Gshow."
+    "name": "the economist 2027",
+    "note": "Trending Google search (Brazil) — 200+ searches · via The New York Times."
    },
    "es": {
-    "name": "marina ruy barbosa",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Gshow."
+    "name": "the economist 2027",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía The New York Times."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://g1.globo.com/sp/sao-paulo/eleicoes/2026/noticia/2026/10/27/mp-abre-investigacao-contra-lucas-pavanato-por-supostas-ofensas-a-minorias.ghtml",
+  "sourceUrl": "https://nypost.com/2026/10/26/sports/why-egor-demin-mikel-brown-jr-have-barely-seen-the-floor-together-for-nets/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRaOSZPR0sA6Zt_8fdFSCFei-YJuiqWmHPqwc7CLhHYNKDwPU262Y-ikvNm4Rs",
-   "credit": "G1"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTgZ0Cr7D3cLcGdJD_3EHNvjNwXehnrCMIRZuS6sLzqnc-VQPVGL6JbEuAgh88",
+   "credit": "New York Post"
   },
   "t": {
    "pt": {
-    "name": "lucas pavanato",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via G1."
+    "name": "mikel brown jr.",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via New York Post."
    },
    "en": {
-    "name": "lucas pavanato",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via G1."
+    "name": "mikel brown jr.",
+    "note": "Trending Google search (Brazil) — 100+ searches · via New York Post."
    },
    "es": {
-    "name": "lucas pavanato",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía G1."
+    "name": "mikel brown jr.",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía New York Post."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/27/mega-sena-concurso-3076-confira-os-numeros-sorteados.ghtml",
+  "sourceUrl": "https://comicbookmovie.com/tv/marvel/vision/visionquest-episode-6-sees-the-return-of-one-of-the-mcus-very-first-villains---spoilers-a230689",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkNYY-AHb132lxoihB2sbDZ3CQ4WOQ4B9G5rA1T-xdVlJbGLMY5WRwDJE4GPk",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ00Cyf1vO2HG5zvDTIG5EnPSggvRBbgWC0Z1LNp7J5_GTbrgvernwmSRQH2GE",
+   "credit": "ComicBookMovie.com"
   },
   "t": {
    "pt": {
-    "name": "mega sena resultado hoje",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via G1."
+    "name": "madripoor",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via ComicBookMovie.com."
    },
    "en": {
-    "name": "mega sena resultado hoje",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via G1."
+    "name": "madripoor",
+    "note": "Trending Google search (Brazil) — 200+ searches · via ComicBookMovie.com."
    },
    "es": {
-    "name": "mega sena resultado hoje",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía G1."
+    "name": "madripoor",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía ComicBookMovie.com."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 8,
-  "sourceUrl": "https://noticias.uol.com.br/ultimas-noticias/redacao/2026/10/27/quina-concurso-7153-sorteio-27-de-outubro.htm",
+  "sourceUrl": "https://www.espn.com/watch/player/_/id/50283149",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3Ia6Bj6ZkRRkS0Gf_4AxCKb0ae_j_7XPUMZogSoS6iJ4A3DruKfdGbnopKD8",
-   "credit": "UOL Notícias"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPOfMFdQVkSlhu0lreQRtfa5cscNXsh3UO4Ug27eVf12Yr-NWjziUAnh7chkM",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "quina 7153",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via UOL Notícias."
+    "name": "moritz wagner",
+    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via ESPN."
    },
    "en": {
-    "name": "quina 7153",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via UOL Notícias."
+    "name": "moritz wagner",
+    "note": "Trending Google search (Brazil) — 100+ searches · via ESPN."
    },
    "es": {
-    "name": "quina 7153",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía UOL Notícias."
+    "name": "moritz wagner",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía ESPN."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
-  "sourceUrl": "https://www.the-sun.com/tv/17208841/dwts-ezra-frech-hailey-bills-dating-single-relationship-2026/",
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50241399/milwaukee-brewers-last-world-series-1982",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTv0IXHtxMlg7GGV4N4AKEOWFavsAVq4CfVrw2peAb-TKWXwUF0uLeAGyJXYzE",
-   "credit": "The Sun"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ28azv2_cOLctoqTTWv6lT2Pm_SY9Z-dXpPxF4s6FcMudMei4auoB09coYFEk",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "ezra frech",
-    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via The Sun."
+    "name": "robin yount",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via ESPN."
    },
    "en": {
-    "name": "ezra frech",
-    "note": "Trending Google search (US) — 10000+ searches · via The Sun."
+    "name": "robin yount",
+    "note": "Trending Google search (US) — 2000+ searches · via ESPN."
    },
    "es": {
-    "name": "ezra frech",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía The Sun."
+    "name": "robin yount",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía ESPN."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 2,
-  "sourceUrl": "https://roundtable.io/sports/nba/kings/video/kings-c-sabonis-sets-historic-rebounding-mark",
+  "sourceUrl": "https://www.foxsports.com/watch/fmc-z5t5nhheh71yrxvk",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvho8eeVdLneCZADHu5Y4rtEhxifnOF7ca3G4_KSHBSeLRjnJ5k8eSiqp8Y4A",
-   "credit": "roundtable.io"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAaEqGK-jZlw6AGl6bsal8xXTKx3yaM6eYLYAKhH-jWo_tp6sVO2WU-u408lc",
+   "credit": "FOX Sports"
   },
   "t": {
    "pt": {
-    "name": "domantas sabonis",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via roundtable.io."
+    "name": "pratt brewers player",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via FOX Sports."
    },
    "en": {
-    "name": "domantas sabonis",
-    "note": "Trending Google search (US) — 500+ searches · via roundtable.io."
+    "name": "pratt brewers player",
+    "note": "Trending Google search (US) — 500+ searches · via FOX Sports."
    },
    "es": {
-    "name": "domantas sabonis",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía roundtable.io."
+    "name": "pratt brewers player",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía FOX Sports."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 3,
-  "sourceUrl": "https://www.wcvb.com/article/wcvb-tv-news-anchor-reporter-jim-boyd-dies/74248621",
+  "sourceUrl": "https://www.espn.com/mlb/story/_/id/50288815/world-series-brewers-manager-pat-murphy-stories",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8KuwNM3_CbOoZNwxCNuVNN2QMLkl8-YyYt6ocnshZ5ctDnaYl5oAu6yQbr-4",
-   "credit": "WCVB"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb-N_W71lmg57WDQa-CUUO57KLb6U-rCWFkzZ9SwpA3GxNhJxQVAZwgLH-UmI",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "jim boyd wcvb",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via WCVB."
+    "name": "brewers manager",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via ESPN."
    },
    "en": {
-    "name": "jim boyd wcvb",
-    "note": "Trending Google search (US) — 1000+ searches · via WCVB."
+    "name": "brewers manager",
+    "note": "Trending Google search (US) — 200+ searches · via ESPN."
    },
    "es": {
-    "name": "jim boyd wcvb",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía WCVB."
+    "name": "brewers manager",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía ESPN."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 4,
-  "sourceUrl": "https://www.mlb.com/news/kevin-cash-evolving-his-style-as-rays-manager",
+  "sourceUrl": "https://www.jsonline.com/story/sports/mlb/brewers/2026/10/27/who-is-world-series-mvp-for-milwaukee-brewers-after-three-games/92458436007/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1rQx_nRikOASgzzdddEITcA1ZiqCg2ywSK7XHW8voFm2wYXiTHPVInqItxkY",
-   "credit": "MLB.com"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0OUI8JbjSmSjDKzOzf2C_REa5-EIu5k0QOZ9F2OmuaA6SvZHD2NHFSf_0UxU",
+   "credit": "Milwaukee Journal Sentinel"
   },
   "t": {
    "pt": {
-    "name": "kevin cash",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via MLB.com."
+    "name": "world series mvp odds",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Milwaukee Journal Sentinel."
    },
    "en": {
-    "name": "kevin cash",
-    "note": "Trending Google search (US) — 500+ searches · via MLB.com."
+    "name": "world series mvp odds",
+    "note": "Trending Google search (US) — 200+ searches · via Milwaukee Journal Sentinel."
    },
    "es": {
-    "name": "kevin cash",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía MLB.com."
+    "name": "world series mvp odds",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Milwaukee Journal Sentinel."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 5,
-  "sourceUrl": "https://www.wfla.com/news/pinellas-county/st-petersburg-police-k-9-diesel-prepares-for-game-4-at-tropicana-field/",
+  "sourceUrl": "https://www.realtor.com/news/trends/treasury-yields-above-5-homeowners-savings-money-monday/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj5GSdL7yJfKtCjIfJA8-5L7J-a7RpDuIsSF-mx_z6Fd64m1FDtW_VFJCHrvI",
-   "credit": "WFLA"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSUdldc-ed7QYCTznGbOAqNDRKWyh8dDQoi3jrlHMU1HZ3h00ZSd3WmqgqeL8U",
+   "credit": "Realtor.com"
   },
   "t": {
    "pt": {
-    "name": "pratt brewers",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via WFLA."
+    "name": "mortgage",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Realtor.com."
    },
    "en": {
-    "name": "pratt brewers",
-    "note": "Trending Google search (US) — 1000+ searches · via WFLA."
+    "name": "mortgage",
+    "note": "Trending Google search (US) — 200+ searches · via Realtor.com."
    },
    "es": {
-    "name": "pratt brewers",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía WFLA."
+    "name": "mortgage",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Realtor.com."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 6,
-  "sourceUrl": "https://www.today.com/video/parker-posey-talks-the-mob-wild-horse-nine-and-piper-no-272219717826",
+  "sourceUrl": "https://www.mlb.com/news/mlb-rays-partner-on-boys-and-girls-club-event-in-tampa-bay",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS58RFld2076XnutFFCRKU8-c09QkKOY0uQc862Huo4QKbebBAtHq2o5xsNlVM",
-   "credit": "TODAY.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4OykuOZ1gsDrDY6tjVxuGVn1z-ocuurcyc6yaoO4XG9V6Yc_DwUBvem0HkzA",
+   "credit": "MLB.com"
   },
   "t": {
    "pt": {
-    "name": "the mob",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via TODAY.com."
+    "name": "2020 world series",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via MLB.com."
    },
    "en": {
-    "name": "the mob",
-    "note": "Trending Google search (US) — 2000+ searches · via TODAY.com."
+    "name": "2020 world series",
+    "note": "Trending Google search (US) — 200+ searches · via MLB.com."
    },
    "es": {
-    "name": "the mob",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía TODAY.com."
+    "name": "2020 world series",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía MLB.com."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 7,
-  "sourceUrl": "https://www.rmpbs.org/news/education/colorado-springs-free-childcare-oct-29-for-voting",
+  "sourceUrl": "https://www.bostonglobe.com/2026/10/26/sports/celtics-bulls-preview-october-26/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZO0AvP-swGD4zvzwRCFvSMLrMW03YjG2nN8KwwCIlZ8_vye-GXObdKABZ4kg",
-   "credit": "Rocky Mountain PBS"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSZdfFuv9hFWK42ZrteE7L7tAmCNTTH23qfvcSD9WvctkKXqnsmOrLEJvJAsD8",
+   "credit": "The Boston Globe"
   },
   "t": {
    "pt": {
-    "name": "daycare",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Rocky Mountain PBS."
+    "name": "tiago splitter",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via The Boston Globe."
    },
    "en": {
-    "name": "daycare",
-    "note": "Trending Google search (US) — 2000+ searches · via Rocky Mountain PBS."
+    "name": "tiago splitter",
+    "note": "Trending Google search (US) — 200+ searches · via The Boston Globe."
    },
    "es": {
-    "name": "daycare",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Rocky Mountain PBS."
+    "name": "tiago splitter",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía The Boston Globe."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://sports.yahoo.com/articles/johansson-gets-second-straight-start-202625583.html",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://sports.yahoo.com/articles/longest-games-world-series-history-035618444.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7InEJtyRAva20gqZZGNFk8IUMNCnZTjh3rlDBDrD9fQNAAW7QH48vIFg_w-Q",
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0XbLULZJi_76nQSM164ztT69bU0d3sZgHYmYtOKyFOGnz5Bh4KwBg_9Zaq2s",
    "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "senators vs golden knights",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Yahoo Sports."
+    "name": "mlb",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "senators vs golden knights",
-    "note": "Trending Google search (US) — 1000+ searches · via Yahoo Sports."
+    "name": "mlb",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "senators vs golden knights",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Yahoo Sports."
+    "name": "mlb",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.flashscore.com.ar/partido/tenis/masarova-rebeka-KGQ2bDHb/riera-julia-K4Sih0XH/",
+  "rank": 2,
+  "sourceUrl": "https://www.perfil.com/sociedad/alerta-meteorologica-por-tormentas-a50-jsm-vientos-fuertes-y-lluvias-que-provincias-se-veran-afectadas-anfE29W0zOb8",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgOmhduiREn3i-8zTBe9WVVWbLX7rD5uf7QtQgJdd532_u0I_zxVYYZqVufA",
-   "credit": "Flashscore.com.ar"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKdZp4A9FAmR_EJgqyZ-r8FlBt5ow7XVf7CAj21vuRSvsSZ55Ay3E994pXc_w",
+   "credit": "Perfil"
   },
   "t": {
    "pt": {
-    "name": "nadia podoroska",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Flashscore.com.ar."
+    "name": "pronostico santa fe",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Perfil."
    },
    "en": {
-    "name": "nadia podoroska",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Flashscore.com.ar."
+    "name": "pronostico santa fe",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Perfil."
    },
    "es": {
-    "name": "nadia podoroska",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Flashscore.com.ar."
+    "name": "pronostico santa fe",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Perfil."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.elterritorio.com.ar/noticias/2026/10/26/923184-salvaron-a-un-perro-que-cayo-a-un-profundo-pozo-en-san-pedro",
+  "rank": 3,
+  "sourceUrl": "https://www.mitelefe.com/masterchef-celebrity/noticias/robos-nervios-y-pesimas-tartas-los-factores-de-la-eliminacion-que-se-definio-entre-alejandro-lerner-y-grego-rossello-pid2570702",
+  "image": {
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHLgYxS17Pk3YzDXHE8TbKRiQP5MObyQUg2GWXO3m-wZemj5CY2uRTidp4pWs",
+   "credit": "Telefe"
+  },
   "t": {
    "pt": {
-    "name": "pozo",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via El Territorio."
+    "name": "quien se fue de masterchef hoy",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Telefe."
    },
    "en": {
-    "name": "pozo",
-    "note": "Trending Google search (Argentina) — 100+ searches · via El Territorio."
+    "name": "quien se fue de masterchef hoy",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Telefe."
    },
    "es": {
-    "name": "pozo",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía El Territorio."
+    "name": "quien se fue de masterchef hoy",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Telefe."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.pagina12.com.ar/2026/10/27/futbol-argentino-volverian-a-cambiar-los-campeonatos-para-2027/",
+  "rank": 4,
+  "sourceUrl": "https://www.identidadcorrentina.com.ar/noticia/44410_goya-se-adhiere-al-asueto-administrativo-del-2-de-noviembre-por-el-da-de-los-fieles-difuntos.htm",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZIIfuB2pnos19SCbS6EMdWMywtBx6dKupHx0ANyAH8aIhA6K6BTbBHmXWkQ4",
-   "credit": "Página|12"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0Bf37wfQSGbCPW36BI9VW3fpjqt5P3ULZFWW8Jf18RRZXxTdS7rxSXe59xHs",
+   "credit": "Identidad Correntina"
   },
   "t": {
    "pt": {
-    "name": "liga argentina",
-    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Página|12."
+    "name": "2 de noviembre",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Identidad Correntina."
    },
    "en": {
-    "name": "liga argentina",
-    "note": "Trending Google search (Argentina) — 2000+ searches · via Página|12."
+    "name": "2 de noviembre",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Identidad Correntina."
    },
    "es": {
-    "name": "liga argentina",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Página|12."
+    "name": "2 de noviembre",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Identidad Correntina."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.tycsports.com/river-plate/que-les-queda-a-los-ocho-equipos-con-chances-de-ganar-la-tabla-anual-id768936.html",
+  "rank": 5,
+  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/24/rocio-marengo-y-eduardo-fort-compartieron-el-primer-viaje-de-isidro-a-miami-recargamos-pilas-para-seguir-metiendole-fuerte/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRpwcWp6axqEMgXEnBYbu0eRkAkFV9ep_U5Bsrt2twtQkbXN1wNj1kOsGQ4k",
-   "credit": "TyC Sports"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQRmoHi-lXt-8-tuF4fRzFVDUwp118xn30TAgvPwIR7QKJZl9MGDe291Bi5Z3A",
+   "credit": "Infobae"
   },
   "t": {
    "pt": {
-    "name": "tabla anual 2026",
-    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via TyC Sports."
+    "name": "rocio marengo",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
    },
    "en": {
-    "name": "tabla anual 2026",
-    "note": "Trending Google search (Argentina) — 1000+ searches · via TyC Sports."
+    "name": "rocio marengo",
+    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
    },
    "es": {
-    "name": "tabla anual 2026",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía TyC Sports."
+    "name": "rocio marengo",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.infobae.com/colombia/2026/10/27/accidente-de-kbeto-zuleta-hijo-del-cantante-poncho-zuleta-ingreso-a-la-clinica-con-una-sola-pierna-segun-la-secretaria-de-salud-del-cesar/",
+  "rank": 6,
+  "sourceUrl": "https://www.vavel.com/en-us/nba/2026/10/27/1276982-portland-trail-blazers-vs-los-angeles-lakers-live-score-nba.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSpKszMjQviPOpBBPxluKpS-iEYWBW1LZvrZOSxWSLGuAq2ZtcVf5LAQXMOyE8",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLNyoVMdLxjHuQL7gOq7iWBIgAvfTsuE-ag5hGRifexIMqQqv0HemPJz9vKdk",
+   "credit": "VAVEL.com"
   },
   "t": {
    "pt": {
-    "name": "autobús",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Infobae."
+    "name": "lakers - trail blazers",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via VAVEL.com."
    },
    "en": {
-    "name": "autobús",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Infobae."
+    "name": "lakers - trail blazers",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via VAVEL.com."
    },
    "es": {
-    "name": "autobús",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Infobae."
+    "name": "lakers - trail blazers",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía VAVEL.com."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://www.infobae.com/teleshow/2026/10/27/la-china-ansa-exploto-contra-nora-colosimo-por-vincularla-con-pablo-migliore-me-cago-la-vida/",
+  "rank": 7,
+  "sourceUrl": "https://www.newindianexpress.com/states/telangana/2026/Oct/28/tpjma-seeks-withdrawal-of-fines-on-pvt-junior-colleges",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBrJR8ijLd0rqjKRQHRSwBWgak76pkuQ11ZrXXdIlW8mzIiZuc4UjHcd1eyek",
-   "credit": "Infobae"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThkeaSF74jwcJISYvJ37Oo75hgr_l4ajDF6hEPIAnhvCAc28Tvf6D1f4scdA8",
+   "credit": "The New Indian Express"
   },
   "t": {
    "pt": {
-    "name": "china ansa",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Infobae."
+    "name": "junior",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via The New Indian Express."
    },
    "en": {
-    "name": "china ansa",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Infobae."
+    "name": "junior",
+    "note": "Trending Google search (Argentina) — 200+ searches · via The New Indian Express."
    },
    "es": {
-    "name": "china ansa",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Infobae."
+    "name": "junior",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía The New Indian Express."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.nytimes.com/athletic/7725753/2026/10/26/duncan-robinson-pistons-cade-cunningham-3-pointers-stats/",
+  "region": "AR",
+  "rank": 8,
+  "sourceUrl": "https://people.com/matthew-perry-sister-reveals-heartbreaking-truth-friends-wedding-episode-new-doc-exclusive-12184859",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTbU13s6X1X-jYtNyEa23NoIMe_kOAu74esvegvzVJNwSLxhqNAPG5uNBcs9jY",
-   "credit": "The New York Times"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBn5cBtjkgR-QD7Nk00tR45xYEk9bDSSkTr2h7GSLYnKbw1GJjtFi9tlaURs4",
+   "credit": "People.com"
   },
   "t": {
    "pt": {
-    "name": "duncan robinson",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via The New York Times."
+    "name": "matthew perry",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via People.com."
    },
    "en": {
-    "name": "duncan robinson",
-    "note": "Trending Google search (Mexico) — 100+ searches · via The New York Times."
+    "name": "matthew perry",
+    "note": "Trending Google search (Argentina) — 200+ searches · via People.com."
    },
    "es": {
-    "name": "duncan robinson",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía The New York Times."
+    "name": "matthew perry",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía People.com."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.cnn.com/2026/10/27/sport/live-news/game-4-world-series",
+  "rank": 1,
+  "sourceUrl": "https://www.mlb.com/news/jackson-chourio-historic-impact-on-world-series-at-age-22",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtSp6PH6sYUFdCrHcxB3AGOBHo8jAyOVtVKGg23mc6aiXleyyes-ZyFjxqEJo",
-   "credit": "CNN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTSVKndimttyrOpDWyc6cwh8ybSvt-TgkxuvF3Wks4pIWWBTdH3fRtCmqqegN8",
+   "credit": "MLB.com"
   },
   "t": {
    "pt": {
-    "name": "brewers",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via CNN."
+    "name": "jackson chourio",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via MLB.com."
    },
    "en": {
-    "name": "brewers",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via CNN."
+    "name": "jackson chourio",
+    "note": "Trending Google search (Mexico) — 200+ searches · via MLB.com."
    },
    "es": {
-    "name": "brewers",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía CNN."
+    "name": "jackson chourio",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía MLB.com."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.meteored.mx/noticias/prediccion/se-aproximan-lluvias-con-posibles-descargas-electricas-esta-tarde-de-martes-en-cdmx-acumulados-de-hasta-15-milimetros.html",
+  "rank": 2,
+  "sourceUrl": "https://sports.yahoo.com/articles/deni-avdija-still-trail-blazers-141525964.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTaIqMMHOJJFVwQ60G7ALJXTE3DH9IBlSv4TSA1D-BDNaeFnfOMLEOHjFa02I",
-   "credit": "Meteored México"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_gmXTmddHddWirWT97WfngB_gUVR8JPnvDtRuVftxM0f8s_C2WdM1sA-CTOU",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "clima cdmx",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via Meteored México."
+    "name": "deni avdija",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "clima cdmx",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via Meteored México."
+    "name": "deni avdija",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "clima cdmx",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Meteored México."
+    "name": "deni avdija",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.espn.com.mx/beisbol/mlb/nota/_/id/17439976/serie-mundial-posibles-lineups-juegoe-4-brewers-rays",
+  "rank": 3,
+  "sourceUrl": "https://sports.yahoo.com/mlb/breaking-news/article/world-series-2026-aaron-ashby-breaks-mlb-record-for-consecutive-scoreless-innings-by-a-reliever-in-a-single-postseason-030648264.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJYjZoQDas7hs0K-7HSrUD_sM-0c7edDoFeZkAI6ItiX7aalQHSceXe_CcyBw",
-   "credit": "ESPN México"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLGwz35Dvmx-mBv1Yr8TF8Gd067xQWD6zafICboCoEpGM29NRGYTr4qvtGMJU",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "tampa vs milwaukee",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via ESPN México."
+    "name": "aaron ashby",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "tampa vs milwaukee",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via ESPN México."
+    "name": "aaron ashby",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "tampa vs milwaukee",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía ESPN México."
+    "name": "aaron ashby",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.mlb.com/news/brewers-rays-world-series-game-4-starting-lineups-and-pitching-matchup",
+  "rank": 4,
+  "sourceUrl": "https://www.espn.com.mx/beisbol/nota/_/id/17436908/serie-mundial-por-que-rays-sentaron-aranda-juego-3",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSq7s_phguUUQpCInV1mWrSy18hj9ph4A21CSG4C3w9x6At47S-8EUO0ZBXnNk",
-   "credit": "MLB.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJ4xwzrhj4T6DxBoMj7UVx2xmcGfqjrjfer5hwyGZGW5MwDlMn9RzCQsH7jm4",
+   "credit": "ESPN México"
   },
   "t": {
    "pt": {
-    "name": "tampa bay",
-    "note": "Busca em alta no Google (México) — 10000+ buscas · via MLB.com."
+    "name": "jonathan aranda",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via ESPN México."
    },
    "en": {
-    "name": "tampa bay",
-    "note": "Trending Google search (Mexico) — 10000+ searches · via MLB.com."
+    "name": "jonathan aranda",
+    "note": "Trending Google search (Mexico) — 200+ searches · via ESPN México."
    },
    "es": {
-    "name": "tampa bay",
-    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía MLB.com."
+    "name": "jonathan aranda",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía ESPN México."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.milenio.com/espectaculos/musica/kygo-cdmx-2027-precios-boletos-estadio-gnp-seguros",
+  "rank": 5,
+  "sourceUrl": "https://www.kob.com/sports-stories/ap-college-sports/former-nmsu-joey-ortiz-becomes-first-aggie-to-play-in-a-world-series/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5wMdSS5hO5oR-kraq4590otFL3UYdog-9U2DUmhfa4Mj0-7pYneEQnhmzjVc",
-   "credit": "Milenio"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8-sMzaQeYmYAjDszLJCbzXZSFSqU3UBLf--xmC68cX5g2lFxGmZhbfEUAyhY",
+   "credit": "KOB 4"
   },
   "t": {
    "pt": {
-    "name": "boletos kygo 2027",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Milenio."
+    "name": "joey ortiz",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via KOB 4."
    },
    "en": {
-    "name": "boletos kygo 2027",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Milenio."
+    "name": "joey ortiz",
+    "note": "Trending Google search (Mexico) — 200+ searches · via KOB 4."
    },
    "es": {
-    "name": "boletos kygo 2027",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Milenio."
+    "name": "joey ortiz",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía KOB 4."
    }
   },
   "id": "tr31",
   "hue": 330
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://es-us.noticias.yahoo.com/san-judas-tadeo-devotos-regalan-150500817.html",
+  "rank": 6,
+  "sourceUrl": "https://andscape.com/features/damian-lillard-portland-trail-blazers-2026-injuries-contract-interview/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSosdBroZGkMQxpbTOikZogbE6xUbreAYY_ukj7U8G-ORUH7PSDaR9dYqNnOms",
-   "credit": "Yahoo"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvSDZb-PqhlZcDp9NAIDGBSCUvtbP8pH2wJnpgpNT1uDiQ6faSfYmyABjcbFM",
+   "credit": "Andscape"
   },
   "t": {
    "pt": {
-    "name": "san judas tadeo cuando se celebra",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via Yahoo."
+    "name": "ja morant",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Andscape."
    },
    "en": {
-    "name": "san judas tadeo cuando se celebra",
-    "note": "Trending Google search (Mexico) — 200+ searches · via Yahoo."
+    "name": "ja morant",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Andscape."
    },
    "es": {
-    "name": "san judas tadeo cuando se celebra",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Yahoo."
+    "name": "ja morant",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Andscape."
    }
   },
   "id": "tr32",
   "hue": 7
  },
  {
-  "collectedAt": "2026-10-28T01:26:16.740Z",
+  "collectedAt": "2026-10-28T04:07:17.423Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 8,
-  "sourceUrl": "https://www.cnn.com/2026/10/27/sport/baseball-wives-october-playoffs",
+  "rank": 7,
+  "sourceUrl": "https://www.chronicleonline.com/lifestyle/entertainment/bones-mounds-shells-and-a-stairway-to-the-heavens-library-history-program-about-crystal-river/article_7a91f019-9161-54a8-9958-5cdb8e995372.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTF9UCf6OZy_AtUBq756g4Hd5oFDl1Zv0UBCB3ezjLhMTzLNnKo1KQoA1hfeIE",
-   "credit": "CNN"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeSIl5RCyKn3HaazGhRPyToqPNdbbSbhKUpJA26r74WccnFZQMjL-iLCsXQQ",
+   "credit": "chronicleonline.com"
   },
   "t": {
    "pt": {
-    "name": "milwaukee brewers",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via CNN."
+    "name": "tampa",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via chronicleonline.com."
    },
    "en": {
-    "name": "milwaukee brewers",
-    "note": "Trending Google search (Mexico) — 500+ searches · via CNN."
+    "name": "tampa",
+    "note": "Trending Google search (Mexico) — 100+ searches · via chronicleonline.com."
    },
    "es": {
-    "name": "milwaukee brewers",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía CNN."
+    "name": "tampa",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía chronicleonline.com."
    }
   },
   "id": "tr33",
