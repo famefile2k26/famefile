@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,871 +72,815 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://www.terra.com.br/esportes/worlds-2026-los-vence-e-elimina-team-liquid-no-mundial,8c17e041ff81ee56075c4805a1d92adbf9vbht9u.html",
+  "sourceUrl": "https://g1.globo.com/loterias/mega-sena/noticia/2026/10/30/mega-sena-concurso-3079-confira-os-numeros-sorteados.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS4klvl-o93yzXsVkFGUKOvPZViub3GaIp10UIs8Y6ANbKiibhlReX7xblaoW0",
-   "credit": "Terra"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkNYY-AHb132lxoihB2sbDZ3CQ4WOQ4B9G5rA1T-xdVlJbGLMY5WRwDJE4GPk",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "lcs",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Terra."
+    "name": "mega sena 3080",
+    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via G1."
    },
    "en": {
-    "name": "lcs",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Terra."
+    "name": "mega sena 3080",
+    "note": "Trending Google search (Brazil) — 1000+ searches · via G1."
    },
    "es": {
-    "name": "lcs",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Terra."
+    "name": "mega sena 3080",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía G1."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://noticiasdatv.uol.com.br/noticia/novelas/ricardo-pereira-quer-dicas-de-murilo-benicio-para-o-tufao-de-avenida-portugal-158480",
+  "sourceUrl": "https://www.ufc.com.br/news/jean-paul-lebosnoyani-welcomes-pressure-ufc-vegas-123",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8LNkbavTAAPX_f0b3oHOzLxjtja-PVIKczXw-QtcfUq1htL84COpIsdRoVOk",
-   "credit": "Notícias da TV"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ3VHh8_ppcwUXTjHEz07KVZ2b8tQOSop26HgyaTGaKaGcr2898F5l6K7y6Pgs",
+   "credit": "UFC.com.br"
   },
   "t": {
    "pt": {
-    "name": "murilo benício",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Notícias da TV."
+    "name": "farman hasanov",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via UFC.com.br."
    },
    "en": {
-    "name": "murilo benício",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Notícias da TV."
+    "name": "farman hasanov",
+    "note": "Trending Google search (Brazil) — 200+ searches · via UFC.com.br."
    },
    "es": {
-    "name": "murilo benício",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Notícias da TV."
+    "name": "farman hasanov",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía UFC.com.br."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245207/probable-once-barca-alaves.html",
+  "sourceUrl": "https://capricho.abril.com.br/entretenimento/5-motivos-para-assistir-a-um-trabalho-do-inferno-nova-serie-da-netflix/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVrZ2C8pj24ot3unhdMovaNj4Jm6pXWLLTWD7SNa4Qcz-iikNt_Sqqm7-MB3w",
-   "credit": "Mundo Deportivo"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXCgQEH1oEfYPA4zQ7hMeK55d6GmyC7Goio1TnK6lHCOviu-tiufV6klq2zQU",
+   "credit": "Capricho"
   },
   "t": {
    "pt": {
-    "name": "barcelona x alavés",
-    "note": "Busca em alta no Google (Brasil) — 20000+ buscas · via Mundo Deportivo."
+    "name": "um trabalho do inferno",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Capricho."
    },
    "en": {
-    "name": "barcelona x alavés",
-    "note": "Trending Google search (Brazil) — 20000+ searches · via Mundo Deportivo."
+    "name": "um trabalho do inferno",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Capricho."
    },
    "es": {
-    "name": "barcelona x alavés",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 20000+ búsquedas · vía Mundo Deportivo."
+    "name": "um trabalho do inferno",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Capricho."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://www.skysports.com/football/news/13605752/alvaro-arbeloa-exclusive-fulham-head-coach-on-early-mistakes-seeing-out-games-and-getting-the-best-from-gonzalo-garcia",
+  "sourceUrl": "https://mnlr.ro/mnlr3.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2V2YXJ1aXo1Ni5naXRodWIuaW8vdG9tL3h5ei54bWwiLz48L2tycGFubz4=&amp;id=video-where-to-watch-rockets-vs-thunder-live-dnroe",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNF9jVYoicsPQeeCFEkfiQ45TIyymyMGUpKwtpjegrnHZVcTMz0Dm_Wp6bs-0",
-   "credit": "Sky Sports"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBlDfzGa106_y3envJU4hmoupD54xXGSFvR5jY4HVdJN-4MO7hUskjMQPRzVU",
+   "credit": "Muzeul Național al Literaturii Române"
   },
   "t": {
    "pt": {
-    "name": "aston villa x fulham",
-    "note": "Busca em alta no Google (Brasil) — 1000+ buscas · via Sky Sports."
+    "name": "rockets x thunder",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via Muzeul Național al Literaturii Române."
    },
    "en": {
-    "name": "aston villa x fulham",
-    "note": "Trending Google search (Brazil) — 1000+ searches · via Sky Sports."
+    "name": "rockets x thunder",
+    "note": "Trending Google search (Brazil) — 500+ searches · via Muzeul Național al Literaturii Române."
    },
    "es": {
-    "name": "aston villa x fulham",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 1000+ búsquedas · vía Sky Sports."
+    "name": "rockets x thunder",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía Muzeul Național al Literaturii Române."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://www.terra.com.br/diversao/musica/meu-sonora/axe/primeiro-dia-de-folianopolis-tem-homenagens-a-netinho-e-marilia-mendonca-e-ex-bbb-aos-beijos,cedf6952db982170109c7030296f2381lt3xoa85.html",
+  "sourceUrl": "https://g1.globo.com/es/espirito-santo/noticia/2026/10/31/morre-cinegrafista-wagner-martins-da-tv-gazeta-afiliada-da-globo-no-es.ghtml",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVMFHqpkY4vjpBVJS2YjpBj4843Rhbo4VL-99faVxPoqaX97Piof0CiZCm35I",
-   "credit": "Terra"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVzLnPerYq4Z5qT1c-pFXGdPYNo5v9-IfzSMA1WBDkDaaDH4sWvyh6RePQ2V8",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "folianópolis",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Terra."
+    "name": "wagner martins",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via G1."
    },
    "en": {
-    "name": "folianópolis",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Terra."
+    "name": "wagner martins",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via G1."
    },
    "es": {
-    "name": "folianópolis",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Terra."
+    "name": "wagner martins",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía G1."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://www.espn.com.br/futebol/italiano/artigo/_/id/17439293/inter-de-milao-x-milan-disneyplus-tormento-melhor-fase-nerazzurri-recente",
+  "sourceUrl": "https://www.piercemfg.com/hubfs/StaticContentPages/Other/Webouts/Velocity.Impel/Tour.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2ZyYW5jaXNqaGFycmlzby5naXRodWIuaW8vZ3VoYS9uYnkueG1sIi8+PC9rcnBhbm8+&amp;id=dakota-hope-vs-francis-marshall-live-fox-sports-ygyrm",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQRFKPocmfJNZqzbBNPexrik8vIeYaK-6M_25_PiWD6JHjAl_O4lul6PvOKhxI",
-   "credit": "ESPN Brasil"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRs6rHdqXkHTUok83lgPysF_9b_knlh0sRm6fxWE_-7ORGUUWG-iar43d60vmA",
+   "credit": "Pierce Manufacturing"
   },
   "t": {
    "pt": {
-    "name": "milan x inter",
-    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via ESPN Brasil."
+    "name": "francis marshall",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Pierce Manufacturing."
    },
    "en": {
-    "name": "milan x inter",
-    "note": "Trending Google search (Brazil) — 5000+ searches · via ESPN Brasil."
+    "name": "francis marshall",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Pierce Manufacturing."
    },
    "es": {
-    "name": "milan x inter",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ESPN Brasil."
+    "name": "francis marshall",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Pierce Manufacturing."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://www.espn.com/soccer/match/_/gameId/401931104",
+  "sourceUrl": "https://www.nba.com/hornets/videos/media-availability-grayson-allen-10-26-26",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcNU4ROej_FKTBSeo80q1EJbEx-3jDbpDwLyL8KwVvjXtUuFsiWv9bf4kOcZo",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIEk0AsdVzU-Qq0lF-QbQCEqc5S_-z5W9TAejL_OywBatdTjg5GOu0HtGg-Y",
+   "credit": "NBA.com"
   },
   "t": {
    "pt": {
-    "name": "dinamo zagreb",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via ESPN."
+    "name": "grayson allen",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via NBA.com."
    },
    "en": {
-    "name": "dinamo zagreb",
-    "note": "Trending Google search (Brazil) — 500+ searches · via ESPN."
+    "name": "grayson allen",
+    "note": "Trending Google search (Brazil) — 200+ searches · via NBA.com."
    },
    "es": {
-    "name": "dinamo zagreb",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía ESPN."
+    "name": "grayson allen",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía NBA.com."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 8,
-  "sourceUrl": "https://record.r7.com/a-fazenda/a-fazenda-18/24-horas/video/foi-por-vinganca-diz-monica-sobre-ser-escolhida-para-trato-do-touro-a-fazenda-18-30102026/",
+  "sourceUrl": "https://www.sportsgambler.com/betting-tips/football/pachuca-vs-tigres-prediction-lineups-odds-2026-10-31/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSb1G3hM63bOwAXRzsCg92Z7PL0in6BGbi4lOVJu8bmGeIUS_a8oDXjsypiSsg",
-   "credit": "R7"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4tkY0Xxpt-UUT3QL6YUFCmk2j4kBmr9YHWvDH4UJ11VLs46H2p2riDAsYsWQ",
+   "credit": "Sportsgambler"
   },
   "t": {
    "pt": {
-    "name": "punição",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via R7."
+    "name": "pachuca tigres uanl 31/10/2026",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Sportsgambler."
    },
    "en": {
-    "name": "punição",
-    "note": "Trending Google search (Brazil) — 100+ searches · via R7."
+    "name": "pachuca tigres uanl 31/10/2026",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Sportsgambler."
    },
    "es": {
-    "name": "punição",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía R7."
+    "name": "pachuca tigres uanl 31/10/2026",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Sportsgambler."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
-  "sourceUrl": "https://www.oklahoman.com/story/sports/college/sooners/2026/10/31/oklahoma-south-carolina-channel-today-time-tv-schedule-streaming-info/92530137007/",
+  "sourceUrl": "https://www.thebanner.com/sports/mystics-wnba/wnba-finals-game-7-live-updates-angel-reese-kaila-charles-chase-title-MN3I7AAEL5DM5IMOPM4SPFUFWA/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRiUPOaFQFq65slxAFreYyuoAofEmqEmBCyEMkEAXOKEOPGg07SUE5Vw1UVsZQ",
-   "credit": "The Oklahoman"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTEIz2NAenptdqVBBlKrTeFtI-camloP02baqMQglm1PcmzNMGANBKfCpptPmQ",
+   "credit": "The Baltimore Banner"
   },
   "t": {
    "pt": {
-    "name": "south carolina vs oklahoma",
-    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via The Oklahoman."
+    "name": "kaila charles",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via The Baltimore Banner."
    },
    "en": {
-    "name": "south carolina vs oklahoma",
-    "note": "Trending Google search (US) — 10000+ searches · via The Oklahoman."
+    "name": "kaila charles",
+    "note": "Trending Google search (US) — 500+ searches · via The Baltimore Banner."
    },
    "es": {
-    "name": "south carolina vs oklahoma",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía The Oklahoman."
+    "name": "kaila charles",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía The Baltimore Banner."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 2,
-  "sourceUrl": "https://www.centredaily.com/sports/college/penn-state-university/psu-football/article317777369.html",
+  "sourceUrl": "https://www.yahoo.com/news/weather-news/articles/weather-forecast-warm-start-november-222610350.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQyx5DAbCzOhV8r-GG4LmQlatO7ipFlHm3PuTyG1WFGuuqvwWjysWEChFHFgHA",
-   "credit": "Centre Daily Times"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTSJSuWcLmoPkudvkvwoLyBsfszcEEEn_oZ925oM9yjWEKnWIeRx19HFYxfJk",
+   "credit": "Yahoo"
   },
   "t": {
    "pt": {
-    "name": "purdue vs penn state",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via Centre Daily Times."
+    "name": "november",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Yahoo."
    },
    "en": {
-    "name": "purdue vs penn state",
-    "note": "Trending Google search (US) — 2000+ searches · via Centre Daily Times."
+    "name": "november",
+    "note": "Trending Google search (US) — 200+ searches · via Yahoo."
    },
    "es": {
-    "name": "purdue vs penn state",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía Centre Daily Times."
+    "name": "november",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Yahoo."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 3,
-  "sourceUrl": "https://www.latimes.com/sports/ucla/story/2026-10-30/no-7-ucla-expected-to-return-to-its-rushing-roots-against-nevada",
+  "sourceUrl": "https://www.commercialappeal.com/story/sports/college/memphis-tigers/2026/10/31/memphis-football-army-live-score-updates--live/92421200007/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhi8BuaWyIgFhpi7CL4Cpm3TCfJI7mcjr6_WzzXHhxJCSMpUiYL9MwOPscGcU",
-   "credit": "Los Angeles Times"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS59wo80AutO8UxC4IwJngIYzAW1SzNhsDUh96GMHOkqWXmQQlQ3jWSLWM_4xc",
+   "credit": "The Commercial Appeal"
   },
   "t": {
    "pt": {
-    "name": "nevada vs ucla",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via Los Angeles Times."
+    "name": "memphis tigers football",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via The Commercial Appeal."
    },
    "en": {
-    "name": "nevada vs ucla",
-    "note": "Trending Google search (US) — 1000+ searches · via Los Angeles Times."
+    "name": "memphis tigers football",
+    "note": "Trending Google search (US) — 200+ searches · via The Commercial Appeal."
    },
    "es": {
-    "name": "nevada vs ucla",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía Los Angeles Times."
+    "name": "memphis tigers football",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía The Commercial Appeal."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 4,
-  "sourceUrl": "https://www.usatoday.com/story/sports/ncaaf/bigten/2026/10/31/maryland-football-game-crowd-illinois-no-fans/92534531007/",
+  "sourceUrl": "https://www.foxnews.com/outkick-sports/usa-sports-nbc-claim-record-wnba-finals-ratings-comparisons-leave-out-important-context",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdYKYkABs9DOTLvl9JsUZLnPW3UkWZUcVAM5guY7tKHxTYExBbKNIoH01MZZE",
-   "credit": "USA Today"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvW_NmU-PTVndmJ_q45r82hQej9oQ9bE1wpow8Zr5BjXhq8ox0z4vwlvw8FZU",
+   "credit": "Fox News"
   },
   "t": {
    "pt": {
-    "name": "umd football",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via USA Today."
+    "name": "wnba",
+    "note": "Busca em alta no Google (EUA) — 20000+ buscas · via Fox News."
    },
    "en": {
-    "name": "umd football",
-    "note": "Trending Google search (US) — 500+ searches · via USA Today."
+    "name": "wnba",
+    "note": "Trending Google search (US) — 20000+ searches · via Fox News."
    },
    "es": {
-    "name": "umd football",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía USA Today."
+    "name": "wnba",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 20000+ búsquedas · vía Fox News."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 5,
-  "sourceUrl": "https://espndeportes.espn.com/futbol/espana/nota/_/id/17453401/barcelona-laliga-brian-farinas-quien-es-canterano",
+  "sourceUrl": "https://www.elcomercio.com/actualidad/quito/las-lluvias-anegan-calles-de-quito-y-causan-inundacion-en-el-condado/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJbMMgttJqSnZwXJk4kljGFb0L8BsnYgEtmKcOCjqYB84T9-H1_9Feb2nxnDI",
-   "credit": "ESPN Deportes"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQzTCa94wW6FBfPvXZTu3RwrPU2j-wnAtXWQTEhDfFi2KsX5YdkUEbDN-t_AP0",
+   "credit": "El Comercio"
   },
   "t": {
    "pt": {
-    "name": "brian fariñas",
-    "note": "Busca em alta no Google (EUA) — 500+ buscas · via ESPN Deportes."
+    "name": "inundación",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via El Comercio."
    },
    "en": {
-    "name": "brian fariñas",
-    "note": "Trending Google search (US) — 500+ searches · via ESPN Deportes."
+    "name": "inundación",
+    "note": "Trending Google search (US) — 200+ searches · via El Comercio."
    },
    "es": {
-    "name": "brian fariñas",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía ESPN Deportes."
+    "name": "inundación",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía El Comercio."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 6,
-  "sourceUrl": "https://www.fubo.tv/news/?p=244980",
+  "region": "AR",
+  "rank": 1,
+  "sourceUrl": "https://www.lanacion.com.ar/clima/rio-negro/viedma/clima-en-viedma-hoy-cual-es-el-pronostico-del-tiempo-para-el-1-de-noviembre-de-2026-nid31102026/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSUVzMua7a6dlG9asq1JGG215GrOTn9_eFw7rTrAtQBc4JU_ig8FEeY-utUMA",
-   "credit": "Fubo"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqrYYsA1BhKph295YjUqDpydORHNe4mZemqsXa1n8JcMRvPFJdPpK2A_2atcE",
+   "credit": "La Nación"
   },
   "t": {
    "pt": {
-    "name": "idaho vs portland st",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Fubo."
+    "name": "clima viedma",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via La Nación."
    },
    "en": {
-    "name": "idaho vs portland st",
-    "note": "Trending Google search (US) — 200+ searches · via Fubo."
+    "name": "clima viedma",
+    "note": "Trending Google search (Argentina) — 100+ searches · via La Nación."
    },
    "es": {
-    "name": "idaho vs portland st",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Fubo."
+    "name": "clima viedma",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía La Nación."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 7,
-  "sourceUrl": "https://www.bbc.com/sport/football/live/cq0ldj4pnz10t",
+  "region": "AR",
+  "rank": 2,
+  "sourceUrl": "https://www.espn.com.ar/futbol/colombia/nota/_/id/17454888/llaneros-vs-junior-liga-betplay-equipo-fecha-hora-tv-en-vivo",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2UqVWiq-P2HNAkXnrwmYCxDjDIu8zzBniYDBl3PIawFkbJrfno6RuvPJ1--w",
-   "credit": "BBC"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOFELDp_Y0un4LerBd7rBu_ebmjgNzn6h2XXBNCKmOH3CGkVjr6RJuFaEE9uk",
+   "credit": "ESPN Argentina"
   },
   "t": {
    "pt": {
-    "name": "aston villa vs fulham",
-    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via BBC."
+    "name": "llaneros - junior",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via ESPN Argentina."
    },
    "en": {
-    "name": "aston villa vs fulham",
-    "note": "Trending Google search (US) — 2000+ searches · via BBC."
+    "name": "llaneros - junior",
+    "note": "Trending Google search (Argentina) — 100+ searches · via ESPN Argentina."
    },
    "es": {
-    "name": "aston villa vs fulham",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía BBC."
+    "name": "llaneros - junior",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía ESPN Argentina."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "US",
-  "rank": 8,
-  "sourceUrl": "https://www.nhl.com/news/buffalo-sabres-los-angeles-kings-game-preview-october-31-2026",
+  "region": "AR",
+  "rank": 3,
+  "sourceUrl": "https://www.eldia.com/la-ciudad/fin-de-semana-con-dos-caras-en-la-plata-sabado-agradable-y-domingo-con-probabilidad-de-lluvias-la-ciudad_1793442540",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRtlZWU9UlgU_M2ivJapjJvARReyO_D7wzWSo0bLumct7Vl-s5Bjr3YJ1pESlc",
-   "credit": "NHL.com"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Ru0iFfQxxzPQiloszZMj7HF4hxnQ7U945qJZglpfbqsecxSteGAqqqRkMgI",
+   "credit": "Diario El Día de La Plata"
   },
   "t": {
    "pt": {
-    "name": "sabres vs kings",
-    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via NHL.com."
+    "name": "tiempo de mañana",
+    "note": "Busca em alta no Google (Argentina) — 200000+ buscas · via Diario El Día de La Plata."
    },
    "en": {
-    "name": "sabres vs kings",
-    "note": "Trending Google search (US) — 1000+ searches · via NHL.com."
+    "name": "tiempo de mañana",
+    "note": "Trending Google search (Argentina) — 200000+ searches · via Diario El Día de La Plata."
    },
    "es": {
-    "name": "sabres vs kings",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía NHL.com."
+    "name": "tiempo de mañana",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200000+ búsquedas · vía Diario El Día de La Plata."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 1,
-  "sourceUrl": "https://www.rosario3.com/deportes/argentino-empato-contra-defensores-de-glew-y-definira-la-permanencia-en-la-primera-c-de-local-20261026-0046.html",
+  "rank": 4,
+  "sourceUrl": "https://www.ole.com.ar/estudiantes/estudiantes-instituto-torneo-clausura-vivo-directo-online-minuto-minuto_0_UD8kUR4EI5.html",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQFoLPYvJGNtF8WQZ8OWWbkwlOt3P8NHc9HwexjyGV9Y1MjyhZpujvJKO4h1I",
-   "credit": "Rosario3"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT88ptKShhf5kv4qHzL6GTd_nteyu1cIYEqWZWpdLTeBT6D27hOKacxlRcOI8s",
+   "credit": "Olé"
   },
   "t": {
    "pt": {
-    "name": "defensores de glew",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Rosario3."
+    "name": "estudiantes - instituto",
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via Olé."
    },
    "en": {
-    "name": "defensores de glew",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Rosario3."
+    "name": "estudiantes - instituto",
+    "note": "Trending Google search (Argentina) — 5000+ searches · via Olé."
    },
    "es": {
-    "name": "defensores de glew",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Rosario3."
+    "name": "estudiantes - instituto",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía Olé."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 2,
-  "sourceUrl": "https://www.skysports.com/football/news/13605752/alvaro-arbeloa-exclusive-fulham-head-coach-on-early-mistakes-seeing-out-games-and-getting-the-best-from-gonzalo-garcia",
+  "rank": 5,
+  "sourceUrl": "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-forecasts-rain-thunderstorms-in-16-states-heavy-rain-alert-for-odisha-andhra-pradesh-gusty-winds-up-to-70-kmph-likely/articleshow/135389998.cms",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNF9jVYoicsPQeeCFEkfiQ45TIyymyMGUpKwtpjegrnHZVcTMz0Dm_Wp6bs-0",
-   "credit": "Sky Sports"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fHDcnaV75xTg9g66knblLvVy2EzVh3u7ok0-C_GMPHbsoRzhHVhdyhdi_FE",
+   "credit": "The Times of India"
   },
   "t": {
    "pt": {
-    "name": "aston villa - fulham",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Sky Sports."
+    "name": "weather tomorrow",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via The Times of India."
    },
    "en": {
-    "name": "aston villa - fulham",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Sky Sports."
+    "name": "weather tomorrow",
+    "note": "Trending Google search (Argentina) — 500+ searches · via The Times of India."
    },
    "es": {
-    "name": "aston villa - fulham",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Sky Sports."
+    "name": "weather tomorrow",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía The Times of India."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 3,
-  "sourceUrl": "https://www.clarin.com/deportes/deportivo-riestra-vs-talleres-cordoba-torneo-clausura-2026-vivo-hora-juegan-formaciones-ver-partido_0_VEZwncgKvp.html",
+  "rank": 6,
+  "sourceUrl": "https://g1.globo.com/am/amazonas/previsao-do-tempo/noticia/2026/10/30/previsao-do-tempo-hoje-para-manaus-am-sol-com-muitas-nuvens-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKuRO3reOl-PmxWEYxtpXKfj6Hzm953iN-NlCshoU11xe9Qb7ycldK-ZcIMy4",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS1L7QHZQ4dvEQWiZ4JaXFWjuLAwxmSHbnyZzFl5WQzRulNYwimAvte1Z5ct8w",
+   "credit": "G1"
   },
   "t": {
    "pt": {
-    "name": "deportivo riestra - talleres",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Clarin.com."
+    "name": "clima para amanhã",
+    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via G1."
    },
    "en": {
-    "name": "deportivo riestra - talleres",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Clarin.com."
+    "name": "clima para amanhã",
+    "note": "Trending Google search (Argentina) — 200+ searches · via G1."
    },
    "es": {
-    "name": "deportivo riestra - talleres",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Clarin.com."
+    "name": "clima para amanhã",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía G1."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 4,
-  "sourceUrl": "https://www.blazersedge.com/gameday-coverage/117777/portland-trail-blazers-utah-jazz-preview-time-tv-schedule-streaming-latest-injury-report",
+  "rank": 7,
+  "sourceUrl": "https://www.cadena3.com/noticia/buen-dia-argentina/ahorrar-desde-que-se-cobra-como-ordenar-los-gastos-y-evitar-las-compras-por-impulso_608879",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8kC3glgfrtiXTNwjVj0JoIvCfOkEn-_f89AcOTviz_WYDeR59laftg_74N_Q",
-   "credit": "Blazer&apos;s Edge"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJRYYQ3PtiTFeMkKNEss7rsisLF_9qC3W1YAMWz3ektT1t2Y4Bqa9NGk9n3SM",
+   "credit": "Cadena 3 Argentina"
   },
   "t": {
    "pt": {
-    "name": "jazz - trail blazers",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Blazer&apos;s Edge."
+    "name": "ahorro",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Cadena 3 Argentina."
    },
    "en": {
-    "name": "jazz - trail blazers",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Blazer&apos;s Edge."
+    "name": "ahorro",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Cadena 3 Argentina."
    },
    "es": {
-    "name": "jazz - trail blazers",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Blazer&apos;s Edge."
+    "name": "ahorro",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Cadena 3 Argentina."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
-  "rank": 5,
-  "sourceUrl": "https://www.espn.com/wnba/story/_/id/50278436/place-unclear-game-6-valkyries-dream-wnba-finals",
+  "rank": 8,
+  "sourceUrl": "https://www.tycsports.com/liga-profesional-de-futbol/ronaldo-martinez-y-su-gran-presente-velez-siempre-voy-sentir-para-mi-que-soy-mejor-id769333.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YHyF4CWMWVfrJ6zKNuW6800tdqs4F_iQRY-bzAUlfncqqjVDYA0Vfgq-VjM",
-   "credit": "ESPN"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGruxeMCAIkFyslGmN7jjf1p0Xfy0AhUPqLxaAPJtO0_tHm6RsxWD8jeTpq6s",
+   "credit": "TyC Sports"
   },
   "t": {
    "pt": {
-    "name": "atlanta vs",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via ESPN."
+    "name": "ronaldo martínez",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via TyC Sports."
    },
    "en": {
-    "name": "atlanta vs",
-    "note": "Trending Google search (Argentina) — 100+ searches · via ESPN."
+    "name": "ronaldo martínez",
+    "note": "Trending Google search (Argentina) — 100+ searches · via TyC Sports."
    },
    "es": {
-    "name": "atlanta vs",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía ESPN."
+    "name": "ronaldo martínez",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TyC Sports."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 6,
-  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/31/atlanta-vs-midland-en-vivo-por-la-fecha-36-de-la-primera-nacional-hora-donde-ver-y-formaciones/",
+  "region": "MX",
+  "rank": 1,
+  "sourceUrl": "https://www.foxnews.com/outkick-sports/angel-reese-protect-black-women-shirt-adds-overall-strangeness-wnba-finals",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT7FvdHQlGH6DH67J5bSEvyDhX_64DE_aFQpeYjXWaz7fKzvfXWJt7vrj2S3V8",
-   "credit": "TN"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3QC27GQ8EXJMhqwAzLspZhr5Ig_1QQMpnPidGOALAt2BQrnnTF-vLdBnqksE",
+   "credit": "Fox News"
   },
   "t": {
    "pt": {
-    "name": "atlanta hoy",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via TN."
+    "name": "wnba",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Fox News."
    },
    "en": {
-    "name": "atlanta hoy",
-    "note": "Trending Google search (Argentina) — 100+ searches · via TN."
+    "name": "wnba",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Fox News."
    },
    "es": {
-    "name": "atlanta hoy",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TN."
+    "name": "wnba",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Fox News."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 7,
-  "sourceUrl": "https://www.out.com/celebs/jude-bellingham-calvin-klein-preview",
+  "region": "MX",
+  "rank": 2,
+  "sourceUrl": "https://sports.yahoo.com/articles/drake-london-drops-usc-prediction-223223950.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCEiGxjvAENzkV4ZHBYoKKRd9EZv6N0OHiOqIJ5TsvB-VCPuG2tiSav-hA8_0",
-   "credit": "Out Magazine"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYwCqb7A-Stj-3hMa35BtSZafHzQ-Jye0Pvk6Wq8yhiz75v5SF1ZduqW9XSHg",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "bellingham",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Out Magazine."
+    "name": "ohio state vs usc",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "bellingham",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Out Magazine."
+    "name": "ohio state vs usc",
+    "note": "Trending Google search (Mexico) — 100+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "bellingham",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Out Magazine."
+    "name": "ohio state vs usc",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "AR",
-  "rank": 8,
-  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/10/31/barcelona-vs-alaves-en-vivo-por-la-fecha-11-de-la-liga-de-espana-hora-donde-ver-y-formaciones/",
+  "region": "MX",
+  "rank": 3,
+  "sourceUrl": "https://www.nba.com/hornets/videos/media-availability-grayson-allen-10-26-26",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjRHbehnJ-SROT2jIibo3qxeWyxM9Ym_VdmOesrbkxewdEQ2RKwO0oJKh5bI",
-   "credit": "TN"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwIEk0AsdVzU-Qq0lF-QbQCEqc5S_-z5W9TAejL_OywBatdTjg5GOu0HtGg-Y",
+   "credit": "NBA.com"
   },
   "t": {
    "pt": {
-    "name": "barcelona - alavés",
-    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via TN."
+    "name": "grayson allen",
+    "note": "Busca em alta no Google (México) — 100+ buscas · via NBA.com."
    },
    "en": {
-    "name": "barcelona - alavés",
-    "note": "Trending Google search (Argentina) — 5000+ searches · via TN."
+    "name": "grayson allen",
+    "note": "Trending Google search (Mexico) — 100+ searches · via NBA.com."
    },
    "es": {
-    "name": "barcelona - alavés",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía TN."
+    "name": "grayson allen",
+    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía NBA.com."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.espn.com.mx/futbol/espana/nota/_/id/17453401/barcelona-laliga-brian-farinas-quien-es-canterano",
+  "rank": 4,
+  "sourceUrl": "https://mnlr.ro/mnlr3.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2V2YXJ1aXo1Ni5naXRodWIuaW8vdG9tL3h5ei54bWwiLz48L2tycGFubz4=&amp;id=video-where-to-watch-rockets-vs-thunder-live-dnroe",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJbMMgttJqSnZwXJk4kljGFb0L8BsnYgEtmKcOCjqYB84T9-H1_9Feb2nxnDI",
-   "credit": "ESPN México"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBlDfzGa106_y3envJU4hmoupD54xXGSFvR5jY4HVdJN-4MO7hUskjMQPRzVU",
+   "credit": "Muzeul Național al Literaturii Române"
   },
   "t": {
    "pt": {
-    "name": "brian fariñas pérez",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via ESPN México."
+    "name": "rockets - thunder",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Muzeul Național al Literaturii Române."
    },
    "en": {
-    "name": "brian fariñas pérez",
-    "note": "Trending Google search (Mexico) — 200+ searches · via ESPN México."
+    "name": "rockets - thunder",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Muzeul Național al Literaturii Române."
    },
    "es": {
-    "name": "brian fariñas pérez",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía ESPN México."
+    "name": "rockets - thunder",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Muzeul Național al Literaturii Române."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.goal.com/en/news/owen-wijndal-warns-ajax-about-az-s-standout-player-a-fantastic-player/blt0ee6ee73ac318c03",
+  "rank": 5,
+  "sourceUrl": "https://www.espn.com/wnba/story/_/id/50331173/finals-2026-game-7-historic-first-atlanta-valkyries",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJmolicEiGCp15iqXuQDO782wHX7LCZj1j8VAsBAlmGuCvBBZCm-bkVYeK1qo",
-   "credit": "Goal.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8VavuoHxfLGDbnxDK8j0dMf7-nigeEGiQtw7DwZztClR9_PcO04eyQEmceVY",
+   "credit": "ESPN"
   },
   "t": {
    "pt": {
-    "name": "ajax vs az alkmaar",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Goal.com."
+    "name": "valkyries - dream",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via ESPN."
    },
    "en": {
-    "name": "ajax vs az alkmaar",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Goal.com."
+    "name": "valkyries - dream",
+    "note": "Trending Google search (Mexico) — 200+ searches · via ESPN."
    },
    "es": {
-    "name": "ajax vs az alkmaar",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Goal.com."
+    "name": "valkyries - dream",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía ESPN."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.elnorte.com/lo-que-debes-de-saber-del-rayados-xolos/ar3305454",
+  "rank": 6,
+  "sourceUrl": "https://www.milenio.com/comunidad/cuando-se-piden-dulces-en-mexico-2026-fecha",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTC1ZyVQxa4PuhmxBYOKbn-ZgBusKwP_mzQX-m5gUJutjCl0XnEWRivnvHEAR8",
-   "credit": "El Norte"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTKCnFb9G5-tUxG0VIrOOnx4k2sG3Y5p6L5oMnQiO6Pt18jm6vO_Xmp-3mVf4",
+   "credit": "MILENIO"
   },
   "t": {
    "pt": {
-    "name": "monterrey vs tijuana",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via El Norte."
+    "name": "cuando se pide calaverita en méxico",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via MILENIO."
    },
    "en": {
-    "name": "monterrey vs tijuana",
-    "note": "Trending Google search (Mexico) — 200+ searches · via El Norte."
+    "name": "cuando se pide calaverita en méxico",
+    "note": "Trending Google search (Mexico) — 500+ searches · via MILENIO."
    },
    "es": {
-    "name": "monterrey vs tijuana",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía El Norte."
+    "name": "cuando se pide calaverita en méxico",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía MILENIO."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.espn.com.mx/futbol/espana/nota/_/id/17456828/barcelona-vs-alaves-laliga-convocatoria-flick",
+  "rank": 7,
+  "sourceUrl": "https://globelynews.com/americas/kings-vs-grizzlies-prediction-how-to-watch-for-free-10-31-26/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT80OBRbF0eNKcyfIbpNO0_i3zA9qtcAD6e6YWIj8INpTbFF3N3ZlQ9wBE_DUI",
-   "credit": "ESPN México"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvmjnBM1Bb6Szafnt9spJNfFwvWKxp-vtRSxqySSr5OlUbR0sBOYPila2_-34",
+   "credit": "Globely News"
   },
   "t": {
    "pt": {
-    "name": "barcelona - alavés",
-    "note": "Busca em alta no Google (México) — 20000+ buscas · via ESPN México."
+    "name": "grizzlies - kings",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Globely News."
    },
    "en": {
-    "name": "barcelona - alavés",
-    "note": "Trending Google search (Mexico) — 20000+ searches · via ESPN México."
+    "name": "grizzlies - kings",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Globely News."
    },
    "es": {
-    "name": "barcelona - alavés",
-    "note": "Búsqueda en tendencia en Google (México) — 20000+ búsquedas · vía ESPN México."
+    "name": "grizzlies - kings",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Globely News."
    }
   },
   "id": "tr31",
   "hue": 330
  },
  {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
+  "collectedAt": "2026-11-01T00:15:05.801Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.avfc.co.uk/news/2026/october/31/prematch-saturday-night-at-villa-park/",
+  "rank": 8,
+  "sourceUrl": "https://bettorsinsider.com/prediction-markets/2026/10/31/cavaliers-vs-bucks-prediction-market-odds-cleveland-76-5-to-win-spread-at-54/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT9gQOnJoROXfmhtxjp9jWWSp5iUlefwsepf3aI_482LYjoI-B554chbK_J95w",
-   "credit": "Aston Villa"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRwdQkXOlV9ASUWC6PgIh2sr1O45QRZQIl53NhwJwTk4eRArGHQF2b3To5KMFY",
+   "credit": "Bettors Insider"
   },
   "t": {
    "pt": {
-    "name": "aston villa - fulham",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via Aston Villa."
+    "name": "bucks - cavaliers",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Bettors Insider."
    },
    "en": {
-    "name": "aston villa - fulham",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via Aston Villa."
+    "name": "bucks - cavaliers",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Bettors Insider."
    },
    "es": {
-    "name": "aston villa - fulham",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía Aston Villa."
+    "name": "bucks - cavaliers",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Bettors Insider."
    }
   },
   "id": "tr32",
   "hue": 7
- },
- {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.tvazteca.com/aztecadeportes/divino-espinoza-sorprende-y-canta-el-rey-en-pleno-pesaje-del-canelo-vs-mbilli/",
-  "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcxbarZhpeg6BHZQiDzRMlqK8CjxywLWifSK0D0Ik4rRGrQuvYOH6_yrG8s2w",
-   "credit": "TV Azteca"
-  },
-  "t": {
-   "pt": {
-    "name": "divino espinoza",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via TV Azteca."
-   },
-   "en": {
-    "name": "divino espinoza",
-    "note": "Trending Google search (Mexico) — 200+ searches · via TV Azteca."
-   },
-   "es": {
-    "name": "divino espinoza",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía TV Azteca."
-   }
-  },
-  "id": "tr33",
-  "hue": 44
- },
- {
-  "collectedAt": "2026-10-31T19:23:53.064Z",
-  "kind": "topic",
-  "platform": "youtube",
-  "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.vidaextra.com/series/hbo-lanza-sorpresa-nuevo-episodio-bienvenidos-a-derry-para-disfrutar-condiciones-noche-halloween",
-  "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XNw1eJL_xsylZ2lRU8ee9JsZ1i2bkOF-0cI_FERCu-4y48uMn1l4bA2WAPw",
-   "credit": "VidaExtra"
-  },
-  "t": {
-   "pt": {
-    "name": "welcome to derry nuevo episodio",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via VidaExtra."
-   },
-   "en": {
-    "name": "welcome to derry nuevo episodio",
-    "note": "Trending Google search (Mexico) — 200+ searches · via VidaExtra."
-   },
-   "es": {
-    "name": "welcome to derry nuevo episodio",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía VidaExtra."
-   }
-  },
-  "id": "tr34",
-  "hue": 81
  }
 ]
