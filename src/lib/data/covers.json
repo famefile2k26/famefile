@@ -884,8 +884,8 @@
  },
  "misses": {
   "songs:los del espacio|emilia mernes": "2026-11-13T17:12:02.549Z",
-  "songs:rooftop|lee seung hyub": "2026-11-07T15:39:40.137Z",
-  "albums:still|lee seung hyub": "2026-11-07T15:39:57.018Z"
+  "songs:rooftop|lee seung hyub": "2026-11-14T15:48:56.848Z",
+  "albums:still|lee seung hyub": "2026-11-14T15:49:13.750Z"
  },
  "people": {
   "taylor-swift": {
@@ -3542,6 +3542,11 @@
    "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Lito_Sousa_2022_2.png?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "credit": "Foto: Wikimedia Commons",
    "source": "pt.wikipedia.org/wiki/Lito_Sousa"
+  },
+  "juarez-pontes": {
+   "url": "https://upload.wikimedia.org/wikipedia/pt/c/cf/Juarez_da_TekPix.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "pt.wikipedia.org/wiki/Juarez_da_Tekpix"
   }
  }
 }
