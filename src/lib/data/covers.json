@@ -215,7 +215,8 @@
   "fala que me quer|diego martins": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/04/2d/0c042d6e-67c8-e941-2b97-ec01acb2a51f/26UM1IM14456.rgb.jpg/600x600bb.jpg",
   "beijinho no ombro|valesca popozuda": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/7e/70/0c/7e700cd1-5342-9864-1c68-67e0ad96396b/0.jpg/600x600bb.jpg",
   "fala que me quer|valesca popozuda": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/0c/04/2d/0c042d6e-67c8-e941-2b97-ec01acb2a51f/26UM1IM14456.rgb.jpg/600x600bb.jpg",
-  "malo|bebe": "https://is1-ssl.mzstatic.com/image/thumb/Music/0a/57/ea/mzi.fdimqjzj.jpg/600x600bb.jpg"
+  "malo|bebe": "https://is1-ssl.mzstatic.com/image/thumb/Music/0a/57/ea/mzi.fdimqjzj.jpg/600x600bb.jpg",
+  "rooftop|lee seung hyub": "https://cdn-images.dzcdn.net/images/artist/15c9c3ab2b4f6e1a6f9d7505600917a2/1000x1000-000000-80-0-0.jpg"
  },
  "albums": {
   "the life of a showgirl the encore|taylor swift": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/f1/a3/c7/f1a3c711-ff60-caee-2314-37c0dd3f7616/26UM1IM21436.rgb.jpg/600x600bb.jpg",
@@ -786,7 +787,8 @@
   "premonicion|david bisbal": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/09/2d/64/092d64f3-4334-eeb0-41b5-73e91b1d96ba/00602498437605.rgb.jpg/600x600bb.jpg",
   "pafuera telaranas|bebe": "https://cdn-images.dzcdn.net/images/cover/6c1177d5b1b24bc12ef12e4ca78008e3/1000x1000-000000-80-0-0.jpg",
   "treasure ep 1 all to zero|ateez": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/b6/2d/f3/b62df3a1-f599-d06d-45f8-b9c9916a9a17/8809603546500_Cover.jpg/600x600bb.jpg",
-  "the world ep 1 movement|ateez": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/3f/44/a93f4433-d5af-f6b2-8d45-2198580f2dcb/196589301772.jpg/600x600bb.jpg"
+  "the world ep 1 movement|ateez": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/a9/3f/44/a93f4433-d5af-f6b2-8d45-2198580f2dcb/196589301772.jpg/600x600bb.jpg",
+  "still|lee seung hyub": "https://cdn-images.dzcdn.net/images/artist/15c9c3ab2b4f6e1a6f9d7505600917a2/1000x1000-000000-80-0-0.jpg"
  },
  "articles": {
   "2001": {
@@ -3547,6 +3549,11 @@
    "url": "https://upload.wikimedia.org/wikipedia/pt/c/cf/Juarez_da_TekPix.jpg?utm_source=pt.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
    "credit": "Foto: Wikimedia Commons",
    "source": "pt.wikipedia.org/wiki/Juarez_da_Tekpix"
+  },
+  "brooklyn-beckham": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Brooklyn_Beckham_and_Nicola_Peltz_at_the_2026_Deauville_American_Film_Festival_on_the_red_carpet_2026_%28cropped%29.jpg/960px-Brooklyn_Beckham_and_Nicola_Peltz_at_the_2026_Deauville_American_Film_Festival_on_the_red_carpet_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+   "credit": "Foto: Wikimedia Commons",
+   "source": "en.wikipedia.org/wiki/Brooklyn_Beckham"
   }
  }
 }
