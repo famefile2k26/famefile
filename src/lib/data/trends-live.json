@@ -1,6 +1,6 @@
 [
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -24,7 +24,7 @@
   "hue": 300
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -48,7 +48,7 @@
   "hue": 337
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "tiktok",
   "region": "GLOBAL",
@@ -72,787 +72,899 @@
   "hue": 14
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 1,
-  "sourceUrl": "https://g1.globo.com/df/distrito-federal/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-brasilia-df-sol-com-algumas-nuvens-chove-rapido-durante-o-dia-e-a-noite.ghtml",
+  "sourceUrl": "https://onefootball.com/fr/news/psg-vs-as-roma-les-compositions-officielles-dembele-sur-le-banc-43839767",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwkpRw7fXcbnNQtjwWpIeQh7OVnw0pa6mcB7tbDjFA6y8DpHi8fQD3glYUpCk",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOaBX-wuyzWIOWR7tb06k0PXVAypPmKe0ctADOQdv_jrWxWTJTq26aHXOEjQs",
+   "credit": "OneFootball"
   },
   "t": {
    "pt": {
-    "name": "tempo hoje",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "psg",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via OneFootball."
    },
    "en": {
-    "name": "tempo hoje",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "psg",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via OneFootball."
    },
    "es": {
-    "name": "tempo hoje",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "psg",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía OneFootball."
    }
   },
   "id": "tr4",
   "hue": 51
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 2,
-  "sourceUrl": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-sorocaba-hoje-veja-como-fica-o-clima-nesta-quarta-feira,6035a7c9dc2a1160b7ab6f3087b0aaa2gjdo4lr2.html",
+  "sourceUrl": "https://oglobo.globo.com/rio/noticia/2026/11/25/inmet-emite-alerta-de-queda-de-granizo-e-ventania-para-todo-o-estado-do-rio-veja-as-cidades-mais-atingidas.ghtml",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFQdNU3kysLdK4byPgMbiiyIPSHa7JEhXxCI2gvyxFVqItNmhSQ6dPZyXj0-s",
-   "credit": "Terra"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYXXGlIzYHfgbFr8BzALUs-oJ_OF0N2u2u3YL8aNNBZQFUx54wtbrs_KmsuDo",
+   "credit": "O GLOBO"
   },
   "t": {
    "pt": {
-    "name": "previsão do tempo sorocaba",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Terra."
+    "name": "alerta rio",
+    "note": "Busca em alta no Google (Brasil) — 10000+ buscas · via O GLOBO."
    },
    "en": {
-    "name": "previsão do tempo sorocaba",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Terra."
+    "name": "alerta rio",
+    "note": "Trending Google search (Brazil) — 10000+ searches · via O GLOBO."
    },
    "es": {
-    "name": "previsão do tempo sorocaba",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Terra."
+    "name": "alerta rio",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 10000+ búsquedas · vía O GLOBO."
    }
   },
   "id": "tr5",
   "hue": 88
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 3,
-  "sourceUrl": "https://g1.globo.com/sp/campinas-regiao/videos-bom-dia-cidade-campinas-e-piracicaba/video/campinas-tem-terca-feira-de-sol-e-chuva-rapida-veja-previsao-do-tempo-15275788.ghtml",
+  "sourceUrl": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/17554336/lille-bayern-munique-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-champions-league",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQo-oYOYpzpO3e8GTutp_7jTiylAblfynU4jB6UdduU0Q2_67ZLF8QAvQWdU",
-   "credit": "G1"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRhYm20sFnsPOzhanPT2WVjDfmeCzh1aA4QS-zld9quDbTyGQtNkhi8sqFEbTQ",
+   "credit": "ESPN Brasil"
   },
   "t": {
    "pt": {
-    "name": "tempo campinas",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via G1."
+    "name": "losc x bayern",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via ESPN Brasil."
    },
    "en": {
-    "name": "tempo campinas",
-    "note": "Trending Google search (Brazil) — 200+ searches · via G1."
+    "name": "losc x bayern",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via ESPN Brasil."
    },
    "es": {
-    "name": "tempo campinas",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía G1."
+    "name": "losc x bayern",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía ESPN Brasil."
    }
   },
   "id": "tr6",
   "hue": 125
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 4,
-  "sourceUrl": "https://g1.globo.com/mg/vales-mg/noticia/2026/11/23/leste-de-minas-registra-mais-de-217-mil-raios-em-oito-meses-veja-como-se-proteger-durante-tempestades.ghtml",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/cx98zmzyn0y7t",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC2j3rgt_6h4nRgJ_5IDk_VQSbaBEl8xk1H4ITvwOtxmxVXEPW_z41Hs1qfDE",
-   "credit": "G1"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjy9YxO8EEZNmL5YzZf4o8paiIjuCuvkfFF8BSfQNzNxOyVHkNcnpo1kx5Ds",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "clima tempo",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
+    "name": "sporting x manchester united",
+    "note": "Busca em alta no Google (Brasil) — 5000+ buscas · via BBC."
    },
    "en": {
-    "name": "clima tempo",
-    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
+    "name": "sporting x manchester united",
+    "note": "Trending Google search (Brazil) — 5000+ searches · via BBC."
    },
    "es": {
-    "name": "clima tempo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
+    "name": "sporting x manchester united",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 5000+ búsquedas · vía BBC."
    }
   },
   "id": "tr7",
   "hue": 162
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 5,
-  "sourceUrl": "https://noticias.uol.com.br/cotidiano/ultimas-noticias/2026/11/25/sao-paulo-entra-em-atencao-para-alagamentos-com-chegada-de-tempestade.ghtm",
+  "sourceUrl": "https://www.espn.com.br/futebol/champions-league/artigo/_/id/17555066/club-brugge-liverpool-onde-assistir-ao-vivo-horario-palpite-provaveis-escalacoes-jogo-champions-league",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXYw0Hbo2nKRR2JUR-Eu_fV-ysPv659fsjQ_L4f5VhIxllLuisnEdc68Bho-M",
-   "credit": "UOL Notícias"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTp1x1xTtVzhXZ1LJnktbOz58ruVEbiuhGn6ZQWhryYn3LmcFOMGWdGhfemOj4",
+   "credit": "ESPN Brasil"
   },
   "t": {
    "pt": {
-    "name": "previsão do tempo são paulo",
-    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via UOL Notícias."
+    "name": "club brugge x liverpool",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via ESPN Brasil."
    },
    "en": {
-    "name": "previsão do tempo são paulo",
-    "note": "Trending Google search (Brazil) — 2000+ searches · via UOL Notícias."
+    "name": "club brugge x liverpool",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via ESPN Brasil."
    },
    "es": {
-    "name": "previsão do tempo são paulo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía UOL Notícias."
+    "name": "club brugge x liverpool",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía ESPN Brasil."
    }
   },
   "id": "tr8",
   "hue": 199
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 6,
-  "sourceUrl": "https://gshow.globo.com/cultura-pop/famosos/noticia/joao-lucas-beija-barriga-de-sasha-meneghel-apos-desfile.ghtml",
+  "sourceUrl": "https://www.estadao.com.br/esportes/futebol/inter-de-milao-x-stuttgart-pela-champions-league-onde-assistir-ao-vivo-horario-e-escalacao/",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9CRi0v5scdxp5ocpJtirHnLqk5z5KXFy4vPHbJstwCbbiMLzSEGdM7OgIiPU",
-   "credit": "Gshow"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSB7DDSFJcvF7XSzXcwnAuyLxgFnANuMWMS_k2Mw2RX653-x1Yc1NQ29SwTzBY",
+   "credit": "Estadão"
   },
   "t": {
    "pt": {
-    "name": "sasha meneghel",
-    "note": "Busca em alta no Google (Brasil) — 100+ buscas · via Gshow."
+    "name": "inter x vfb stuttgart",
+    "note": "Busca em alta no Google (Brasil) — 2000+ buscas · via Estadão."
    },
    "en": {
-    "name": "sasha meneghel",
-    "note": "Trending Google search (Brazil) — 100+ searches · via Gshow."
+    "name": "inter x vfb stuttgart",
+    "note": "Trending Google search (Brazil) — 2000+ searches · via Estadão."
    },
    "es": {
-    "name": "sasha meneghel",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 100+ búsquedas · vía Gshow."
+    "name": "inter x vfb stuttgart",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 2000+ búsquedas · vía Estadão."
    }
   },
   "id": "tr9",
   "hue": 236
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 7,
-  "sourceUrl": "https://www.terra.com.br/noticias/previsao-do-tempo/previsao-do-tempo-em-sao-paulo-hoje-veja-como-fica-o-clima-nesta-quarta-feira,49e3137a9a9b4b54d0eb71d5d739df193pgjh38r.html",
+  "sourceUrl": "https://veja.abril.com.br/esporte/jogos-de-hoje-quarta-25-de-novembro-onde-assistir-futebol-ao-vivo-e-horarios/",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQSPnkfgR6TXW4_CkpQ7roZ1SRlXnj26-KYJItTfcR42rcqxrazWIKPlqTfqnI",
-   "credit": "Terra"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSlvRVe_uKsJs6lNexIwHKUwHXcVMqy9TEsIPx3QKchL4vVwlqQwJ0TeT-tb7A",
+   "credit": "VEJA"
   },
   "t": {
    "pt": {
-    "name": "clima em são paulo",
-    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Terra."
+    "name": "jogos de champions league",
+    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via VEJA."
    },
    "en": {
-    "name": "clima em são paulo",
-    "note": "Trending Google search (Brazil) — 200+ searches · via Terra."
+    "name": "jogos de champions league",
+    "note": "Trending Google search (Brazil) — 500+ searches · via VEJA."
    },
    "es": {
-    "name": "clima em são paulo",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Terra."
+    "name": "jogos de champions league",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía VEJA."
    }
   },
   "id": "tr10",
   "hue": 273
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "BR",
   "rank": 8,
-  "sourceUrl": "https://g1.globo.com/rj/rio-de-janeiro/previsao-do-tempo/noticia/2026/11/25/previsao-do-tempo-hoje-para-o-rio-de-janeiro-rj-sol-e-aumento-de-nuvens-de-manha-pancadas-de-chuva-a-tarde-e-a-noite.ghtml",
+  "sourceUrl": "https://sports.yahoo.com/soccer/articles/another-klopp-german-star-scores-191100181.html",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfwRveAtJbSDqp9e3Ed3KiCRkSkUqrEuc9SxTgaamOvHgIyWkG9ft3KP8Mv_w",
-   "credit": "G1"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjHDRjYDS6tOOwGo0zNoss6jen9lV3gX4bP9-PJgG7T2hgv3d9pzyxkzGNb9I",
+   "credit": "Yahoo Sports"
   },
   "t": {
    "pt": {
-    "name": "tempo rj",
-    "note": "Busca em alta no Google (Brasil) — 500+ buscas · via G1."
+    "name": "karim adeyemi",
+    "note": "Busca em alta no Google (Brasil) — 200+ buscas · via Yahoo Sports."
    },
    "en": {
-    "name": "tempo rj",
-    "note": "Trending Google search (Brazil) — 500+ searches · via G1."
+    "name": "karim adeyemi",
+    "note": "Trending Google search (Brazil) — 200+ searches · via Yahoo Sports."
    },
    "es": {
-    "name": "tempo rj",
-    "note": "Búsqueda en tendencia en Google (Brasil) — 500+ búsquedas · vía G1."
+    "name": "karim adeyemi",
+    "note": "Búsqueda en tendencia en Google (Brasil) — 200+ búsquedas · vía Yahoo Sports."
    }
   },
   "id": "tr11",
   "hue": 310
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 1,
-  "sourceUrl": "https://aftermath.site/gta-6-criminal-profile-mechanic-vi-grand-theft-auto-jason-lucia-rockstar/",
+  "sourceUrl": "https://www.wbrz.com/news/lsu-could-lose-millions-of-dollars-historic-rivalries-if-sec-votes-to-expel-school/",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTS3ovd2xYejn0MgHW0gFmPA76RKumlKSYa7LQ2Qfw4hC-LU6ShcYX4lH5SG9U",
-   "credit": "Aftermath"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-BVJYyhvBleiKBCyQZU7GihQBgGGLlBTQlPlLBuEw5DPWZFI115kRINN4OuY",
+   "credit": "WBRZ"
   },
   "t": {
    "pt": {
-    "name": "criminal profile gta 6",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Aftermath."
+    "name": "lsu basketball",
+    "note": "Busca em alta no Google (EUA) — 1000+ buscas · via WBRZ."
    },
    "en": {
-    "name": "criminal profile gta 6",
-    "note": "Trending Google search (US) — 100+ searches · via Aftermath."
+    "name": "lsu basketball",
+    "note": "Trending Google search (US) — 1000+ searches · via WBRZ."
    },
    "es": {
-    "name": "criminal profile gta 6",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Aftermath."
+    "name": "lsu basketball",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 1000+ búsquedas · vía WBRZ."
    }
   },
   "id": "tr12",
   "hue": 347
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 2,
-  "sourceUrl": "https://mbiz.heraldcorp.com/article/10949073",
+  "sourceUrl": "https://www.cnbc.com/2026/11/25/investors-led-by-todd-boehly-to-buy-lukoil-oil-and-gas-assets-outside-russia.html",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTL6-6JyXspxqQUstcBNYiSZOHgpMd_B2_lB4NUmF7R0gKD4pvKK6kQXaMg8D4",
-   "credit": "헤럴드경제"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOPMps2YS9h0BcbI9Kv6nm9dLBBWJ5rRBmrX86UjTmfoLqUyXZg-FUXZ-7iM8",
+   "credit": "CNBC"
   },
   "t": {
    "pt": {
-    "name": "google play",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via 헤럴드경제."
+    "name": "todd boehly",
+    "note": "Busca em alta no Google (EUA) — 500+ buscas · via CNBC."
    },
    "en": {
-    "name": "google play",
-    "note": "Trending Google search (US) — 200+ searches · via 헤럴드경제."
+    "name": "todd boehly",
+    "note": "Trending Google search (US) — 500+ searches · via CNBC."
    },
    "es": {
-    "name": "google play",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía 헤럴드경제."
+    "name": "todd boehly",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 500+ búsquedas · vía CNBC."
    }
   },
   "id": "tr13",
   "hue": 24
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 3,
-  "sourceUrl": "https://www.jsonline.com/story/sports/college/uw/2026/11/24/new-netflix-movie-the-mosquito-bowl-wisconsin-football/92915134007/",
+  "sourceUrl": "https://www.nbcphiladelphia.com/weather/first-alert-prepare-for-a-powerful-thanksgiving-storm/4502844/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIjpP6hHwCPA04gLFLt-2j7N7aZqaQbyBfX33DdTkeMmTJGVpj1-Wmff3nIEE",
-   "credit": "Milwaukee Journal Sentinel"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUk1b4J5DJsLVSVo-Kus1MgfWmz1q93ZYKuaqEWVd1-vqtqn-rZ3xphXxuA9U",
+   "credit": "NBC10 Philadelphia"
   },
   "t": {
    "pt": {
-    "name": "the mosquito bowl",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via Milwaukee Journal Sentinel."
+    "name": "nj state of emergency",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via NBC10 Philadelphia."
    },
    "en": {
-    "name": "the mosquito bowl",
-    "note": "Trending Google search (US) — 100+ searches · via Milwaukee Journal Sentinel."
+    "name": "nj state of emergency",
+    "note": "Trending Google search (US) — 200+ searches · via NBC10 Philadelphia."
    },
    "es": {
-    "name": "the mosquito bowl",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía Milwaukee Journal Sentinel."
+    "name": "nj state of emergency",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía NBC10 Philadelphia."
    }
   },
   "id": "tr14",
   "hue": 61
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 4,
-  "sourceUrl": "https://www.invenglobal.com/articles/29057/complexity-founder-jason-lake-to-receive-first-hltv-lifetime-achievement-award",
+  "sourceUrl": "https://www.theguardian.com/football/2026/nov/25/alejandro-garnacho-aston-villa-loanees-unai-emery",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZn3gk3wbr53xMTz8yOQNToCpm4y76OjZ3loXetEsowHiWz1ZFDUS-0nPNGI",
-   "credit": "Inven Global"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-PZ7B8CSHwVGIPusKWHjr-9b42p93dT4pwfUPN70m9VpFjXJN7U4rk75OzWw",
+   "credit": "The Guardian"
   },
   "t": {
    "pt": {
-    "name": "hltv",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via Inven Global."
+    "name": "fotmob",
+    "note": "Busca em alta no Google (EUA) — 200+ buscas · via The Guardian."
    },
    "en": {
-    "name": "hltv",
-    "note": "Trending Google search (US) — 200+ searches · via Inven Global."
+    "name": "fotmob",
+    "note": "Trending Google search (US) — 200+ searches · via The Guardian."
    },
    "es": {
-    "name": "hltv",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía Inven Global."
+    "name": "fotmob",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía The Guardian."
    }
   },
   "id": "tr15",
   "hue": 98
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 5,
-  "sourceUrl": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-kitty-litter-lab-locations/",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/cx98zmzyn0y7t",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQ14s4GSzJ_wMuSbLT6p7zRduUKgmYaET-NrwhqyFJlyWNS2opHnK7XyHztH4",
-   "credit": "PC Gamer"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjy9YxO8EEZNmL5YzZf4o8paiIjuCuvkfFF8BSfQNzNxOyVHkNcnpo1kx5Ds",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "how many kitty litter labs are there",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via PC Gamer."
+    "name": "sporting vs man utd",
+    "note": "Busca em alta no Google (EUA) — 10000+ buscas · via BBC."
    },
    "en": {
-    "name": "how many kitty litter labs are there",
-    "note": "Trending Google search (US) — 100+ searches · via PC Gamer."
+    "name": "sporting vs man utd",
+    "note": "Trending Google search (US) — 10000+ searches · via BBC."
    },
    "es": {
-    "name": "how many kitty litter labs are there",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía PC Gamer."
+    "name": "sporting vs man utd",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 10000+ búsquedas · vía BBC."
    }
   },
   "id": "tr16",
   "hue": 135
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 6,
-  "sourceUrl": "https://www.ign.com/wikis/gta-6/The_Cartel_Heist_Walkthrough",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQT_pXoCPvlkHjKQwjNACiq2XBscvDkqghZ3Uej1wbN1flAo3HmgDvrUnvXGyg",
-   "credit": "IGN"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYwY90css_5rGX1rZiDMt3-rOgp4QjHJ3YWI4ImFG7K3WX9EOomT9f67_mS2A",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "how to open vaults in gta 6",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via IGN."
+    "name": "club brugge vs liverpool",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via BBC."
    },
    "en": {
-    "name": "how to open vaults in gta 6",
-    "note": "Trending Google search (US) — 200+ searches · via IGN."
+    "name": "club brugge vs liverpool",
+    "note": "Trending Google search (US) — 5000+ searches · via BBC."
    },
    "es": {
-    "name": "how to open vaults in gta 6",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía IGN."
+    "name": "club brugge vs liverpool",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía BBC."
    }
   },
   "id": "tr17",
   "hue": 172
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 7,
-  "sourceUrl": "https://www.vice.com/en/article/gta-6-chapter-2-length-missions-missables/",
+  "sourceUrl": "https://espndeportes.espn.com/futbol/europa/nota/_/id/17556159/atletico-madrid-vs-viking-fecha-5-uefa-champions-league-equipo-fecha-hora-y-tv-en-vivo",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbfa4x4lE5BSjIx_nroZlYhkGCHr0Mr5ROv81qkxH4_h0VLzofYfb2n9w10Y8",
-   "credit": "VICE"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA71mXqhsxWwkhk9KUAWqFaPqXMbmkHemzU5NXdZ8XBFWgvn9M7sIfkgyWpyI",
+   "credit": "ESPN Deportes"
   },
   "t": {
    "pt": {
-    "name": "gta 6 chapter 2 mission list",
-    "note": "Busca em alta no Google (EUA) — 100+ buscas · via VICE."
+    "name": "atlético vs viking",
+    "note": "Busca em alta no Google (EUA) — 2000+ buscas · via ESPN Deportes."
    },
    "en": {
-    "name": "gta 6 chapter 2 mission list",
-    "note": "Trending Google search (US) — 100+ searches · via VICE."
+    "name": "atlético vs viking",
+    "note": "Trending Google search (US) — 2000+ searches · via ESPN Deportes."
    },
    "es": {
-    "name": "gta 6 chapter 2 mission list",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 100+ búsquedas · vía VICE."
+    "name": "atlético vs viking",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 2000+ búsquedas · vía ESPN Deportes."
    }
   },
   "id": "tr18",
   "hue": 209
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "US",
   "rank": 8,
-  "sourceUrl": "https://inreviewonline.com/2026/11/23/sunrise-on-the-reaping-review/",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/c678292r8lddt",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlx2xYuan6BU8bmTSQZsZukl9rj16iL4O6HFfyJxy43YXUT9Xu-QIqDkuv2ek",
-   "credit": "In Review Online"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRRwOvZeQ1RCOectFBbNzb90RO0iFo7744EKusCTrxY7EliGaxoFxKykWOMiEA",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "hunger games 2026",
-    "note": "Busca em alta no Google (EUA) — 200+ buscas · via In Review Online."
+    "name": "atlético madrid - viking",
+    "note": "Busca em alta no Google (EUA) — 5000+ buscas · via BBC."
    },
    "en": {
-    "name": "hunger games 2026",
-    "note": "Trending Google search (US) — 200+ searches · via In Review Online."
+    "name": "atlético madrid - viking",
+    "note": "Trending Google search (US) — 5000+ searches · via BBC."
    },
    "es": {
-    "name": "hunger games 2026",
-    "note": "Búsqueda en tendencia en Google (EE. UU.) — 200+ búsquedas · vía In Review Online."
+    "name": "atlético madrid - viking",
+    "note": "Búsqueda en tendencia en Google (EE. UU.) — 5000+ búsquedas · vía BBC."
    }
   },
   "id": "tr19",
   "hue": 246
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 1,
-  "sourceUrl": "https://www.clarin.com/videos/turquia-militares-murieron-estrellarse-helicoptero-vuelo-entrenamiento_3_Wcccsx9ldm.html",
+  "sourceUrl": "https://www.bbc.com/sport/football/live/c5vg2w2e2gy1t",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5cPTacj6_Alqlgk5BErT_hQ41VKcgnvac74gAlzNfHE58FtWErC7VvpU79s4",
-   "credit": "Clarin.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYwY90css_5rGX1rZiDMt3-rOgp4QjHJ3YWI4ImFG7K3WX9EOomT9f67_mS2A",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "fuerzas armadas",
-    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via Clarin.com."
+    "name": "club brujas - liverpool",
+    "note": "Busca em alta no Google (Argentina) — 500+ buscas · via BBC."
    },
    "en": {
-    "name": "fuerzas armadas",
-    "note": "Trending Google search (Argentina) — 500+ searches · via Clarin.com."
+    "name": "club brujas - liverpool",
+    "note": "Trending Google search (Argentina) — 500+ searches · via BBC."
    },
    "es": {
-    "name": "fuerzas armadas",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía Clarin.com."
+    "name": "club brujas - liverpool",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 500+ búsquedas · vía BBC."
    }
   },
   "id": "tr20",
   "hue": 283
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 2,
-  "sourceUrl": "https://tn.com.ar/deportes/futbol/2026/11/24/antonela-roccuzzo-compartio-fotos-junto-a-lionel-messi-y-sus-hijos-el-objeto-que-llamo-la-atencion/",
+  "sourceUrl": "https://www.cba.gov.ar/stellantis-vuelve-a-fabricar-motores-en-cordoba-y-exportara-mas-del-70-de-la-produccion/",
   "image": {
-   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYId8ZribRsWRgc52QjOI92XQNjxCfwAhwqPPUDvAqjAbdsvFBV7YPZ4psvCA",
-   "credit": "TN"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeXw0Fvk3ol6LRwV3irhcHgR742VNC_pa9U-YouGDKL25v_XBR81IG1qa76Jk",
+   "credit": "· Gobierno de Córdoba"
   },
   "t": {
    "pt": {
-    "name": "antonela roccuzzo",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via TN."
+    "name": "stellantis",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via · Gobierno de Córdoba."
    },
    "en": {
-    "name": "antonela roccuzzo",
-    "note": "Trending Google search (Argentina) — 100+ searches · via TN."
+    "name": "stellantis",
+    "note": "Trending Google search (Argentina) — 100+ searches · via · Gobierno de Córdoba."
    },
    "es": {
-    "name": "antonela roccuzzo",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía TN."
+    "name": "stellantis",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía · Gobierno de Córdoba."
    }
   },
   "id": "tr21",
   "hue": 320
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 3,
-  "sourceUrl": "https://www.mitelefe.com/masterchef-celebrity/noticias/el-fantasma-de-la-doble-eliminacion-aterro-a-luciana-geuna-y-julieta-poggio-en-un-mano-a-mano-letal-pid2573014",
+  "sourceUrl": "https://www.clarin.com/deportes/sporting-lisboa-vs-manchester-united-champions-league-vivo-hora-juegan-formaciones-ver-partido_0_RrVgzlQhyw.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQs4-oJ_I1sxJH9ZvSV0kcPUshAoiA0n2rK5HWYCsHVfhfm8ukLiSyPEdBim70",
-   "credit": "Telefe"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxiQ9jxuumzByVliri3tXL6t0bBuyxRA4mOgz6PihYbZICjAJYp9Dhb3OJbIo",
+   "credit": "Clarin.com"
   },
   "t": {
    "pt": {
-    "name": "masterchef celebrity argentina",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via Telefe."
+    "name": "sporting lisboa - manchester united",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Clarin.com."
    },
    "en": {
-    "name": "masterchef celebrity argentina",
-    "note": "Trending Google search (Argentina) — 200+ searches · via Telefe."
+    "name": "sporting lisboa - manchester united",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Clarin.com."
    },
    "es": {
-    "name": "masterchef celebrity argentina",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía Telefe."
+    "name": "sporting lisboa - manchester united",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Clarin.com."
    }
   },
   "id": "tr22",
   "hue": 357
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 4,
-  "sourceUrl": "https://www.lanacion.com.ar/politica/ley-de-ludopatia-reuniones-reservadas-de-la-iglesia-un-mensaje-de-la-rosada-al-senado-y-las-nid24112026/",
+  "sourceUrl": "https://www.goal.com/fr/news/le-montant-du-transfert-etait-inenvisageable-michael-olise-aurait-pu-rejoindre-lille-avant-le-bayern-munich/bltb9ac460b24016d3b",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEQJjd8fWyuHFYzV7BUwhkFzS3zrju-8lvz3l2tDiF7lI3Kcc0Cue6oZvSbUU",
-   "credit": "La Nación"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThh27ruiiSlJuzCrCNjMNSzkMOCpde3IT673lOe3K0Q1rbAnM3Eudorya4KZ4",
+   "credit": "Goal.com"
   },
   "t": {
    "pt": {
-    "name": "ley",
-    "note": "Busca em alta no Google (Argentina) — 200+ buscas · via La Nación."
+    "name": "losc - bayern",
+    "note": "Busca em alta no Google (Argentina) — 1000+ buscas · via Goal.com."
    },
    "en": {
-    "name": "ley",
-    "note": "Trending Google search (Argentina) — 200+ searches · via La Nación."
+    "name": "losc - bayern",
+    "note": "Trending Google search (Argentina) — 1000+ searches · via Goal.com."
    },
    "es": {
-    "name": "ley",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 200+ búsquedas · vía La Nación."
+    "name": "losc - bayern",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 1000+ búsquedas · vía Goal.com."
    }
   },
   "id": "tr23",
   "hue": 34
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "AR",
   "rank": 5,
-  "sourceUrl": "https://www.invenglobal.com/articles/29057/complexity-founder-jason-lake-to-receive-first-hltv-lifetime-achievement-award",
+  "sourceUrl": "https://www.espn.com.ar/futbol/mundial/nota/_/id/17560266/guardiola-messi-cristiano-ronaldo-reflexiona-rivalidad",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLZn3gk3wbr53xMTz8yOQNToCpm4y76OjZ3loXetEsowHiWz1ZFDUS-0nPNGI",
-   "credit": "Inven Global"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDtKDBejGdBIy4Kwu2MQEttpvaHNKh0Mfezn_ALZq95ePgdRARfiez1lR0oGg",
+   "credit": "ESPN Argentina"
   },
   "t": {
    "pt": {
-    "name": "hltv",
-    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Inven Global."
+    "name": "pep guardiola",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via ESPN Argentina."
    },
    "en": {
-    "name": "hltv",
-    "note": "Trending Google search (Argentina) — 100+ searches · via Inven Global."
+    "name": "pep guardiola",
+    "note": "Trending Google search (Argentina) — 100+ searches · via ESPN Argentina."
    },
    "es": {
-    "name": "hltv",
-    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Inven Global."
+    "name": "pep guardiola",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía ESPN Argentina."
    }
   },
   "id": "tr24",
   "hue": 71
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 1,
-  "sourceUrl": "https://www.jornada.com.mx/noticia/2026/11/24/estados/preve-smn-primera-tormenta-invernal-de-la-temporada-en-mexico-para-el-viernes",
+  "region": "AR",
+  "rank": 6,
+  "sourceUrl": "https://www.bbc.com/sport/football/live/c678292r8lddt",
   "image": {
-   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGLew7wzUkjqkGljLgBljq3l_S2qwZw08sekNu5Y8oys9pHwO8Rm3OkUr1-38",
-   "credit": "La Jornada"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTL-OITnyPTvWu0jfMNga0coAOXzB5LZk5z8BF09DE6p3rGmk0Z-CBuog0U7gE",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "tormenta invernal",
-    "note": "Busca em alta no Google (México) — 1000+ buscas · via La Jornada."
+    "name": "atlético madrid - viking",
+    "note": "Busca em alta no Google (Argentina) — 5000+ buscas · via BBC."
    },
    "en": {
-    "name": "tormenta invernal",
-    "note": "Trending Google search (Mexico) — 1000+ searches · via La Jornada."
+    "name": "atlético madrid - viking",
+    "note": "Trending Google search (Argentina) — 5000+ searches · via BBC."
    },
    "es": {
-    "name": "tormenta invernal",
-    "note": "Búsqueda en tendencia en Google (México) — 1000+ búsquedas · vía La Jornada."
+    "name": "atlético madrid - viking",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 5000+ búsquedas · vía BBC."
    }
   },
   "id": "tr25",
   "hue": 108
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 2,
-  "sourceUrl": "https://www.nfl.com/news/nfl-playoff-picture-postseason-probabilities-week-12-2026-season",
+  "region": "AR",
+  "rank": 7,
+  "sourceUrl": "https://www.ole.com.ar/futbol-internacional/champions/psg-vs-roma-hora-ver-champions-league-tv-online-formaciones_0_4IKKhthb2S.html",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlvdQRbOhLD_WwPrhThHDN8A-fzqC9Ma8vb9k6Qzzssl7M81y0l_p3Nn_NeVk",
-   "credit": "NFL.com"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQN6b7UsULEGMrHa5YzyfWdGYOrffqIvbauyZhL4bd1uER9AFfP2G1LrO65jt4",
+   "credit": "Olé"
   },
   "t": {
    "pt": {
-    "name": "thanksgiving 2026",
-    "note": "Busca em alta no Google (México) — 200+ buscas · via NFL.com."
+    "name": "psg - roma",
+    "note": "Busca em alta no Google (Argentina) — 2000+ buscas · via Olé."
    },
    "en": {
-    "name": "thanksgiving 2026",
-    "note": "Trending Google search (Mexico) — 200+ searches · via NFL.com."
+    "name": "psg - roma",
+    "note": "Trending Google search (Argentina) — 2000+ searches · via Olé."
    },
    "es": {
-    "name": "thanksgiving 2026",
-    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía NFL.com."
+    "name": "psg - roma",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 2000+ búsquedas · vía Olé."
    }
   },
   "id": "tr26",
   "hue": 145
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
-  "region": "MX",
-  "rank": 3,
-  "sourceUrl": "https://www.espn.com.mx/futbol/mexico/nota/_/id/17558570/pumas-unam-robert-morales-compra-toluca-clausura-2027",
+  "region": "AR",
+  "rank": 8,
+  "sourceUrl": "https://bolavip.com/en/soccer/lineups-for-psg-vs-roma-today-in-2026-27-uefa-champions-league-on-november-25",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSxoLIAxmqN62BUC4-v3YH6GbIG1LsBShVZC_MGL8Om5kpLsdfGyHJpiPWTVLc",
-   "credit": "ESPN México"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRfoLO84TX6479FKCsbhq4kpS20rFwenS89ULVq7FhqgktqeZ8_a31InxX1d8k",
+   "credit": "Bolavip US"
   },
   "t": {
    "pt": {
-    "name": "robert morales",
-    "note": "Busca em alta no Google (México) — 2000+ buscas · via ESPN México."
+    "name": "psg vs roma",
+    "note": "Busca em alta no Google (Argentina) — 100+ buscas · via Bolavip US."
    },
    "en": {
-    "name": "robert morales",
-    "note": "Trending Google search (Mexico) — 2000+ searches · via ESPN México."
+    "name": "psg vs roma",
+    "note": "Trending Google search (Argentina) — 100+ searches · via Bolavip US."
    },
    "es": {
-    "name": "robert morales",
-    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía ESPN México."
+    "name": "psg vs roma",
+    "note": "Búsqueda en tendencia en Google (Argentina) — 100+ búsquedas · vía Bolavip US."
    }
   },
   "id": "tr27",
   "hue": 182
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 4,
-  "sourceUrl": "https://www.milenio.com/estados/temperaturas-minimas-frente-frio-8-tamaulipas",
+  "rank": 1,
+  "sourceUrl": "https://www.bbc.com/sport/football/live/cx98zmzyn0y7t",
   "image": {
-   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQLQDVA6vUw_81B3yzfnNTl05-2cWKcEKvCwRGEH_Cx18PyRxl_6mpRQzMaA",
-   "credit": "Milenio"
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrjy9YxO8EEZNmL5YzZf4o8paiIjuCuvkfFF8BSfQNzNxOyVHkNcnpo1kx5Ds",
+   "credit": "BBC"
   },
   "t": {
    "pt": {
-    "name": "clima nuevo laredo",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Milenio."
+    "name": "sporting vs man utd",
+    "note": "Busca em alta no Google (México) — 500+ buscas · via BBC."
    },
    "en": {
-    "name": "clima nuevo laredo",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Milenio."
+    "name": "sporting vs man utd",
+    "note": "Trending Google search (Mexico) — 500+ searches · via BBC."
    },
    "es": {
-    "name": "clima nuevo laredo",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Milenio."
+    "name": "sporting vs man utd",
+    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía BBC."
    }
   },
   "id": "tr28",
   "hue": 219
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 5,
-  "sourceUrl": "https://www.univision.com/noticias/estados-unidos/thanksgiving-2026-que-se-celebra-el-dia-de-accion-de-gracias-y-cual-es-su-significado",
+  "rank": 2,
+  "sourceUrl": "https://www.skysports.com/football/live-blog/13616495/club-brugge-vs-liverpool-live-champions-league-lineups-match-updates-news-score-and-analysis",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLcS9Fsed5c0azh-9JPKT7AImVa7KYDVcE6ibTtw5P7-NQC2_7ee1aOPJVncE",
-   "credit": "Univision"
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQboKA3Op5BGqv5flxKgYZeRCnD_yJyS89MTlmAuLIpgh7_xFw86r5hE5ZC25I",
+   "credit": "Sky Sports"
   },
   "t": {
    "pt": {
-    "name": "día de acción de gracias",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Univision."
+    "name": "club brujas - liverpool",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via Sky Sports."
    },
    "en": {
-    "name": "día de acción de gracias",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Univision."
+    "name": "club brujas - liverpool",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via Sky Sports."
    },
    "es": {
-    "name": "día de acción de gracias",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Univision."
+    "name": "club brujas - liverpool",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Sky Sports."
    }
   },
   "id": "tr29",
   "hue": 256
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 6,
-  "sourceUrl": "https://www.goal.com/es-mx/noticias/slavia-de-praga-vs-villarreal-en-directo-hoy-donde-ver-el-partido-por-television-y-online/blt5d141079616b8a06",
+  "rank": 3,
+  "sourceUrl": "https://www.haberkenti.com/shakhtar-donetsk-fenerbahce-ilk-11leri-belli-oldu-vedat-muriqi-ilk-11de",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4gkLH2uuhlVQQR4J_g-ZS-TZV7_77Y2qXwg5pBxLxIi_Mr2S3Psue9pkkTCU",
-   "credit": "Goal.com"
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT3hHEr2mQ9V5sAZiOOh_oloUD9X4nRcA9rjGdRZ3nRsj4Danit09tegW-bd44",
+   "credit": "Haber Kenti"
   },
   "t": {
    "pt": {
-    "name": "slavia praga",
-    "note": "Busca em alta no Google (México) — 100+ buscas · via Goal.com."
+    "name": "shakhtar - fenerbahçe",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Haber Kenti."
    },
    "en": {
-    "name": "slavia praga",
-    "note": "Trending Google search (Mexico) — 100+ searches · via Goal.com."
+    "name": "shakhtar - fenerbahçe",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Haber Kenti."
    },
    "es": {
-    "name": "slavia praga",
-    "note": "Búsqueda en tendencia en Google (México) — 100+ búsquedas · vía Goal.com."
+    "name": "shakhtar - fenerbahçe",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Haber Kenti."
    }
   },
   "id": "tr30",
   "hue": 293
  },
  {
-  "collectedAt": "2026-11-25T08:53:46.771Z",
+  "collectedAt": "2026-11-25T19:27:54.617Z",
   "kind": "topic",
   "platform": "youtube",
   "region": "MX",
-  "rank": 7,
-  "sourceUrl": "https://www.vogue.mx/articulo/luna-llena-del-castor-del-24-de-noviembre-de-2026-y-como-afectara-los-signos",
+  "rank": 4,
+  "sourceUrl": "https://demokratis.co.id/en/stray-kids-suiatsu-japanese-album",
   "image": {
-   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSb8cVKL-bqMD_Non6qOC90ZJoQW3wbL8W-upgKkcivX8hGcmne9BSponwXygc",
-   "credit": "Vogue México"
+   "url": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBejT4wZpztAd4Lfvmlr5GSr5vGpjBE8OvGExcXLUObrCSTwZ4r8BsdNVc4fI",
+   "credit": "Demokratis.co.id"
   },
   "t": {
    "pt": {
-    "name": "superluna castor",
-    "note": "Busca em alta no Google (México) — 500+ buscas · via Vogue México."
+    "name": "stray kids suiatsu",
+    "note": "Busca em alta no Google (México) — 200+ buscas · via Demokratis.co.id."
    },
    "en": {
-    "name": "superluna castor",
-    "note": "Trending Google search (Mexico) — 500+ searches · via Vogue México."
+    "name": "stray kids suiatsu",
+    "note": "Trending Google search (Mexico) — 200+ searches · via Demokratis.co.id."
    },
    "es": {
-    "name": "superluna castor",
-    "note": "Búsqueda en tendencia en Google (México) — 500+ búsquedas · vía Vogue México."
+    "name": "stray kids suiatsu",
+    "note": "Búsqueda en tendencia en Google (México) — 200+ búsquedas · vía Demokratis.co.id."
    }
   },
   "id": "tr31",
   "hue": 330
+ },
+ {
+  "collectedAt": "2026-11-25T19:27:54.617Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 5,
+  "sourceUrl": "https://889noticias.mx/espacio-deportivo/el-paris-saint-germain-con-muchas-bajas-en-ataque-recibira-a-la-roma-en-la-champions-league/",
+  "image": {
+   "url": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvrEXzfcGLJob23C9miH1L4C044KA_H5kQqk1n6T-vm_f6F3Sv_UxUvwtZMSY",
+   "credit": "88.9 Noticias | Noticias en Vivo | Información Que Sirve"
+  },
+  "t": {
+   "pt": {
+    "name": "psg - roma",
+    "note": "Busca em alta no Google (México) — 10000+ buscas · via 88.9 Noticias | Noticias en Vivo | Información Que Sirve."
+   },
+   "en": {
+    "name": "psg - roma",
+    "note": "Trending Google search (Mexico) — 10000+ searches · via 88.9 Noticias | Noticias en Vivo | Información Que Sirve."
+   },
+   "es": {
+    "name": "psg - roma",
+    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía 88.9 Noticias | Noticias en Vivo | Información Que Sirve."
+   }
+  },
+  "id": "tr32",
+  "hue": 7
+ },
+ {
+  "collectedAt": "2026-11-25T19:27:54.617Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 6,
+  "sourceUrl": "https://www.espn.com.mx/futbol/europa/nota/_/id/17556159/atletico-madrid-vs-viking-fecha-5-uefa-champions-league-equipo-fecha-hora-y-tv-en-vivo",
+  "image": {
+   "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA71mXqhsxWwkhk9KUAWqFaPqXMbmkHemzU5NXdZ8XBFWgvn9M7sIfkgyWpyI",
+   "credit": "ESPN México"
+  },
+  "t": {
+   "pt": {
+    "name": "atlético madrid - viking",
+    "note": "Busca em alta no Google (México) — 10000+ buscas · via ESPN México."
+   },
+   "en": {
+    "name": "atlético madrid - viking",
+    "note": "Trending Google search (Mexico) — 10000+ searches · via ESPN México."
+   },
+   "es": {
+    "name": "atlético madrid - viking",
+    "note": "Búsqueda en tendencia en Google (México) — 10000+ búsquedas · vía ESPN México."
+   }
+  },
+  "id": "tr33",
+  "hue": 44
+ },
+ {
+  "collectedAt": "2026-11-25T19:27:54.617Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 7,
+  "sourceUrl": "https://www.goal.com/fr/news/le-montant-du-transfert-etait-inenvisageable-michael-olise-aurait-pu-rejoindre-lille-avant-le-bayern-munich/bltb9ac460b24016d3b",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThh27ruiiSlJuzCrCNjMNSzkMOCpde3IT673lOe3K0Q1rbAnM3Eudorya4KZ4",
+   "credit": "Goal.com"
+  },
+  "t": {
+   "pt": {
+    "name": "losc - bayern",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via Goal.com."
+   },
+   "en": {
+    "name": "losc - bayern",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via Goal.com."
+   },
+   "es": {
+    "name": "losc - bayern",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Goal.com."
+   }
+  },
+  "id": "tr34",
+  "hue": 81
+ },
+ {
+  "collectedAt": "2026-11-25T19:27:54.617Z",
+  "kind": "topic",
+  "platform": "youtube",
+  "region": "MX",
+  "rank": 8,
+  "sourceUrl": "https://es-us.noticias.yahoo.com/deportes/sporting-cp-vs-manchester-united-124200178.html",
+  "image": {
+   "url": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS1GJQnJpjcmJqT6MNghdqEm3HKMEpvRZ6Iaaxwzjk_O5Mq4EefEqt1pTn6Wo",
+   "credit": "Yahoo"
+  },
+  "t": {
+   "pt": {
+    "name": "sporting lisboa - manchester united",
+    "note": "Busca em alta no Google (México) — 2000+ buscas · via Yahoo."
+   },
+   "en": {
+    "name": "sporting lisboa - manchester united",
+    "note": "Trending Google search (Mexico) — 2000+ searches · via Yahoo."
+   },
+   "es": {
+    "name": "sporting lisboa - manchester united",
+    "note": "Búsqueda en tendencia en Google (México) — 2000+ búsquedas · vía Yahoo."
+   }
+  },
+  "id": "tr35",
+  "hue": 118
  }
 ]
